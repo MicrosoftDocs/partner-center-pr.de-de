@@ -8,24 +8,22 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 583e9c40bb8d161c30440f12331dc8dcbf3db417
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172403"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146424"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrieren eigenständiger Kaizala Pro-Abonnements zu Microsoft 365- oder Office 365-Versionen
 
-**Geeignete Rollen**
-
-- Vertriebsbeauftragter
+**Geeignete Rollen:** Vertriebs-Agent
 
 Ab dem 1. Juli 2020 beendet Microsoft den Umsatz des eigenständigen Kaizala Pro-Diensts. Kunden können nach diesem Datum keine neuen Kaizala Pro-Abonnements mehr erwerben, und vorhandene Kaizala Pro-Abonnements werden nicht automatisch verlängert, wenn sie ablaufen.
 
 Um die Kontinuität für Kunden sicherzustellen, sollten Sie Kunden mit ablaufenden eigenständigen Kaizala Pro-Abonnements auf eine unterstützte SKU-Option umsteigen, die unten aufgeführt ist. Es wird empfohlen, Kunden vor dem jährlichen Enddatum des Abonnements in neue Abonnements zu verschieben, um Dienstausfälle für Kunden zu vermeiden.
 
-Wenn Sie die API verwenden (entweder MIT oder Partner Center), können Sie ablaufende Abonnements ermitteln, indem Sie das Enddatum des Abonnements zusammen mit der Eigenschaft für die automatische Verlängerung auf FALSE festlegen: `auto renew = False` .
+Wenn Sie die API verwenden (entweder DIE API oder Partner Center), können Sie ablaufende Abonnements ermitteln, indem Sie das Enddatum des Abonnements zusammen mit der Eigenschaft für die automatische Verlängerung auf FALSE festlegen: `auto renew = False` .
 
 Die E4-Abonnements werden `auto renew=False` am 1. Juli 2020 auf festgelegt. Sie können Kunden jederzeit in einen neuen Plan verschieben.
 
@@ -78,9 +76,9 @@ Ihr Kunde sollte nun sowohl über alte als auch über neue Abonnements, das alte
 
 2. Um die Benutzerlizenz neu zuzuweisen, wählen Sie den neu zuzuweisenden Benutzer und dann **Lizenzen verwalten** aus.
 
-3. Aktivieren Sie **auf der Seite** Lizenzen verwalten das Kontrollkästchen Kaizala Pro Standalone-Lizenz, und wählen Sie einen neuen Serviceplan für das Abonnement aus, in das der Kunde um zieht.
+3. Aktivieren Sie **auf der Seite** Lizenzen verwalten das Kontrollkästchen Kaizala Pro Standalone license (Kaizala Pro Standalone-Lizenz), und wählen Sie einen neuen Serviceplan für das Abonnement aus, in das der Kunde um zieht.
 
-4.  Klicken Sie auf **Senden**. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt. Führen Sie denselben Prozess für andere Benutzer durch, die Lizenzzuweisungen benötigen.
+4.  Klicken Sie auf **Submit** (Senden). Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt. Führen Sie denselben Prozess für andere Benutzer durch, die Lizenzzuweisungen benötigen.
 
 ### <a name="c-cancel-old-subscription"></a>C. Stornieren des alten Abonnements
 
@@ -90,6 +88,6 @@ Nachdem Sie die Benutzerlizenz zum neuen Dienst migriert haben, können Sie das 
 
 2.  Legen Sie auf der Seite mit den Abonnementdetails das Abonnement auf **Ausgesetzt** fest.
 
-3.  Klicken Sie auf **Senden**.
+3.  Klicken Sie auf **Submit** (Senden).
 
 Das alte Abonnement ist nun ausgesetzt, und das neue Abonnement ist aktiv. Die Bereitstellung des ausgesetzten Abonnements wird nach 120 Tagen automatisch aufgehoben. Für den Kunden fallen für das alte Abonnement keine zusätzlichen Kosten an.

@@ -4,121 +4,118 @@ ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über verschiedene Partnerbeziehungen und unterstützte Transaktions Szenarien für Partner im CSP-Programm.
+description: Erfahren Sie mehr über verschiedene Partnerbeziehungen und unterstützte Transaktionsszenarien für Partner im CSP-Programm.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbba669cbccf96fe9addc6d4b7c7ac4b86c15ddf
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b70f8f152bc3711e5a715b6a4f0316f8aaa9b903
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434899"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147512"
 ---
-# <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Erfahren Sie, wie Partner mit anderen Partnern im CSP-Programm arbeiten können.
+# <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Erfahren Sie, wie Partner mit anderen Partnern im CSP-Programm zusammenarbeiten können.
 
-**Zielgruppe**
+**Geeignete Rollen:** Alle Partner, die mehr über CSP erfahren möchten
 
-- Partner Center
-- Partner im CSP-Programm
+In diesem Artikel werden die wichtigsten Typen von Partnerbeziehungen im CSP-Programm (Microsoft Cloud Solution Provider) beschrieben. Außerdem werden verschiedene Anwendungsfälle, Vorteile und unterstützte Transaktionsszenarien für CSP-Programmpartner beschrieben.
 
-In diesem Artikel werden die wichtigsten Typen von Partnerbeziehungen im Microsoft Cloud Solution Provider-Programm (CSP) beschrieben. Außerdem werden verschiedene Anwendungsfälle, Vorteile und unterstützte Transaktions Szenarien für CSP-Programmpartner beschrieben.
+Als Partner im CSP-Programm können Sie über das Weiterverkauf von Lizenzen hinausgehen, damit Sie stärker in das Geschäft Ihrer Kunden eingebunden werden können. Das CSP-Programm stellt Partner in den Mittelpunkt der Beziehung mit dem Kunden. Dies führt zu einer tieferen Interaktion mit Ihren Kunden, einem Insider-Blick auf das Geschäft eines Kunden und der Möglichkeit, neue Verkaufschancen zu entdecken. Dies kann Ihnen sogar helfen, die digitale Transformation Ihres Kunden zu beschleunigen.
 
-Wenn Sie ein Partner im CSP-Programm sind, können Sie über das erneute verkaufen von Lizenzen hinausgehen, damit Sie mehr an Ihrem Kundengeschäft beteiligt sind. Das CSP-Programm setzt Partner in den Mittelpunkt der Beziehung mit dem Kunden. Dies führt zu einer tieferen Interaktion mit ihren Kunden, einer Insider Ansicht für das Geschäft eines Kunden und der Gelegenheit, neue Verkaufschancen zu entdecken. Sie können sogar dabei helfen, die digitale Transformation Ihres Kunden zu beschleunigen.
-
-Ein CSP-Programmpartner bedeutet auch, dass Sie zusätzliche Rentabilitäts Datenströme nutzen können. Hierzu können Sie Angebote von Microsoft (First-Party) und Drittanbieter Angebote mit ihren eigenen, wertschöpfenden Diensten integrieren. Dadurch wird Ihr Geschäftsportfolio erweitert, und Sie können Sie besser anwachsen, um wachsende Kundenanforderungen zu erfüllen.
+Als CSP-Programmpartner können Sie auch zusätzliche Rentabilitätsströme nutzen. Sie können dies erreichen, indem Sie Microsoft-Angebote (Erstanbieterangebote) und Drittanbieterangebote in Ihre eigenen Mehrwertdienste integrieren. Dies erweitert Ihr Geschäftsportfolio und positioniert Sie besser, um die wachsenden Kundenanforderungen zu erfüllen.
 
 ## <a name="types-of-partner-relationships-in-the-csp-program"></a>Typen von Partnerbeziehungen im CSP-Programm
 
-Als Partner im CSP-Programm können Sie entscheiden, wie Sie mit Microsoft und anderen Personen interagieren möchten. Das CSP-Programm unterstützt derzeit drei Haupttypen von transaktionalen Beziehungen:
+Als Partner im CSP-Programm können Sie entscheiden, wie Sie mit Microsoft und anderen interagieren möchten. Das CSP-Programm unterstützt derzeit drei Haupttypen von Transaktionsbeziehungen:
 
 - Indirekte Anbieter
 - Indirekte Vertriebspartner
-- Direct-Bill-Partner
+- Partner mit direkter Abrechnung
 
-**Indirekte Anbieter** (auch als Verteiler bezeichnet) erwerben Angebote von erst Anbietern und Angebote von Drittanbietern über den Microsoft Marketplace. Als indirekter Anbieter können Sie diese Angebote erwerben und in ihren eigenen, existierenden Handel oder Marketplace integrieren. Dadurch können ihre indirekten Händler solche Angebote erwerben und Sie an Ihre eigenen Kunden weiterverkaufen. Ein indirekter Anbieter bedeutet, dass Sie über die Infrastruktur und Funktionen verfügen, um indirekte Reseller in der Skala zu unterstützen. Dies bedeutet auch, dass Sie Kunden im Auftrag ihrer indirekten Vertriebspartner (z. b. Kundensupport und Abrechnung) zusätzliche Dienste anbieten können. Weitere Informationen zum Herstellen einer Verbindung zwischen indirekten Anbietern und indirekten Wiederverkäufern finden Sie unter [Partner mit indirekten Wiederverkäufern im CSP-Programm](indirect-provider-tasks-in-partner-center.md).
+**Indirekte Anbieter** (auch als Verteiler bezeichnet) erwerben Erstanbieterangebote und Drittanbieterangebote über den Microsoft Marketplace. Als indirekter Anbieter können Sie diese Angebote erwerben und in Ihren eigenen, vorhandenen Commerce- oder Marketplace integrieren. Dadurch können Ihre indirekten Handelspartner solche Angebote beschaffen und an ihre eigenen Kunden weiterverkaufen. Wenn Sie ein indirekter Anbieter sind, verfügen Sie über die Infrastruktur und Funktionen, um indirekte Vertriebspartner im großen Stil zu unterstützen. Dies bedeutet auch, dass Sie zusätzliche Dienste für Kunden im Auftrag Ihrer indirekten Vertriebspartner bereitstellen können, z. B. Kundensupport und Abrechnung. Weitere Informationen dazu, wie indirekte Anbieter eine Verbindung mit indirekten Vertriebspartnern herstellen, finden Sie unter Partner with indirect resellers in the CSP program (Partner mit indirekten Handelspartnern im [CSP-Programm).](indirect-provider-tasks-in-partner-center.md)
 
-**Indirekte Reseller** sind Partner im CSP-Programm, die die Größe und den Geschäftsbereich variieren, aber nicht über eine direkte abrechnungsbeziehung mit Microsoft verfügen. Als indirekter Reseller sind Sie von indirekten Anbietern abhängig, um das CSP-Programm zu transagieren. Einige indirekte Vertriebspartner können Kunden auch verwaltete Dienste, Supportleistungen und Abrechnungs Lösungen anbieten. Sie können mehrere Vorteile von ihrer Partnerschaft mit indirekten Anbietern erhalten. Durch die Arbeit mit erfahrenen Technologieanbietern können Sie auf den Markt kommen, ohne eine große Investitions Investition durchführen zu müssen. Als indirekter Reseller können Sie auch auf ein breiteres Portfolio von Microsoft-und Drittanbieter Lösungen zugreifen. Weitere Informationen zu einem indirekten Händler finden Sie unter [indirekte Reseller-Aufgaben im Partner Center](indirect-reseller-tasks-in-partner-center.md).
+**Indirekte Vertriebspartner** sind Partner im CSP-Programm, die in Bezug auf Größe und Geschäftsumfang variieren, aber keine direkte Abrechnungsbeziehung mit Microsoft haben. Als indirekter Vertriebspartner sind Sie für Transaktionen im CSP-Programm von indirekten Anbietern abhängig. Einige indirekte Vertriebspartner können kunden möglicherweise auch verwaltete Dienste, Support- und Abrechnungslösungen anbieten. Sie können mehrere Vorteile aus Ihrer Partnerschaft mit indirekten Anbietern erhalten. Durch die Zusammenarbeit mit erfahrenen Technologieanbietern können Sie auf den Markt wechseln, ohne große Investitionen zu investieren. Als indirekter Wiederverkäufer können Sie auch auf ein breiteres Portfolio von Microsoft- und Drittanbieterlösungen zugreifen. Weitere Informationen zum Indirekten Wiederverkäufer finden Sie unter [Aufgaben indirekter Wiederverkäufer in Partner Center](indirect-reseller-tasks-in-partner-center.md).
 
-**Direct-Bill-Partner** sind Partner mit einer direkten abrechnungsbeziehung mit Microsoft. Als direkt Abrechnungspartner können Sie Angebote von erst Anbietern und Angebote von Drittanbietern direkt aus dem Microsoft Marketplace erwerben und dann an Ihre Kunden verkaufen. Sie müssen bestimmte programmgesteuerte Anforderungen für die Rolle des Direct-Bill-Partners erfüllen. Dies schließt die Möglichkeit ein, mithilfe von APIs in Microsoft zu integrieren. Außerdem müssen Sie Kunden in der Lage sein, Kunden auf der laufenden Basis Abrechnungs-, Support-und verwaltete Dienste bereitzustellen. Weitere Informationen finden Sie unter [Registrieren als direkter Abrechnungspartner](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner).
+**Direktabrechnungspartner sind** Partner mit direkter Abrechnungsbeziehung mit Microsoft. Als Direktabrechnungspartner können Sie Erst- und Drittanbieterangebote direkt über den Microsoft Marketplace erwerben und dann an Ihre Kunden verkaufen. Sie müssen bestimmte programmgesteuerte Anforderungen für die Rolle des Direktabrechnungspartners erfüllen. Dies umfasst die Möglichkeit der Integration in Microsoft mithilfe von APIs. Außerdem müssen Sie in der Lage sein, kundenspezifische Abrechnungs-, Support- und verwaltete Dienste zu bieten. Weitere Informationen finden Sie unter [Registrieren als Direktabrechnungspartner.](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner)
 
-## <a name="csp-program-requirements-signing-the-microsoft-partner-agreement-mpa"></a>CSP-Programmanforderungen: Signieren des Microsoft-Partner Vertrags (MPa)
+## <a name="csp-program-requirements-signing-the-microsoft-partner-agreement-mpa"></a>CSP-Programmanforderungen: Signieren des Microsoft Partner-Vereinbarung (MPA)
 
-Als Teil der kontinuierlichen Erweiterungen des Cloud Solution Provider-Programms haben wir die vorhandenen Vereinbarungen für Partner aktualisiert, die dem CSP-Programm beitreten möchten.
+Im Rahmen der kontinuierlichen Cloud Solution Provider des Programms wurden die bestehenden Vereinbarungen für Partner aktualisiert, die am CSP-Programm teilnehmen möchten.
 
-Mit dem **Microsoft-Partnervertrag (MPa)** erhalten Partner einen optimierten, digitalen Vertrag, der neue Geschäftsszenarien unterstützt, einen geringeren Bedarf an mehreren Partner Verträgen und eine einfachere Einhaltung globaler, gesetzlicher Anforderungen.
+Die **Microsoft Partner-Vereinbarung (MPA)** bietet Partnern eine optimierte digitale Vereinbarung, die neue Geschäftsszenarien, einen reduzierten Bedarf an mehreren Partnerverträgen und eine einfachere Einhaltung globaler, rechtlicher Anforderungen unterstützt.
 
 >[!IMPORTANT]
-> Ab dem 1. Februar 2020 muss die Microsoft-Partner Vereinbarung von allen Partnern signiert werden, die im CSP-Programm agieren. Dies schließt indirekte Anbieter, direkte Abrechnungspartner und indirekte Vertriebspartner ein.
+> Ab dem 1. Februar 2020 muss die Microsoft Partner-Vereinbarung von allen Partnern signiert werden, die am CSP-Programm teilnehmen. Dies schließt indirekte Anbieter, Direktabrechnungspartner und indirekte Vertriebspartner ein.
 
-Ein indirekter Reseller muss den MPA signieren, bevor der Reseller an den folgenden Aktivitäten teilnehmen kann:
+Ein indirekter Vertriebspartner muss die MPA signieren, bevor der Vertriebspartner an den folgenden Aktivitäten teilnehmen kann:
 
-- Vor einem indirekten Anbieter kann die MPN-ID des indirekten Wiederverkäufers einem neuen CSP-Abonnement zuordnen.
-- Bevor ein indirekter Anbieter ein neues Geschäft mit diesem Reseller umsetzen kann
+- Bevor ein indirekter Anbieter die MPN-ID des indirekten Vertriebspartners einem neuen CSP-Abonnement zuordnen kann
+- Bevor ein indirekter Anbieter neue Geschäfte mit diesem Handelspartner tätigen kann
 
-Indirekte Reseller müssen drei Dinge durchführen, bevor Sie ein neues Geschäft im Cloud Solution Provider-Programm umsetzen können:
+Indirekte Vertriebspartner müssen drei Dinge tun, bevor sie neue Geschäfte im Cloud Solution Provider Programm tätigen können:
 
 - Integrieren in Partner Center
 - Sich als indirekter Wiederverkäufer registrieren
-- Signieren des Microsoft-Partner Vertrags (MPa)
+- Signieren des Microsoft Partner-Vereinbarung (MPA)
 
-Weitere Informationen finden Sie unter [Microsoft Partner Agreement (MPa) für CSP-Partner](microsoft-partner-agreement.md).
+Weitere Informationen finden Sie unter [Microsoft Partner-Vereinbarung (MPA) für CSP-Partner.](microsoft-partner-agreement.md)
 
-## <a name="supported-partner-transactions-in-the-csp-program"></a>Unterstützte Partner Transaktionen im CSP-Programm
+## <a name="supported-partner-transactions-in-the-csp-program"></a>Unterstützte Partnertransaktionen im CSP-Programm
 
-Partner im CSP-Programm bieten viele Möglichkeiten, zusammenzuarbeiten. Im folgenden Abschnitt wird beschrieben, wie einige Beispiele für Partner Szenarios im CSP-Programm möglicherweise nicht unterstützt werden.
+Partnern im CSP-Programm werden viele Möglichkeiten zur Zusammenarbeit angeboten. Im folgenden Abschnitt wird beschrieben, wie einige Beispielszenarien für Partner im CSP-Programm unterstützt werden können oder nicht.
 
-**Beispielszenario 1:** Was geschieht, wenn ein Partner an den Kunden verkaufen möchte, die End-to-End-Beziehung übernimmt und für Abrechnung und Kundensupport verantwortlich ist?
+**Beispielszenario 1:** Was geschieht, wenn ein Partner an den Kunden verkaufen, die End-to-End-Beziehung besitzen und für die Abrechnung und den Kundensupport verantwortlich sein möchte?
 
-Dieses Szenario wird von zwei Typen von transaktionalen Beziehungen unterstützt:
+Dieses Szenario wird von zwei Arten von Transaktionsbeziehungen unterstützt:
 
-- **Beziehung 1:** Microsoft verkauft sich an den direkt Abrechnungspartner. Der Direct-Bill-Partner wird dann an den Endkunden verkauft.<br>
-- **Beziehung 2:** Microsoft verkauft sich an den indirekten Anbieter. Der indirekte Anbieter wird dann an den indirekten Händler verkauft. Der indirekte Reseller verkauft sich dann an den Endkunden.</br>
+- **Beziehung 1:** Microsoft verkauft an den Direktabrechnungspartner. Der Direktabrechnungspartner verkauft dann an den Endkunden.<br>
+- **Beziehung 2:** Microsoft verkauft an den indirekten Anbieter. Der indirekte Anbieter verkauft dann an den indirekten Vertriebspartner. Der indirekte Vertriebspartner verkauft dann an den Endkunden.</br>
 
-**Beispielszenario 2:** Was geschieht, wenn ein Partner einen Kunden hat, der einen bestimmten Dienst oder eine Lösung benötigt, der von einem anderen CSP-Programmpartner angeboten wird
+**Beispielszenario 2:** Was passiert, wenn ein Partner über einen Kunden verfügt, der einen bestimmten Dienst oder eine Lösung benötigt, der bzw. die von einem anderen CSP-Programmpartner angeboten wird?
 
-Der Endkunde kann basierend auf den geschäftlichen Anforderungen des Kunden verschiedene Dienste von unterschiedlichen Partnern erwerben. Weitere Informationen finden Sie [unter Unterstützung mehrerer Partner](multipartner.md).
+Der Endkunden kann verschiedene Dienste von verschiedenen Partnern basierend auf den Geschäftsanforderungen des Kunden erwerben. Weitere Informationen finden Sie unter [Unterstützung für mehrere Partner.](multipartner.md)
 
-**Beispielszenario 3:** Was geschieht, wenn ein Kunde von einem Kunden kontaktiert wird, der diese zum Verwalten und unterstützen Ihrer Abonnements beauftragen möchte?
+**Beispielszenario 3:** Was passiert, wenn ein Partner von einem Kunden kontaktiert wird, der ihn für die Verwaltung und Unterstützung seiner Abonnements einstellen möchte?
 
-Der Kunde kann mehrere Partner zur Verwaltung Ihrer Abonnements einbinden. Weitere Informationen finden Sie [unter Unterstützung für mult-Channel](multichannel.md).
+Der Kunde kann mehrere Partner an die Verwaltung seiner Abonnements binden. Weitere Informationen finden Sie unter [Mult-Channel-Unterstützung.](multichannel.md)
 
-**Beispielszenario 4:** Was geschieht, wenn ein Partner im CSP-Programm (ein indirekter Anbieter, indirekter Reseller oder direkt-Rechnungs Partner) Microsoft-oder Drittanbieter Angebote zur eigenen Nutzung erwerben möchte (als Endkunde)? Kann der Partner solche Angebote von einem anderen CSP-Programmpartner kaufen?
+**Beispielszenario 4:** Was passiert, wenn ein Partner im CSP-Programm (entweder ein indirekter Anbieter, indirekter Wiederverkäufer oder Direktabrechnungspartner) Microsoft- oder Drittanbieterangebote zur eigenen Verwendung (als Endkunden) kaufen möchte? Kann der Partner solche Angebote von einem anderen CSP-Programmpartner erwerben?
 
-Der Partner kann als Kunde entweder von einem indirekten Händler oder von einem Direct-Bill-Partner kaufen. Zu diesem Zweck müssen Sie jedoch einen anderen Mandanten als den für CSP verwendeten Mandanten verwenden.
+Der Partner kann als Kunde entweder von einem indirekten Wiederverkäufer oder von einem Direktabrechnungspartner kaufen. Dazu müssen sie jedoch einen anderen Mandanten als den für CSP verwendeten verwenden.
 
-In diesem Fall müssen die vom Partner gekauften Dienste für einen Mandanten bereitgestellt werden, der als Customer-Typ festgelegt ist (ein Mandant nur für die interne Verwendung). Solche Dienste **können nicht** für den CSP-Mandanten des vorhandenen Partners (der Mandant, der vom Partner im Cloud Solution Provider-Programm verwendet wird) bereitgestellt werden.</br>
+In diesem Fall müssen vom Partner erworbene Dienste für einen Mandanten bereitgestellt werden, der als Kundentyp festgelegt ist (ein Mandant nur für die interne Verwendung). Solche Dienste **können** nicht für den CSP-Mandanten des vorhandenen Partners bereitgestellt werden (den Mandanten, der vom Partner im Cloud Solution Provider wird).</br>
 
-**Beispielszenario 5:** Was geschieht, wenn ein Partner im CSP-Programm als Endkunde an sich selbst verkaufen möchte?
+**Beispielszenario 5:** Was passiert, wenn ein Partner im CSP-Programm sich selbst als Endkunden verkaufen möchte?
 
-Vertragspartner können Partner im CSP-Programm keine Angebote von Microsoft oder Drittanbietern an sich selbst (als Endkunden) oder an ihre Partnerorganisationen (als Endkunden) verkaufen.
+Per Vertrag dürfen Partner im CSP-Programm Microsoft- oder Drittanbieterangebote nicht an sich selbst (als Endkunden) oder an ihre Partnerorganisationen (als Endkunden) verkaufen.
 
-**Beispielszenario 6:** Was geschieht, wenn ein indirekter Händler als Endkunde kaufen möchte?
+**Beispielszenario 6:** Was passiert, wenn ein indirekter Vertriebspartner als Endkunden kaufen möchte?
 
-Bestimmte indirekte Reseller möchten möglicherweise Lizenzen für die eigene Verwendung von einem indirekten Anbieter im CSP-Programm erwerben. In diesem Szenario hat die Organisation des indirekten Wiederverkäufers möglicherweise bereits eine indirekte indirekte Anbieter Beziehung hergestellt. Dadurch wird verhindert, dass der Partner einen neuen Beziehungstyp als Endkunde mit dem gleichen indirekten Anbieter festlegt.
+Bestimmte indirekte Vertriebspartner möchten möglicherweise Lizenzen für ihre eigene Verwendung von einem indirekten Anbieter im CSP-Programm erwerben. In diesem Szenario hat die Organisation des indirekten Wiederverkäufers möglicherweise bereits eine indirekte Anbieter-indirekte Handelspartnerbeziehung eingerichtet. Dadurch wird verhindert, dass der Partner einen neuen Beziehungstyp als Endkunden mit demselben indirekten Anbieter einrichten kann.
 
-In diesem Fall kann der indirekte Reseller eine der folgenden Optionen verwenden:
+In diesem Fall kann der indirekte Vertriebspartner eine der folgenden Optionen verwenden:
 
-- **Option 1:** Partner können einen weiteren Azure AD Mandanten einrichten, bei dem es sich um eine separate Umgebung für Ihre Kunden handelt.
+- **Option 1:** Partner können einen weiteren Azure AD Mandanten einrichten, der eine separate Umgebung für ihre Kunden ist.
 
-- **Option 2:** Der indirekte Reseller kann die Beziehung mit einem indirekten Anbieter beenden und eine neue CSP-Beziehung mit einem anderen indirekten Anbieter herstellen. Auf diese Weise kann der indirekte Reseller Abonnements für die eigene Nutzung seines Unternehmens von einem anderen CSP-direkt-Rechnung-Partner erwerben.
+- **Option 2:** Der indirekte Vertriebspartner kann die Beziehung mit einem indirekten Anbieter beenden und eine neue CSP-Beziehung mit einem anderen indirekten Anbieter einrichten. Auf diese Weise kann der indirekte Wiederverkäufer Abonnements für die eigene Nutzung durch einen anderen CSP-Direktabrechnungspartner erwerben.
 
    >[!NOTE]
-   >Wenn Sie die Beziehung zwischen einem indirekten Anbieter und einem indirekten Händler beenden möchten, wenden Sie sich an [Microsoft-Support](support-from-microsoft.md).
+   >Wenden Sie [sich](support-from-microsoft.md)an Microsoft-Support , um die Beziehung zwischen einem indirekten Anbieter und einem indirekten Vertriebspartner zu beenden.
 
-- **Option 3:** Der Reseller kann seine Kundenbeziehung mit dem vorhandenen indirekten Anbieter aufrechterhalten und eine weitere indirekte Reseller-Beziehung mit einem anderen indirekten Anbieter herstellen.
+- **Option 3:** Der Vertriebspartner kann seine Kundenbeziehung mit dem vorhandenen indirekten Anbieter beibehalten und eine weitere indirekte Vertriebspartnerschaft mit einem anderen indirekten Anbieter einrichten.
 
-**Beispielszenario 7:** Was geschieht, wenn ein indirekter Reseller an einen Kunden verkaufen möchte, der sich in einer anderen Region befindet?
+**Beispielszenario 7:** Was geschieht, wenn ein indirekter Vertriebspartner an einen Kunden verkaufen möchte, der sich in einer anderen Region befindet?
 
-Ein Partner im CSP-Programm kann nur Kunden aus derselben Region verkaufen. Weitere Informationen finden Sie unter globale [Märkte und Währungen von Cloud Solution Provider](regional-authorization-overview.md).
+Ein Partner im CSP-Programm kann nur an Kunden aus derselben Region verkaufen. Weitere Informationen finden Sie unter Cloud Solution Provider Regionale Märkte und Währungen des [Programms.](regional-authorization-overview.md)
 
-**Beispielszenario 8:** Was geschieht, wenn ein indirekter Anbieter eine Beziehung mit einem indirekten Händler in einer anderen Region herstellen möchte?
+**Beispielszenario 8:** Was geschieht, wenn ein indirekter Anbieter eine Beziehung mit einem indirekten Vertriebspartner in einer anderen Region herstellen möchte?
 
 Ein Partner kann nur eine Beziehung mit einem Partner aus derselben Region herstellen.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Partner mit indirekten Wiederverkäufern im CSP-Programm](indirect-provider-tasks-in-partner-center.md)
+- [Partner mit indirekten Handelspartnern im CSP-Programm](indirect-provider-tasks-in-partner-center.md)
 - [Aufgaben indirekter Händler in Partner Center](indirect-reseller-tasks-in-partner-center.md)
-- [Als direkt Abrechnungspartner registrieren](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner)
+- [Registrieren als Direktabrechnungspartner](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner)

@@ -1,109 +1,106 @@
 ---
-title: Abrechnung für kommerzielle Marketplace-Produkte
+title: Abrechnung für Produkte im kommerziellen Marketplace
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie die Abrechnung für ISV SaaS-Produkte oder-Abonnements funktioniert, die für Kunden vom kommerziellen Marketplace innerhalb von Partner Center erworben wurden.
+description: Erfahren Sie, wie die Abrechnung für ISV-SaaS-Produkte oder -Abonnements funktioniert, die für Kunden über den kommerziellen Marketplace innerhalb des Partner Center.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979531"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148022"
 ---
-# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Abrechnung für kommerzielle Marketplace-Produkte und-Abonnements im Partner Center
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Abrechnung für Produkte und Abonnements im kommerziellen Marketplace in Partner Center
 
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Globale Administratorrechte | Abrechnungsadministrator
 
-- Globaler Administrator
-- Abrechnungsadministrator
+Als Partner im CSP-Programm können Sie Partner Center verwenden, um lizenzbasierte SaaS-Produkte von ISV-Herausgebern im kommerziellen Marketplace zu erwerben. Danach können Sie auf eine Rechnung für diese Arten von Käufen zugreifen. Der Abrechnungszeitraum beginnt am ersten Tag des Kalendermonats und endet am letzten Tag des Kalendermonats. Rechnungen werden am 8. Tag des folgemonats zur Verfügung gestellt.
 
-Als Partner im CSP-Programm können Sie mit Partner Center Lizenz basierte SaaS-Produkte von ISV-Verlegern im kommerziellen Marketplace erwerben. Anschließend können Sie auf eine Rechnung für diese Art von Käufen zugreifen. Der Abrechnungszeitraum beginnt am ersten Tag des Kalendermonats und endet am letzten Tag des Kalendermonats. Rechnungen werden am 8. Tag des folgenden Monats verfügbar gemacht.
+Sie können auf Rechnungen entweder über das dashboard Partner Center [oder](https://partner.microsoft.com/dashboard/) mithilfe Partner Center [APIs zugreifen.](/partner-center/develop/)
 
-Sie können auf Rechnungen entweder über das Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/) oder mithilfe von [Partner Center-APIs](/partner-center/develop/)zugreifen.
-
-Partner im CSP-Programm werden für einen Kunden erworbene ISV-Marketplace-Lösungen in Rechnung gestellt, wenn Sie diese Produkte entweder über Partner Center oder über den Azure-Portal erwerben (über den früheren, von CSP erworbenen Azure-Mandanten des Kunden).
+Partnern im CSP-Programm werden ISV-Lösungen für den kommerziellen Marketplace in Rechnung stellen, die für einen Kunden erworben wurden, wenn sie diese Produkte entweder über Partner Center oder über Azure-Portal erwerben (unter Verwendung des vorherigen, von CSP erworbenen Azure-Mandanten des Kunden).
 
 >[!NOTE]
->Wenn Kunden ihren eigenen Azure AD Mandanten verwenden (nicht einer von einem Partner im CSP-Programm erworbenen), können Kunden auch eine eigene ISV-SaaS-Lösung direkt von ([Microsoft AppSource](https://appsource.microsoft.com/) oder [Azure Marketplace](https://azuremarketplace.microsoft.com/)) erwerben. Wenn dies der Fall ist, erhalten Sie eine eigene Rechnung direkt von Microsoft. Wenn ein Partner im CSP-Programm ein Azure-Abonnement oder den neuen Azure-Plan an den Kunden verkauft und dem Kunden (oder dem indirekten Reseller) [rollenbasierten Zugriff](/azure/role-based-access-control/built-in-roles) auf diesen Mandanten gewährt (dem Kunden neben **Reader** eine Rolle zuweisen), kann dieser Kunde (oder indirekte Reseller) auch kommerzielle Marketplace-Angebote erwerben, ohne vorherige Genehmigung oder Benachrichtigung an den CSP-Partner zu erhalten. In diesen Fällen werden Partner im CSP-Programm von Microsoft nicht direkt über die von ihren Kunden getätigten Einkäufe benachrichtigt. Microsoft bietet jedoch einen optionalen [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) Mechanismus an, den Sie verwenden können, um Warnungen oder Benachrichtigungen zu Aktivitäten in einem Azure-Abonnement festzulegen.
+>Wenn Kunden ihren eigenen Azure AD-Mandanten verwenden (nicht einer, der von einem Partner im CSP-Programm erworben wurde), können Kunden auch ihre eigene ISV-SaaS-Lösung direkt bei ([Microsoft AppSource](https://appsource.microsoft.com/) oder [Azure Marketplace ) erwerben.](https://azuremarketplace.microsoft.com/) Wenn sie dies tun, erhalten sie ihre eigene Rechnung direkt von Microsoft. Wenn ein Partner im CSP-Programm ein Azure-Abonnement oder den neuen [Azure-Plan](/azure/role-based-access-control/built-in-roles) an den Kunden verkauft und dem Kunden (oder indirekten Wiederverkäufer) rollenbasierten Zugriff auf diesen Mandanten gewährt (dem Kunden neben **Leser** eine beliebige Rolle zu zuweisen), kann dieser Kunde (oder indirekter Wiederverkäufer) auch Angebote für den kommerziellen Marketplace ohne vorherige Genehmigung oder Benachrichtigung an den CSP-Partner erwerben. In diesen Fällen benachrichtigt Microsoft Partner im CSP-Programm nicht direkt über Käufe ihrer Kunden. Microsoft bietet jedoch einen optionalen [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) Mechanismus, mit dem Sie Warnungen oder Benachrichtigungen zu Aktivitäten in einem Azure-Abonnement festlegen können.
 
-## <a name="access-billing-information-for-commercial-marketplace-products"></a>Zugriff auf Abrechnungsinformationen für kommerzielle Marketplace-Produkte
+## <a name="access-billing-information-for-commercial-marketplace-products"></a>Zugreifen auf Abrechnungsinformationen für Kommerzielle Marketplace-Produkte
 
-Der globale Administrator oder der Abrechnungsadministrator Ihres Unternehmens erhält eine E-Mail, wenn eine Rechnung zum Anzeigen bereit ist. So greifen Sie auf die aktuelle Rechnungs-und Abstimmungs Datei für kommerzielle Marketplace-Produkt Einkäufe zu:
+Der globale Administrator oder der Abrechnungsadministrator Ihres Unternehmens erhält eine E-Mail, wenn eine Rechnung zum Anzeigen bereit ist. So greifen Sie auf die neueste Rechnung und Abstimmungsdatei für Produktkäufe im kommerziellen Marketplace zu:
 
 1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/) an.
 
 2. Wählen Sie im Menü des Partner Center **Abrechnung** aus. 
 
-    Am oberen Rand der Abrechnungs Seite werden zwei Registerkarten angezeigt: **wiederkehrende** und **wiederkehrende und einmalige Käufe**. Auf jeder Registerkarte können Sie auf Rechnungen und Abgleich Dateien (Recon) für verschiedene Marketplace-Produkte zugreifen:
+    Oben auf der Seite Abrechnung werden zwei Registerkarten angezeigt: **Wiederkehrende** und **wiederkehrende und einmalige Käufe.** Auf jeder Registerkarte können Sie auf Rechnungs- und Abstimmungsdateien für verschiedene Marketplace-Produkte zugreifen:
 
-    - Registerkarte "wieder **holt** ": zeigt Rechnungs-und Abstimmungs Dateien für Abonnements im Zusammenhang mit Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI pro und Microsoft Azure an.
+    - **Wiederkehrende** Registerkarte: Zeigt Rechnungs- und Abstimmungsdateien für Abonnements im Zusammenhang mit Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro und Microsoft Azure an.
 
-    - Registerkarte " **wiederkehrende und einmalige Käufe** ": zeigt Rechnungs-und Abgleich Dateien für Azure-Plan, Azure-Reservierungen, Software und kommerzielle Marketplace-Produkte.
+    - **Registerkarte für wiederkehrende und einmalige Käufe:** Zeigt Rechnungs- und Abstimmungsdateien für Azure-Pläne, Azure-Reservierungen, Software und kommerzielle Marketplace-Produkte an.
   
-3. Wählen Sie die Registerkarte **wiederkehrende und einmalige Käufe** aus. Wenn Sie Abonnements für einen Kunden in einer anderen Währung erworben haben, wird für jede Währung eine Registerkarte angezeigt. Sie können Folgendes tun: "OM This page:
+3. Wählen Sie die Registerkarte **Wiederkehrende und einmalige Käufe** aus. Wenn Sie Abonnements für einen Kunden in einer anderen Währung erworben haben, wird eine Registerkarte für jede Währung angezeigt. Auf dieser Seite können Sie einige Dinge erledigen:
 
-    - Um die neueste Rechnung und die Abstimmungs Datei anzuzeigen, wählen Sie die **Rechnungs** -oder Abstimmungs **Datei** aus. (Wenn Sie möchten, können Sie auch auf die neueste Rechnung zugreifen und Datei Daten mithilfe der [Partner Center-APIs](/partner-center/develop/)wiederholen.
+    - Um die aktuelle Rechnungs- und Abstimmungsdatei anzuzeigen, wählen Sie **Rechnung** oder **Abstimmungsdatei** aus. (Wenn Sie möchten, können Sie auch mit [Partner Center-APIs](/partner-center/develop/)auf die aktuelle Rechnung zugreifen und Dateidaten neu konfigurieren.
 
-    - Wenn Sie frühere Rechnungen anzeigen und Dateien wiederholen möchten, erweitern Sie unten die Zeile **Abrechnungs Verlauf** .
+    - Um frühere Rechnungen und Abstimmungsdateien anzuzeigen, erweitern Sie unten die Zeile **Abrechnungsverlauf.**
 
-    - Wählen Sie unter der Überschrift **Schätzungen** einen Link aus, um den geschätzten Konto Saldo oder die Rechnung zu einem beliebigen Zeitpunkt basierend auf der aktuellen Kontoaktivität zu überprüfen.  
+    - Wählen Sie unter der Überschrift **Schätzungen** einen Link aus, um Ihren geschätzten Kontostand oder Ihre Rechnung jederzeit basierend auf der aktuellen Kontoaktivität zu überprüfen.  
 
     >[!NOTE]
-    > Wenn wir Ihre Rechnung am 8. Tag des Monats veröffentlichen, umfasst Sie steuern und alle anderen anwendbaren Gebühren und Gutschriften. Dies bedeutet, dass der endgültige Betrag möglicherweise von dem, was Sie während des Abrechnungszeitraums sehen, abweicht.
+    > Wenn wir Ihre Rechnung am 8. Tag des Monats veröffentlichen, enthält sie Steuern und alle anderen anfallenden Gebühren und Gutschriften. Dies bedeutet, dass sich der endfällige Betrag von dem unterscheiden kann, was während des Abrechnungszeitraums angezeigt wird.
 
-## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>Weitere Informationen zu Rechnungen und zum Wiederholen von Dateien für kommerzielle Marketplace-Produkte
+## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>Weitere Informationen zu Rechnungen und Abstimmungsdateien für Kommerzielle Marketplace-Produkte
 
-Dieser Abschnitt enthält weitere Informationen zu Rechnungs-und Abstimmungs Dateien für kommerzielle Marketplace-Saas-Abonnements, die für Kunden von Drittanbietern erworben wurden.
+Dieser Abschnitt enthält weitere Informationen zu Rechnungs- und Abstimmungsdateien für SaaS-Abonnements im kommerziellen Marketplace, die für Kunden von ISV-Herausgebern von Drittanbietern erworben wurden.
 
-Wenn Sie im Partner Center im Menü "Partner Center" **wiederkehrende und einmalige Käufe** von der **Abrechnungs** Option auswählen, erhalten Sie Zugriff auf Rechnungen und Abstimmungs Dateien, die sich auf die Gebühren für Microsoft-Käufe (First-Party) und ISV-Käufe (Drittanbieter) beziehen. Diese Käufe können zugeordnet werden:
+Wenn Sie  im Menü Partner Center über  die Option Abrechnung die Option Wiederkehrende und einmalige Käufe auswählen, erhalten Sie Zugriff auf Rechnungen und Abstimmungsdateien für Gebühren im Zusammenhang mit Microsoft-Käufen (Erstabkäufen) und ISV-Käufen (Drittanbieter). Diese Käufe können Folgendem zugeordnet sein:
 
-- Saas-Abonnements (von Microsoft-oder ISV-Verlegern)
+- SaaS-Abonnements (von Microsoft- oder ISV-Herausgebern)
 
 - Azure-Plan
 
 - Azure-Reservierungen
 
-- Andere Abonnement basierte Software (von Microsoft-oder ISV-Verlegern)
+- Andere abonnementbasierte Software (von Microsoft- oder ISV-Herausgebern)
 
-Beispiele für diese Käufe können SUSE Linux-Software (ein Software Abonnement) oder ein Azure ISV Saas-Produkt Abonnement enthalten.
+Beispiele für diese Käufe sind SUSE Linux-Software (ein Softwareabonnement) oder ein Azure ISV SaaS-Produktabonnement.
 
 >[!NOTE]
-> Weitere Informationen zum Lesen von Rechnungen und zum Wiederholen von Dateien finden Sie unter [Übersicht über die Abrechnung](billing.md).
+> Weitere Informationen zum Lesen von Rechnungs- und Abstimmungsdateien finden Sie unter [Abrechnungsübersicht.](billing.md)
 
 ### <a name="tips-on-reading-your-invoice"></a>Tipps zum Lesen Ihrer Rechnung
 
-Wenn Sie ein Lizenz basiertes Saas-Produkt von einem Drittanbieter-ISV-Verleger erwerben, werden Ihnen nur Gebühren für die Lizenzgebühr in Ihrer Rechnung angezeigt. Dies gilt auch, wenn das SaaS-Produkt von ISV zugrunde liegende Azure-Infrastruktur Ressourcen verwendet (oder nutzt). Dies liegt daran, dass die Nutzungsgebühren für die Azure-Infrastruktur Ihres Kunden für das SaaS-Produkt eines ISV direkt an den ISV abgerechnet werden. (Für ISVs werden zugeordnete Azure-verbrauchsgebühren in ihrer eigenen Azure-nutzungsbasierten Rechnung für die Rechnungs Abstimmung angezeigt.)
+Wenn Sie ein lizenzbasiertes SaaS-Produkt von einem ISV-Herausgeber eines Drittanbieters erwerben, werden ihnen nur Gebühren für die Lizenzgebühr auf Ihrer Rechnung ausgewiesen. Dies gilt auch, wenn das SaaS-Produkt des ISV zugrunde liegende Azure-Infrastrukturressourcen verwendet (oder nutzt). Dies liegt daran, dass die Nutzungsgebühren für die Azure-Infrastruktur ihres Kunden für das SaaS-Produkt eines ISV direkt an den ISV abgerechnet werden. (ISVs sehen zugeordnete Azure-Verbrauchsgebühren in ihrer eigenen Täglich bewerteten Azure-Abrechnungsabstimmungsdatei.)
 
 Ihre Rechnung enthält mehrere Seiten:
 
-- **Seite 1 der Rechnung:** Enthält eine Übersicht über die Abrechnungsdetails des CSP-programmpartners. Dies umfasst eine Zusammenfassung der Gebühren für den Abrechnungszeitraum, eine Rechnungsnummer, Zahlungsbedingungen (Netto 60 Tage) und Zahlungsmethoden für Rechnungen, die per Wire oder Check abgerechnet werden.
+- **Seite 1 der Rechnung:** Enthält eine zusammenfassende Übersicht über die Abrechnungsdetails des CSP-Programmpartners. Dies umfasst eine Zusammenfassung der Gebühren für den Abrechnungszeitraum, eine Rechnungsnummer, Zahlungsbedingungen (netto 60 Tage) und Zahlungsmethoden zur Zahlung per Überweisung oder Überprüfung.
 
-- **Seite 2 (und alle nachfolgenden Seiten) der Rechnung:** Details fallen für die ersten Käufe von Microsoft und Drittanbieter-ISV-Käufe (Lizenz basiert) aus dem kommerziellen Marketplace an. Sie können ISV-Lizenz basierte Käufe von der **Herausgeber** Leitung unter jedem Produktnamen ermitteln. Die zugehörige Abstimmungs Datei bietet weitere Abrechnungsdetails zu bestimmten Rechnungs Gebühren.
+- **Seite 2 (und alle nachfolgenden Seiten) der Rechnung:** Details zu den Gebühren für Käufe von Microsoft-Erst- und Drittanbieter-ISV(lizenzbasierten) Käufen über den kommerziellen Marketplace. Sie können lizenzbasierte ISV-Käufe anhand der Zeile **Herausgeber** unter jedem Produktnamen identifizieren. Die zugeordnete Abstimmungsdatei bietet weitere Abrechnungsdetails für bestimmte Rechnungsgebühren.
 
-- **Abschließende Seite der Rechnung:** Wenn Sie von einem ISV Lizenz basierte Marketplace-Produkte in Rechnung gestellt haben, werden auf dieser letzten Seite Weitere Details zum Namen und zur Adresse des ISV-Verlegers angezeigt.
+- **Letzte Seite der Rechnung:** Wenn Ihnen lizenzbasierte Marketplace-Produkte von einem ISV in Rechnung gestellt wurden, werden auf dieser letzten Seite weitere Details zum Namen und zur Adresse des ISV-Herausgebers angezeigt.
 
-### <a name="tips-on-reading-your-reconciliation-file"></a>Tipps zum Lesen der Abstimmungs Datei
+### <a name="tips-on-reading-your-reconciliation-file"></a>Tipps zum Lesen Ihrer Abstimmungsdatei
 
-Die Abstimmungs Datei für **wiederkehrende und einmalige Käufe** enthält mehrere Spalten mit zusätzlichen Details, die den Gebühren in Ihrer Rechnung entsprechen. In der Spalte **PublisherName** wird angezeigt, ob der Kauf von Microsoft oder einem Drittanbieter-ISV-Verleger erfolgt.
+Die **Abstimmungsdatei für wiederkehrende und einmalige Käufe** enthält mehrere Spalten mit zusätzlichen Details, die den Gebühren in Ihrer Rechnung zugeordnet sind. In der Spalte **PublisherName** wird angezeigt, ob der Kauf von Microsoft oder einem ISV-Herausgeber eines Drittanbieters erfolgt.
 
-Einige Gebühren in der Abstimmungs Datei werden möglicherweise mit den Kosten $0 angezeigt. Dies liegt möglicherweise an einem kostenlosen ISV-Testangebot (in der Regel 30 oder 60 Tage) oder einem Bring-your-own-License-Angebot.
+Einige Gebühren in Ihrer Abstimmungsdatei können mit Kosten von 0 US-Dollar angezeigt werden. Dies kann auf ein ISV-Angebot "kostenlose Testversion" (in der Regel 30 oder 60 Tage) oder ein Bring Your Own License-Angebot zurückzuführen sein.
 
-Bei einer kostenlosen Testversion bietet ISV Folgendes:
+Bei ISV-Angeboten mit kostenloser Testversion:
 
-- Der Zeitraum für die kostenlose Testversion deckt während dieser Zeit die Kosten des lizenzbasierten Saas-Produkts von ISV ab. Ihnen wird auch die Nutzung dieses Saas-Produkts in der Azure-Infrastruktur nicht in Rechnung gestellt.  Wenn Sie jedoch ein Nutzungs basiertes ISV-Angebot verwenden, umfasst die kostenlose Testversion nicht die Kosten der zugrunde liegenden Nutzung der Azure-Infrastruktur. In diesem Fall werden die Nutzungsgebühren für die Azure-Infrastruktur in einer separaten Azure-Abstimmungs Datei angezeigt.
+- Der kostenlose Testzeitraum deckt die Kosten für das lizenzbasierte SaaS-Produkt des ISV während dieser Zeit ab. Außerdem werden Ihnen keine Kosten für die damit verbundene Nutzung der Azure-Infrastruktur dieses SaaS-Produkts in Rechnung gestellt.  Wenn Sie jedoch ein nutzungsbasiertes ISV-Angebot verwenden, enthält die kostenlose Testversion nicht die Kosten für die zugrunde liegende Nutzung der Azure-Infrastruktur. In diesem Fall werden die Nutzungsgebühren für die Azure-Infrastruktur in einer separaten Azure-Abstimmungsdatei angezeigt.
 
-- Wenn Sie für Ihren Kunden ein kostenloses, von ISV kostenloses Testprodukt erwerben und bereitstellen, wird der Kunde automatisch von dem ISV-Verleger in der kostenlosen Testversion angemeldet. Der Zeitraum für die kostenlose Testversion endet automatisch nach dem vom ISV-Verleger definierten Zeitraum. Nach Ablauf des Zeitraums wird der Kunde in Rechnung gestellt. Dies bedeutet, dass die Abstimmungs Datei möglicherweise zwei Zeilen für ein in der Testversion geeignetes Produkt anzeigt: einen, der den Testzeitraum nachverfolgt, und einen, der das kostenpflichtige Angebot nachverfolgt (in dem die Kosten $0 bis zum Ende des Testzeitraums angezeigt werden). Nach Ablauf der Testversion werden in der Zeile, in der das kostenpflichtige Angebot angezeigt wird, Gebühren berechnet. 
+- Wenn Sie das kostenlose Testprodukt eines ISV für Ihren Kunden erwerben und bereitstellen, wird der Kunde automatisch vom ISV-Herausgeber für die kostenlose Testversion registriert. Der kostenlose Testzeitraum endet automatisch nach dem vom ISV-Herausgeber definierten Zeitraum. Nach Ablauf des Zeitraums werden dem Kunden Gebühren in Rechnung gestellt. Dies bedeutet, dass die Abstimmungsdatei zwei Zeilen für ein testfähiges Produkt anzeigen kann: eine, die den Testzeitraum nachzeichnet, und eine, die das kostenpflichtige Angebot nachzeichnet (die Kosten von 0 US-Dollar bis zum Ende des Testzeitraums anzeigen). Sobald die Testversion endet, werden in der Zeile mit dem kostenpflichtigen Angebot Gebühren angezeigt. 
 
-Weitere Informationen dazu, was die einzelnen Spalten darstellen, finden [Sie unter Verwenden](use-the-reconciliation-files.md)von Abstimmungs Dateien. Siehe auch [Abrechnungs Typen in Partner Center](billing-different-types.md)
+Weitere Informationen dazu, was die einzelnen Spalten darstellen, finden Sie unter [Verwenden Ihrer Abstimmungsdateien.](use-the-reconciliation-files.md) Siehe auch [Abrechnungstypen in Partner Center](./billing-basics.md)
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Verwalten kommerzieller Marketplace-Produkte für Kunden](csp-commercial-marketplace-manage.md)
-- [Weitere Informationen zur Unterstützung für kommerzielle Marketplace-Produkte](csp-commercial-marketplace-support.md)
+- [Verwalten von Produkten im kommerziellen Marketplace für Kunden](csp-commercial-marketplace-manage.md)
+- [Erfahren Sie mehr über die Unterstützung für Produkte im kommerziellen Marketplace.](csp-commercial-marketplace-support.md)

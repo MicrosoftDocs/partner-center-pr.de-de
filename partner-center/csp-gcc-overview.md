@@ -4,24 +4,21 @@ ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über die Schritte und Anforderungen zum verkaufen von Abonnements für Office 365 Government gcc für CSP an qualifizierte USA Government-Kunden oder-Auftragnehmer.
+description: Lernen Sie die Schritte und Anforderungen zum Verkaufen von Abonnements für Office 365 Government GCC für CSP für qualifizierte USA Government-Kunden oder -Auftragnehmer kennen.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: d88936845c8b7ae7e17840843896d87ceebb4b2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979429"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147801"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Verkaufen von Office 365 Government GCC für CSP-Abonnements an qualifizierte Kunden
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Administrator-Agent
+**Geeignete Rollen:** globale | Administrator-Agent
 
 
 ## <a name="overview"></a>Übersicht
@@ -36,7 +33,7 @@ Microsoft-Partner im CSP-Programm können [Office 365 Government GCC für CSP](h
 
 Nachdem Ihr Unternehmen für den Verkauf von Office 365 Government GCC für CSP-Angeboten zugelassen wurde, können Sie mit dem Verkauf über das Partner Center beginnen. Weitere Informationen zur Verwendung des Partner Centers für den Verkauf von Abonnements finden Sie in diesen Ressourcen: 
 
-- Eine Schritt-für-Schritt-Anleitung finden Sie [unter Anleitung zum Verkauf von Office 365 Government gcc für CSP-Abonnements](https://go.microsoft.com/fwlink/?linkid=2007323).  
+- Eine Schritt-für-Schritt-Anleitung finden Sie unter Leitfaden zum Verkauf von [Office 365 Government GCC für CSP-Abonnements.](https://go.microsoft.com/fwlink/?linkid=2007323)  
 
 
 ## <a name="next-steps"></a>Nächste Schritte

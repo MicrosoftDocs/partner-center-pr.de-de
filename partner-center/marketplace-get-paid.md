@@ -1,58 +1,55 @@
 ---
-title: Kostenpflichtig im Partner Center
-description: Erfahren Sie, wie Sie Zahlungen für das Ergebnis als Microsoft-Partner erhalten, z. b. über kommerzielle Marketplace-Angebote, Incentive-Programme und das Cloud Solution Provider-Programm. Beinhaltet Auszahlungs Richtlinien, Auszahlungsstatus und Auszahlungs Anweisungen.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+title: Kostenpflichtige Partner Center
+description: Erfahren Sie mehr über den Empfang von Zahlungen für Einnahmen als Microsoft-Partner, z. B. über Angebote im kommerziellen Marketplace, Incentive-Programme und das Cloud Solution Provider Programm. Umfasst Auszahlungsrichtlinie, Auszahlungsstatus und Auszahlungsausstellungen.
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 3dc8b728ef20da77b9a6d2a925ebb0388ea53837
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133079"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146492"
 ---
-# <a name="getting-paid-in-partner-center"></a>Kostenpflichtig im Partner Center
+# <a name="getting-paid-in-partner-center"></a>Kostenpflichtige Partner Center
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Kontoadministrator-| Globaler Administrator
 
-- Kontoadministrator
-- Globaler Administrator
+Dieser Artikel enthält wichtige Informationen zum Empfang von Zahlungen für Ihre Angebote, Add-Ons und Werbeerbezahlung. Es enthält eine Zusammenfassung der Auszahlungsrichtlinie, der erforderlichen Schritte vor der Auszahlung und der Übersicht über auszahlungsauszuge.
 
-Dieser Artikel enthält wichtige Informationen zum Empfangen von Zahlungen für Ihre Angebote, Add-ons und Werbeeinnahmen. Es fasst die Auszahlungs Richtlinie, die erforderlichen Schritte vor dem kostenpflichtigen Tarif und die Übersicht über die Auszahlungs Anweisung zusammen.
+## <a name="payout-policies-and-agreements"></a>Auszahlungsrichtlinien und -vereinbarungen
 
-## <a name="payout-policies-and-agreements"></a>Auszahlungs Richtlinien und Vereinbarungen
+Um bezahlt zu werden, müssen Sie die Vereinbarungen und die Auszahlungsrichtlinie einhalten.
 
-Wenn Sie bezahlt werden, müssen Sie die Vereinbarungen und die Auszahlungs Richtlinie einhalten.
+- [Microsoft Azure Marketplace Herausgebervereinbarung:](/legal/marketplace/msft-publisher-agreement)Bevor Sie bezahlt werden, müssen Sie diese Herausgebervereinbarung akzeptieren. In dieser Vereinbarung wird die Beziehung zwischen Ihnen und Microsoft im Zusammenhang mit Verkäuferangeboten im kommerziellen Marketplace erläutert, einschließlich der Store-Gebühr, die Microsoft für jeden vorgenommenen Verkauf berechnet.
+- [Die Auszahlungsrichtlinie](payout-policy-details.md) zeigt die Auszahlungsrichtlinien einschließlich Zahlungszeitplan und Zahlungsmethoden an. Die Richtlinie erläutert auch den Prozess für Nichtzahlungen von Kunden.
+- [In den Steuerdetails](tax-details-marketplace.md) werden die steuerliche Überlegung für die Preisauswahl und die steuerliche Verantwortung im Rahmen der [Microsoft-Herausgebervereinbarung erläutert.](/legal/marketplace/msft-publisher-agreement)
+- **Ladengebühren** sind offiziell in der Herausgebervereinbarung definiert. Die Store-Gebühr wird auf alle Angebotsverkäufe angewendet, die vom kommerziellen Marketplace erfasst werden, einschließlich Add-Ons.
+- **Zahlungen** erfolgen monatlich (sofern der Zahlungsschwellenwert erreicht wurde). Wir senden in der Regel alle fälligen Zahlungen in einem bestimmten Monat bis zum 15. Tag dieses Monats. Zahlungen dauern in der Regel 3 bis 10 zusätzliche Werktage, um Ihr Auszahlungskonto zu erreichen. Ausführliche Informationen finden Sie unter [Zahlungsschwellenwerte, -methoden und -zeitrahmen](payment-thresholds-methods-timeframes.md).
 
-- [Microsoft Azure Marketplace Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/p/?LinkID=699560): Sie müssen dieser Herausgeber Vereinbarung zustimmen, bevor Sie die Zahlung durch nehmen. In diesem Vertrag wird die Beziehung zwischen Ihnen und Microsoft erläutert, die sich auf Verkaufsangebote im kommerziellen Marketplace bezieht, einschließlich der Speicher Gebühr, die Microsoft für jeden Verkauf berechnet.
-- Die [Auszahlungs Richtlinie](payout-policy-details.md) zeigt die Zahlungs Richtlinien für Zahlungen einschließlich Zahlungszeitplan und Zahlungsmethoden an. Die Richtlinie erläutert auch den Prozess der Nichtzahlung von Kunden.
-- In den [Steuer Details](tax-details-marketplace.md) wird die steuerliche Überlegung der Preis Auswahl und der Steuer Verantwortlichkeit im Rahmen der Microsoft [Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560)erläutert.
-- Die **Store-Gebühren** sind offiziell in der Herausgeber Vereinbarung definiert. Die Speicher Gebühr wird auf alle Angebots Verkäufe angewendet, die vom kommerziellen Marketplace, einschließlich Add-ons, gesammelt werden.
-- **Zahlungen** erfolgen monatlich (sofern der Zahlungs Schwellenwert erreicht wurde). In der Regel senden wir eine beliebige Zahlung in einem bestimmten Monat am 15. Tag des Monats. Zahlungen nehmen in der Regel 3 bis 10 zusätzliche Geschäftstage in Anspruch, um Ihr Auszahlungs Konto zu erreichen. Ausführliche Informationen finden Sie unter [Zahlungsschwellenwerte, -methoden und -zeitrahmen](payment-thresholds-methods-timeframes.md).
+## <a name="prerequisite-steps-before-getting-paid"></a>Erforderliche Schritte vor der Kostenpflichtigen
 
-## <a name="prerequisite-steps-before-getting-paid"></a>Erforderliche Schritte vor dem kostenpflichtigen Tarif
-
-Bevor Sie das erste Mal bezahlt haben, müssen Sie Ihr Auszahlungs Konto einrichten und die erforderlichen Bank-und Steuerformulare ausfüllen. In Bank-und Steuerformularen stellen Sie Ihre bevorzugten Zahlungsmethoden und die Steuerformulare für das zurückbehalten von Steuern bereit. Bank-und Steuerformulare sind erforderlich, bevor wir Sie bezahlen können. Weitere Informationen finden [Sie unter Einrichten Ihres Auszahlungs Kontos und der Steuerformulare](set-up-your-payout-account.md).
+Bevor Sie zum ersten Mal bezahlt werden, müssen Sie Ihr Auszahlungskonto einrichten und die erforderlichen Bank- und Steuerformulare ausfüllen. In Bank- und Steuerformularen geben Sie Ihre bevorzugten Zahlungsmethoden und die Steuerformulare für die Steuereinbehaltung an. Bank- und Steuerformulare sind erforderlich, bevor wir Sie bezahlen können. Weitere Informationen finden Sie unter [Einrichten Ihres Auszahlungskontos und der Steuerformulare.](set-up-your-payout-account.md)
 
 ### <a name="payout-hold-status"></a>Aufbewahrungsstatus für Auszahlungen
 
-Standardmäßig senden wir Zahlungen monatlich (wie oben beschrieben). Allerdings können Sie Ihre Auszahlungen für ein Programm anhalten und Microsoft Ihre Zahlungen nicht an Ihr Konto weitergeben. Wenn Sie sich dafür entscheiden, Ihre Zahlungen anzuhalten, zeichnen wir weiterhin alle Einnahmen auf der Seite " **Auszahlungen** " auf. Allerdings werden wir keine Zahlungen auf Ihr Konto überweisen, bis Sie die Haltesperre aufheben.
+Standardmäßig senden wir Zahlungen monatlich (wie oben beschrieben). Sie können Ihre Auszahlungen für ein Programm jedoch zurückstellen, und Microsoft gibt Ihre Zahlungen an Ihr Konto nicht frei. Wenn Sie Ihre Auszahlungen zurückstellen möchten, zeichnen wir weiterhin alle Einnahmen auf der Seite **Auszahlungen** auf. Allerdings werden wir keine Zahlungen auf Ihr Konto überweisen, bis Sie die Haltesperre aufheben.
 
-Wählen Sie oben rechts das Zahnrad Symbol " **Einstellungen** " und dann " **Kontoeinstellungen**" aus, um Ihre Zahlungen in den Griff zu versetzen. Wählen Sie im Menü auf der linken Seite die Option **Auszahlung und Steuern** aus, und suchen Sie im Abschnitt " **Auszahlungs-und Steuer Profil Zuweisung** " das Programm, für das Sie die Zahlungen erhalten möchten. Aktivieren Sie das Kontrollkästchen **meine Zahlung aufbewahren** , um die Zahlungen für dieses Programm zu speichern. Sie können den Status der Auszahlungs Aufbewahrung jederzeit ändern, aber ihre Entscheidung wirkt sich auf die nächste Monatliche Auszahlung aus. Wenn Sie zum Beispiel die Auszahlung für April zurückhalten möchten, legen Sie den Aufbewahrungsstatus für Auszahlungen vor Ende März auf **Ein** fest.
+Um Ihre Zahlungen zurückzuhalten, wählen Sie oben rechts das Zahnradsymbol **Einstellungen** und dann **Kontoeinstellungen** aus. Wählen Sie im Menü auf der linken Seite **Auszahlung und Steuern** aus, und suchen Sie im Abschnitt Auszahlungs- und **Steuerprofilzuweisung** das Programm, für das Die Zahlungen aufbewahrt werden sollen. Aktivieren Sie das Kontrollkästchen **Meine Zahlung zurückhalten,** um Zahlungen für dieses Programm zurückzuhalten. Sie können Den Aufbewahrungsstatus für Auszahlungen jederzeit ändern. Ihre Entscheidung wirkt sich jedoch auf die nächste monatliche Auszahlung aus. Wenn Sie zum Beispiel die Auszahlung für April zurückhalten möchten, legen Sie den Aufbewahrungsstatus für Auszahlungen vor Ende März auf **Ein** fest.
 
-Nachdem Sie den Status der Auszahlungs **Aufbewahrung auf ein** festgelegt haben, werden alle Auszahlungen für dieses Programm angehalten, bis Sie das Kontrollkästchen **deaktivieren.** Wenn Sie dies tun, werden Sie im nächsten monatlichen Auszahlungs Zeitraum einbezogen (vorausgesetzt, der Zahlungs Schwellenwert wurde erreicht). Wenn Sie Ihre Auszahlungen in den Griff haben, aber im Juni eine Auszahlung generieren möchten, deaktivieren Sie das Kontroll **Kästchen vor dem** Ende des Mai.
+Sobald Sie ihren Auszahlungswartestatus auf **Ein** festgelegt haben, werden alle Auszahlungen für dieses Programm zurückgehalten, bis Sie das Kontrollkästchen auf **Aus** deaktivieren. Wenn Sie dies tun, werden Sie während des nächsten monatlichen Auszahlungszyklus einbezogen (vorausgesetzt, der Zahlungsschwellenwert wurde erreicht). Wenn Sie Ihre Auszahlungen zurückgehalten haben, aber eine Auszahlung im Juni generieren möchten, deaktivieren Sie das Kontrollkästchen vor Ende Mai auf **Aus.**
 
 >[!Note]
-> Der Status Ihrer Auszahlungs Aufbewahrung gilt für jedes Programm einzeln (Microsoft Store, Werbung, Azure Marketplace usw.). Wenn Sie die Zahlungen für alle Programme aufbewahren möchten, halten Sie die Zahlung für jedes Programm einzeln durch.
+> Ihr Auszahlungsbeibehaltungsstatus gilt für jedes Programm einzeln (Microsoft Store, Werbung, Azure Marketplace usw.). Wenn Sie Zahlungen für alle Ihre Programme zurückhalten möchten, behalten Sie die Zahlungen für jedes Programm einzeln bei.
 
 ## <a name="payout-statements"></a>Auszahlungsauszüge
 
-Die Auszahlungs Anweisung zeigt Ihre Einnahmen aus den Verkäufen aus ihren angeboten und Add-ons im Transaktionsverlauf an. Sie können auch Zahlungsdetails anzeigen und Berichte im TSV-oder CSV-Format herunterladen. Weitere Informationen zum Zugriff auf die Auszahlungs Anweisung sowie Details zum Transaktionsverlauf und zu Zahlungs Berichten finden Sie unter [Auszahlungs Anweisungen](payout-statement.md) . Darüber hinaus können Sie die Partner-Auszahlungs- [API](https://apidocs.microsoft.com/services/partnerpayouts) verwenden, um die Auszahlungsberichte systematisch per Pull abzurufen.
+Der Auszahlungsauszug zeigt Ihre Einnahmen aus den Verkäufen aus Ihren Angeboten und Add-Ons im Transaktionsverlauf an. Sie können auch Zahlungsdetails anzeigen und Berichte im TSV- oder CSV-Format herunterladen. Weitere [Informationen zum Zugriff](payout-statement.md) auf den Auszahlungsauszug sowie die Details des Transaktionsverlaufs und der Zahlungsberichte finden Sie unter Auszahlungsausbuchungen. Darüber hinaus können Sie die [Partnerauszahlungs-API verwenden,](https://apidocs.microsoft.com/services/partnerpayouts) um die Auszahlungsberichte systematisch zu pullen.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Partner-Auszahlungs-API](https://apidocs.microsoft.com/services/partnerpayouts)
+- [Partnerauszahlungs-API](https://apidocs.microsoft.com/services/partnerpayouts)
 - [Häufig gestellte Fragen zu Auszahlungen](payout-faq.md)

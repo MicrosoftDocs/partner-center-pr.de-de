@@ -8,19 +8,16 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702789"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146254"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Felder für die CSP-Abstimmungsdatei für einmaligen Kauf
 
-**Geeignete Rollen**
-
-- Kontoadministrator
-- Abrechnungs-Agent
+**Geeignete Rollen:** Kontoadministrator-| Abrechnungs-Agent
 
 ## <a name="using-the-recon-file"></a>Verwenden der Recon-Datei
 Die folgende Tabelle enthält Beschreibungen und Beispielwerte für die Felder in der Abstimmungsdatei für einmalige CSP-Käufe.
@@ -53,7 +50,7 @@ Weitere Informationen zu Abstimmungsdateien finden Sie unter [Verwenden der Abst
 | Währung | Ihre Rechnung wird im Kontext der Währung des Kunden generiert. Dies bedeutet: Wenn Sie als Partner Transaktionen mit Kunden aus unterschiedlichen abrechenbaren Währungen durchführen, erhalten Sie für jeden Kundenwährungstyp eine Rechnung.  | *EUR* |
 | PriceAdjustmentDescription | Die Gründe für die Anpassungen im Einzelpreis. Dies sind die Hauptgründe, aber nicht beschränkt auf die Bestimmung des effektiven Einzelpreises. | *["15,0 % vom Partner erworbenes Guthaben für verwaltete Dienste"]* |
 | PublisherName | Herausgeber des Produkts.  | *Microsoft* |
-| PublisherId | Ein eindeutiger Bezeichner, den der Partner Center verwendet, um den Herausgeber zu identifizieren. | *Nicht verfügbar* |
+| PublisherId | Ein eindeutiger Bezeichner, den der Partner Center verwendet, um den Herausgeber zu identifizieren. | *Na* |
 | SubscriptionDescription | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. Diese Spalte ist ein identisches Feld mit OfferName. | *Azure-Plan* |
 | SubscriptionId | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Wird nicht für die Abstimmung verwendet. Beachten Sie, dass dieser Bezeichner nicht mit der Abonnement-ID in der Partneradministratorkonsole identisch ist. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Das Datum, an dem der Abrechnungszeitraum eines Abonnements beginnt. | *9/1/2020* |
@@ -63,7 +60,7 @@ Weitere Informationen zu Abstimmungsdateien finden Sie unter [Verwenden der Abst
 | Unittype | Der Typ der Einheit, in der die Verbrauchseinheit berechnet wird. | *1 GB/Monat* |
 | AlternateId | Die alternative ID des Auftragspositionselements, auf das verwiesen wird. | *6dc5c039750a* |
 | BillableQuantity | Die Gesamtmenge, die abgerechnet wird.  | *0.005001* |
-| BillingFrequency | Der zum Zeitpunkt des Kaufs ausgewählte Abrechnungsplan. | *Nicht verfügbar*  |
+| BillingFrequency | Der zum Zeitpunkt des Kaufs ausgewählte Abrechnungsplan. | *Na*  |
 | PricingCurrency | Die Währung in der Preisliste. | *USD* |
 | PCToBCExchangeRate | Der Wechselkurs, der für die Preiswährung auf die Abrechnungswährung angewendet wird. | *0.846202666* |
 | PCToBCExchangeRateDate | Das Datum, an dem die Preiswährung auf die Abrechnungswährung festgelegt wird. | *30.09.2020* |

@@ -1,6 +1,6 @@
 ---
-title: Übersicht über Pläne und Ausführungs Nachweise
-description: Erfahren Sie mehr über die wichtigsten Dokumente, die für die-Anreize benötigt werden, einschließlich eines anforderungsplans für einen zusammen-und detaillierten Ausführungs Nachweis (PoE).
+title: Übersicht über Pläne und Ausführungsnachweise
+description: Erfahren Sie mehr über die wichtigsten Dokumente, die für Incentives erforderlich sind, einschließlich eines Incentive-Co-Op-Anspruchsplans und eines detaillierten Ausführungsnachweises (Proof of Execution, PoE).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,48 +8,45 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e98296aa42327a7b2ebd91b44f2e28e9010600bb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179172"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146747"
 ---
-# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Verwenden Sie diese Ressourcen, um die Erstellung von Anreiz Plänen und Ausführungs nachproben zu unterstützen.
+# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Verwenden Sie diese Ressourcen, um Incentives-Pläne und Ausführungsnachweise zu erstellen.
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Incentives-Administrator | Incentives-Benutzer
 
-- Incentiveadministrator
-- Incentivebenutzer
+In diesem Artikel werden einige der wichtigsten Dokumente beschrieben, die erforderlich sind, damit Sie erfolgreich sind und für Ihre Arbeit in einem bestimmten Incentives-Programm bezahlt werden. Zu diesen Dokumenten gehören:
 
-In diesem Artikel werden einige der wichtigsten Dokumente beschrieben, die Sie benötigen, damit Sie erfolgreich sind und für Ihre Arbeit in einem bestimmten Incentive-Programm bezahlt werden. Diese Dokumente umfassen Folgendes:
+- Einen Incentive-Co-Op-Anspruchsplan
+- Detaillierter Ausführungsnachweis (PoE)
 
-- Einen Co-op-Anspruchs Plan für Incentives
-- Ein ausführlicher Ausführungs Nachweis (PoE)
+Je nach Art des Incentives-Programms, bei dem Sie registriert sind, sind Ihr Incentive-Co-Op-Anspruchsplan und Ihr Ausführungsnachweis (Proof of Execution, PoE) für Ihren Erfolg mit Incentives entscheidend.
 
-Abhängig vom Typ des Incentives-Programms, bei dem Sie sich angemeldet haben, sind Ihre Anreize für den Co-op-Anspruchs Plan und ihre Ausführungs Prüfung ("Initiator") für Ihren Erfolg mit den Incentives von entscheidender Bedeutung.
+## <a name="what-is-an-incentives-co-op-claims-plan"></a>Was ist ein Incentive-Co-Op-Anspruchsplan?
 
-## <a name="what-is-an-incentives-co-op-claims-plan"></a>Was ist ein Koop-Anspruchs Plan für einen Anreiz?
+Ein Incentive-Co-Op-Anspruchsplan beschreibt die Marketingkampagnen, Aktivitäten und andere Details, die erforderlich sind, um Ihr Programm zu einem Erfolg zu machen. Nachdem Sie diesen Plan erstellt haben, übermitteln Sie ihn zur Genehmigung an Microsoft. Erfahren Sie mehr über [das Erstellen Ihres Plans.](incentives-create-your-plan.md)
 
-Ein Incentive-Co-op-Anspruchs Plan beschreibt die Marketingkampagnen, Aktivitäten und andere Details, die erforderlich sind, damit das Programm erfolgreich ausgeführt werden kann. Nachdem Sie diesen Plan erstellt haben, werden Sie ihn zur Genehmigung an Microsoft übermitteln. Erfahren Sie mehr über [das Erstellen Ihres Plans](incentives-create-your-plan.md).
+## <a name="what-is-a-proof-of-execution-poe"></a>Was ist ein Ausführungsnachweis (Proof of Execution, PoE)?
 
-## <a name="what-is-a-proof-of-execution-poe"></a>Was ist ein Ausführungs Nachweis (PoE)?
+Nachdem Sie für Ihre Incentives-Arbeit bezahlt wurden, müssen Sie einen detaillierten Ausführungsnachweis (Proof of Execution, PoE) an Microsoft übermitteln. Ihr PoE kann Details zu verwandten Kampagnen, das Datum, an dem eine Incentives-Aktivität aufgetreten ist, und den beanspruchten Betrag enthalten. 
 
-Nachdem Sie sich für Ihre Incentives bezahlt haben, müssen Sie eine ausführliche Ausführungs Prüfung (PoE) an Microsoft senden. Der Poe kann Details zu jeder zugehörigen Kampagne, das Datum, an dem eine Aktivität durchgeführt wurde, und den beanspruchten Betrag enthalten. 
+Erfahren Sie mehr über [das Vorbereiten von Ausführungsnachweisen.](incentives-prepare-your-proof-of-execution.md)
 
-Erfahren Sie mehr über das [Vorbereiten der Ausführungs nachprobe](incentives-prepare-your-proof-of-execution.md).
+## <a name="incentives-document-resources"></a>Incentives-Dokumentressourcen
 
-## <a name="incentives-document-resources"></a>Ressourcen Dokument Ressourcen
-
-In den folgenden Ressourcen wird erläutert, wie Sie diese wichtigen Incentives-Dokumente organisieren, erstellen und bearbeiten. Außerdem wird beschrieben, was zu tun ist, wenn Ihre Ansprüche von Microsoft genehmigt werden oder wenn ein Anspruch abgelehnt wird.
+In den folgenden Ressourcen wird erläutert, wie Diese wichtigen Incentives-Dokumente organisiert, erstellt und bearbeitet werden. Außerdem wird beschrieben, was zu tun ist, wenn Microsoft Ihren Anspruch genehmigt oder ein Anspruch abgelehnt wird.
 
 |  **Aufgabe**  |  **Artikel**  |
 |--------------|-----------|
-| Erfahren Sie, wie Sie einen Co-op-Anspruchs Plan für Incentives erstellen. | [Erstellen Ihres Plans](incentives-create-your-plan.md)  |
-Erfahren Sie, wie Sie einen Ausführungs Nachweis erstellen. | [Vorbereiten Ihres Ausführungsnachweises](incentives-prepare-your-proof-of-execution.md)  |
+| Erfahren Sie, wie Sie einen Incentive-Co-Op-Anspruchsplan erstellen. | [Erstellen Ihres Plans](incentives-create-your-plan.md)  |
+Erfahren Sie, wie Sie einen Ausführungsnachweis erstellen. | [Vorbereiten Ihres Ausführungsnachweises](incentives-prepare-your-proof-of-execution.md)  |
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Erfahren Sie, wie Sie einen [eigenen Plan erstellen](incentives-create-your-plan.md)
-- Erfahren Sie mehr über den Prozess für den [Co-op-Anspruchs Prozess](claims-overview.md)
-- Informationen zu [den Anreizen von Kunden Zuordnungen mit dem cpor-Modell](submit-osa-claim.md)
+- Erfahren Sie, wie Sie [Einen eigenen Plan erstellen.](incentives-create-your-plan.md)
+- Weitere Informationen zum [Incentive-Co-Op-Anspruchsprozess](claims-overview.md)
+- Informationen zu [Incentives-Kundenzuordnungen mit dem CPOR-Modell](submit-osa-claim.md)

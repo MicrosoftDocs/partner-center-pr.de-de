@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172216"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147121"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Effektive Berechnung des Einzelpreises für die Nutzung des Azure-Plans
 
-**Geeignete Rollen**
-
-- Abrechnungsadministrator
+**Geeignete Rollen:** Abrechnungsadministrator
 
 ## <a name="the-effective-unit-price"></a>Der effektive Einzelpreis
 
@@ -39,7 +37,7 @@ Da der Verbrauch während des gesamten Abrechnungszyklus täglich überwacht wir
 Wenn Sie nicht wissen, ob Ihre Verbrauchsmessung mehrstufige Preise verwendet, verwenden Sie das folgende Verfahren, um dies zu ermitteln. 
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
-2. Wählen Sie **Verkaufen** aus, wählen Sie **Preise und Angebote** aus, und wählen Sie dann Preise für den **Azure-Plan** aus.
+2. Wählen Sie **Verkaufen** aus, wählen Sie **Preise und Angebote** aus, und wählen Sie dann **Azure-Planpreise** aus.
 3. Suchen Sie Ihre Verbrauchsnummer nach ID, und laden Sie dann Ihre Preisdaten herunter. 
 
 ## <a name="sample-calculation"></a>Beispielberechnung
@@ -52,7 +50,7 @@ In der Tabelle gelten die folgenden Werte:
 
 - **BCU** = Arechnungsfähige Verbrauchseinheit für die Verbrauchseinheit
 
-- **BC** = Arechnungsfähige Kosten für die Verbrauchsanzeige = BCU * UP * 0,85. Dies spiegelt eine Anpassung des PEC-Rabatts von 15 % wider. Wir verwenden dann die Untergrenze der Funktion, um den Wert auf zwei Ziffern nach dem Dezimaltrennzeichen zu beschränken, um den Mindestbetrag in Rechnung zu stellen. 
+- **BC** = Arechnungsfähige Kosten für die Verbrauchsanzeige = BCU * UP * 0,85. Dies spiegelt eine Anpassung des PEC-Rabatts von 15 % wider. Wir verwenden dann die untere Grenze der Funktion, um den Wert auf zwei Ziffern nach dem Dezimaltrennzeichen zu beschränken, um den Mindestbetrag zu berechnen. 
 
 - **Effektiver Einzelpreis** = BCU/BC
 

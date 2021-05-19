@@ -8,21 +8,18 @@ description: Synchronisieren Sie Ihre Empfehlungen in Partner Center Salesforce 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fa9b35343e1251cfce5caff107de8dff344f4e68
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284382"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148413"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Administratorberechtigungen für Empfehlungen | Systemadministrator oder Systemanpasser im CRM
 
-- Empfehlungsadministrator
-- Systemadministrator oder Systemanpasser im CRM
-
-Partner Center Co-Sell-Connector ermöglicht es Ihren Verkäufern, in Ihren CRM-Systemen gemeinsam mit Microsoft zu verkaufen. Sie müssen nicht trainiert werden, um co-Partner Center verwalten zu können. Mithilfe der Co-Sell-Connectors können Sie eine neue Co-Sell-Empfehlung erstellen, um einen Microsoft-Verkäufer zu kontaktieren, Empfehlungen vom Microsoft-Verkäufer zu erhalten, Empfehlungen zu akzeptieren/ablehnen, Dealdaten wie den Dealwert und das Abschlussdatum zu ändern.  Sie können auch updates von den Microsoft-Verkäufern zu diesen Co-Sell-Deals erhalten. Sie können alle Ihre Empfehlungen nutzen, während Sie innerhalb des CRM Ihrer Wahl arbeiten und nicht in Partner Center. 
+Partner Center Co-Sell-Connector ermöglicht Es Ihren Verkäufern, in Ihren CRM-Systemen gemeinsam mit Microsoft zu verkaufen. Sie müssen nicht trainiert werden, um co-Partner Center verwalten zu können. Mithilfe der Co-Sell-Connectors können Sie eine neue Co-Sell-Empfehlung erstellen, um einen Microsoft-Verkäufer zu kontaktieren, Empfehlungen vom Microsoft-Verkäufer zu erhalten, Empfehlungen zu akzeptieren/ablehnen, Dealdaten wie den Dealwert und das Abschlussdatum zu ändern.  Sie können auch updates von den Microsoft-Verkäufern zu diesen Co-Sell-Deals erhalten. Sie können alle Ihre Empfehlungen nutzen, während Sie innerhalb des CRM Ihrer Wahl arbeiten und nicht in Partner Center. 
 
 Die Lösung basiert auf Microsoft Power Automate Solution und verwendet Partner Center APIs.
 
@@ -39,13 +36,13 @@ Die Lösung basiert auf Microsoft Power Automate Solution und verwendet Partner 
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Installation des Salesforce-Pakets für benutzerdefinierte Microsoft-Felder 
 
-Um die Empfehlungen über Partner Center und Salesforce CRM hinweg zu synchronisieren, muss die Power Automate Lösung microsoftspezifische Empfehlungsfelder eindeutig identifizieren. Diese Demarkation bietet Partnerverkäuferteams die Möglichkeit zu entscheiden, welche Empfehlungen sie für den Co-Selling mit Microsoft teilen möchten.
+Um die Empfehlungen über Partner Center und Salesforce CRM hinweg zu synchronisieren, muss die Power Automate Lösung microsoftspezifische Empfehlungsfelder eindeutig identifizieren. Diese Demarzierung bietet Partnerverkäuferteams die Möglichkeit zu entscheiden, welche Empfehlungen sie für den Co-Selling mit Microsoft teilen möchten.
 
-1. Aktivieren Sie in Salesforce **Notizen,** und fügen Sie sie der Liste der Verkaufschancen hinzu. 
+1. Aktivieren Sie in Salesforce **Notizen,** und fügen Sie sie der Liste mit den Verkaufschancen hinzu. 
 [Verweis](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
 2. Aktivieren Sie **Opportunity-Teams,** indem Sie die folgenden Schritte ausführen: 
-    - Verwenden Sie im Setup das Feld **Schnellsuche,** um die Einstellungen des Opportunity-Teams zu suchen.
+    - Verwenden Sie im Setup das Feld **Schnellsuche,** um nach Opportunity Team Settings zu suchen.
     - Definieren Sie die Einstellungen nach Bedarf.
 [Verweis](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
@@ -58,7 +55,7 @@ Um die Empfehlungen über Partner Center und Salesforce CRM hinweg zu synchronis
 
 ## <a name="best-practice-test-before-you-go-live"></a>Bewährte Methode: Testen, bevor Sie live gehen
 
-Bevor Sie die Power Automate Lösung in der Produktionsumgebung installieren, konfigurieren und anpassen, stellen Sie sicher, dass Sie die Lösung auf einer STAGING-CRM-Instanz testen.
+Bevor Sie die Power Automate Lösung in der Produktionsumgebung installieren, konfigurieren und anpassen, müssen Sie die Lösung auf einer STAGING-CRM-Instanz testen.
 
 - Installieren Sie Microsoft Power Automate Lösung in einer Stagingumgebung/CRM-Instanz.
 
@@ -76,11 +73,11 @@ Bevor Sie die Power Automate Lösung in der Produktionsumgebung installieren, ko
 
 3. Wählen **Sie in** der linken Navigationsleiste Lösungen aus.
 
-4. Wählen Sie **im oberen Menü den Link AppSource** öffnen aus.
+4. Wählen Sie im oberen Menü den Link **AppSource** öffnen aus.
 
    :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Öffnen von AppSource":::
 
-5. Suchen Sie **Partner Center Popupbildschirm nach Empfehlungsconnectors** für Salesforce.  
+5. Suchen Sie **Partner Center Popupbildschirm nach** Connectors für Empfehlungen für Salesforce.  
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
@@ -109,7 +106,7 @@ Bevor Sie die Power Automate Lösung in der Produktionsumgebung installieren, ko
     - Partner Center Benutzer mit Administratoranmeldeinformationen für Empfehlungen
     - Partner Center-Ereignisse
     - CRM-Administrator mit den Power Automate Flows in der Lösung.
-4. Klicken Sie in der linken Navigationsleiste auf **Verbindungen,** und wählen Sie in der Liste die Lösung "Partner Center Empfehlungen" aus.
+4. Klicken Sie auf der linken Navigationsleiste auf **Verbindungen,** und wählen Sie in der Liste die Lösung "Partner Center Empfehlungen" aus.
 
 5. Erstellen Sie eine Verbindung, indem Sie auf **Verbindung erstellen** klicken.
 
@@ -129,11 +126,11 @@ Bevor Sie die Power Automate Lösung in der Produktionsumgebung installieren, ko
 
 ### <a name="edit-the-connections"></a>Bearbeiten der Verbindungen
 
-1. Kehren Sie zur Seite Lösungen zurück, und wählen Sie **Standardlösung** aus.  Wählen Sie **Verbindungsverweis (Vorschau)** aus, indem Sie auf **Alle** klicken.
+1. Kehren Sie zur Seite Projektmappen zurück, und wählen Sie **Standardlösung** aus.  Wählen Sie **Verbindungsverweis (Vorschau)** aus, indem Sie auf **Alle** klicken.
  
 :::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Connectorbearbeitung starten":::
 
-2. Bearbeiten Sie die einzelnen Verbindungen einzeln, indem Sie auf das Symbol mit den drei Punkten klicken. Fügen Sie die relevanten Verbindungen hinzu.
+2. Bearbeiten Sie die einzelnen Verbindungen einzeln, indem Sie auf das Symbol mit drei Punkten klicken. Fügen Sie die relevanten Verbindungen hinzu.
 
 :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Bearbeiten von Connectors":::
 
@@ -183,7 +180,7 @@ Mit Partner Center Webhook-APIs können Sie sich für Ressourcenänderungsereign
 
     2. **Zu registrierende Ereignisse:**"Empfehlung erstellt" und "Empfehlung aktualisiert"
 
-    3. **Vorhandene Triggerendpunkte überschreiben, sofern vorhanden:** Ja (Dadurch werden alle vorhandenen Endpunkte überschrieben.)
+    3. **Vorhandene Triggerendpunkte überschreiben, falls vorhanden:** Ja (Dadurch werden alle vorhandenen Endpunkte überschrieben.)
 
 11. Wählen Sie **Ausführen** und dann **Fertig aus.**
 
@@ -209,7 +206,7 @@ Mehrere Schritte der einzelnen Power Automate Flows können je nach Ihren Anford
 
    1. Um CRM-Feldzuordnungen für Updateereignisse anzupassen, wählen Sie den Schritt "(Bereich) Lead oder Verkaufschance synchronisieren" aus.
 
-   2. Wählen Sie If it es a update to an opportunity (Wenn es sich um **ein Update einer Verkaufschance) und dann um .** Wählen Sie den unteren Schritt aus, falls **ja,** und erweitern Sie dann If **difference between the opportunity objects in Partner Center and CRM (Wenn** Unterschied zwischen den Opportunityobjekten in Partner Center CRM) und dann .  
+   2. Wählen Sie If it es a update to an opportunity (Wenn es sich um **ein Update einer Verkaufschance) und dann um .** Wählen Sie den unteren Schritt **aus,** falls ja, und erweitern Sie **if difference between the opportunity objects in Partner Center and CRM (Wenn** Unterschied zwischen den Opportunityobjekten in Partner Center CRM) und dann .  
 
    3. Wählen Sie **Bei Ja** gefolgt von Update existing **opportunity (Vorhandene Verkaufschance aktualisieren) aus.**
 
@@ -236,13 +233,13 @@ Mehrere Schritte der einzelnen Power Automate Flows können je nach Ihren Anford
 Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Feldzuordnungshandbuch bearbeiten.
 
 
-## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>End-to-End-Synchronisierung bidirektionaler Co-Selling-Empfehlungen
+## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Bidirektionale End-to-End-Co-Selling-Empfehlungssynchronisierung
 
 Nachdem Sie die Power Automate Lösung installiert, konfiguriert und angepasst haben, können Sie die Synchronisierung von Co-Selling-Empfehlungen zwischen Salesforce CRM und Partner Center testen.
 
 ### <a name="pre-requisites"></a>Voraussetzungen
 
-Um die Empfehlungen über Partner Center und Salesforce CRM hinweg zu synchronisieren, muss die Power Automate Lösung microsoftspezifische Empfehlungsfelder eindeutig abgrenzen. Diese Identifizierung bietet Ihren Verkäuferteams die Möglichkeit zu entscheiden, welche Empfehlungen sie für den Co-Selling mit Microsoft teilen möchten.
+Um die Empfehlungen über Partner Center und Salesforce CRM hinweg zu synchronisieren, muss die Power Automate Lösung eindeutig Microsoft-spezifische Empfehlungsfelder abgrenzen. Diese Identifizierung bietet Ihren Verkäuferteams die Möglichkeit, zu entscheiden, welche Empfehlungen sie für den Co-Selling mit Microsoft teilen möchten.
 
 Eine Reihe von benutzerdefinierten Feldern ist als Teil Partner Center Entität Empfehlungssynchronisierung für Salesforce CRM-Lösung **Opportunity** verfügbar. Ein CRM-Administratorbenutzer muss einen separaten CRM-Abschnitt mit den benutzerdefinierten Feldern **Opportunity** erstellen.
 
@@ -254,11 +251,11 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
 - **Empfehlungslink:** Ein schreibgeschützter Link zur Empfehlung in Microsoft Partner Center
 
-- **How can Microsoft help**: Help required from Microsoft for the referral (Hilfe von Microsoft für die Empfehlung erforderlich)
+- How can Microsoft help : Help required from Microsoft for the referral **(Wie kann Microsoft helfen?**: Hilfe von Microsoft für die Empfehlung erforderlich)
 
 - **Produkte:** Liste der Produkte, die dieser Verkaufschance zugeordnet sind
 
-- **Audit**: Ein schreibgeschützter Überwachungspfad für die Synchronisierung mit Partner Center Empfehlungen
+- **Überwachung:** Ein schreibgeschützter Überwachungspfad für die Synchronisierung mit Partner Center Empfehlungen
 
 ### <a name="scenarios"></a>Szenarien:
 
@@ -284,11 +281,11 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
 2. Empfehlungssynchronisierung, wenn die Empfehlung in Microsoft Partner Center erstellt oder aktualisiert und in der Salesforce CRM-Umgebung synchronisiert wird:
 
-    1. Melden Sie sich bei Ihrem [Partner Center-Dashboard an.](https://partner.microsoft.com/dashboard/home)
+    1. Melden Sie sich bei Ihrem [Partner Center dashboard an.](https://partner.microsoft.com/dashboard/home)
 
-    2. Wählen **Sie im menü auf** der linken Seite die Option Empfehlungen aus.
+    2. Wählen **Sie im menü** auf der linken Seite die Option Empfehlungen aus.
 
-    3. Erstellen Sie eine neue Co-Sell-Empfehlung aus Partner Center indem Sie auf die Option "Neuer Deal" klicken.
+    3. Erstellen Sie eine neue Co-Sell-Empfehlung aus Partner Center, indem Sie auf die Option "Neuer Deal" klicken.
 
     4. Melden Sie sich bei Ihrer Salesforce CRM-Umgebung an.
 

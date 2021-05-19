@@ -1,5 +1,5 @@
 ---
-title: Durchsetzung des Kreditlimits
+title: Erzwingung des Kreditlimits
 ms.topic: how-to
 ms.date: 05/11/2021
 description: Erfahren Sie mehr über Ihr Kreditlimit und seine Berechnung. Enthält häufig gestellte Fragen.
@@ -9,24 +9,22 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf0d3c38b301c363a4a990db5258cf2a3f30d487
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109819208"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148107"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Erzwingung von Kreditlimits (CREDIT Limit Enforcement, CLE)
 
-**Geeignete Rollen**
-
-- Abrechnungsadministrator
+**Geeignete Rollen:** Abrechnungsadministrator
 
 ## <a name="your-credit-limit-and-how-it-works"></a>Ihr Guthabenlimit und seine Funktionsweise
 
 Ihr Guthabenlimit ist der maximale Betrag (in US-Dollar), den Sie als Partner für den Erwerb von Produkten oder Abonnements in Partner Center. Wenn Sie Ihr Guthabenlimit überschreiten, können Sie erst dann neue Käufe tätigen, wenn eine ausreichende Zahlung erfolgt ist. Ihre vorhandenen Abonnements bleiben ohne Unterbrechung erhalten.
 
-Guthabenlimits gelten für Angebote in Azure-Plänen, Azure-Reservierungen, Software, Marketplace, Azure 145 P, Office und Dynamics-Produkten. Guthabenlimits gelten nicht für Verlängerungen und den fortlaufenden Verbrauch.
+Guthabenlimits gelten für Angebote in Azure-Plänen, Azure-Reservierungen, Software, Marketplace, Azure 145 P, Office und Dynamics-Produkten. Guthabenlimits gelten nicht für Verlängerungen und den laufenden Verbrauch.
 
 Wir weisen Ihr Guthabenlimit während des Onboardingzeitraums auf Mandantenebene zu. Wir stützen uns auf Ihren prognostizierten Umsatz, Ihre Kaufprognose und Ihren Zahlungsverlauf. Anschließend verwenden wir die folgende Formel, um Ihren verfügbaren Saldo zu berechnen:
 

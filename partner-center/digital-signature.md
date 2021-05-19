@@ -9,24 +9,18 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284297"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147189"
 ---
 # <a name="view-digitally-signed-invoices"></a>Anzeigen digital signierter Rechnungen
 
-**Zielgruppe**
+**Gilt für**: Partner Center | Partner Center Indien
 
-- Partner Center Indien
-
-**Geeignete Rollen**
-
-- Kontoadministrator
-- Abrechnungs-Agent
-- Vertriebsbeauftragter
+**Geeignete Rollen:** Kontoadministrator-| Abrechnungs-Agent| Vertriebs-Agent
 
 Partner in Indien sehen nun, dass Microsoft Rechnungen digital signiert hat. Sie müssen Adobe Acrobat Reader Document Cloud (DC) verwenden, um eine Signatur anzeigen zu können.
 
@@ -36,7 +30,7 @@ Partner in Indien sehen nun, dass Microsoft Rechnungen digital signiert hat. Sie
 1. Wenn Sie den Auftrag in Partner Center erstellt haben, erhalten Sie eine digitale Kopie einer Rechnung per E-Mail. Wählen Sie die Rechnung aus, die in Adobe Acrobat Reader DC geöffnet wird.
 
 
-2. Am Oberen der Rechnung sollte Signiert sein, und alle **Signaturen sind gültig.**
+2. Oben auf der Rechnung sollte Signiert und alle Signaturen **gültig sein.**
  
  :::image type="content" source="images/digitalsig/digital1.png" alt-text="Beispielrechnung mit gültigem Signaturbenachrichtigungsbanner mit grünem Häkchen und einem Satz mit dem Hinweis, dass Signiert und alle Signaturen gültig sind.":::
 

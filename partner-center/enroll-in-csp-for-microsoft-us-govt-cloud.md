@@ -4,34 +4,30 @@ titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über die Anforderungen an das CSP-Programm für Partner, die sich für das Cloud Solution Provider-Programm für Microsoft Cloud für die US-Regierung registrieren möchten.
+description: Erfahren Sie mehr über die CSP-Programmanforderungen für Partner, die sich für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government.
 author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: e2b206b049050efa520099d74230d8535ac93793
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763356"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147172"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrieren für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government
 
-**Zielgruppe**
+**Gilt für**: Partner Center für Microsoft Cloud for US Government
 
-- Partner Center für Microsoft Cloud for US Government
-
-**Geeignete Rollen**
-
-- Globaler Administrator
+**Geeignete Rollen**: Globaler Administrator
 
 Microsoft-Partner können jetzt Cloudlösungen und -dienste von Microsoft an Bundesbehörden, staatliche und kommunale Einrichtungen sowie an Stammeseinrichtungen in den USA über das CSP-Programm (Cloud Solution Provider, Cloud-Lösungsanbieter) für Microsoft Cloud for US Government verkaufen.
 
 Microsoft Cloud for US Government bietet eine private, dedizierte und isolierte Instanz von Microsoft Azure, die die Anforderungen von US-Behörden an Datensicherheit, Datenschutz und Compliance erfüllt. Ihr Unternehmen muss die Qualifizierungskriterien von Microsoft zur Teilnahme am CSP-Programm für Microsoft Cloud for US Government erfüllen. Weitere Informationen finden Sie unter [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
-## <a name="before-you-begin"></a>Vorbereitung
+## <a name="before-you-begin"></a>Voraussetzungen
 
 Damit Sie sich für das CSP-Programm für Microsoft Cloud for US Government registrieren können, müssen wir uns zunächst vergewissern, dass Ihr Unternehmen die Anforderungen für den Verkauf an US-Behörden erfüllt. Füllen Sie vor Beginn des Registrierungsprozesses das [Formular zur Microsoft Government Cloud-Überprüfung](https://azuregov.microsoft.com/csp) aus, damit die Qualifikation Ihres Unternehmens überprüft werden kann. Nachdem wir die Qualifikation Ihres Unternehmens überprüft haben, stellen wir einen speziellen Azure AD-Mandanten (Azure Active Directory) für Microsoft Cloud for US Government bereit.  
 
@@ -65,7 +61,7 @@ Um ein Partner Center-Konto für CSP für Microsoft Cloud for US Government er
 
 1. Melden Sie sich über den Link in der Bewerbungsbestätigungs-E-Mail bei Partner Center für Microsoft Cloud for US Government an.
 
-2. Lesen Sie auf der Seite **Vereinbarung** die Nutzungsbedingungen, und wenn Sie zustimmen, wählen Sie akzeptieren aus, **und fahren** Sie mit der digitalen Signierung des Reseller Agreement für Microsoft Cloud für die US-Regierung fort. Das Erstellen Ihres Kontos kann mehrere Stunden dauern. Sie können sich für Microsoft Cloud für die US-Regierung von Partner Center abmelden und sich dann später wieder anmelden.
+2. Lesen Sie **auf der** Seite Vereinbarung die Bedingungen, und wenn Sie zustimmen, wählen Sie Akzeptieren aus, und setzen Sie die digitale Signatur des Handelspartnervertrags für Microsoft Cloud for US Government.  Das Erstellen Ihres Kontos kann mehrere Stunden dauern. Sie können sich von der Partner Center für Microsoft Cloud for US Government und dann später wieder anmelden.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>Schritt 4: Zuweisen von Benutzern zur Administrator-Agent-Rolle im Microsoft Azure-Verwaltungsportal für Microsoft Cloud for US Government
 
@@ -74,7 +70,7 @@ Microsoft Cloud for US Government bietet eine separate Instanz von Microsoft Az
 > [!NOTE]
 > Nachdem Sie Benutzer der Administrator-Agent-Rolle zugewiesen haben, können sie auf der Seite **Kunden** auf Ihre Kundenliste zugreifen und [neue Kunden hinzufügen](add-a-new-customer.md).
 
-1. Melden Sie sich beim Microsoft Azure Admin-Portal unter an [https://portal.azure.us/](https://portal.azure.us/) .
+1. Melden Sie sich beim Microsoft Azure-Verwaltungsportal unter [https://portal.azure.us/](https://portal.azure.us/) an.
 
 2. Weisen Sie die Administrator-Agent-Rolle den entsprechenden Benutzern in Ihrer Organisation zu. Hierzu müssen die Benutzer der integrierten Gruppe **AdminAgent** hinzugefügt werden. Weitere Informationen finden Sie unter [Hinzufügen oder Entfernen von Gruppenmitgliedern mithilfe von Azure Active Directory](/azure/active-directory/active-directory-groups-members-azure-portal).
 

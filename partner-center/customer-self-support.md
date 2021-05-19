@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 89d7cf65d34911cc4098206dbc70d72cd2998e7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284178"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147461"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Selbstsupport des Kunden über Microsoft Office 365 Admin Center oder über die Azure-Portal
 
-**Zielgruppe**
+**Gilt für**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partner Center für Microsoft Cloud for US Government
-
-**Geeignete Rollen**
-
-- Helpdesk-Agent
+**Geeignete Rollen:** Helpdesk-Agent
 
 Kunden können sich bei ihrem eigenen Microsoft Office 365 Admin Center oder beim Azure-Portal anmelden, um ihre eigenen Konten zu verwalten:
 

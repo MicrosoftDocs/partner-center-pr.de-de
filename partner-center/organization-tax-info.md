@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen einer Umsatzsteuer-ID für Geschäfts Steuern
+title: Hinzufügen einer USt-ID für Geschäftssteuer
 ms.topic: article
 ms.date: 12/04/2020
 ms.service: partner-dashboard
@@ -9,26 +9,20 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132756"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146934"
 ---
-# <a name="add-a-vat-id-to-your-billing-profile"></a>Fügen Sie dem Abrechnungs Profil eine Umsatzsteuer-ID hinzu.
+# <a name="add-a-vat-id-to-your-billing-profile"></a>Hinzufügen einer USt-ID zu Ihrem Abrechnungsprofil
 
-**Geeignete Rollen**
+**Geeignete Rollen:** globale | Benutzerverwaltungsadministrator | Abrechnungsadministrator-| | des Administrator-Agents Vertriebsmitarbeiter
 
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
-- Abrechnungsadministrator
-- Administrator-Agent
-- Vertriebsbeauftragter
+Sie können das folgende Verfahren verwenden, um Ihr Abrechnungsprofil so zu aktualisieren, dass es Ihre USt-ID enthält. (Beachten Sie, dass dies in Ihrem Land oder ihrer Region möglicherweise nicht möglich ist.)
 
-Sie können das folgende Verfahren verwenden, um Ihr Abrechnungs Profil so zu aktualisieren, dass es Ihre Umsatzsteuer-ID enthält. (Beachten Sie, dass dies in Ihrem Land oder Ihrer Region möglicherweise nicht möglich ist.)
-
-## <a name="update-your-billing-profile-with-your-vat-id"></a>Aktualisieren Ihres Abrechnungs Profils mit ihrer Umsatzsteuer-ID
+## <a name="update-your-billing-profile-with-your-vat-id"></a>Aktualisieren Ihres Abrechnungsprofils mit Ihrer USt-ID
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 2. Wählen Sie im Menü **Einstellungen** (Zahnradsymbol) die Option **Kontoeinstellungen** aus.

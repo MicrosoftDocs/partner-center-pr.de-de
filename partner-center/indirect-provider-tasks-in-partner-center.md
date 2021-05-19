@@ -1,6 +1,6 @@
 ---
-title: Partner mit indirekten Wiederverkäufern in CSP
-description: Als indirekter Anbieter oder Verteiler erfahren Sie mehr darüber, wie Sie eine Partnerschaft mit indirekten Wiederverkäufern durcharbeiten. Dies schließt Aufgaben ein, die Sie im Partner Center ausführen können.
+title: Partner mit indirekten Vertriebspartnern in CSP
+description: Erfahren Sie, wie Sie als indirekter Anbieter oder Verteiler expandieren, indem Sie mit indirekten Vertriebspartnern zusammenarbeiten. Dies schließt Aufgaben ein, die Sie in Partner Center ausführen können.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,25 +9,20 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178951"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146679"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
-- Administrator-Agent
-- Vertriebsbeauftragter
+**Geeignete Rollen:** globale | | des Benutzerverwaltungsadministrators | des Administrator-Agents Vertriebsmitarbeiter
 
 Angesichts der Komplexität und hohen Dynamik des Technologiemarkts möchten sich Kunden mit Technologielösungen einen Wettbewerbsvorteil verschaffen. In einem solchen Umfeld ist es für Partner sinnvoll, in Partner-zu-Partner-Programme zu investieren, um ihr Angebot zu erweitern und den Kunden noch mehr Möglichkeiten zu bieten.
 
-Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre Lösungen auch Kunden außerhalb ihrer Märkte und Regionen anbieten. Als etablierter Technologieanbieter sind Sie gut positioniert, um Ihre Route zum Markt zu bringen. Partner mit indirekten Wiederverkäufern im CSP-Programm (Cloud Solution Provider), um sich mit anderen Partnern zu verbinden, neue Lösungen auf den Markt zu bringen und Kunden die Übernahme von Clouddiensten voranzutreiben.
+Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre Lösungen auch Kunden außerhalb ihrer Märkte und Regionen anbieten. Als etablierter Technologieanbieter sind Sie gut positioniert, um den Weg zum Markt zu finden. Arbeiten Sie mit indirekten Handelspartnern im CSP-Programm (Cloud Solution Provider) zusammen, um eine Verbindung mit anderen Partnern herzustellen, neue Lösungen auf den Markt zu bringen und die Einführung von Clouddiensten durch Kunden zu fördern.
 
 Im (zweistufigen) Modell mit indirektem Anbieter und Vertriebspartner bieten Sie Kunden in Zusammenarbeit mit indirekten Vertriebspartnern Cloudlösungen von Microsoft an. Sie kaufen Produkte und Abonnements direkt von Microsoft und bieten diese Lösungen dann den Kunden über Vertriebspartner an.
 
@@ -41,13 +36,13 @@ Als indirekter Anbieter verwenden Sie das Partner Center für Folgendes:
 
 - Verwalten Ihrer Beziehungen mit Microsoft, Kunden und indirekten Vertriebspartnern an einem zentralen Ort
 
-Informationen dazu, was erforderlich ist, um als indirekter Reseller an dem CSP-Programm teilzunehmen, finden [Sie unter Starten als indirekter Reseller](https://partner.microsoft.com/membership/cloud-solution-provider/) auf der [Microsoft Partner Network-Website](https://partner.microsoft.com).
+Informationen dazu, was erforderlich ist, um als indirekter Vertriebspartner am CSP-Programm teilzunehmen, finden Sie unter [Erste Schritte als indirekter Vertriebspartner](https://partner.microsoft.com/membership/cloud-solution-provider/) auf der [Microsoft Partner Network-Website.](https://partner.microsoft.com)
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Aufgaben indirekter Anbieter im Partner Center
 
 Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vertriebspartnern und Kunden im Partner-Dashboard folgende Schritte aus. Die Schritte 2 und 3 werden unten ausführlicher beschrieben.
 
-1. Überprüfen Sie das Profil Ihres Unternehmens in [der Liste der offiziellen indirekten Anbieter von Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
+1. Überprüfen Sie das Profil Ihres Unternehmens in der [offiziellen Liste indirekter Microsoft-Anbieter.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
    - Wenden Sie sich an Ihren Microsoft-Vertreter, falls für Ihr Unternehmen Änderungen am Profil für indirekte Anbieter vorgenommen werden müssen.
 
@@ -70,9 +65,9 @@ Nach Abschluss dieser Schritte können Sie Ihre Vertriebspartnerschaften im Men�
 
 Um mit indirekten Vertriebspartnern im Partner Center interagieren und Transaktionen abwickeln zu können, müssen Sie eine Partnerschaft mit ihnen einrichten. Durch eine Partnerschaft mit einem indirekten Vertriebspartner können Sie und der Vertriebspartner die gleichen Kunden bedienen.
 
-Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaftsanfrage an den Vertriebspartner. Stellen Sie sicher, dass die e-Mail-Adresse des Wiederverkäufers vorhanden ist, bevor Sie loslegen.
+Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaftsanfrage an den Vertriebspartner. Stellen Sie sicher, dass Sie die E-Mail-Adresse des Handelspartners zur Hand haben, bevor Sie beginnen.
 
-Fügen Sie auf der Seite mit den Abonnementdetails im Feld Reseller (MPN-ID) den Vertriebspartner hinzu, mit dem Sie zusammenarbeiten möchten. Stellen Sie sicher, dass Sie die MPN-ID verwenden, die mit dem Partnerstandort Konto des Wiederverkäufers verknüpft ist, das Sie für die Einbindung in Partner Center Dadurch wird sichergestellt, dass der Wiederverkäufer die entsprechenden Anreize erhält und über eine aktive Microsoft-Partner Vereinbarung zum Einbinden der Transaktion verfügt.
+Fügen Sie auf der Seite mit den Abonnementdetails im Feld Reseller (MPN-ID) den Vertriebspartner hinzu, mit dem Sie zusammenarbeiten möchten. Achten Sie darauf, dass Sie die MPN-ID verwenden, die dem Partnerstandortkonto des Handelspartners zugeordnet ist, das er zum Onboarding für Partner Center verwendet hat. Dadurch wird sichergestellt, dass der Vertriebspartner die entsprechenden Incentives erhält und über eine aktive Microsoft Partner-Vereinbarung für die Transaktion verfügen.
 
 1. Wählen Sie im **Partner Center**-Menü die Option für **indirekte Vertriebspartner** aus.
 
@@ -82,7 +77,7 @@ Fügen Sie auf der Seite mit den Abonnementdetails im Feld Reseller (MPN-ID) den
     > [!IMPORTANT]  
     >  Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er speziell auf Ihr Partner Center-Konto zugeschnitten ist.
 
-4. Nachdem der Reseller Ihre Partnerschaft angenommen hat, werden Sie in der Liste der indirekten Händler angezeigt, und Sie haben folgende Möglichkeiten:
+4. Nachdem der Vertriebspartner Ihre Partnerschaftsanforderung akzeptiert hat, wird er in Ihrer Liste indirekter Vertriebspartner angezeigt. Anschließend haben Sie folgende Möglichkeiten:
 
    - Hinzufügen neuer Kunden in ihrem Namen
 
@@ -90,7 +85,7 @@ Fügen Sie auf der Seite mit den Abonnementdetails im Feld Reseller (MPN-ID) den
 
    - Zuordnen von Vertriebspartnern zu einem Abonnement, damit sie dieses im Auftrag des Kunden verwalten können, der es gekauft hat
 
-   - Festlegen der Kunden als Support Kontakt für bestimmte Abonnements
+   - Legen Sie diese als Supportkontakt des Kunden für bestimmte Abonnements ab.
 
 Abhängig davon, inwieweit der Vertriebspartner Zugriff haben und eingebunden sein soll, empfiehlt es sich unter Umständen, einen oder mehrere der im Anschluss beschriebenen Schritte auszuführen.
 
@@ -98,43 +93,43 @@ Wenn Sie sich bei bestehenden Abonnements für die Zusammenarbeit mit einem indi
 
 - Fügen Sie auf der Seite mit den Abonnementdetails im Feld **Reseller (MPN-ID)** den Vertriebspartner hinzu, mit dem Sie zusammenarbeiten möchten. Dadurch wird sichergestellt, dass der Vertriebspartner die entsprechenden Incentives erhält.
 
-| **So erreichen Sie dies** | **Aktion** | **Where** |
+| **Um dies zu erreichen** | **Aktion** | **Where** |
 |   ------------------   |   -------   |   -----   |
-| Aktivieren des Wiederverkäufers zum Verwalten des Kontos eines Kunden und zum Verwalten Ihrer Abonnements Administrator Berechtigungen | Zuordnen eines Vertriebspartners zu einem Kundenkonto beim Hinzufügen neuer Kunden | Auf der Seite **Neuer Kunde** |
+| Ermöglichen Sie es dem Handelspartner, das Konto eines Kunden zu verwalten, und verfügen Sie über Administratorberechtigungen zum Verwalten seiner Abonnements. | Zuordnen eines Vertriebspartners zu einem Kundenkonto beim Hinzufügen neuer Kunden | Auf der Seite **Neuer Kunde** |
 | Dem Vertriebspartner ermöglichen, das Azure-Konto eines Kunden zu verwalten|Zuordnen eines Vertriebspartners zu einem Azure-Kundenkonto beim Hinzufügen neuer Kunden|Wählen Sie im **Azure Service-Portal** die Option [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Vertriebspartner eine **Mandanten-Besitzer**-Berechtigungen zu erteilen|
 | Zuschreiben von Incentives für Vertriebspartner | Ordnen Sie den Vertriebspartner dem (neuen oder vorhandenen) Abonnement zu. | Auf der Seite **Neues Abonnement** |
-| Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste der **designierten Supportkontakte** aus. | Auf der Detailseite des Abonnements: Wählen Sie den Kunden von Ihrer **Kunden** Seite aus, und wählen Sie dann auf der Seite **Abonnements** des Kunden das Abonnement aus. |
+| Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste der **designierten Supportkontakte** aus. | Auf der Detailseite des Abonnements: Wählen Sie auf der Seite **Kunden** den Kunden aus, und wählen Sie dann auf der Seite **Abonnements** des Kunden das Abonnement aus. |
 
 ## <a name="remove-partnership-with-indirect-resellers"></a>Entfernen einer Partnerschaft mit indirekten Handelspartnern
 
-Führen Sie die folgenden Schritte aus, um die Partnerschaft mit dem vorhandenen indirekten Reseller zu entfernen. 
+Führen Sie die folgenden Schritte aus, um die Partnerschaft mit einem vorhandenen indirekten Handelspartner zu entfernen. 
 
-1. Wählen Sie im Menü Partner Center auf dem Dashboard **indirekte Reseller** aus. 
+1. Wählen Sie im Menü Partner Center auf dem Dashboard **indirekte Vertriebspartner** aus. 
 
-2. Wählen Sie auf der Seite **indirekte Reseller** die Option **Partnerschaft entfernen** aus. Eine Meldung wird angezeigt, in der Sie zur Bestätigung aufgefordert werden. Wählen Sie **Ja** aus, um fortzufahren.
+2. Wählen Sie auf der Seite **Indirekte Vertriebspartner** die Option **Partnerschaft entfernen** aus. Es wird eine Meldung angezeigt, in der Sie zur Bestätigung aufgefordert werden. Wählen Sie Ja aus, um **fortzufahren.**
 
-:::image type="content" source="images/ip-ir-relationship.png" alt-text="Partnerschaft entfernen":::
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Entfernen der Partnerschaft":::
 
 >[!IMPORTANT]
->Kunden, die dem indirekten Reseller zugeordnet sind, werden nicht entfernt. Alle gewährten delegierten Administratorrechte bleiben unverändert.
->Sie stellen dar, dass die Entscheidung, ihre Partnerschaft mit dem Partner zu unterbrechen, für einen legitimen geschäftlichen Zweck und in Übereinstimmung mit Ihrem Vertrag mit Ihrem Kunden oder Partner in gutem Glauben gemacht wurde, und Sie erklären sich damit einverstanden, Microsoft vor und gegen alle Ansprüche von Drittanbietern Gegenteiliges zu verteidigen und zu halten.
+>Kunden, die dem indirekten Vertriebspartner zugeordnet sind, werden nicht entfernt. Alle gewährten delegierten Administratorrechte bleiben unverändert.
+>Sie erklären, dass die Entscheidung, Ihre Beziehung mit dem Partner einzustellen, in gutem Einklang mit einem legitimen Geschäftszweck und in Übereinstimmung mit Ihrer Vereinbarung mit Ihrem Kunden oder Partner getroffen wurde, und Sie erklären sich damit einverstanden, Microsoft vor jeglichen Ansprüchen dritter Parteien zu schützen und schadlos zu halten.
 >Sie müssen Ihrem Kunden oder Partner eine rechtsgültige Kündigung zukommen lassen, wenn Ihre Vereinbarung dies erfordert. Dieses Tool generiert keine Kündigungshinweise an den Kunden oder Partner.
 
-3. Der indirekte Reseller, dessen Partnerschaft Sie entfernt haben, wird nicht in der Liste angezeigt.
-Abhängig von der Zugriffsebene und der Beteiligung möchten Sie möglicherweise mit dem indirekten Händler und dem Endkunden über diese Änderung kommunizieren.
+3. Der indirekte Wiederverkäufer, dessen Partnerschaft Sie entfernt haben, wird nicht in der Liste angezeigt.
+Abhängig von der Ebene des Zugriffs und der Beteiligung möchten Sie möglicherweise sowohl dem indirekten Vertriebspartner als auch dem Endkunden über diese Änderung kommunizieren.
 
 
 ## <a name="connect-with-customers"></a>Kontakt zu Kunden
 
-Wenn Sie neue Kunden gewinnen, müssen Sie im Partner Center entsprechende Konten erstellen. Wenn Sie ein neues Kundenkonto hinzufügen, können Sie einen bestimmten Reseller zum Verwalten des Kontos und zum Verwalten der Abonnements und Dienste der Kunden in Ihrem Auftrag festlegen.
+Wenn Sie neue Kunden gewinnen, müssen Sie im Partner Center entsprechende Konten erstellen. Wenn Sie ein neues Kundenkonto hinzufügen, können Sie einen bestimmten Handelspartner festlegen, der das Konto verwaltet und die Abonnements und Dienste der Kunden in deren Namen verwaltet.
 
-Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren Sie dadurch die Konto- und Abonnementverwaltung an diesen Vertriebspartner. Dies bedeutet, dass der Reseller Administrator Zugriff auf die Abonnements und Dienste des Kunden hat und diese im Auftrag des Kunden verwalten kann.
+Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren Sie dadurch die Konto- und Abonnementverwaltung an diesen Vertriebspartner. Dies bedeutet, dass der Vertriebspartner über Administratorzugriff auf die Abonnements und Dienste des Kunden verfügt und diese im Auftrag des Kunden verwalten kann.
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Hinzufügen neuer Kunden und Zuordnen zu indirekten Vertriebspartnern
 
 1. Wählen Sie im **Partner Center**-Menü die Option für **indirekte Vertriebspartner** aus.
 
-2. Suchen Sie den indirekten Vertriebspartner, dem Sie neue Kunden zuweisen möchten, und wählen Sie dann **Neuen Kunden hinzufügen** aus. Beachten Sie, dass der indirekte Vertriebspartner im Formular mit den Kundendetails bereits für Sie ausgewählt ist. Geben Sie die Details des Kunden an, und klicken Sie dann auf **Weiter: Abonnements**.
+2. Suchen Sie den indirekten Vertriebspartner, dem Sie neue Kunden zuweisen möchten, und wählen Sie dann **Neuen Kunden hinzufügen** aus. Beachten Sie, dass der indirekte Vertriebspartner im Formular mit den Kundendetails bereits für Sie ausgewählt ist. Geben Sie die Details des Kunden an, und wählen Sie dann **Weiter: Abonnements aus.**
 
 3. Wählen Sie auf der Seite **Neues Abonnement** die Abonnements aus, die der Kunde kaufen möchte, und geben Sie die Anzahl der benötigten Lizenzen ein.
 
@@ -145,23 +140,23 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
 6. Nach Übermittlung des Auftrags wird die Seite **Bestätigung** angezeigt. Unter **Einrichtungsinfos** werden der Name des Administratorbenutzerkontos und das temporäre Kennwort angezeigt. Notieren Sie sich den Namen des Benutzerkontos und das Kennwort, um sie dem neuen Kunden senden zu können.
 
     > [!IMPORTANT]  
-    > Notieren Sie sich den Benutzerkonto Namen und das Kennwort, da Sie nicht erneut auf diese Informationen zugreifen können, nachdem Sie diese Seite geschlossen haben.
+    > Notieren Sie sich den Namen und das Kennwort des Benutzerkontos, da Sie nach dem Schließen dieser Seite nicht mehr auf diese Informationen zugreifen können.
 
-7. Wählen Sie **Fertig** aus. Der neue Kunde wird in Ihrer Kundenliste angezeigt und ist dem indirekten Vertriebspartner zugeordnet. Der Reseller verfügt jetzt über Administrator Zugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
+7. Wählen Sie **Fertig** aus. Der neue Kunde wird in Ihrer Kundenliste angezeigt und ist dem indirekten Vertriebspartner zugeordnet. Der Wiederverkäufer hat jetzt Administratorzugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Hinzufügen neuer Abonnements zu Kundenkonten
 
-Wenn Kunden neue Abonnements erwerben, vorhandene aktualisieren oder zusätzliche Lizenzen erwerben möchten, nehmen Sie diese Änderungen im Konto des Kunden über das Microsoft 365-Portal vor. Dies ist in der Azure-Portal nicht möglich.
+Wenn Kunden neue Abonnements erwerben, vorhandene oder zusätzliche Lizenzen erwerben möchten, nehmen Sie diese Änderungen im Konto des Kunden über das Microsoft 365 vor. Dies ist in der Folgenden nicht Azure-Portal.
 
 1. Wählen Sie im Menü **Partner Center** die Option **Kunden** aus.
 
-2. Suchen Sie den Kunden, dessen Konto Sie ändern möchten. Sie können die Liste nach indirektem Vertriebspartner filtern, um Ihre Auswahl einzugrenzen. Erweitern Sie den Datensatz des Kunden, indem Sie den Pfeil nach unten auswählen, und wählen **Sie dann Abonnement hinzufügen** aus.
+2. Suchen Sie den Kunden, dessen Konto Sie ändern möchten. Sie können die Liste nach indirektem Vertriebspartner filtern, um Ihre Auswahl einzugrenzen. Erweitern Sie den Datensatz des Kunden, indem Sie auf den Pfeil nach unten klicken und dann **Abonnement hinzufügen auswählen.**
 
 3. Wählen Sie auf der Seite **Neues Abonnement** die gewünschten Abonnements aus, und geben Sie die Anzahl von Lizenzen ein, die der Kunde kaufen möchte.
 
-4. Um das Abonnement einem Reseller zuzuordnen, wählen Sie den Namen des Wiederverkäufers aus der Liste aus, und wählen Sie dann über **Mitteln** aus. Wenn Sie den Vertriebspartner dem Abonnement zuordnen, kann er ggf. von Incentives profitieren.
+4. Um das Abonnement einem Vertriebspartner zu zuordnen, wählen Sie den Namen des Wiederverkäufers aus der Liste aus, und wählen Sie dann **Übermitteln aus.** Wenn Sie den Vertriebspartner dem Abonnement zuordnen, kann er ggf. von Incentives profitieren.
 
-5. Die neuen Abonnements werden in der Liste der Kunden Abonnements angezeigt.
+5. Die neuen Abonnements werden in der Abonnementliste des Kunden angezeigt.
 
 6. Wenn sich der Vertriebspartner um Kundensupportanfragen für das neue Abonnement kümmern soll, wählen Sie zuerst das Abonnement und dann den Vertriebspartner in der Liste der **designierten Supportkontakte** aus. 
 
@@ -169,7 +164,7 @@ Wenn Kunden neue Abonnements erwerben, vorhandene aktualisieren oder zusätzlich
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-Hier finden Sie Antworten auf Ihre Fragen zum Microsoft-Partner Vertrag
+Hier finden Sie Antworten auf Ihre Fragen zur Microsoft Partner-Vereinbarung
 
 - [Wie indirekte Anbieter ihren Wiederverkäufern bei der Übernahme der Microsoft Partner-Vereinbarung helfen können – häufig gestellte Fragen](mpa-indirect-provider-faq.md)
 

@@ -1,6 +1,6 @@
 ---
-title: Unterstützung für mehrere Kanäle für Kunden
-description: In einigen Fällen möchten Kunden möglicherweise ein Abonnement bereitstellen und unterstützen, das Sie an anderer Stelle erworben haben.
+title: Unterstützung über mehrere Kanäle für Kunden
+description: In einigen Fällen möchten Kunden Sie möglicherweise einstellen, um ein Abonnement, das sie an anderer Stelle erworben haben, zu bereitstellen und zu unterstützen.
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
@@ -9,35 +9,29 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9bf577b6869a8b48215cb404df872d79f38e6a5e
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: bd0bb946c2f59f50c27aff58569d497bc21bf30b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441981"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146407"
 ---
-# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Unterstützung für mehrere Kanäle: Verwenden anderer Partner zur Unterstützung von Kunden Abonnements, die an anderer Stelle
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Multichannel-Support: Verwenden anderer Partner zur Unterstützung von Kundenabonnements, die an anderer Stelle erworben wurden
 
-**Zielgruppe**
+**Gilt für**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partner Center für Microsoft Cloud for US Government
+**Geeignete Rollen:** Globale Administratorrechte | Administratorrechte für | Vertriebs-Agent
 
-**Geeignete Rollen**
+Das Partner Center-Feature unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und Unterstützung eines Abonnements einstellen möchte, das er an anderer Stelle erworben hat. Dieser Multichannel-Support gilt in folgenden Fällen:
 
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
-- Vertriebsbeauftragter
+- Bereits erworbene Abonnements direkt bei Microsoft oder über die Advisor-, Open- oder EA-Programme.
 
-Das Multichannel-Feature von Partner Center unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und Unterstützung eines Abonnements beauftragen möchte, das Sie an anderer Stelle erworben haben. Dieser Multichannel-Support gilt in folgenden Fällen:
-
-- Abonnements wurden bereits direkt von Microsoft oder über die Programme Advisor, Open oder EA erworben.
-
-- Der Kunde hat die Abonnements von einem Drittanbieter gekauft, der weder dem Programm für Cloud-Lösungsanbieter angehört noch ein Microsoft Syndication-Partner ist. Kunden können vorhandene Lizenz basierte Abonnements nicht auf einen anderen Partner im Cloud Solution Provider-Programm umstellen. Sie müssen bis zum Ende Ihres Abonnementzeitraums warten oder vor dem Verschieben abbrechen.
+- Der Kunde hat die Abonnements von einem Drittanbieter gekauft, der weder dem Programm für Cloud-Lösungsanbieter angehört noch ein Microsoft Syndication-Partner ist. Kunden können vorhandene lizenzbasierte Abonnements nicht auf einen anderen Partner im Cloud Solution Provider-Programm umschalten. Sie müssen bis zum Ende ihres Abonnementzeitraums warten oder kündigen, bevor sie verschieben.
 
 |So unterstützen Sie diese Dienste  | Gehen Sie folgendermaßen vor: |
 |:---------|:---------|
-|Lizenzbasierte Dienste    | Um Support für Multichannel-Konten bereitstellen zu können, müssen Sie vom Kunden die Berechtigungen zum Verwalten seiner Abonnements anfordern. Weitere Informationen finden Sie unter [Anfordern einer Reseller-Beziehung mit einem Kunden](request-a-relationship-with-a-customer.md).   |
-|Nutzungsbasierte Dienste     |  Für einen Kunden, der bereits über ein Abonnement für die Microsoft Azure von einem anderen Channel wie Advisor, Open oder EA verfügt, müssen Sie in Partner Center ein neues Azure-Abonnement erstellen, die Abonnement Details manuell eingeben und dann die einzelnen Dienste oder das gesamte Abonnement abbrechen. Azure CSP kann gemeinsam mit verschiedenen Kanälen vorhanden sein.<br/><br/> Für Kunden, die bereits über ein Abonnement für Microsoft Azure von einem anderen Partner verfügen, können Sie beispielsweise Azure-Dienste auf den anderen Partner übertragen.  Weitere Informationen finden Sie unter [Übertragen von Azure-Abonnements auf einen anderen Partner](switch-azure-subscriptions-to-a-different-partner.md). |
+|Lizenzbasierte Dienste    | Um Support für Multichannel-Konten bereitstellen zu können, müssen Sie vom Kunden die Berechtigungen zum Verwalten seiner Abonnements anfordern. Weitere Informationen finden Sie unter [Anfordern einer Handelspartnerbeziehung mit einem Kunden.](request-a-relationship-with-a-customer.md)   |
+|Nutzungsbasierte Dienste     |  Für einen Kunden, der bereits über ein Abonnement für Microsoft Azure über einen anderen Kanal wie Advisor, Open oder EA verfügt, müssen Sie in Partner Center ein neues Azure-Abonnement erstellen, die Abonnementdetails manuell eingeben und dann die einzelnen Dienste oder das gesamte Abonnement kündigen. Azure CSP kann mit unterschiedlichen Kanälen koexistent sein.<br/><br/> Für Kunden, die bereits über ein Abonnement für Microsoft Azure von einem anderen Partner verfügen, können Sie beispielsweise Azure-Dienste auf den anderen Partner übertragen.  Weitere Informationen finden Sie unter [Übertragen von Azure-Abonnements auf einen anderen Partner](switch-azure-subscriptions-to-a-different-partner.md). |
 
 > [!IMPORTANT]  
 > Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft ständig die Richtlinien und Funktionen aller Programme. Alle Ankündigungen zu künftigen Releases werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center.
@@ -46,6 +40,6 @@ Das Multichannel-Feature von Partner Center unterstützt Szenarien, in denen ein
 
 [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
 
-- Wenn Sie ein indirekter Reseller sind, finden Sie weitere Informationen unter [Partner mit indirekten Anbietern](indirect-reseller-tasks-in-partner-center.md).
+- Wenn Sie indirekter Vertriebspartner sind, finden Sie weitere Informationen unter [Partner with indirect providers (Partner mit indirekten Anbietern).](indirect-reseller-tasks-in-partner-center.md)
 
-- Wenn Sie ein indirekter Anbieter sind, finden Sie weitere Informationen unter [Partner mit indirekten Vertriebspartnern](indirect-provider-tasks-in-partner-center.md).
+- Wenn Sie ein indirekter Anbieter sind, finden Sie weitere Informationen unter [Partner with indirect resellers (Partner mit indirekten Handelspartnern).](indirect-provider-tasks-in-partner-center.md)

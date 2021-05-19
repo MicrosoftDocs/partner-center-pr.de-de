@@ -1,61 +1,58 @@
 ---
-title: Verwenden von Analytics für Abonnement Einblicke
+title: Verwenden von Analysen für Abonnementerkenntnisse
 ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Analysen in Partner Center verwenden können, um Ihr Unternehmen besser zu verstehen und zu erfahren, wie Ihre Kunden die erworbenen Lizenzen verwenden.
+description: Erfahren Sie, wie Sie Analysen in Partner Center verwenden, um Ihr Unternehmen besser zu verstehen und zu erfahren, wie Ihre Kunden die erworbenen Lizenzen verwenden.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441879"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147206"
 ---
-# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Verwenden von Analytics, um mehr über die Abonnement Einnahmen zu erfahren
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Verwenden von Analysen, um mehr über den Abonnementumsatz zu erfahren
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Globale Administratorrechte | MPN-Partneradministrator
 
-- Globaler Administrator
-- MPN-Partneradministrator
+Um Ihr CSP-Geschäft planen zu können, müssen Sie wissen, wie Kunden ihre Microsoft-Produkte verwenden. Sie haben mehrere Optionen zum Sammeln von Daten in Partner Center. Sie können Daten zu Ihrem Unternehmen erfassen und Daten darüber sammeln, ob und wie Ihre Kunden die erworbenen Lizenzen verwenden. Wenn Sie sich im direkten CSP-Modell befinden, haben Sie auch die Möglichkeit, die Partner Center Analytics-App für Power BI zu installieren und zu verwenden, um zusätzliche Daten zu sammeln.
 
-Um Ihr CSP-Geschäft planen zu können, müssen Sie wissen, wie Kunden ihre Microsoft-Produkte verwenden. Sie haben mehrere Optionen zum Sammeln von Daten in Partner Center. Sie können Daten zu Ihrem Unternehmen erfassen und Daten darüber sammeln, ob und wie Ihre Kunden die erworbenen Lizenzen verwenden. Wenn Sie das direkte CSP-Modell verwenden, haben Sie auch die Möglichkeit, die Partner Center Analytics-APP für Power BI zu installieren und zu verwenden, um zusätzliche Daten zu sammeln.
-
-## <a name="access-to-the-subscription-analytics"></a>Zugriff auf die Abonnement Analyse
+## <a name="access-to-the-subscription-analytics"></a>Zugriff auf die Abonnementanalyse
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
-1. Wählen Sie im Menü Partner Center von CSP die Option **analysieren** aus, und wählen Sie dann **Abonnement Analyse** aus.
+1. Wählen Sie im CSP Partner Center Menü Analysieren und dann **Abonnementanalyse aus.** 
 
-1. Der nachfolgende 12-Monats-CSP-Umsatz wird oben auf der Seite angezeigt.
+1. Der nach zwölfmonatige CSP-Umsatz wird oben auf der Seite angezeigt.
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Abonnement Bildschirm":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Bildschirm &quot;Abonnement&quot;":::
 
-## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Umsatz des nachgestellten Twelve-Month (TTM)
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Trailing Twelve-Month (TTM) CSP Revenue
 
-Der nachfolgende 12-Monats-CSP-Umsatz repräsentiert den nachfolgenden Umsatz des Cloud Solution Provider-Programms in USD auf globaler Kontoebene des Partners. Die Daten werden am achten jedes Monats aktualisiert, um die nachfolgenden zwölfmonatigen Umsätze bis zum vorherigen Monat anzuzeigen. Beispielsweise sollten Sie am 9. September 2020 in der Lage sein, das TTM für den festgelegten Zeitraum zwischen September 2019 und August 2020 anzuzeigen.
+Der CSP-Umsatz nach 12 Monaten stellt den nach Cloud Solution Provider Programmumsatz in USD auf der Ebene eines globalen Partnerkontos dar. Die Daten werden am achten jedes Monats aktualisiert, um den nach zwölfmonatigen Umsatz bis zum vorherigen Monat anzuzeigen. Beispielsweise sollten Sie am 9. September 2020 das TTM für den festen Zeitraum von September 2019 bis August 2020 sehen können.
 
-Der in Partner Center angezeigte Umsatz wird für ein festes Zeitintervall von 12 Monaten berechnet und kann nicht in einen kürzeren Zeitrahmen geändert werden.
+Der auf dem Partner Center wird für ein festes Zeitintervall von 12 Monaten berechnet und kann nicht in einen kürzeren Zeitraum geändert werden.
 
-So sehen Sie eine Aufschlüsselung des Umsatzes auf der Kontoebene Ihres Partner Standorts:
+So sehen Sie eine Aufschlüsselung des Umsatzes auf Ebene Ihres Partnerstandortkontos:
 
-- Wählen Sie den Link "Details herunterladen" aus, und laden Sie eine TSV-Datei herunter, in der der TTM-Umsatz für alle Standorte angezeigt wird.
+- Wählen Sie den Link "Details herunterladen" aus, und laden Sie eine TSV-Datei herunter, die den TTM-Umsatz an allen Standorten anzeigt.
 
 >[!NOTE] 
->Die Summe der einzelnen TTM-Umsatzzahlen in MPN-IDs in der TSV-Datei ist möglicherweise größer als der Gesamtumsatz, der in Partner Center angezeigt wird. Dies liegt daran, dass der Umsatz für Abonnements mit mehreren Partner Zuordnungen in der heruntergeladenen Datei doppelt gezählt werden kann.
+>Die Summe der einzelnen TTM-Umsatzzahlen über MPN-IDs hinweg in der TSV-Datei scheint möglicherweise größer als der TTM-Gesamtumsatz zu sein, der auf der seite Partner Center. Dies liegt daran, dass der Umsatz für Abonnements mit mehreren Partnerzuordnungen in der heruntergeladenen Datei doppelt gezählt werden kann.
 
-## <a name="subscription-summary"></a>Abonnement Zusammenfassung
+## <a name="subscription-summary"></a>Abonnementzusammenfassung
 
-In der unteren Hälfte des Bildschirms wird eine Zusammenfassung der Abonnements angezeigt. Verwenden Sie die folgenden Filter, um die erforderlichen Abonnement Details anzuzeigen:  
+In der unteren Hälfte des Bildschirms wird eine Zusammenfassung der Abonnements angezeigt. Verwenden Sie die folgenden Filter, um die erforderlichen Abonnementdetails anzuzeigen:  
 
-1. **Dauer**: Sie können die Abonnement Zusammenfassung für 
+1. **Dauer:** Sie können die Abonnementzusammenfassung für anzeigen. 
 
-- 30D – letzte 30 Tage
-- 3 Mio. – letzte 3 Monate
-- 6 Mio. – letzte 6 Monate
+- 30D – Letzte 30 Tage
+- 3 Mio. – Letzte 3 Monate
+- 6 Mio. – Letzte 6 Monate
 - 12 Mio. – Letzte 12 Monate
 
 2. **Produkttyp**:
@@ -65,13 +62,13 @@ In der unteren Hälfte des Bildschirms wird eine Zusammenfassung der Abonnements
 - Dynamics 365
 - EMS
 
-Das Anwenden dieser Filter hat keine Auswirkung auf die TTM-Umsatz Metrik am Anfang dieses Berichts.
+Das Anwenden dieser Filter wirkt sich nicht auf die TTM-Umsatzmetrik am Anfang dieses Berichts aus.
 
 
  
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Analysieren Sie, wie Ihre Kunden die erworbenen Lizenzen verwenden.](increasing-adoption-and-satisfaction.md)  
+- [Analysieren, wie Ihre Kunden die erworbenen Lizenzen verwenden](increasing-adoption-and-satisfaction.md)  
 - [Anzeigen von Kundenaktivitätsprotokollen](activity-logs.md)
 - [Partner Center Analytics-App für Power BI](power-bi-app-for-direct-partners.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Partner Center-Einblicke
-description: Erkunden Sie dieses Partner Center Unified Reporting-Dashboard. Sehen Sie sich an, wie Sie in KPIs für Vertrieb und Bereitstellung, Kunden Entwicklung und vieles mehr tun.
+description: Sehen Sie sich Partner Center dashboard für einheitliche Berichte an. Erfahren Sie, wie Sie kpIs für Vertrieb und Bereitstellung, Kundenentwicklung und mehr verwenden.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,92 +9,87 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086582"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151014"
 ---
-# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: ein Dashboard, das zeigt, wie ein kommerzieller Partner von Microsoft ist
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: Ein Dashboard, das die Funktionsweise eines kommerziellen Microsoft-Partners zeigt.
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Kontoadministrator
-- Executive Report-Leser
-- Berichtleser
+**Geeignete Rollen:** Globale Administratorrechte | Kontoadministrator-| Berichts-Viewer-| Berichts-Viewer
 
 ## <a name="introduction"></a>Einführung
 
-Das Insights-Dashboard ist ein einheitliches Bericht Erstellungs Dashboard im Partner Center für die kommerziellen Partner von Microsoft, die im MPN-Programm (Microsoft Partner Network) registriert sind. Das Insights-Dashboard bietet eine 360-stufige Ansicht Ihrer Key Performance Indicator (KPI) für cloudprodukte wie Office, Azure, Dynamics und Lizenzierungsmodelle wie CSP und EA. Es stellt einen umfangreichen Satz von KPI-Berichten zur Verfügung, mit denen Sie datengestützte Entscheidungen für Ihre Organisation treffen können. 
+Das Insights-Dashboard ist ein vereinheitlichtes Berichtsdashboard in Partner Center für kommerzielle Partner von Microsoft, die für das programm Microsoft Partner Network (MPN) registriert sind. Das Insights-Dashboard bietet eine 360-Grad-Ansicht Ihrer Key Performance Indicators (KPI) für Cloudprodukte wie Office, Azure, Dynamics und Lizenzierungsmodelle wie CSP und EA. Es werden umfangreiche KPI-Berichte verfügbar, die Ihnen helfen können, datengesteuerte Entscheidungen für Ihre Organisation zu treffen. 
 
-## <a name="role-based-access-control-to-the-insights-dashboard"></a>Rollenbasierte Zugriffs Steuerung für das Insights-Dashboard
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Rollenbasierte Zugriffssteuerung für das Insights-Dashboard
 
-Es gibt zwei neue Rollen in Partner Center, die speziell für den Zugriff auf Einblicke konzipiert sind: **Berichts-Viewer** und **Executive Report Viewer**. Benutzer in der Rolle "Executive Report Viewer" haben Zugriff auf alle Berichterstattungs Datasets, während Benutzer in der Rolle "Berichts-Viewer" keinen Zugriff auf sensible Datasets wie z. b. Umsatz und persönliche Daten von Kunden/Mitarbeitern haben. 
+Es gibt zwei neue Rollen in Partner Center, die speziell für den Zugriff auf Insights entwickelt wurden: **Berichts-Viewer** und **Executive Report Viewer**. Benutzer mit der Rolle "Berichts-Viewer" haben Zugriff auf alle Berichtsdatensätze, während Benutzer mit der Berichts-Viewer-Rolle keinen Zugriff auf vertrauliche Datensätze wie Umsatz- und personenbezogene Daten von Kunden/Mitarbeitern haben. 
 
-Der globale Administrator oder der Konto Administrator kann Benutzern diese Rollen zuweisen und entweder für das gesamte Unternehmen oder für einen bestimmten MPN-Speicherort zugewiesen werden.  
+Der globale Administrator oder der Kontoadministrator kann Benutzern diese Rollen zuweisen und werden entweder für das gesamte Unternehmen oder für einen bestimmten MPN-Standort zugewiesen.  
 
 >[!Note] 
->Benutzer, die MPN-Administratoren mit dem 20. Januar 2020 haben, wurden der unternehmensweiten Berichts-Viewer-Rolle automatisch hinzugefügt. Sie können auf die Berichte als Berichts-Viewer zugreifen, ohne dass für den globalen Administrator oder Konto Administrator eine explizite Aktion erforderlich ist. Die globalen Administratoren oder Konto Administratoren können diese Zuweisungen bei Bedarf überschreiben. 
+>Benutzer, die seit dem 20. Januar 2020 MPN-Administratoren waren, wurden automatisch der unternehmensweiten Rolle "Berichts-Viewer" hinzugefügt. Sie können als Berichts-Viewer auf die Berichte zugreifen, ohne dass vom globalen Administrator oder Kontoadministrator explizite Aktionen erforderlich sind. Die globalen Administratoren oder Kontoadministratoren können diese Zuweisungen bei Bedarf überschreiben. 
 
 ## <a name="reports-available"></a>Verfügbare Berichte
 
 Die folgenden Berichte sind als Teil des Insights-Dashboards verfügbar.
 
-**Übersicht**: der Übersichtsbericht enthält eine Momentaufnahme Ansicht verschiedener KPIs, die für Sie von Interesse sind, wie z. b. die Anzahl der Kunden, die Anzahl aktiver Abonnements, der Azure-Umsatz, aktive Lizenzen usw.
+**Übersicht:** Der Übersichtsbericht enthält eine Momentaufnahmeansicht verschiedener KPIs, die für Sie von Interesse sind, z. B. Kundenanzahl, Anzahl aktiver Abonnements, Azure Consumption Revenue, Aktive Lizenzen usw.
 
-**Kunde**: der Kundenbericht präsentiert Analysen für Ihre Kunden, z. b. Kunden Erwerbs Daten, aktive Kunden usw.
+**Kunde:** Im Bericht "Kunde" werden Analysen zu Ihren Kunden angezeigt, z. B. Kundenakquisedaten, aktive Kunden usw.
 
-**Product-Abonnements**: der Bericht "Abonnements" enthält Informationen zur Erfassung und Nutzung ihrer cloudabonnements (z. b. O365, Azure, Dynamics usw.).
+**Produkt – Abonnements:** Der Bericht "Abonnements" enthält Kauf- und Nutzungsanalysen für Ihre Cloudabonnements (z. B. O365, Azure, Dynamics usw.).
 
-**Product-licenses**: das Dashboard "Lizenzen" zeigt Lizenz Analysen für Lizenz basierte cloudprodukte wie z. b. O365, Dynamics, Power BI usw.
+**Produkt– Lizenzen:** Das Lizenzdashboard zeigt Lizenzanalysen für lizenzbasierte Cloudprodukte wie O365, Dynamics, Power BI usw. an.
 
-**Produkt-Azure-Nutzung**: der Azure-Verwendungs Bericht zeigt Metriken zu den Azure-Abonnements ihrer Kunden an, einschließlich Azure-Verbrauchs Umsatz und-Nutzung nach Abrechnungs Kategorien.
+**Produkt – Azure-Nutzung:** Der Azure-Nutzungsbericht enthält Metriken im Zusammenhang mit den Azure-Abonnements Ihrer Kunden, einschließlich Azure-Verbrauchsumsatz und Nutzung nach Verbrauchsklassen.
 
-**Kompetenzen**: der Bericht "Kompetenzen" stellt Metriken zu ihren aktiven, qualifizierten und risikoreichen Kompetenzen dar.
+**Kompetenzen:** Der Bericht "Kompetenzen" enthält Metriken zu Ihren aktiven, qualifizierten und gefährdeten Kompetenzen.
 
-**Vorteile**: der Bericht "Vorteile" stellt Analysen zu den Vorteilen von Partnern dar, die Sie erworben haben, und die
+Vorteile: Der Bericht **"Vorteile"** enthält Analysen zu Partnervorteilen, die Sie erworben und genutzt haben.
 
 ## <a name="navigating-the-insights-reports"></a>Navigieren in den Insights-Berichten
 
-**Datums Bereichs Filter**: Sie können eine Datums Bereichsauswahl in der oberen rechten Ecke jeder Seite finden. Die Ausgabe der Diagramme für die Übersichtsseite kann angepasst werden, indem Sie einen Datumsbereich auswählen, der auf den letzten 3, 6 oder 12 Monaten basiert, oder indem Sie einen benutzerdefinierten Datumsbereich auswählen. Die Standardauswahl für Datumsbereiche beträgt 12 Monate. 
+**Datumsbereichsfilter:** Sie finden eine Datumsbereichsauswahl in der oberen rechten Ecke jeder Seite. Die Ausgabe der Diagramme der Übersichtsseite kann angepasst werden, indem sie einen Datumsbereich basierend auf den letzten 3, 6 oder 12 Monaten oder einen benutzerdefinierten Datumsbereich auswählt. Die Standardauswahl für den Datumsbereich beträgt 12 Monate. 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="Einführungs Karte":::
+:::image type="content" source="images/pci/intro1.png" alt-text="Einführungskarte":::
 
-**Schaltfläche "Feedback**": jedes Diagramm/Steuerelement in allen Insights-Berichten ist in eine Feedback Schaltfläche integriert, damit Sie instanzfeedback zu einer Berichtsfunktion bereitstellen können. 
+**Schaltfläche "Feedback":** Jedes Diagramm/Steuerelement in allen Insights-Berichten ist mit einer Feedbackschaltfläche integriert, mit der Sie Instanzfeedback zu einem Berichtsfeature bereitstellen können. 
 
  
-**Filter auf Seitenebene**: mit Ausnahme der Berichte Übersicht, Vorteile und Kompetenzen können Sie mit allen Insights-Berichten Filter auf Seitenebene anwenden. 
+**Filter auf Seitenebene:** Mit Ausnahme der Berichte Übersicht, Vorteile und Kompetenzen können Sie mit allen Insights-Berichten Filter auf Seitenebene anwenden. 
 
 - Die ausgewählten Filter gelten für alle Diagramme und Metriken auf einer Seite, einschließlich des Abschnitts "Zusammenfassung". Ein Filterelement ist verfügbar, wenn Sie über Daten innerhalb dieser Filterkriterien verfügen. 
 
-- Die Standardauswahl der einzelnen Filterlisten ist **alle**. Wenn Sie z. b. kein bestimmtes Produkt im Produktfilter ausgewählt haben, ist die Standardauswahl Alle Produkte.
+- Die Standardauswahl jeder Filterliste ist **alle**. Wenn Sie z. B. kein bestimmtes Produkt im Filter "Produkte" ausgewählt haben, ist die Standardauswahl alle Produkte.
 
-- Die ausgewählten Filter werden am oberen Rand der Seite angezeigt. 
+- Ausgewählte Filter werden oben auf der Seite angezeigt. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="Partieller Screenshot mit angewendeter Filter Leiste mit Filter Auswahl für Produkte, Kunden Märkte, Partner Zuordnungen und Vertriebskanäle.":::
+:::image type="content" source="images/pci/filters.png" alt-text="Teilabbildung der Leiste Angewendete Filter mit Filterauswahl für Produkte, Kundenmarkt, Partnerzuordnungen und Vertriebskanäle.":::
 
-### <a name="filters-definitions"></a>Filter Definitionen:
+### <a name="filters-definitions"></a>Filterdefinitionen:
 
-- Produkte: Liste aller von Ihrer Organisation verkauften/verwalteten Microsoft Cloud Produkte, z. b. O365, Azure, D365, EMS, Power BI usw.
-- Kunden Märkte: Liste der Kundenländer
-- Partner Zuordnungen: Ihr Zuordnungstyp mit den Abonnements ihrer Kunden, z. b. Digital Partner of Record (dpor), Delegierte Administratorrechte (DAP) und Partner admin Link (PAL). 
-- Partner Standorte: Liste aller MPN-Standorte Ihrer Organisation.
-- Vertriebskanäle: alle Vertriebskanäle/Preise, mit denen Sie Produkte und Dienste kaufen bzw. bereitstellen, nämlich CSP, EA, CSP indirekt, direkt, Advisor, offen, andere
-- Kundensegmente: Liste der Kundensegmente der Partner Kundenbasis.
+- Produkte: Liste aller Microsoft Cloud-Produkte, die von Ihrer Organisation verkauft/verwaltet werden, z. B. O365, Azure, D365, EMS, Power BI usw.
+- Kundenmarkt: Liste der Kundenländer
+- Partnerzuordnungen: Ihr Zuordnungstyp zu den Abonnements Ihrer Kunden, z. B. Digital Partner of Record (DPOR), Delegierte Administratorrechte (Delegated Admin Privilege, DAP) und Partneradministratorlink (PAL). 
+- Partnerstandorte: Liste aller MPN-Standorte Ihrer Organisation.
+- Vertriebskanäle: Alle Vertriebskanäle/Preise, über die Sie Produkte und Dienste kaufen/bereitstellen, nämlich CSP, EA, CSP indirect, Direct, Advisor, Open, andere
+- Kundensegmente: Liste der Kundensegmente für den Kundenstamm des Partners.
 
-## <a name="read-about-each-of-the-dashboards-and-reports"></a>Informieren Sie sich über die einzelnen Dashboards und Berichte:
+## <a name="read-about-each-of-the-dashboards-and-reports"></a>Erfahren Sie mehr über die einzelnen Dashboards und Berichte:
 
-- [Übersicht über das Partner Center Insights-Dashboard](pci-overview-report.md)
+- [Partner Center Insights – Übersichtsdashboard](pci-overview-report.md)
 
 - [Partner Center-Einblicke – Dashboard „Kunde“](pci-customer-report.md)
 
-- [Bericht "Partner Center Insights-Abonnements"](pci-product-subscriptions-report.md)
+- [Partner Center Insights – Bericht "Abonnements"](pci-product-subscriptions-report.md)
 
-- [Partner Center Insights-Bericht "Lizenzen"](pci-product-licenses-report.md)
+- [Partner Center Insights – Bericht "Lizenzen"](pci-product-licenses-report.md)
 
-- [Partner Center Insights: Azure-Verwendungs Bericht](pci-azure-usage-report.md)
+- [Partner Center Insights – Azure-Nutzungsbericht](pci-azure-usage-report.md)
 
 - [Partner Center-Einblicke – Bericht „Kompetenzen“](pci-competencies-report.md)
 

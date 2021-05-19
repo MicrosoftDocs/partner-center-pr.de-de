@@ -1,6 +1,6 @@
 ---
-title: Incentives Kunden Zuordnungen
-description: Informieren Sie sich über wichtige Prozesse und Zeitachsen zum Verwalten von Ansprüchen von Kunden Zuordnungen (cpor).
+title: Incentives-Kundenzuordnungen
+description: Machen Sie sich mit wichtigen Prozessen und Zeitplänen für die Verwaltung von CPOR-Kundenzuordnungen (Claimed Partner of Record) aus.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
@@ -8,56 +8,52 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e0c79fb70c5b439968302353c70907f37aaa09a7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179478"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151932"
 ---
-# <a name="manage-incentives-customer-associations"></a>Verwalten von Incentives-Kunden Zuordnungen
+# <a name="manage-incentives-customer-associations"></a>Verwalten von Incentives-Kundenzuordnungen
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Abrechnungsadministrator| Globale Administratorrechte | Incentives-Administrator
 
-- Abrechnungsadministrator
-- Globaler Administrator
-- Incentiveadministrator
+Die CPOR-Plattform (Claimed Partner of Record) wird für Partner verwendet, um sich mit Endkunden zu verbinden, für die sie die Nutzung oder den Kauf von Microsoft-Produkten beeinflussen. Derzeit unterstützt die CPOR-Plattform die Business Applications und Microsoft 365 Produkte. Partner verwenden diese Zuordnungsmethode, um Einblicke in die Kundenleistung zu erhalten, Incentives-Zahlungen über die OSU- und OSA-Programme zu erhalten und umsatzorientierte Zuordnungen als Geschäftseinflusser zu erzielen.  
 
-Die beanspruchte cpor-Plattform (Partner of Record, Partner of Record) wird für Partner verwendet, um sich selbst den Endkunden zuzuordnen, für die Sie die Nutzung oder den Kauf von Microsoft-Produkten beeinflussen. Derzeit unterstützt die cpor-Plattform die Business Applications-und Microsoft 365-Produkte. Partner nutzen diese Zuordnungs Methode, um Einblicke in die Leistung der Kunden zu erhalten, über die OSU-und OSA-Programme über die Dienstleistungen zu erhalten  
+## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Wie sich Ihr CPOR-Zuordnungsanspruch auf Incentives bezieht
 
-## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Beziehung zwischen dem cpor-Zuordnungs Anspruch und den Anreizen
+Wenn Sie einen CPOR-Zuordnungsanspruch gestellt haben und dieser genehmigt wurde, sind Sie jetzt dem Kunden zugeordnet. Dies bedeutet nicht, dass der Anspruch für Incentive-Einnahmen oder Auszahlungen genehmigt wird. Ihr Incentive-Programmleitfaden beschreibt die Berechtigungsanforderungen für Incentives, die basierend auf genehmigten Ansprüchen auszahlt werden.
 
-Wenn Sie einen cpor-Zuordnungs Anspruch erstellt haben und dieser genehmigt wurde, sind Sie jetzt dem Kunden zugeordnet. Dies bedeutet nicht, dass der Anspruch für den Incentive-Gewinn oder die Auszahlung genehmigt wird. In Ihrem Incentive-Programmhandbuch werden die Voraussetzungen für die kostenpflichtige Inanspruchnahme von Anreizen basierend auf genehmigten Ansprüchen beschrieben.
+Sie finden Ihre Incentive-Programmleitfäden im [Microsoft Partner Network](https://aka.ms/partnerincentives).
 
-Sie finden Ihre Incentive-Programm Handbücher für die [Microsoft Partner Network](https://aka.ms/partnerincentives).
+Wenn Ihr CPOR-Zuordnungsanspruch genehmigt und für Incentives berechtigt ist, können Sie die Abonnement- oder Mandanten-ID in den Einnahmen- und Auszahlungsberichten überprüfen. 
 
-Wenn Ihr cpor-Zuordnungs Anspruch genehmigt ist und für die Inanspruchnahme geeignet ist, können Sie das Abonnement oder die Mandanten-ID in der Ergebnis-und Auszahlungsbericht Erstellung überprüfen. 
+## <a name="cpor-association-claims-timeline"></a>Zeitachse für CPOR-Zuordnungsansprüche
 
-## <a name="cpor-association-claims-timeline"></a>Cpor Association-Anspruchs Zeitachse
+- Übermittelt: Es wird bis zu fünf Werktage lang übermittelt, bis Microsoft den Genehmigungsprozess startet.
+- Unter Überprüfung: Microsoft hat fünf Werktage Zeit, um basierend auf dem von Ihnen erstellten Ausführungsnachweis eine Entscheidung zu treffen.
+- Partneraktion erforderlich: Wenn ein Prüfer Ihnen Kommentare und eine Anforderung weiterer Informationen sendet, haben Sie fünf Werktage Zeit, um zu antworten. Eine Entscheidung über Ihren CPOR-Zuordnungsanspruch sollte innerhalb von 10 Tagen basierend auf der SLA des Prüfers getroffen werden, plus der Zeit, die benötigt wird, um den Prüfern zusätzliche Informationen zum Nachweis der Ausführung (Proof of Execution, PoE) zur Verfügung zu stellen.
+- Genehmigt: Ihr CPOR-Zuordnungsanspruch wurde genehmigt. Nachdem Ihre Zuordnung genehmigt wurde, wird eine Benachrichtigung an den Kunden gesendet, die ihm die Möglichkeit gibt, Ihre Zuordnung zu verweigern. Der Kunde hat dann sieben Tage Zeit, sich abzumelden. Sobald dieser Zustimmungszeitraum abgelaufen ist, wird der Anspruch gesendet, um die Berechtigung für Incentiveprogramme zu bewerten.
 
-- Übermittelt: der Status wird für bis zu fünf Werktage übermittelt, bis Microsoft den Genehmigungsprozess startet.
-- Unter Review: Microsoft verfügt über fünf Werktage, um eine Entscheidung basierend auf dem von Ihnen bereitgestellten Ausführungs Nachweis treffen zu können.
-- Partner Aktion erforderlich: Wenn ein Reviewer Kommentare sendet und eine Anforderung für zusätzliche Informationen sendet, haben Sie fünf Werktage Zeit, um zu antworten. Basierend auf der SLA des Reviewer und der Zeitspanne, die für die Bereitstellung von Poe-Reviewern (Proof of Execution) benötigt wird, muss innerhalb von 10 Tagen eine Entscheidung getroffen werden.
-- Genehmigt: Ihr cpor Association-Anspruch wurde genehmigt. Nachdem Ihre Zuordnung genehmigt wurde, wird eine Benachrichtigung an den Kunden gesendet, die Ihnen die Möglichkeit gibt, ihre Zuordnung abzulehnen. Der Kunde erhält dann sieben Tage Zeit, um sich abzumelden. Nachdem dieser Zustimmungs Zeitraum abgelaufen ist, wird der Anspruch gesendet, um die Berechtigung für Incentive-Programme zu bewerten.
+## <a name="view-the-status-of-your-cpor-association-claim"></a>Anzeigen des Status Ihres CPOR-Zuordnungsanspruchs
 
-## <a name="view-the-status-of-your-cpor-association-claim"></a>Anzeigen des Status des cpor-Zuordnungs Anspruchs
+Sie können den Status Ihres CPOR-Zuordnungsanspruchs jederzeit über das [Dashboard "Kundenzuordnungen"](https://partner.microsoft.com/dashboard/incentives/claims/associations) überprüfen (Anmeldung erforderlich).
 
-Sie können den Status des cpor-Zuordnungs Anspruchs jederzeit überprüfen, indem Sie das Dashboard für die [Kunden Zuordnungen](https://partner.microsoft.com/dashboard/incentives/claims/associations) verwenden (Anmeldung erforderlich).
-
-Dies sind die Statuswerte und ihre Bedeutung:
+Hier sind die Status und ihre Bedeutungen:
 
 | Anspruchsstatus | Bedingung für Anzeige |
 | ------ | ----------- | 
-|  Bearbeitung läuft  | Ihr cpor Association-Anspruch wurde erstellt. Sie verbleibt in diesem Status, bis Sie das Dokument für die Beweis Ausführung hochladen und den Anspruch zur Genehmigung einreichen.   |
-|  Gesendet  | Der Partner hat seinen cpor Association-Anspruch erfolgreich übermittelt, aber Microsoft hat den Überprüfungsprozess noch nicht gestartet.   |
-|  Wird überprüft  | Microsoft hat mit der Überprüfung ihrer Poe-Dokumentation begonnen. Wir kontaktieren Sie möglicherweise, um weitere Informationen zu erhalten. Die Überprüfungsprozess-SLA ist fünf Werktage.  |
-|  Rejected (Abgelehnt)  | Ihr Poe war unzureichend, oder Sie reagierten nicht innerhalb von fünf Werktagen gemäß den Poe-Überprüfungs Richtlinien, und der Anspruch wurde verweigert.   |
-|  Genehmigt  | Der Anspruch wurde genehmigt. Nach der Genehmigung von Microsoft hat der Kunde die Gelegenheit erteilt, ihre Zuordnung abzulehnen. Der Kunde hat sieben Tage Zeit, sich nach der Genehmigung von Microsoft abzumelden. Obwohl Ihr Anspruch als genehmigt angezeigt wird, wird er nur zur Anreiz Bewertung gesendet, nachdem der Zustimmungs Zeitraum abgelaufen ist.   |
-|  Partner Aktion erforderlich  | Microsoft hat ihren cpor Association-Anspruch Poe überprüft und benötigt weitere Informationen im Zusammenhang mit Ihrem Poe für die von Ihnen beanspruchten Produkte/Arbeits Auslastungen. Sie haben fünf Werktage, um die angeforderten Informationen bereitzustellen und ihren Anspruch erneut zu senden, oder Sie werden abgelehnt. Nachstehend sind mögliche Gründe aufgeführt, warum zusätzliche Informationen erforderlich sein könnten:
+|  Bearbeitung läuft  | Ihr CPOR-Zuordnungsanspruch wurde erstellt. Er verbleibt in diesem Zustand, bis Sie das Ausführungsnachweisdokument hochladen und den Anspruch zur Genehmigung übermitteln.   |
+|  Gesendet  | Der Partner hat seinen CPOR-Zuordnungsanspruch erfolgreich übermittelt, Aber Microsoft hat den Überprüfungsprozess noch nicht gestartet.   |
+|  Wird überprüft  | Microsoft hat damit begonnen, Ihre PoE-Dokumentation zu überprüfen. Unter Umständen wenden wir uns an Sie, um weitere Informationen zu erhalten. Die SLA für den Überprüfungsprozess beträgt fünf Werktage.  |
+|  Rejected (Abgelehnt)  | Ihr PoE war nicht ausreichend, oder Sie haben nicht innerhalb von fünf Werktagen gemäß den Richtlinien für die PoE-Überprüfung reagiert, und der Anspruch wurde abgelehnt.   |
+|  Genehmigt  | Der Anspruch wurde genehmigt. Nach der Genehmigung durch Microsoft hat der Kunde die Möglichkeit gegeben, Ihre Zuordnung zu verweigern. Der Kunde hat sieben Tage Zeit, sich nach der Genehmigung durch Microsoft abzumelden. Obwohl Ihr Anspruch als genehmigt angezeigt wird, wird er erst nach Ablauf des Zustimmungszeitraums zur Incentivebewertung gesendet.   |
+|  Partneraktion erforderlich  | Microsoft hat Ihren CPOR-Zuordnungsanspruch PoE überprüft und benötigt weitere Informationen zu Ihrem PoE für die von Ihnen beanspruchten Produkte/Workloads. Sie haben fünf Werktage Zeit, um die angeforderten Informationen bereitzustellen und Ihren Anspruch erneut zu übermitteln, da er dann abgelehnt wird. Nachstehend sind mögliche Gründe aufgeführt, warum zusätzliche Informationen erforderlich sein könnten:
 
 - Der gesamte Ausführungsnachweis fehlt: Ausführungsnachweis fehlt, weil eine falsche Datei hochgeladen wurde oder er sich nicht auf den CPOR-Zuordnungsanspruch bezieht.
 
-- Fehlende Kundenbestätigung Kunden Signatur ist nicht auf dem Poe
+- Fehlende Kundenbestätigung– Kundensignatur ist nicht im PoE enthalten
 
 - Fehlende oder alte Datumsangaben: Datumsangaben fehlen oder sind in Bezug zum Anspruch veraltet.
 
@@ -65,38 +61,38 @@ Dies sind die Statuswerte und ihre Bedeutung:
 
 - Fehlende Produkte: Ausführungsnachweis enthält kein beanspruchtes Produkt bzw. keine beanspruchte Workload. 
 
-## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Streiten Sie den Status eines cpor-Zuordnungs Anspruchs.
+## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Anst B. beim Status eines CPOR-Zuordnungsanspruchs
 
-Wenn Ihr cpor Association-Anspruch abgelehnt wird, haben Sie 30 Tage Zeit, die Ablehnung abzulehnen. In der E-Mail mit der Ablehnungsbenachrichtigung erfahren Sie auch, wo der Grund für die Ablehnung angegeben ist und wie Sie Widerspruch dagegen einlegen können.  
+Wenn Ihr CPOR-Zuordnungsanspruch abgelehnt wird, haben Sie 30 Tage Zeit, um die Ablehnung zu beanspruchen. In der E-Mail mit der Ablehnungsbenachrichtigung erfahren Sie auch, wo der Grund für die Ablehnung angegeben ist und wie Sie Widerspruch dagegen einlegen können.  
 
-Wenn 30 Tage vergangen sind und Sie trotzdem einen abgelehnten Anspruch übernehmen möchten, müssen Sie eine neue Zuordnung mit ihrer aktualisierten Ausführungs Prüfung ((PoE) einreichen. 
+Wenn 30 Tage vergangen sind und Sie weiterhin einen abgelehnten Anspruch in Frage stellen möchten, müssen Sie eine neue Zuordnung zu Ihrem aktualisierten Ausführungsnachweis (Proof of Execution, PoE) übermitteln. 
 
-### <a name="to-dispute-a-rejected-claim"></a>So streiten Sie einen abgelehnten Anspruch
+### <a name="to-dispute-a-rejected-claim"></a>So fordern Sie einen abgelehnten Anspruch an
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
-2. Öffnen Sie den Anspruch, den Sie in Konflikt stellen möchten.
-3. Wählen Sie auf der Seite Anspruch die Option **Streit** aus.
-4. Geben Sie eine geschäftliche Begründung und/oder einen aktualisierten Poe ein, die erläutern, warum die Ablehnung erneut in Erwägung gezogen werden soll.
-5. Wenn Sie mit dem Hinzufügen der Informationen fertig sind, wählen Sie **Dispute** (Widersprechen) aus. Unsere Reviewer sollten Sie mit Ergebnissen innerhalb von fünf Arbeitstagen kontaktieren.
+2. Öffnen Sie den Anspruch, den Sie in Konflikt halten möchten.
+3. Wählen Sie auf der Anspruchsseite die Option **Konflikt aus.**
+4. Geben Sie eine geschäftliche Begründung und/oder einen aktualisierten PoE ein, in dem erläutert wird, warum die Ablehnung erneut geprüft werden sollte.
+5. Wenn Sie mit dem Hinzufügen der Informationen fertig sind, wählen Sie **Dispute** (Widersprechen) aus. Unsere Prüfer sollten sich innerhalb von fünf Werktagen mit Ihnen in Verbindung setzen.
 
-## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Gründe für die Ablehnung eines cpor-Zuordnungs Anspruchs
+## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Gründe für die Ablehnung eines CPOR-Zuordnungsanspruchs
 
-Es gibt drei Hauptgründe für die Ablehnung eines cpor Association-Anspruchs.
+Es gibt drei Hauptgründe dafür, dass ein CPOR-Zuordnungsanspruch abgelehnt wird.
 
-**Partner Anforderung:** Partner können anfordern, dass Ihre Zuordnung abgelehnt wird. Diese Begründung wird größtenteils verwendet, wenn der Partner einen cpor-Zuordnungs Anspruch versehentlich mithilfe eines falschen MPN erstellt hat, eine falsche Aktivität ausgewählt hat (z. b. weil Sie Umsatz Zuordnung anstelle von Vorverkäufen gewählt haben) oder nicht mehr mit dem Kunden zusammenarbeitet.
+**Partneranforderung:** Partner können anfordern, dass ihre Zuordnung abgelehnt wird. Diese Begründung wird hauptsächlich verwendet, wenn der Partner einen CPOR-Zuordnungsanspruch mit einem falschen MPN erstellt hat, eine falsche Aktivität ausgewählt hat (z. B. haben Sie Revenue Association anstelle von Pre-Sales ausgewählt) oder nicht mehr mit dem Kunden zusammenarbeiten.
 
-**Kunden Verlust:** Sobald der cpor Association-Anspruch den Poe-Genehmigungsprozess erfolgreich durchlaufen hat, ändert sich der Status in "genehmigt", während der Kunde die Möglichkeit erhält, die Zustimmung der Zuordnung abzulehnen. Wenn der Kunde die Zustimmung verweigert, wird die Zuordnung abgelehnt.
+**Kunden abgelehnt:** Nachdem der CPOR-Zuordnungsanspruch den PoE-Genehmigungsprozess erfolgreich abgeschlossen hat, ändert sich sein Status in Genehmigt, während dem Kunden die Möglichkeit gegeben wird, die Zustimmung der Zuordnung zu verweigern. Wenn der Kunde die Zustimmung verweigert, wird die Zuordnung abgelehnt.
 
-**Unzureichender Ausführungs Nachweis:** Der Ausführungs Nachweis ist für jede cpor-Zuordnung erforderlich. Nachdem Ihr cpor-Zuordnungs Anspruch übermittelt wurde, dauert es bis zu fünf Tage, bis Microsoft-Prüfer Ihren Poe überprüfen und zusätzliche Informationen anfordern können, die Sie im Abschnitt "Kommentare" Ihres Anspruchs benötigen. Wenn die Informationen nicht ausreichen, wird der cpor Association-Anspruch abgelehnt.
+**Unzureichender Ausführungsnachweis:** Für jede CPOR-Zuordnung ist ein Ausführungsnachweis erforderlich. Nachdem Ihr CPOR-Zuordnungsanspruch übermittelt wurde, benötigen Microsoft-Prüfer bis zu fünf Tage, um Ihren PoE zu überprüfen und alle zusätzlichen Informationen zu erfragen, die im Abschnitt Kommentare in Ihrem Anspruch erforderlich sind. Wenn die Informationen nicht ausreichen, wird Ihr CPOR-Zuordnungsanspruch abgelehnt.
 
-Weitere mögliche Gründe für die Ablehnung:
+Andere mögliche Gründe für die Ablehnung:
 
-- Fehlende Zustimmung des Kunden in Poe
+- Fehlende Kundenerwilligung für PoE
 - Fehlende Produkte
-- Keine Partner Antwort
-- Poe nicht verfügbar
+- Keine Partnerantwort
+- PoE nicht verfügbar
 
-## <a name="edit-your-cpor-association-claim"></a>Bearbeiten des cpor-Zuordnungs Anspruchs
+## <a name="edit-your-cpor-association-claim"></a>Bearbeiten Ihres CPOR-Zuordnungsanspruchs
 
 Sie haben die Möglichkeit, bestimmte Felder in Ihrem CPOR-Zuordnungsanspruch zu bearbeiten. Möglicherweise werden Sie gebeten, Produkte/Workloads zu entfernen, wenn die Prüfer darauf hinweisen, dass der eingereichte Ausführungsnachweis unzureichend ist. Um bearbeitet werden zu können, muss sich Ihr CPOR-Zuordnungsanspruch in den Zuständen „Eingereicht“ oder „Partneraktion erforderlich“ befinden.
 
@@ -107,17 +103,17 @@ Felder, die Sie bearbeiten können:
 - Kontaktinformationen für Kunden und Partner
 - Zusätzlichen Ausführungsnachweis und Kommentar hinzufügen
 
-## <a name="customer-consent-notification"></a>Benachrichtigung zur Kunden Zustimmung
+## <a name="customer-consent-notification"></a>Benachrichtigung über die Zustimmung des Kunden
 
-Nachdem Ihr cpor-Zuordnungs Anspruch genehmigt wurde, wird eine Benachrichtigung an den Kunden gesendet, die Ihnen die Möglichkeit gibt, ihre Zuordnung abzulehnen. Der Kunde erhält dann sieben Tage Zeit, um sich abzumelden. Ihr Status während dieses Zeitraums wird als genehmigt angezeigt. Wenn der Kunde die Zustimmung verweigert, wird die Zuordnung abgelehnt. Nachdem der Zustimmungs Zeitraum abgelaufen ist und der Kunde die Zustimmung nicht verweigert hat, wird der Anspruch gesendet, um die Berechtigung für Incentive-Programme zu bewerten.
+Nachdem Ihr CPOR-Zuordnungsanspruch genehmigt wurde, wird eine Benachrichtigung an den Kunden gesendet, die ihm die Möglichkeit gibt, Ihre Zuordnung zu verweigern. Der Kunde hat dann sieben Tage Zeit, sich abzumelden. Ihr Status während dieses Zeitraums wird als Genehmigt angezeigt. Wenn der Kunde die Zustimmung verweigert, wird die Zuordnung abgelehnt. Sobald der Zustimmungszeitraum abgelaufen ist und der Kunde die Zustimmung nicht verweigert hat, wird der Anspruch gesendet, um die Berechtigung für Incentiveprogramme zu bewerten.
 
-## <a name="how-to-communicate-with-poe-reviewers"></a>So kommunizieren Sie mit PoE-Reviewern
+## <a name="how-to-communicate-with-poe-reviewers"></a>Kommunizieren mit PoE-Prüfern
 
-Nachdem Reviewer ihren Poe durchlaufen haben, können Sie feststellen, dass zusätzliche Informationen benötigt werden. Wenn dies der Fall ist, werden Sie über den Kommentar Abschnitt Ihres Anspruchs kontaktiert. Sie können auch im Abschnitt "Kommentare" darauf antworten.
+Sobald Prüfer Ihre PoE durchlaufen haben, stellen sie möglicherweise fest, dass zusätzliche Informationen erforderlich sind. Wenn dies der Grund ist, wird sie sich über den Abschnitt Kommentare Ihres Anspruchs mit Ihnen in Verbindung setzen. Sie können auch im Abschnitt Kommentare antworten.
 
-## <a name="view-claim-history"></a>Anspruchs Verlauf anzeigen
+## <a name="view-claim-history"></a>Anzeigen des Anspruchsverlaufs
 
-Im cpor-Zuordnungs Anspruch gibt es rechts oben eine Schaltfläche " **Verlauf** ", die es Ihnen ermöglicht, alle Änderungen, Kommentare und Aktionen, die für diesen Anspruch ausgeführt werden, aus einer Partner-und reviewerperspektive anzuzeigen.
+Im CPOR-Zuordnungsanspruch befindet sich oben rechts die Schaltfläche **Verlauf,** mit der Sie alle Änderungen, Kommentare und Aktionen anzeigen können, die aus Sicht eines Partners und Prüfers für diesen Anspruch ausgeführt wurden.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

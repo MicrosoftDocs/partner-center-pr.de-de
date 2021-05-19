@@ -2,189 +2,186 @@
 title: Bezahlen der Gebühr für eine MPN-Kompetenz
 ms.topic: how-to
 ms.date: 01/28/2021
-description: Erfahren Sie, wie Sie die Gebühr bezahlen oder Zahlungsdetails aktualisieren, die mit dem erwerben oder Erneuern von einem oder mehreren Silber-oder Gold-Kompetenzen verknüpft sind.
+description: Erfahren Sie, wie Sie die Gebühr bezahlen oder Zahlungsdetails aktualisieren, die mit dem Erlangen oder Verlängern einer oder mehrerer Silver- oder Gold-Kompetenzen verbunden sind.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: b6dab5fb57d26c00928441d7962511e6530fa3b1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132484"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152323"
 ---
-# <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Bezahlen der mit einer Silver-oder Gold-Kompetenz verbundenen Gebühr
+# <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>So zahlen Sie die Gebühr, die einer Silver- oder Gold-Kompetenz zugeordnet ist
 
-**Geeignete Rollen**
+**Geeignete Rollen:** MPN-Partneradministrator | Kontoadministrator
 
-- MPN-Partneradministrator
-- Kontoadministrator
-
-In diesem Artikel wird beschrieben, wie und wann die Kosten für das Erreichen einer Silver-oder Gold-Microsoft Partner Network Kompetenz abgerechnet werden. Außerdem wird beschrieben, wie Sie Ihre bevorzugte Zahlungsmethode ändern, wie Sie eine Bestellung abbrechen können und wie Sie bei der Umstellung von einer Silver-in Gold-Kompetenz einen Rabatt in Höhe von 25% erhalten.
+In diesem Artikel wird beschrieben, wie und wann die Gebühr für die Erreichung einer Silber- oder Gold-Microsoft Partner Network-Kompetenz bezahlt werden muss. Außerdem wird beschrieben, wie Sie Ihre bevorzugte Zahlungsmethode ändern, eine Bestellung stornieren und einen Rabatt von 25 Prozent erhalten, wenn Sie von einer Silver- zur Gold-Kompetenz wechseln.
 
 > [!NOTE]
-> Weitere Informationen zu den Vorteilen der Erzielung einer Silver-oder Gold-Kompetenz, den jeweiligen verfügbaren Kompetenzen und ihren besonderen Anforderungen finden Sie unter [Microsoft Partner Network Zuständigkeiten](https://partner.microsoft.com/membership/competencies). Weitere Informationen zu den Vorteilen der einzelnen verfügbaren Kompetenzen finden Sie auch in den Microsoft Partner Network- [Lizenz Tabellen](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) .
+> Weitere Informationen zu den Vorteilen einer Silver- oder Gold-Kompetenz, den verfügbaren spezifischen Kompetenzen und ihren individuellen Anforderungen finden Sie unter [Microsoft Partner Network Kompetenzen.](https://partner.microsoft.com/membership/competencies) Sie können auch die Microsoft Partner Network [Lizenztabellen für Kompetenzen](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) lesen, um mehr über die Vorteile jeder verfügbaren Kompetenz zu erfahren.
 
-## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Erfüllen der Anforderungen an die Kompetenz und Zahlung der Gebühr
+## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Erfüllen der Anforderungen einer Kompetenz und Bezahlen der Gebühr
 
-Wenn Sie die Anforderungen für eine bestimmte Silver-oder Gold-Kompetenz bereits erfüllt haben (oder wenn Sie bereits über eine Silver-oder Gold-Kompetenz verfügen), können Sie die Gebühr für die Kompetenz schnell überprüfen. Wählen Sie einfach die Registerkarte [Compare-Angebote](https://partner.microsoft.com/membership/compare-offers) im Partner Center aus.
+Wenn Sie die Anforderungen zum Erreichen einer bestimmten Silber- oder Gold-Kompetenz bereits erfüllt haben (oder bereits über eine Silber- oder Gold-Kompetenz verfügen), können Sie die Gebühr der Kompetenz schnell überprüfen. Wählen Sie einfach die Registerkarte [compare-offers](https://partner.microsoft.com/membership/compare-offers) im Partner Center aus.
 
-Andernfalls führen Sie die folgenden Schritte aus, um die Gebühr für eine Silver-oder Gold-Kompetenz zu bezahlen. Bei den Schritten wird davon ausgegangen, dass die folgenden Voraussetzungen erfüllt sind:
+Führen Sie andernfalls die folgenden Schritte aus, um die Gebühr für eine Silver- oder Gold-Kompetenz zu bezahlen. Bei den Schritten wird davon ausgegangen, dass Sie die folgenden Voraussetzungen erfüllt haben:
 
-- Sie sind ein Partner, der bereits der Microsoft Partner Network [beigetreten](https://partner.microsoft.com/membership) ist.
+- Sie sind Partner, der bereits dem Microsoft Partner Network [beigetreten](https://partner.microsoft.com/membership) ist.
 
-- Sie haben bereits die [Anforderungen](https://partner.microsoft.com/membership/competencies) erfüllt, um eine bestimmte Silver-oder Gold-Kompetenz zu erzielen.
+- Sie haben die [Anforderungen](https://partner.microsoft.com/membership/competencies) zum Erreichen einer bestimmten Silber- oder Gold-Kompetenz bereits erfüllt.
 
-- Ihnen wurde die Partner Center-Rolle [globaler Administrator oder MPN-Partner Administrator](./permissions-overview.md)zugewiesen. Wenn Sie ein Gastbenutzer ohne eine dieser Rollen sind, wird Ihnen der Zugriff auf einige der unten beschriebenen Partner Center-Seiten verweigert. Wenn dies der Fall ist, wenden Sie sich an [ihren globalen Administrator](./find-your-role.md) , und bitten Sie ihn, Ihnen die entsprechende Rolle zuzuweisen. 
+- Ihnen wurde die Partner Center Rolle globaler [Administrator oder MPN-Partneradministrator](./permissions-overview.md)zugewiesen. Wenn Sie ein Gastbenutzer ohne eine dieser Rollen sind, wird Ihnen der Zugriff auf einige der unten beschriebenen Partner Center Seiten verweigert. Wenden Sie sich in diesem Fall [an Ihren globalen Administrator,](./find-your-role.md) und bitten Sie ihn, Ihnen die entsprechende Rolle zuzuweisen. 
 
-1. Melden Sie sich mit den Anmelde Informationen für Ihr Unternehmen-Geschäftskonto beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melden Sie sich mit den Anmeldeinformationen ihres Unternehmensarbeitskontos beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard)an.
 
-2. Wählen Sie im Navigationsmenü [mitgliedschaftsangebote](https://partner.microsoft.com/dashboard/mpn/offers) aus. 
+2. Wählen [Sie im Navigationsmenü](https://partner.microsoft.com/dashboard/mpn/offers) mitgliedschaftsangebote aus. 
 
-3. Suchen Sie unter Angebote, die **für den Kauf verfügbar** sind, die Kachel für die **Silver-Mitgliedschaft** oder die **goldene Mitgliedschafts** Kachel, die ihrer jeweiligen 
+3. Suchen **Sie unter Zum Kauf verfügbare Angebote** die Kachel **Silver-Mitgliedschaft** oder **gold-Mitgliedschaft,** die Ihrer spezifischen Kompetenz zugeordnet ist. 
 
-4. Wählen Sie die Option **abonnieren** in der unteren rechten Ecke der jeweiligen Silver-oder Gold-Mitgliedschafts Kachel aus.
+4. Wählen Sie **die Option Abonnieren** unten rechts auf der Kachel "Silver" oder "Gold membership" (Mitgliedschaft in Silber oder Gold) aus.
 
-   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Die Seite &quot;mitgliedschaftsangebote&quot;, die Silber-oder Gold Mitgliedschaften anzeigt, die der Partner abonnieren oder erwerben kann" border="false":::
+   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Seite mit Mitgliedschaftsangeboten mit Silver- oder Gold-Mitgliedschaften, die der Partner abonnieren oder erwerben kann." border="false":::
 
    > [!Note]
-   > Wenn Sie die Anforderungen für die gewünschte Silber-oder Gold-Kompetenz noch nicht erfüllt haben, können Sie die Silver/Gold-Mitgliedschaft nicht abonnieren oder die zugehörige Kompetenz Gebühr bezahlen. Wenn Sie bereits ein Gold-Kompetenzpartner sind, werden Ihnen die inkrementellen Vorteile für eine Silver-Kompetenz automatisch erteilt. In diesem Szenario ist die Option zum bezahlen der Silver-Kompetenz Gebühr ebenfalls nicht verfügbar.
+   > Wenn Sie die Anforderungen für die gewünschte Silver- oder Gold-Kompetenz noch nicht erfüllt haben, können Sie die Silver/Gold-Mitgliedschaft nicht abonnieren oder die zugehörige Kompetenzgebühr bezahlen. Wenn Sie bereits Gold-Kompetenzpartner sind, werden Ihnen die inkrementellen Vorteile für eine Silver-Kompetenz automatisch erteilt. In diesem Szenario ist die Option zum Bezahlen der Silver-Kompetenzgebühr ebenfalls nicht verfügbar.
 
-4. Überprüfen und bestätigen Sie auf der Seite " **Kauf Details** " die Details.
+4. Überprüfen und **bestätigen Sie Ihre** Details auf der Seite Kaufdetails.
 
-   (Informieren Sie sich über [die Aktualisierung der **Steuer-ID** -Informationen Ihres Unternehmens](./organization-tax-info.md) oder der Rechnung Ihres Unternehmens [ **an** die Unternehmens Adresse](./mpn-get-action-pack.md).)
+   (Erfahren Sie mehr über das Aktualisieren der [ **Steuer-ID-Informationen**](./organization-tax-info.md) Ihres Unternehmens oder der Rechnung für bzw. den Verkauf an [ **die** Adresse Ihres Unternehmens.)](./mpn-get-action-pack.md)
 
-   :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Mitgliedschaft bietet die Seite &quot;Kauf Details&quot; mit Zahlungs Einstellungen." border="false":::
+   :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Seite mit Kaufdetails für Mitgliedschaftsangebote mit Zahlungseinstellungen." border="false":::
 
-5. Suchen Sie unten links auf der Seite den Abschnitt **Select your Payment Preference** . Wählen Sie entweder die Option **Kreditkarte** oder die Option **Elektronische Bank Übertragung** aus, und klicken Sie dann auf **weiter**. In den folgenden Abschnitten finden Sie weitere Schritte, die mit einer der beiden Optionen verknüpft sind.
+5. Suchen Sie unten links auf der Seite den Abschnitt Wählen Sie **Ihre Zahlungseinstellung** aus. Wählen Sie entweder **die Option Kreditkarte** oder die Option Electronic Bank Transfer **aus,** und wählen Sie dann **Weiter aus.** In den folgenden Abschnitten finden Sie weitere Schritte, die einer der beiden Optionen zugeordnet sind.
 
-### <a name="use-a-credit-card-as-your-payment-preference"></a>Verwenden Sie eine Kreditkarte als Zahlungs Präferenz.
+### <a name="use-a-credit-card-as-your-payment-preference"></a>Verwenden einer Kreditkarte als Zahlungseinstellung
 
-Führen Sie die folgenden Schritte aus, um Ihre Kreditkartenzahlung für eine zugeordnete Silber-oder Gold-Kompetenz Mitgliedschaft abzuschließen.
+Führen Sie diese Schritte aus, um Ihre Kreditkartenzahlung für eine zugeordnete Silver- oder Gold-Kompetenzmitgliedschaft zu erfüllen.
 
-1. Wenn Sie **Kreditkarte** als bevorzugte Zahlungsmethode ausgewählt haben, wird die Seite Kreditkartendetails angezeigt. 
+1. Wenn Sie **Kreditkarte als bevorzugte** Zahlungsmethode ausgewählt haben, wird die Seite Kreditkartendetails angezeigt. 
 
-   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="Mitgliedschaft bietet Zahlungs Kreditkarten-Detailseite." border="false":::
+   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="Die Seite &quot;Mitgliedschaft bietet Kreditkartendetails&quot; für Zahlungen." border="false":::
 
-2. Klicken Sie oben auf dieser Seite auf den Link " **Vereinbarung** ", und überprüfen Sie die Nutzungsbedingungen für das MPN-Angebot im Auftrag Ihres Unternehmens. Dieser Vertrag bietet wichtige Informationen zu Ihrem Abrechnungskonto, zur Verlängerung, zur Erstattungs Berechtigung und zu steuern.
+2. Wählen Sie **oben** auf dieser Seite den Link vereinbarung aus, und überprüfen Sie die MPN-Kaufbedingungen für Ihr Unternehmen. Diese Vereinbarung enthält wichtige Informationen zu Ihrem Abrechnungskonto, zur Verlängerung, zur Erstattungsberechtigung und zu Steuern.
 
-3. Geben Sie Ihre Kreditkartendetails und Abrechnungsinformationen in die entsprechenden Felder ein, und wählen Sie dann **bezahlen** aus.
+3. Geben Sie ihre Kreditkartendetails und Abrechnungsinformationen in die entsprechenden Felder ein, und wählen Sie dann **Bezahlen** aus.
 
-   Ihre Zahlung wird über ein sicheres Zahlungs Gateway von einem Drittanbieter erfasst.
-
-   > [!NOTE]
-   > Stellen Sie sicher, dass die Adresse, die Sie auf dieser Seite eingeben, der Adresse auf der Kreditkarte entspricht. Wenn sich die Adresse der juristischen Entität von der Adresse auf Ihrer Kreditkarte unterscheidet, verwenden Sie auf dieser Seite mit den Kreditkartendetails nicht ihre Rechte Entitäts Adresse. Stellen Sie außerdem sicher, dass die Postleitzahl korrekt ist und der Adresse entspricht, die Sie auf dieser Seite eingegeben haben.
-
-Sobald die Kreditkarteninformationen empfangen und die Transaktion abgeschlossen ist, wird Ihr Silber-oder Gold-Kompetenz Abonnement sofort aktiviert.
-
-### <a name="use-electronic-bank-transfer-as-your-payment-preference"></a>Electronic Bank Transfer als Zahlungs Präferenz verwenden
-
-Führen Sie die folgenden Schritte aus, um die elektronische Bank Übertragung für eine zugeordnete Silber-oder Gold-Kompetenz Mitgliedschaft abzuschließen.
-
-1. Wenn Sie **Electronic Bank Transfer** als bevorzugte Zahlungsmethode ausgewählt haben, wird die Seite **Kauf Details überprüfen** angezeigt.
-
-   :::image type="content" source="images/offers/4-mpn-competency-payment-review-purchase-details.png" alt-text="Mitgliedschaft bietet Electronic Bank Transfer Purchase Details Page." border="false":::
-
-1. Wählen Sie den Link **Vereinbarung** zum unteren Rand dieser Seite aus, und überprüfen Sie im Auftrag Ihres Unternehmens die Nutzungsbedingungen für das MPN-Angebot. Dieser Vertrag bietet wichtige Informationen zu Ihrem Abrechnungskonto, zur Verlängerung, zur Erstattungs Berechtigung und zu steuern.
-
-1. Überprüfen Sie die zu benötige Bank Übertragungs Details. 
-
-1. Notieren Sie sich in **Ihrem ausgewählten Kauf** Bereich den Betrag, der für Microsoft und die jeweilige Währungs Gebühr fällig ist. Sie müssen diesen Betrag in dieser spezifischen Währung von Ihrem Bankkonto übertragen.
-
-1. Wenn Sie zufrieden sind, haben Sie alle Informationen, die Sie benötigen, und wählen Sie **senden** aus.
+   Ihre Zahlung wird über ein sicheres Zahlungsgateway eines Drittanbieters gesammelt.
 
    > [!NOTE]
-   > Die **Bestellnummer** und die **MPN-ID** werden angezeigt, sobald Sie **die Bestellung** erfolgreich übermittelt haben. Notieren Sie sich diese Informationen. Sie benötigen Sie später, um die Bank Übertragung abzuschließen.
+   > Stellen Sie sicher, dass die Adresse, die Sie auf dieser Seite eingeben, der Adresse auf Ihrer Kreditkarte entspricht. Wenn sich die Adresse der juristischen Person von der Adresse auf Ihrer Kreditkarte unterscheidet, verwenden Sie nicht Die Adresse Ihrer juristischen Person auf dieser Seite kreditkartendetails. Stellen Sie außerdem sicher, dass die Postleitzahl korrekt ist und der Adresse entspricht, die Sie auf dieser Seite eingeben.
 
-1. Es wird eine Bestätigungsseite angezeigt, die anzeigt, dass die Übermittlung erfolgreich war. Nachdem Sie die Übertragung mit Ihrer Bank durchgeführt haben, müssen Sie zu dieser Seite zurückkehren, um Ihren Zahlungsnachweis hochzuladen.
+Sobald die Kreditkarteninformationen empfangen und die Transaktion abgeschlossen ist, wird Ihr Silver- oder Gold-Kompetenzabonnement sofort aktiviert.
+
+### <a name="use-electronic-bank-transfer-as-your-payment-preference"></a>Verwenden der elektronischen Bankübertragung als Zahlungspräferenz
+
+Führen Sie diese Schritte aus, um Ihre elektronische Bankübertragung für eine zugehörige Silver- oder Gold-Kompetenzmitgliedschaft abzuschließen.
+
+1. Wenn Sie **Electronic Bank Transfer** als bevorzugte Zahlungsmethode ausgewählt haben, wird die Seite **Kaufdetails überprüfen** angezeigt.
+
+   :::image type="content" source="images/offers/4-mpn-competency-payment-review-purchase-details.png" alt-text="Die Mitgliedschaft bietet die Seite mit den Details zum Kauf einer elektronischen Bankübertragung." border="false":::
+
+1. Wählen Sie unten auf dieser Seite den Link zur **Vereinbarung** aus, und überprüfen Sie die Geschäftsbedingungen für mpn-Angebote im Auftrag Ihres Unternehmens. Diese Vereinbarung bietet wichtige Informationen zu Ihrem Abrechnungskonto, zur Verlängerung, zur Erstattungsberechtigung und zu Steuern.
+
+1. Überprüfen Sie die Bankübertragungsdetails, die Sie benötigen. 
+
+1. Notieren Sie sich in **Ihrem ausgewählten Kaufbereich** den Microsoft-fälligen Betrag und die spezifische Währungsgebühr. Sie müssen diesen Betrag in dieser bestimmten Währung von Ihrem Bankkonto übertragen.
+
+1. Wenn Sie zufrieden sind, dass Sie über alle benötigten Informationen verfügen, wählen Sie **Übermitteln** aus.
+
+   > [!NOTE]
+   > Ihre **Bestellnummer** und **MPN-ID** werden angezeigt, sobald Sie den Auftrag erfolgreich **übermitteln.** Notieren Sie sich diese Informationen. Sie benötigen sie später, um Ihre Bankübertragung abzuschließen.
+
+1. Es wird eine Bestätigungsseite mit dem Hinweis angezeigt, dass Ihre Übermittlung erfolgreich war. Nachdem Sie die Überweisung mit Ihrer Bank abgeschlossen haben, müssen Sie zu dieser Seite zurückkehren, um Ihren Zahlungsnachweis hochzuladen.
 
    :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="Bestätigungsseite für die Übermittlung." border="false":::
 
-1. Vervollständigen Sie die Übertragung von Ihrem Bankkonto. Stellen Sie sicher, dass Sie die folgenden Schritte ausführen:
+1. Schließen Sie die Überweisung von Ihrem Bankkonto ab. Gehen Sie wie folgt vor:
 
-   - Fügen Sie die **Bestellnummer** und die **MPN-ID** in die Referenz Details der Übertragungs Übertragung ein.
+   - Fügen Sie sowohl die **Bestellnummer als** auch **die MPN-ID** in die Referenzdetails für die Überweisung ein.
 
-   - Übertragen Sie den fälligen Betrag (in der zuvor notierten Währung) an das Microsoft Bank Konto, das im Bereich **Übertragungs Anweisungen** der vorherigen Seite angezeigt wird.
+   - Übertragen Sie den fälligen Betrag (in der zuvor notierten Währung) auf das Microsoft-Bankkonto, das im Bereich Überweisungsanweisungen der vorherigen **Seite angezeigt** wird.
 
-1. Wenn Ihre Bank die Transaktion bestätigt hat, notieren Sie sich die Bestätigung der Bank. Stellen Sie sicher, dass das Bestätigungsdokument der Bank Bestätigung Details zu folgenden Informationen enthält 
-   - Das Datum, an dem die Übertragungs Übertragung erfolgt ist
-   - Das Microsoft Bank Konto, das zum Empfangen der Übertragungs Übertragung verwendet wird.
-   - Der in der richtigen Währung angezeigte Übertragungs Betrag
-   - Die Bestellnummer und die MPN-ID-Nummer
+1. Nachdem Ihre Bank die Transaktion bestätigt hat, machen Sie ein Foto der Bankbestätigung als Nachweis. Stellen Sie sicher, dass das Dokument zur Bestätigung der Bank Details zu Folgenden enthält: 
+   - Datum, an dem die Überweisungszahlung erfolgt ist
+   - Das Microsoft-Bankkonto, das für den Empfang Ihrer Überweisung verwendet wird
+   - Der in der richtigen Währung angezeigte Übertragungsbetrag
+   - Ihre Bestellnummer und MPN-ID
 
-1. Im nächsten Abschnitt finden Sie die Schritte zum Hochladen des Dokuments für die Übertragung per Übertragungs Nachweis.
+1. Im nächsten Abschnitt finden Sie Schritte zum Hochladen Ihres Zahlungsdokuments für den Nachweis der Überweisung.
 
-### <a name="upload-proof-of-wire-transfer-payment"></a>Nachweis der Übertragungs Übertragungs Zahlung
+### <a name="upload-proof-of-wire-transfer-payment"></a>Hochladen des Zahlungsnachweises für die Überweisung
 
-Wenn Sie Ihre Silber-oder Gold-Mitgliedschafts Gebühr über den elektronischen Übertragungs Transfer bezahlen, müssen Sie den Zahlungsnachweis in Partner Center hochladen. Führen Sie hierzu die folgenden Schritte aus:
+Wenn Sie Ihre Silver- oder Gold-Mitgliedschaftsgebühr per E-Mail-Überweisung bezahlen, müssen Sie den Zahlungsnachweis in die Partner Center. Führen Sie hierzu die folgenden Schritte aus:
 
-1. Kehren Sie zum Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)zurück, und wählen Sie im linken Navigationsmenü die Option **mitgliedschaftsangebote** aus.
+1. Kehren Sie zum dashboard Partner Center [zurück,](https://partner.microsoft.com/dashboard)und wählen Sie dann im linken Navigationsmenü die Option Mitgliedschaftsangebote aus. 
 
-1. Suchen Sie in der Liste erworbener Angebote nach Ihrem speziellen Angebot. Wählen Sie dann in der Spalte Aktion für dieses Angebot den Wert **Zahlungsnachweis hochladen** aus.
+1. Suchen Sie in der Liste Erworbene Angebote nach Ihrem spezifischen Angebot. Wählen Sie dann in der Spalte Aktion für dieses Angebot die Option **Zahlungsnachweis hochladen aus.**
 
-   :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="Die Liste erworbener mitgliedschaftsangebote zeigt eine auswählbare Option (Zahlungsnachweis hochladen) für jedes erworbene Angebot an." border="false":::
+   :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="Liste der erworbenen Mitgliedschaftsangebote mit einer auswählbaren Option( Zahlungsnachweis hochladen) für jedes erworbene Angebot." border="false":::
 
-1. Suchen Sie auf der Seite Details nach dem Feld **Zahlungsnachweis** . Wählen Sie **Durchsuchen** aus, um Ihr Nachweis Dokument zu suchen und in Partner Center hochzuladen.
+1. Suchen Sie auf der Detailseite nach dem Feld **Zahlungsnachweis.** Wählen **Sie Durchsuchen** aus, um Ihr Nachweisdokument zu suchen und in Partner Center hochzuladen.
 
-   :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Detailseite mit den Feldern zum Hochladen einer auswählbaren Option zum Hochladen von Zahlungsnachweis für jedes erworbene Angebot." border="false":::
+   :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Detailseite mit Feldern zum Hochladen des Nachweises mit einer auswählbaren Option und einem Zahlungsnachweis für jedes erworbene Angebot." border="false":::
 
-1. Vervollständigen Sie die Informationen für die anderen Felder im Zusammenhang mit Ihrer aktuellen elektronischen Übertragungs Transaktion, wie z. b. **Zahlungsdatum**, **kostenpflichtige Kontonummer** und **Transaktion/Ref Nein**.
+1. Füllen Sie die Informationen für die anderen Felder im Zusammenhang mit Ihrer letzten elektronischen Überweisungstransaktion aus, z. **B. Zahlungsdatum,** **An Kontonummer bezahlt** und **Transaktion/Verweis nein.**
 
-  Möglicherweise wird eine grüne Meldung angezeigt, die Sie darüber informiert, dass Ihre Anforderung erfolgreich abgeschlossen wurde.
+  Möglicherweise wird eine grüne Meldung angezeigt, in der Sie darüber informieren, dass Ihre Anforderung erfolgreich abgeschlossen wurde.
 
-Nachdem die Zahlung erfolgreich abgeschlossen wurde, wird Ihr Kauf normalerweise als aktiv zwischen 48 und 72 Stunden angezeigt, nachdem Sie das Bankkonto von Microsoft erreicht hat. Es kann jedoch bis zu **einer Woche** dauern, bis der vollständige Vorgang abgeschlossen ist. 
+Nachdem die Zahlung erfolgreich abgeschlossen wurde, wird Ihr Kauf in der Regel zwischen 48 und 72 Stunden nach Erreichen des Microsoft-Bankkontos als aktiv angezeigt. Der vollständige Prozess kann jedoch bis zu **einer Woche** dauern. 
 
-Wenn Sie die erforderlichen Informationen in den Referenz Details der Übertragungs Übertragung angeben (z. b., Bestellnummer und MPN-ID) und den Zahlungsnachweis für Partner Center hochladen, kann die Zahlung möglicherweise früher aktiviert werden.
+Wenn Sie die erforderlichen Informationen in den Referenzdetails für die Überweisung (z. B. Bestellnummer und MPN-ID) angeben und den Zahlungsnachweis in Partner Center hochladen, kann die Zahlung möglicherweise früher aktiviert werden.
 
-Wenn der Zahlungsprozess nicht innerhalb von 30 Tagen nach dem Erstellungsdatum der Bestellung vollständig abgeschlossen ist, ändert sich der Status Ihrer Bestellung in **abgelaufen**. Wenn Ihre Bestellung **abgelaufen** ist, müssen Sie eine neue Bestellung direkt aus Partner Center erstellen, ohne die Zahlung noch einmal senden zu müssen. 
+Wenn der Zahlungsvorgang nicht innerhalb von 30 Tagen nach dem Erstellungsdatum Ihrer Bestellung vollständig abgeschlossen ist, ändert sich der Status Ihrer Bestellung in **Abgelaufen.** Wenn Ihre Bestellung **abgelaufen** ist, müssen Sie direkt eine neue Bestellung aus Partner Center erstellen, ohne die Zahlung noch einmal senden zu müssen. 
 
-## <a name="switch-from-electronic-bank-transfer-payment-to-credit-card-payment-method"></a>Wechsel von elektronischer Bank Übertragungs Zahlung zur Kreditkarten Zahlungsmethode
+## <a name="switch-from-electronic-bank-transfer-payment-to-credit-card-payment-method"></a>Wechsel von der zahlung per elektronischer Bank in die Zahlungsmethode "Kreditkarte"
 
-Sie können später entscheiden, Ihre Zahlungsmethoden für die Gebühr zu ändern, die mit einer Silver-oder Gold-Kompetenz Mitgliedschaft verknüpft ist. Beispielsweise können Sie eine Kreditkartenzahlung anstelle einer elektronischen Bank Übertragung verwenden. Möglicherweise verfügen Sie bereits über eine nicht im System erstellte elektronische Bank Übertragungs Reihenfolge.
+Sie können sich später entscheiden, Ihre Zahlungsmethoden für die Gebühr zu ändern, die einer Silver- oder Gold-Kompetenzmitgliedschaft zugeordnet ist. Beispielsweise können Sie eine Kreditkartenzahlung anstelle einer elektronischen Bankübertragung verwenden. Oder Sie verfügen bereits über einen nicht erfolgten elektronischen Bankübertragungsauftrag, der im System erstellt wurde.
 
-Um die Zahlungs Einstellungen für eine vorhandene Bestellung zu ändern, müssen Sie zunächst die Bestellung abbrechen und Sie dann mit Ihrer bevorzugten Zahlungsmethode erneut erwerben.
+Um Ihre Zahlungspräferenzen für eine vorhandene Bestellung zu ändern, müssen Sie die Bestellung zuerst stornieren und dann mit Ihrer bevorzugten Zahlungsmethode erneut ankaufen.
 
-Gehen Sie folgendermaßen vor, um eine vorhandene, nicht angeprüfte elektronische Bank Übertragung abzubrechen und Ihre Zahlungs Einstellungen zu ändern:
+Gehen Sie wie folgt vor, um eine vorhandene, nicht gekündigte elektronische Bankübertragung zu stornieren und Ihre Zahlungseinstellungen zu ändern:
 
 1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
-2. Wählen Sie im linken Navigationsmenü die Option **mitgliedschaftsangebote** aus.
+2. Wählen **Sie im linken** Navigationsmenü Mitgliedschaftsangebote aus.
 
-3. Suchen Sie in der Liste erworbener Angebote nach dem jeweiligen Angebot, das Sie abbrechen möchten. Wählen Sie dann in der Spalte Aktion für dieses Angebot die Option **Bestellung abbrechen** aus.
+3. Suchen Sie in der Liste Erworbene Angebote das spezifische Angebot, das Sie stornieren möchten. Wählen Sie dann in der Spalte Aktion für dieses Angebot Die **Bestellung stornieren aus.**
 
-   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="Die Liste der erworbenen mitgliedschaftsangebote zeigt die Option zum Abbrechen der Bestellung" border="false":::
+   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="Die Liste der erworbenen Mitgliedschaftsangebote zeigt die Option Bestellung stornieren an." border="false":::
 
-4. Führen Sie die restlichen Schritte aus, um den Auftrag abzubrechen. 
+4. Führen Sie die verbleibenden Schritte aus, um die Bestellung zu stornieren. 
 
-5. In den vorherigen Abschnitten erfahren Sie, wie Sie eine neue Bestellung mit neuen Zahlungs Einstellungen erstellen, die auf einem der für Sie verfügbaren Silber-oder Gold-mitgliedschaftsangebote basiert.
+5. In den früheren Abschnitten finden Sie informationen zum Erstellen einer neuen Bestellung mit neuen Zahlungseinstellungen basierend auf einem der Silver- oder Gold-Mitgliedschaftsangebote, die Ihnen weiterhin zur Verfügung stehen.
 
-## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>Upgrade-Rabatt beim Umstieg von Silver auf Gold anwenden
+## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>Anwenden des Upgraderabatts beim Wechsel von Silber zu Gold
 
-Wenn Ihre Organisation über eine aktive Silver-Kompetenz verfügt und die Berechtigungsanforderungen für die zugehörige Gold-Kompetenz erfüllt hat, können Sie ein Upgrade von Silver auf Gold durchführen, um einen Rabatt zu erhalten. Sie erhalten einen Rabatt von 25% auf den Preis der Gold-Kompetenz.
+Wenn Ihre Organisation über eine aktive Silver-Kompetenz verfügt und die Berechtigungsanforderungen für die zugeordnete Gold-Kompetenz erfüllt hat, können Sie ein Upgrade von Silber auf Gold für einen Rabatt durchführen. Sie erhalten einen Rabatt von 25 Prozent auf den Preis der Gold-Kompetenz.
 
-Das neue Gold-Jahrestag wird ein Jahr ab dem Kaufdatum eingeplant. Profitieren Sie von vollen Gold Vorteilen.
+Das neue Gold Anniversary Date wird für ein Jahr ab dem Kaufdatum geplant. Sie erhalten vollständige Gold-Vorteile.
 
 > [!NOTE]
-> Dieser upgraderabatt hat einige Ausnahmen. Wenn Sie über ein Silver-Mitgliedschafts Angebot verfügen, dann haben Sie den 25-prozentigen Rabatt auf Gold-Mitgliedschaft für ein Upgrade auf ein Gold-Mitgliedschafts Angebot verwendet. Dies gilt auch dann, wenn Sie sich innerhalb von 30 Tagen für Ihre Silver-Mitgliedschaft bezahlt haben und noch nicht die dazugehörigen Vorteile genutzt haben.
+> Es gibt einige Ausnahmen von diesem Upgraderabatt. Wenn Sie ein Silver-Mitgliedschaftsangebot hatten und dann den Rabatt für die Gold-Mitgliedschaft von 25 Prozent für ein Upgrade auf ein Gold-Mitgliedschaftsangebot verwendet haben, sind Sie nicht berechtigt, eine Silver-Rückerstattung zu erhalten. Dies gilt auch, wenn Sie ihre Silver-Mitgliedschaft innerhalb von 30 Tagen bezahlt haben und die entsprechenden Vorteile noch nicht genutzt haben.
 
-Gehen Sie folgendermaßen vor, um zu sehen, wo der Rabatt von 25% gilt:
+Gehen Sie wie folgt vor, um zu sehen, wo Ihr Rabatt von 25 Prozent angewendet wird:
 
 1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
-2. Wählen Sie im linken Navigationsmenü die Option **mitgliedschaftsangebote** aus.
+2. Wählen **Sie im linken** Navigationsmenü Mitgliedschaftsangebote aus.
 
-3. Suchen Sie unter Verfügbare Angebote nach einer Gold-Mitgliedschafts Kachel. Wenn Sie zuvor eine Silver-Mitgliedschaft erworben und bezahlt haben, wird der Gold-Mitgliedschafts Betrag angepasst, um den Rabatt von 25% zu berücksichtigen.
+3. Suchen Sie unter Zum Kauf verfügbare Angebote nach der Kachel Gold-Mitgliedschaft. Wenn Sie zuvor eine Silver-Mitgliedschaft erworben und bezahlt haben, wird der Gold-Mitgliedschaftsbetrag an den Rabatt von 25 Prozent angepasst.
 
-   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Erworbene mitgliedschaftsangebote zeigt das Gold-Kachel Angebot mit einem Rabatt von Silber bis Gold 25%." border="false":::
+   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Angebote für erworbene Mitgliedschaften zeigen ein Goldkachelangebot mit einem Rabatt von 25 Prozent auf Silber bis Gold an." border="false":::
 
-4. Wählen Sie **abonnieren** auf der Kachel Gold-Mitgliedschaft aus, die den Rabatt widerspiegelt. Auf der Seite "Kauf Details" wird auch der Rabatt für den ausgewählten Kauf angezeigt.
+4. Wählen **Sie auf der** Kachel Gold-Mitgliedschaft die Option Abonnieren aus, die den Rabatt widerspiegelt. Auf der Seite mit den Kaufdetails wird auch der Rabatt für den ausgewählten Kauf angezeigt.
 
-   :::image type="content" source="images/offers/10-mpn-competency-silver-to-gold-discount-2.png" alt-text="Auf der Detailseite wird ein Angebot mit 25% Rabatt angezeigt." border="false":::
+   :::image type="content" source="images/offers/10-mpn-competency-silver-to-gold-discount-2.png" alt-text="Auf der Detailseite wird das Angebot mit einem Rabatt von 25 Prozent angezeigt." border="false":::
 
-5. Wählen Sie **weiter** aus, um den Kauf dieses Angebots abzuschließen und den Rabatt zu erhalten.
+5. Wählen Sie **Weiter** aus, um den Kauf dieses Angebots abzuschließen und den Rabatt zu erhalten.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-Weitere Informationen zu [Kompetenzen](https://partner.microsoft.com/membership/competencies), ihren Vorteilen und individuellen Anforderungen
+Weitere Informationen zu Kompetenzen, ihren [Vorteilen](https://partner.microsoft.com/membership/competencies)und besonderen Anforderungen

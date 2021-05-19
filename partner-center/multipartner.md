@@ -9,38 +9,32 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 931b169b3b2794f6a83a14007a50184fa6676102
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b41d3ee33b789c8f839ff1b3b5f5d8fd27c23f02
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441794"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151150"
 ---
-# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Unterstützung mehrerer Partner für Kunden, die mit mehr als einem Partner arbeiten möchten
+# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Unterstützung für mehrere Partner für Kunden, die mit mehr als einem Partner zusammenarbeiten möchten
 
-**Zielgruppe**
+**Gilt für**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partner Center für Microsoft Cloud for US Government
+**Geeignete Rollen:** Globale Administratorrechte | Administratorrechte für | Vertriebs-Agent
 
-**Geeignete Rollen**
+Das Partner Center-Feature unterstützt Szenarien, in denen ein Kunde mit mehr als einem Partner zusammenarbeiten möchte. Beispielsweise möchte ein Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist.
 
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
-- Vertriebsbeauftragter
-
-Die Multi-Partner-Funktion von Partner Center unterstützt Szenarien, in denen ein Kunde mit mehr als einem Partner arbeiten möchte. Beispielsweise möchte ein Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist.
-
-Ein Azure CSP-Mandant kann ein zusätzliches Azure-Abonnement von einem anderen CSP-Partner enthalten.
+Ein Azure CSP kann ein zusätzliches Azure-Abonnement von einem anderen CSP-Partner enthalten.
 
 Um das Multipartner-Feature in Partner Center zu verwenden, bitten Sie den Kunden, Ihnen delegierte Administratorrechte einzuräumen. Unter [Beantragen einer Partnerschaft mit einem Kunden](request-a-relationship-with-a-customer.md) finden Sie Informationen zum Herstellen einer Beziehung mit einem Kunden, der bereits mit einem Partner arbeitet.
 
 Folgendes ist mit der Multipartner-Funktionalität nicht möglich:
 
-- Ändern der vorhandenen Abonnements des Kunden
+- Ändern eines der vorhandenen Abonnements des Kunden
 
-- Übertragung der vorhandenen Abonnements oder des Konto Besitzes des Kunden
+- Übergang der vorhandenen Abonnements oder des Kontobesitzes des Kunden
 
-- Ändern der Bedingungen oder der Kunden Verpflichtungen für vorhandene Abonnements
+- Ändern der Bedingungen oder Verpflichtungen des Kunden für ein vorhandenes Abonnement
 
 - Ändern des registrierten Abonnementberaters für ein Abonnement
 

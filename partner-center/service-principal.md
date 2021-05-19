@@ -9,18 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ef5373fd9a606cd25345cbe80a55f28fc1f753f
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028467"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854926"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Hinzufügen einer Azure AD-Anwendung (Dienstprinzipal) in Partner Center
 
-**Geeignete Rollen**
-
-- Globaler Administrator
+**Geeignete Rollen**: Globaler Administrator
 
 Sie können nun im Programm für den kommerziellen Marketplace in Partner Center eine Azure AD-Anwendung (Dienstprinzipal) als Benutzer in Ihrem Partner Center-Konto hinzufügen. (Dies war zuvor in Ihrem Cloud-Partnerportal- oder CPP-Konto möglich. Nach der Migration zu Partner Center ist das CPP-Konto schreibgeschützt.)
  

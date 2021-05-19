@@ -1,32 +1,30 @@
 ---
-title: Felder für CSV-Datei zum Importieren mehrerer Benutzer für ein Kundenkonto
+title: Felder für die CSV-Datei zum Importieren mehrerer Benutzer für ein Kundenkonto
 ms.topic: article
 ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Wenn Sie einem Kundenkonto mehrere Benutzer hinzufügen möchten, erstellen Sie eine Datei mit Komma getrennten Werten (CSV-Datei) mit entsprechenden Feldern.
+description: Um einem Kundenkonto mehrere Benutzer hinzuzufügen, erstellen Sie eine csv-Datei (durch Komma getrennte Werte) mit entsprechenden Feldern.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 152daadde25a9325937797f7a3daa90dfb59a9b4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441420"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150980"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Hinzufügen mehrerer Benutzer zu einem Kundenkonto durch Erstellen einer CSV-Datei
 
-**Geeignete Rollen**
+**Geeignete Rollen**: Globaler Administrator
 
-- Globaler Administrator
-
-Fügen Sie dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzu, indem Sie eine Datendatei im CSV-Dateiformat (Comma-Separated Value File Format) in das Partner Center hochladen. Sie können eine Beispieldatendatei aus dem Partner Center herunterladen und sie für Ihre Zwecke anpassen oder anhand des unten definierten Datenmodells eine neue Datendatei erstellen.
+Fügen Sie dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzu, indem Sie eine Datendatei im durch Komma getrennten Wertdateiformat (CSV) in die Partner Center. Sie können eine Beispieldatendatei aus dem Partner Center herunterladen und sie für Ihre Zwecke anpassen oder anhand des unten definierten Datenmodells eine neue Datendatei erstellen.
 
 ## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Anforderungen an die Datendatei
 
-Wenn Sie dem Konto eines Kunden mithilfe des Massen Uploads mehrere Benutzer hinzufügen möchten, müssen Sie die folgenden Anforderungen erfüllen:
+Um dem Konto eines Kunden mithilfe des Massenuploadprozesses mehrere Benutzer hinzuzufügen, müssen Sie die folgenden Anforderungen erfüllen:
 
 - Sie müssen über globale Administratorberechtigungen für das Kundenkonto verfügen.
 - Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen, die an die E-Mail-Domäne(n) des Kunden angehängt sind.
@@ -40,9 +38,9 @@ Geben Sie die folgenden Daten in die Datendatei ein:
 |:-------- |:------  |:----- |
 | Vorname  | Vorname des Benutzers (optionales Feld)  | Maximal 50 Zeichen  |
 | Nachname  | Nachname des Benutzers (optionales Feld)  | Maximal 50 Zeichen  |
-| `Display name`    | Der im Partner Center angezeigte Name (erforderliches Feld)                            | Maximal 50 Zeichen                         |
-| Email   | Geschäftliche e-Mail-Adresse des Benutzers im Kunden Unternehmen (Pflichtfeld)           | Jeder Benutzer muss über eine eindeutige E-Mail-Adresse verfügen. |
-| Statusaktualisierung   | Wird verwendet, um anzugeben, ob der neue Benutzerdaten Satz erfolgreich erstellt wurde. | \*\*Keine Angabe\*\*                        |
+| Anzeigename    | Der im Partner Center angezeigte Name (erforderliches Feld)                            | Maximal 50 Zeichen                         |
+| E-Mail   | Geschäftliche E-Mail-Adresse des Benutzers beim Kundenunternehmen (Pflichtfeld)           | Jeder Benutzer muss über eine eindeutige E-Mail-Adresse verfügen. |
+| Statusaktualisierung   | Wird verwendet, um anzugeben, ob der neue Benutzerdatensatz erfolgreich erstellt wurde. | \*\*Keine Angabe\*\*                        |
 
 ## <a name="next-steps"></a>Nächste Schritte
 

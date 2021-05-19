@@ -1,6 +1,6 @@
 ---
 title: Vorbereiten Ihres Ausführungsnachweises
-description: Informieren Sie sich über die Wichtigkeit der Ausrichtungs Prüfung (PoE), Zeitachsen, Anzeige Status und Übermittlungs Richtlinien.
+description: Machen Sie sich mit der Wichtigkeit Ihres Ausführungsnachweises (Proof of Execution, PoE), Zeitachsen, Anzeigestatus und Übermittlungsrichtlinien klar.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,22 +8,20 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a81962de16b56329167338012cc66e160fffafe8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179444"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151881"
 ---
-# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Erstellen und Übermitteln von Dokumenten für Ihren Incentive-Ausführungs Nachweis (PoE)
+# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Erstellen und Übermitteln von Dokumenten für Ihren Incentives-Ausführungsnachweis (Proof of Execution, PoE)
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Incentives-Administrator
 
-- Incentiveadministrator
+Bevor Sie für Ihre Incentives-Arbeit bezahlt werden, müssen Sie einen detaillierten Ausführungsnachweis (Proof of Execution, PoE) übermitteln. Dieser Artikel führt Sie durch den Prozess der Erstellung eines effektiven Ausführungsnachweises.
 
-Bevor Sie für Ihre Incentives bezahlt werden, müssen Sie einen detaillierten Ausführungs Nachweis (PoE) einreichen. Dieser Artikel führt Sie durch den Prozess der Erstellung eines effektiven Ausführungs Nachweises.
-
-## <a name="how-to-submit-a-poe"></a>Übermitteln eines Poe
+## <a name="how-to-submit-a-poe"></a>Übermitteln eines PoE
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
@@ -31,47 +29,47 @@ Bevor Sie für Ihre Incentives bezahlt werden, müssen Sie einen detaillierten A
 
 3. Wählen Sie im Abschnitt **Pläne** den gewünschten Plan aus. Die Seite „Status“ für diesen Plan wird geöffnet.
 
-4. Suchen Sie im Abschnitt **Kampagnen** nach der gewünschten Aktivität.
+4. Suchen Sie **im Abschnitt** Kampagnen nach der aktivität, die Sie möchten.
 
-5. Wählen Sie in der Spalte **Nachweis der Ausführung** die Option **Poe hinzufügen** aus.
+5. Wählen Sie in **der Spalte Proof of Execution** (Ausführungsnachweis) die Option **PoE hinzufügen aus.**
 
-6. Geben Sie auf der **Seite neuer Ausführungs Nachweis** die erforderlichen Felder ein.
+6. Geben Sie **auf der Seite Neuer Ausführungsnachweis** die erforderlichen Felder ein.
 
-   - **Name**  Ein Anzeige Name für den Co-op-Anspruch.
-   - **Datum**  Das Ausführungs Datum. Dieses Datum muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
-   - **Betrag**  Der Betrag des Co-op-Anspruchs.
+   - **Name**  Ein Benutzername für den Co-Op-Anspruch.
+   - **Datum**  Das Ausführungsdatum. Dieses Datum muss zwischen dem Startdatum der Kampagne und dem Enddatum der Kampagne liegen.
+   - **Betrag**  Der Betrag des Co-Op-Anspruchs.
 
-7. Wählen Sie **Speichern** aus.
+7. Klicken Sie auf **Speichern**.
 
-8. Geben Sie auf der Seite **Neuer Anspruch der Ausführungs** Prüfung die erforderlichen Felder ein.
+8. Geben Sie **auf der Seite Neuer Ausführungsnachweisanspruch** die erforderlichen Felder ein.
 
-   - **Name**  Ein Anzeige Name für den Co-op-Anspruch.
-   - **Datum**  Das Ausführungs Datum. Dieses Datum muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
-   - **Geschätzte Eindrücke**   Die geschätzte Reichweite dieser Aktivität. Anzahl der Personen.
-   - **ID der Vorabgenehmigung**   Dies ist die ID, die Microsoft Ihnen sendet, nachdem wir Ihre Marketingmaterialien genehmigt haben.
+   - **Name**  Ein Benutzername für den Co-Op-Anspruch.
+   - **Datum**  Das Ausführungsdatum. Dieses Datum muss zwischen dem Startdatum der Kampagne und dem Enddatum der Kampagne liegen.
+   - **Geschätztes 1:0**   Die geschätzte Reichweite dieser Aktivität. Anzahl von Personen.
+   - **Vorabgenehmigungs-ID**   Dies ist die ID, die Microsoft Ihnen sendet, nachdem wir Ihre Marketingmaterialien genehmigt haben.
 
 9. Wenn Sie fertig sind, wählen Sie **Anspruch erstellen** aus.
 
 10. Laden Sie auf der Seite mit den **Rechnungs- und Ausgabeninformationen** eines der folgenden beiden Dokumente hoch:
-    - **Rechnung von Drittanbietern**  Wählen Sie im Feld **Rechnungen von Drittanbietern** die Option **Dateien zum Hochladen ziehen oder durchsuchen** aus. Fügen Sie die Rechnung und die erforderlichen Rechnungsdetails hinzu, und wählen Sie dann **Speichern** aus.
-    - **Bericht zum Zertifizierungsdienst**  Wählen Sie **Zertifizierungsdienst Bericht hinzufügen** aus. Füllen Sie auf der Seite **einen Zertifizierungsdienst Bericht generieren** die erforderlichen Felder aus, und klicken Sie dann auf **Speichern**.
+    - **Rechnung eines Drittanbieters**  Wählen Sie **im Feld Drittanbieterrechnung** die Option Dateien zum Hochladen **ziehen oder durchsuchen aus.** Fügen Sie die Rechnung und die erforderlichen Rechnungsdetails hinzu, und wählen Sie dann **Speichern** aus.
+    - **Zertifizierungsdienstbericht**  Wählen **Sie Zertifizierungsdienstbericht hinzufügen** aus. Füllen Sie auf der Seite **Zertifizierungsdienstbericht generieren** die erforderlichen Felder aus, und wählen Sie dann **Speichern** aus.
 
-11. Sie können auch bei Bedarf **Nachweis Dokumente** hochladen. Wählen Sie im Feld **Nachweis Dokumente** die Option **Dateien zum Hochladen ziehen oder durchsuchen** aus. Wenn Sie Nachweis Dokumente auswählen, müssen Sie Erläuterungen zu den Anmerkungen hinzufügen. Nachdem Sie eine Anmerkung hinzugefügt haben, wählen Sie **Speichern** aus.
+11. Sie können **auch Proof-Dokumente** hochladen, wenn Sie möchten. In the **Proof documents** field, select **Drag or browse files to upload**. Wenn Sie Proof documents (Dokumente prüfen) auswählen, müssen Sie erläuternde Hinweise hinzufügen. Nachdem Sie eine Anmerkung hinzugefügt haben, wählen Sie **Speichern** aus.
 
-12. Geben Sie vor dem Übermitteln des Poe alle abschließenden Kommentare ein, und wählen Sie dann **Anspruch senden** aus.
+12. Geben Sie alle abschließenden Kommentare ein, bevor Sie Ihren PoE übermitteln, und wählen Sie dann **Anspruch übermitteln** aus.
 
-## <a name="view-the-status-of-a-poe"></a>Anzeigen des Status eines Poe
+## <a name="view-the-status-of-a-poe"></a>Anzeigen des Status eines PoE
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
 2. Wählen Sie auf der Seite mit Ihren **Incentives** die Option **Planverwaltung** und dann das gewünschte Programm aus. Die Seite „Status“ wird geöffnet.
 
-3. Im Abschnitt " **Claims** " wird der Status jedes Poe in der Spalte **Status** aufgeführt.
+3. Im Abschnitt **Ansprüche** wird der Status der einzelnen PoE in der Spalte **Status** aufgeführt.
 
-   Im folgenden finden Sie die verschiedenen möglichen Statuswerte für Ihren Co-op-Anspruch.
+   Im Folgenden werden die verschiedenen möglichen Status für Ihren Co-Op-Anspruch PoE angezeigt.
 
    - Gesendet
-   - Bei der Überprüfung (Microsoft wird die Überprüfung vor dem letzten Tag des Monats durchgeführt, nachdem Sie Ihren Poe eingereicht haben).
+   - Überprüft (Microsoft schließt die Überprüfung vor dem letzten Tag des Monats ab, nachdem Sie Ihre PoE übermittelt haben.)
    - Erforderliche Aktion
    - Bearbeitung läuft
    - Genehmigt

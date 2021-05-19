@@ -9,25 +9,20 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f738ddace805838cdf202c23cca8535c11cbdf54
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132620"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151558"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrieren von Abonnements für Office 365 E4 auf neuere Versionen von Office 365
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
-- Administrator-Agent
-- Vertriebsbeauftragter
+**Geeignete Rollen:** Globale Administratorrechte | Administratorrechte für | Administrator-Agent| Vertriebs-Agent
 
 Der Enterprise E4-Plan für Office 365 wurde am 7. April 2017 eingestellt. Nach diesem Datum können keine neuen Office 365 E4-Abonnements mehr erworben werden, und bereits vorhandene E4-Abonnements werden bei Ablauf nicht automatisch verlängert.
 
-Wenn E4-Abonnements enden, werden sie storniert. Zur Gewährleistung von Kontinuität für betroffene Kunden sollten Sie Kunden mit ablaufenden E4-Abonnements zu einer unterstützten SKU-Option (nachfolgend aufgeführt) migrieren. Wir empfehlen, Kunden vor dem jährlichen Enddatum des Abonnements in neue Abonnements zu verschieben, um Dienst Ausfälle für Kunden zu vermeiden. 
+Wenn E4-Abonnements enden, werden sie storniert. Zur Gewährleistung von Kontinuität für betroffene Kunden sollten Sie Kunden mit ablaufenden E4-Abonnements zu einer unterstützten SKU-Option (nachfolgend aufgeführt) migrieren. Es wird empfohlen, Kunden vor dem jährlichen Enddatum des Abonnements in neue Abonnements zu verschieben, um Dienstausfälle für Kunden zu vermeiden. 
 
 > [!NOTE]  
 > Sowohl kommerzielle SKUs als auch Behörden-SKUs für Office 365 Enterprise E4 wurden eingestellt.
@@ -46,7 +41,7 @@ Sie können wählen, ob die gleichen Funktionen wie in E4 bereitgestellt werden 
 
 - Option 2: Office 365 Enterprise E3 + Skype for Business Cloud PBX
 
-- Option 3: Office 365 Enterprise E3 + Skype for Business Plus CAL (Preis-und Funktionalitäts Parität mit E4)
+- Option 3: Office 365 Enterprise E3 + Skype for Business Plus CAL (Preis- und Funktionsparität mit E4)
 
 - Option 4: Office 365 Enterprise E3
 
@@ -78,17 +73,17 @@ Führen Sie diese Schritte aus, um das Office 365 Enterprise E4-Abonnement ein
 
 2. Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall eine der oben genannten Optionen), geben Sie die nötigen Anzahl von Lizenzen ein, und wählen Sie dann **Übermitteln** aus.
 
-   Ihr Kunde sollte nun sowohl alte als auch neue Abonnements haben, das alte Office 365 Enterprise E4-Abonnement und das neue Abonnement "target", z. b. Option 1-Office 365 Enterprise E5.
+   Ihr Kunde sollte jetzt sowohl über alte als auch über neue Abonnements verfügen, das alte Office 365 Enterprise E4-Abonnement und das neue Zielabonnement, z. B. Option 1 – Office 365 Enterprise E5.
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Schritt 2: Neuzuweisen der Benutzerlizenzen des Kunden
 
 1. Wählen Sie im Menü **Partner Center** die Option **Kunden** und anschließend den Kunden aus, den Sie migrieren möchten. Wählen Sie dann **Benutzer und Lizenzen** aus. Die Seite Benutzer und Lizenzen des Kunden wird geöffnet.
 
-2. Wählen Sie zum erneuten Zuweisen von Benutzerlizenzen den Benutzer aus, der neu zugewiesen werden soll, und wählen Sie dann **Lizenzen verwalten**.
+2. Um Benutzerlizenzen neu zuzuweisen, wählen Sie den Benutzer aus, der neu zugewiesen werden soll, und wählen Sie dann **Lizenzen verwalten aus.**
 
 3. Deaktivieren Sie auf der Seite **Lizenzen verwalten** das Lizenzkontrollkästchen für **Office 365 Enterprise E4**, und wählen Sie einen neuen Serviceplan für das Abonnement aus, auf das der Kunde umgestellt wird.
 
-4. Klicken Sie auf **Senden**. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt.
+4. Klicken Sie auf **Submit** (Senden). Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt.
 
 5. Führen Sie diese Schritte für alle Benutzer des Kunden aus, deren Lizenz neu zugewiesen werden muss.
 
@@ -96,11 +91,11 @@ Nachdem Sie die Benutzerlizenzen zum neuen Dienst migriert haben, können Sie da
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Schritt 3: Stornieren des alten Abonnements
 
-1. Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus. Wählen Sie den Kunden aus, den Sie migrieren möchten, und wählen Sie anschließend das Abonnement aus, das Sie stornieren möchten.
+1. Wählen Sie **Partner Center** Menü Kunden **aus.** Wählen Sie den Kunden aus, den Sie migrieren möchten, und wählen Sie anschließend das Abonnement aus, das Sie stornieren möchten.
 
 2. Legen Sie auf der Seite mit den Abonnementdetails den Abonnementstatus auf **Ausgesetzt** fest.
 
-3. Klicken Sie auf **Senden**.
+3. Klicken Sie auf **Submit** (Senden).
 
 Das alte Abonnement ist nun ausgesetzt, und das neue Abonnement ist aktiv. Die Bereitstellung des ausgesetzten Abonnements wird nach 120 Tagen automatisch aufgehoben. Für den Kunden fallen für das alte Abonnement keine zusätzlichen Kosten an.
 

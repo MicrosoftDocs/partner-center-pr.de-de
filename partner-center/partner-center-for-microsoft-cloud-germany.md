@@ -4,84 +4,76 @@ ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Partner Center für Microsoft Cloud Deutschland ist das Unternehmensportal für Partner, die Microsoft-cloudlösungen für Kunden in EU-und EFTA-Ländern anbieten möchten.
+description: Partner Center für Microsoft Cloud Deutschland ist das Geschäftsportal für Partner, die Microsoft-Cloudlösungen für Kunden in DEN LÄNDERN und der EU anbieten möchten.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 19753f4fb848262fc8bed146427f0652096f6902
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086514"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151082"
 ---
-# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center für Microsoft Cloud Deutschland für Partner, die Kunden in EU-& EFTA-Ländern verkaufen
+# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center für Microsoft Cloud Deutschland für Partner, die an Kunden in eu-& KÖNNEN-Ländern verkaufen
 
-**Zielgruppe**
+**Gilt für**: Partner Center für Microsoft Cloud Deutschland
 
-- Partner Center für Microsoft-Cloud Deutschland
+**Geeignete Rollen:** Globale Administratorrechte | Administratorrechte für | Administrator-Agent| Vertriebs-agent | Abrechnungsadministrator
 
-**Geeignete Rollen**
+Microsoft Cloud Deutschland dient zur Erfüllung der strengen deutschen Datenschutzanforderungen. Ein deutscher Datenverwalter kontrolliert den physischen und logischen Zugriff auf Kundendaten nach deutschem Recht. Alle Kundendaten und die Systeme, die den Zugriff auf Kundendaten verarbeiten oder steuern, befinden sich in deutschen Rechenzentren. Das Netzwerk zwischen diesen Rechenzentren ist isoliert und innerhalb von Deutschland de dedicated.
 
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
-- Administrator-Agent
-- Vertriebsbeauftragter
-- Abrechnungsadministrator
-
-Microsoft Cloud Deutschland dient zur Erfüllung der strengen deutschen Datenschutzanforderungen. Ein deutscher Datenverwalter kontrolliert den physischen und logischen Zugriff auf Kundendaten nach deutschem Recht. Alle Kundendaten und die Systeme, die den Zugriff auf Kundendaten verarbeiten oder Steuern, befinden sich in deutschen Rechenzentren. Das Netzwerk zwischen diesen Rechenzentren ist isoliert und in Deutschland dediziert.
-
-Microsoft Cloud Deutschland stellt eine separate Instanz von [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)bereit, die von Rechenzentren in Deutschland bereitgestellt wird. Gewerbliche Kunden in der Europäischen Union (EU) und der EFTA können daher Kundendaten in Übereinstimmung mit den zutreffenden deutschen Gesetzen und Vorschriften sowie wichtigen internationalen Standards speichern und verwalten. Angestellte von Microsoft können nicht ohne Genehmigung und Überwachung des deutschen Datenverwalters oder Kunden auf die Kundendaten zugreifen.
+Microsoft Cloud Deutschland bietet eine separate Instanz von [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), die von Rechenzentren in Deutschland bereitgestellt wird. Gewerbliche Kunden in der Europäischen Union (EU) und der EFTA können daher Kundendaten in Übereinstimmung mit den zutreffenden deutschen Gesetzen und Vorschriften sowie wichtigen internationalen Standards speichern und verwalten. Angestellte von Microsoft können nicht ohne Genehmigung und Überwachung des deutschen Datenverwalters oder Kunden auf die Kundendaten zugreifen.
 
 > [!IMPORTANT]
-> Basierend auf der Entwicklung der Kundenanforderungen konzentriert sich unsere cloudstrategie für Deutschland auf die Bereitstellung der neuen cloudregionen in Deutschland, die mit unserem globalen cloudangebot konsistent sind. Mit diesem Fokus werden keine neuen Kunden mehr akzeptiert bzw. keine neuen Dienste über die derzeit verfügbare Microsoft Cloud Deutschland bereitgestellt. Vorhandene Kunden können weiterhin die aktuellen Clouddienste verwenden, die heute verfügbar sind und mit den erforderlichen Sicherheitsupdates verwaltet werden.
+> Basierend auf der Entwicklung der Kundenanforderungen konzentriert sich unsere Cloudstrategie für Deutschland auf die Bereitstellung der neuen Cloudregionen in Deutschland, die mit unserem globalen Cloudangebot konsistent sind. Mit diesem Fokus werden keine neuen Kunden mehr akzeptiert bzw. keine neuen Dienste über die derzeit verfügbare Microsoft Cloud Deutschland bereitgestellt. Bestandskunden können weiterhin die derzeit verfügbaren Clouddienste nutzen, die wir mit den erforderlichen Sicherheitsupdates verwalten werden.
 >
-> In Zukunft haben neue Kunden die Möglichkeit, die derzeit verfügbaren europäischen Regionen oder die neuen Regionen in Deutschland zu verwenden, sobald sie verfügbar sind. Weitere Informationen finden Sie unter [Microsoft zur Bereitstellung von Clouddiensten aus neuen Rechenzentren in Deutschland](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
+> In Zukunft haben neue Kunden die Möglichkeit, die derzeit verfügbaren europäischen Regionen oder die neuen Regionen in Deutschland zu verwenden, sobald sie verfügbar sind. Weitere Informationen finden Sie unter [Microsoft to deliver cloud services from new data centers in Germany (Microsoft zum Anbieten von Clouddiensten aus neuen Rechenzentren in Deutschland).](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) 
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrieren von Kunden aus Microsoft Cloud Deutschland in eine andere europäische Region
 
-Bevor Sie ein Kunden Abonnement von Microsoft Cloud Deutschland zu einer anderen europäischen Region migrieren können, müssen Sie über ein vorhandenes Cloud Solution Provider-Konto (CSP) verfügen, das sich in dieser Region befindet und aktiv ist. Wenn Sie noch nicht über ein Konto verfügen, werden Sie aufgefordert, während der CSP-Konto Auswahl in Partner Center eine solche zu erstellen. Nachdem Sie das neue Konto erstellt haben, werden Ihre Kunden dem ausgewählten Mandanten zugeordnet.
+Bevor Sie ein Kundenabonnement von Microsoft Cloud Deutschland in eine andere europäische Region migrieren können, müssen Sie über ein vorhandenes Cloud Solution Provider-Konto (CSP) verfügen, das sich in dieser Region befindet und aktiv ist. Wenn Sie noch keines haben, werden Sie aufgefordert, während der Auswahl des CSP-Kontos in der Partner Center. Nachdem Sie das neue Konto erstellt haben, werden Ihre Kunden dem ausgewählten Mandanten zugeordnet.
 
 ### <a name="you-already-have-a-csp-account"></a>Sie verfügen bereits über ein CSP-Konto.
 
-1. Melden Sie sich bei Ihrem CSP-Microsoft Cloud Deutschland-Mandanten als globaler Administrator an.
+1. Melden Sie sich bei Ihrem CSP Microsoft Cloud Deutschland-Mandanten als globaler Administrator an.
 
-1. Navigieren Sie im linken Menü zur CSP-Übersichtsseite.
+1. Navigieren Sie im linken Menü zur Seite CSP-Übersicht.
  
-1. Wenn Sie dazu aufgefordert werden, wählen Sie **Ich habe bereits einen Mandanten in der Europäischen Region**, und klicken Sie dann auf **weiter**. Sie werden aufgefordert, sich beim neuen Mandanten anzumelden. 
+1. Wenn Sie dazu aufgefordert werden, wählen Sie Ich habe bereits **einen Mandanten in der** europäischen Region aus, und wählen Sie dann Weiter **aus.** Sie werden aufgefordert, sich beim neuen Mandanten zu anmelden. 
 
-1. Melden Sie sich bei dem Mandanten als globaler Administrator an.
+1. Melden Sie sich beim Mandanten als globaler Administrator an.
  
-1. Überprüfen Sie die Informationen auf der Bestätigungsseite, und wählen Sie dann **bestätigen** aus.
+1. Überprüfen Sie die Informationen auf der Bestätigungsseite, und wählen Sie dann **Bestätigen** aus.
  
-6.  Wenn der Vorgang erfolgreich ist, werden Sie aufgefordert, **Details anzeigen** oder **Dashboard anzeigen** zu wählen, um weitere Informationen zu erhalten. 
+6.  Wenn dies erfolgreich ist, werden Sie aufgefordert, **Details anzeigen** oder **Dashboard anzeigen** auszuwählen, um weitere Informationen zu erhalten. 
 
-    Wenn bei der Anmeldung ein Fehler auftritt, kann dies Folgendes bedeuten:
+    Wenn bei der Anmeldung ein Fehler auftritt, kann dies eine der folgenden Folgen bedeuten:
     
     • Sie sind kein globaler Administrator für den ausgewählten Mandanten.
     
-    • Der Mandant befindet sich nicht in einer Europäischen Region.
+    • Der Mandant befindet sich nicht in einer europäischen Region.
     
-    • Der Mandant ist nicht aktiv.
+    • Der Mandant ist nicht aktiv
 
     Nehmen Sie die erforderlichen Korrekturen vor, und wiederholen Sie den Vorgang. 
 
 ### <a name="you-dont-already-have-a-csp-account"></a>Sie verfügen noch nicht über ein CSP-Konto.
 
-1. Melden Sie sich bei CSP Microsoft Cloud Deutschland-Mandanten als globaler Administrator an.
+1. Melden Sie sich beim CSP Microsoft Cloud Deutschland-Mandanten als globaler Administrator an.
 
-1. Navigieren Sie im linken Menü zu der CSP-Übersichtsseite.
+1. Navigieren Sie im linken Menü zur Seite CSP-Übersicht.
  
-1. Wenn Sie dazu aufgefordert werden, wählen Sie **Ich habe keinen Mandanten in der Europäischen Region**, und wählen Sie dann **Neues Konto erstellen** aus. 
+1. Wenn Sie dazu aufgefordert werden, wählen Sie **Ich habe keinen Mandanten in der europäischen Region** aus, und wählen Sie dann Neues Konto **erstellen** aus. 
  
-1. Sie gelangen zur Partner Center-Registrierungsseite, auf der Sie einen neuen Mandanten und ein CSP-Konto in einer Europäischen Region erstellen können.
+1. Sie gelangen zur Seite Partner Center Registrierung, auf der Sie einen neuen Mandanten und ein neues CSP-Konto in einer europäischen Region erstellen können.
   
-5. Nachdem Sie den Microsoft-Partner Vertrag signiert haben und das Konto aktiv ist, melden Sie sich mit dem aktuellen Microsoft Cloud Deutschland-Konto an.
+5. Nachdem Sie die Microsoft Partner-Vereinbarung signiert haben und das Konto aktiv ist, melden Sie sich mit dem aktuellen Microsoft Cloud Deutschland-Konto an.
 
-6. Navigieren Sie zum Formular für die Mandanten Auswahl.
+6. Navigieren Sie zum Formular für die Mandantenauswahl.
 
-7. Wählen Sie **Ich habe bereits einen Mandanten in der Europäischen Region** , und befolgen Sie die Anweisungen.
+7. Wählen Sie **Ich habe bereits einen Mandanten in der europäischen Region** aus, und befolgen Sie die Anweisungen.
 
 
 ## <a name="selling-german-cloud-solutions-in-eu-and-efta"></a>Verkaufen deutscher Cloudlösungen in der EU und EFTA

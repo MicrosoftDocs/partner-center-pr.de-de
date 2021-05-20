@@ -9,20 +9,17 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702891"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151779"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Verwalten von MPN-Kontostandorten und Hinzufügen (Löschen) eines Standorts
 
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Kontoadministrator
+**Geeignete Rollen**: Globaler Administrator | Kontoadministrator
 
 Die Standort-MPN-ID identifiziert jeden spezifischen Standort Ihres Unternehmens und wird für die Registrierung bei Incentive-Programmen, für die Abwicklung von Transaktionen als Cloud Solution Provider (CSP) und andere geschäftliche Transaktionen verwendet. Die globale MPN-ID wird für transaktionsfremde Aktivitäten verwendet (etwa für Supportanfragen).
 
@@ -89,11 +86,11 @@ Aktualisieren Sie die folgenden Felder:
 
 1. Wählen Sie über das Symbol **Einstellungen** die **Kontoeinstellungen** und dann **Organisationsprofil** aus.
 
-2. Wählen Sie **Rechtliche Hinweise** und dann auf der Registerkarte **Partner** die Option **Geschäftsstandorte** aus. Klicken Sie anschließend auf **Standort hinzufügen**.
+2. Wählen Sie **Rechtliche Hinweise** und dann auf der Registerkarte **Partner** die Option **Geschäftsstandorte** aus. Anschließend wählen Sie **Standort hinzufügen** aus.
 
 3. Geben Sie die erforderlichen Details einschließlich Firmenname, Adresse und Ansprechpartner für den Standort an, den Sie Ihrem Unternehmen hinzufügen möchten.
  
-1. Klicken Sie auf **Standort hinzufügen**. Dadurch wird eine neue MPN-ID für den neuen Standort erstellt, die Sie für CSP-Transaktionen und -Incentives verwenden können.
+1. Wählen Sie **Standort hinzufügen** aus. Dadurch wird eine neue MPN-ID für den neuen Standort erstellt, die Sie für CSP-Transaktionen und -Incentives verwenden können.
 
 :::image type="content" source="images/legal-biz.png" alt-text="Hinzufügen eines neuen Rechtsgeschäfts":::
 

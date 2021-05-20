@@ -9,19 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: ad29283001ec542944da4f0cac835c6a5d339251
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018186"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855419"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Wiederherstellen von Administratorrechten für Azure CSP-Abonnements eines Kunden  
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Administrator-Agent
+**Geeignete Rollen**: Globaler Administrator | Administrator-Agent
 
 Als CSP-Partner erwarten Ihre Kunden häufig, dass Sie deren Azure-Nutzung und ihre Systeme für sie verwalten. Hierfür müssen Sie über Administratorrechte verfügen. Einige Rechte werden Ihnen beim Einrichten der Vertriebspartnerschaft mit dem Kunden gewährt. Andere werden Ihnen vom Kunden erteilt.
 

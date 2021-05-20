@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/07/2021
-ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.date: 05/14/2021
+ms.openlocfilehash: 9f3447aad20f32a236f2e52e108de50e391b8969
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712514"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150011"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,10 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für Mai 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Aktualisierungen zu Transaktionen für unbefristete Software in CSP und Änderungen am Open License-Programm](2021-may.md#13)|May 17|
+|Funktionen|[Demnächst Phase 2: Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA und im Vereinigten Königreich](2021-may.md#12)|May 17|
+|Funktionen|[Einstellung des Assistenten für erste Schritte mit Microsoft 365 Business Voice](2021-may.md#11)|14. Mai|
+|Funktionen|[Aktualisierungen und Erinnerungen der CSP-Community (Cloud Solution Provider) im Mai](2021-may.md#10)|13. Mai|
 |Funktionen|[Analysen für partnergeführte Co-Selling-Deals](2021-may.md#9)|10. Mai|
 |Funktionen|[Incentive-Programme für Hosting und Handelspartner mit SPLA bis zum 30. September 2021 verlängert](2021-may.md#8)|7\. Mai|
 |Funktionen|[Funktion für Standardbankprofile in Partner Center für Incentiveregistrierung verfügbar](2021-may.md#7)|7\. Mai|

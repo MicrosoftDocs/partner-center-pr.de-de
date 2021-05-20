@@ -9,20 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492533"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148141"
 ---
 # <a name="create-user-accounts"></a>Erstellen Sie Benutzerkonten  
 
-**Geeignete Rollen**
-
-- Kontoadministrator
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
+**Geeignete Rollen**: Kontoadministrator | Globaler Administrator | Benutzerverwaltungsadministrator
 
 Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf das Partner Center benötigen. Diese Aufgaben müssen von einem Administrator für die Benutzerverwaltung, Kontoadministrator oder vom globalen Administrator durchgeführt werden. Dem Benutzer, der diese Aufgaben ausführt, müssen auch die AAD-Rollen (Azure Active Directory) „Benutzeradministrator“ und „Globaler Administrator“ zugewiesen werden. Weitere Informationen zu AAD-Rollen findest du unter [Berechtigungen für Administratorrollen in Azure Active Directory](/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 

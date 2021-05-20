@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133096"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818761"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Verwalten von Microsoft Partner Network-Mitgliedschaftsvorteilen und -Angeboten im Partner Center
 
@@ -104,11 +104,11 @@ Zum Aktivieren der lizenzbasierten Abonnements klicken Sie auf das Dropdownsymbo
    >[!Note]
    >Administratoren von Visual Studio-Abonnements können Abonnements eines Abonnenten einem anderen Abonnenten zuweisen, wenn seit dem Zeitpunkt der ursprünglichen Zuweisung 90 Tage vergangen sind. Weitere Informationen finden Sie im [Leitfaden zu Microsoft Partner-Programmen](https://aka.ms/partner-benefits-use-guide).
 
-## <a name="manage-technical-benefits"></a>Verwalten von technischen Vorteilen
+## <a name="manage-technical-benefits---microsoft-product-support"></a>Verwalten von technischen Vorteilen – Microsoft-Produktsupport
 
-In diesem Abschnitt wird beschrieben, wie Sie technische Supportvorteile im Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) aktivieren und verwalten. Wenn sich Ihre Microsoft Partner Network-Mitgliedschaft noch im Partner Membership Center (PMC) befindet, müssen Sie jedoch eine andere Ressource wie Partner Frontline kontaktieren, um Ihre technischen Vorteile zu aktivieren. Informationen dazu finden Sie unter [Aktivieren von technischen Vorteilen außerhalb von Partner Center](partner-membership-center-tech-benefits-activate.md).
+In diesem Abschnitt wird beschrieben, wie Sie technische Supportvorteile im Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) aktivieren und verwalten. Wenn sich Ihre Microsoft Partner Network-Mitgliedschaft noch im Partner Membership Center (PMC) befindet, müssen Sie jedoch eine andere Ressource wie Partner Frontline kontaktieren, um Ihre technischen Vorteile zu aktivieren. Informationen dazu finden Sie unter [Aktivieren von technischen Vorteilen außerhalb von Partner Center](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate).
 
-Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile in Partner Center anzuzeigen:
+Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile des Produktsupports in Partner Center anzuzeigen:
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
@@ -120,7 +120,7 @@ Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile in Partner Center an
 
    - **Aktivieren des technischen Vorteils.** Nachdem Sie die Details eines Vorteils erweitert haben, wählen Sie **Aktivieren** aus. Die Verarbeitung Ihrer Aktivierungsanforderung kann einige Tage in Anspruch nehmen.
 
-   - **Anzeigen und Angeben von Zugriffs-ID und Vertrags-ID für den Produktsupport.** Nachdem die Aktivierungsanforderung verarbeitet wurde, werden Ihnen beim nächsten Mal, wenn Sie diesen technischen Vorteil erweitern, Details zur **Zugriffs-ID** und **Vertrags-ID** angezeigt. Sie oder die Benutzer in Ihrem Unternehmen müssen diese Informationen möglicherweise angeben, wenn zum ersten Mal eine Supportanfrage für bestimmte Arten von Produkten oder Diensten übermittelt wird.
+   - **Anzeigen und Angeben von Zugriffs-ID und Vertrags-ID für den Produktsupport.** Nachdem die Aktivierungsanforderung verarbeitet wurde, werden Ihnen beim nächsten Mal, wenn Sie diesen technischen Vorteil erweitern, Details zur **Zugriffs-ID** und **Vertrags-ID** angezeigt. Sie oder die Benutzer in Ihrem Unternehmen müssen diese Informationen angeben und verwenden, wenn zum ersten Mal eine Supportanfrage für bestimmte Arten von Produkten oder Diensten übermittelt wird.
 
 4. Nach der Aktivierung können Sie technische Vorteile für verschiedene Arten von technischem Support nutzen. Wenn Sie technische Supportanfragen für die folgenden Dienste übermitteln möchten, lesen Sie die ausführlichen Anweisungen auf der Seite „Technische Vorteile“. Nachfolgend finden Sie ebenfalls hilfreiche Informationen.
 
@@ -134,10 +134,23 @@ Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile in Partner Center an
 
      >[!NOTE]
      > Für technische Supportanfragen im Zusammenhang mit lokalen, Azure- (nicht CSP) und Dynamics-Produkten sind Zugriffs-ID und Vertrags-ID erforderlich. Um zukünftig Ihre Zugriffs-ID und Vertrags-ID zu ermitteln, können Sie sich auch im Thema zu [Ihren Vorteilen](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits) informieren.
+     > 
+[Weitere Informationen zum technischen Support für lokale oder cloudbasierte Produkte](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
   
-   **Technische Dienste vor dem Verkauf und für die Bereitstellung**:  Nutzen Sie diesen Support, wenn Sie Beratungsleistungen rund um den technischen Vertrieb oder die technische Bereitstellung benötigen. Diese Dienste können direkt im [Partner Center](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) angefordert werden.
+## <a name="manage-technical-benefits---partner-advisory-hours"></a>Verwalten von technischen Vorteilen – Partnerberatungsstunden
+Bei Partnerberatungsstunden handelt es sich um die für **technische Presales- und Bereitstellungsdienste (TPD)** verwendete Währung. Melden Sie sich einfach an, um eine Anfrage zu senden (eine Aktivierung oder Benutzerzuweisung ist nicht erforderlich).
 
-   - Nutzen Sie für Action Pack-Abonnements und Gold-/Silver-Kompetenzpartner **Technische Dienste vor dem Verkauf und für die Bereitstellung** für Cloud- und Hybridlösungen.
+Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile der Partnerberatungsstunden in Partner Center anzuzeigen:
+
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+
+2. Wählen Sie **Vorteile** und dann **Technische Vorteile** aus, um Ihre Partnerberatungsstunden anzuzeigen.
+
+3. Klicken Sie unten rechts auf der Seite auf **[Technische Anfrage vor dem Verkauf und für die Bereitstellung senden](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** , um Ihre Anfrage zu übermitteln.
+     >[!NOTE]
+     > Wenn auf der Seite mit technischen Vorteilen die Meldung *„Sie scheinen noch nicht über Vorteile zu verfügen“* angezeigt wird, haben Sie sich mit einem Partnerkonto angemeldet, das über keine Gold-, Silver- oder Microsoft Action Pack-Angebote verfügt, und Sie sind nicht zur Verwendung des Diensts berechtigt oder haben das falsche Konto für die Anmeldung verwendet.
+     > 
+[Weitere Informationen zu technischen Presales- und Bereitstellungsdiensten (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
   
 ## <a name="manage-go-to-market-offers"></a>Verwalten von Markteinführungsangeboten
 

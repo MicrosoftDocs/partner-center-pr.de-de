@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328082"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855947"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>In Partner Center erhalten Sie Erkenntnisse zu Empfehlungen und Informationen zur Entwicklung Ihrer Empfehlungen.
 
-**Geeignete Rollen**
-
-- Empfehlungsadministrator
+**Geeignete Rollen**: Empfehlungsadministrator
 
 Auf der Seite **Co-Selling-Verkaufschancen** im Abschnitt **Analysen** unter „Empfehlungen“ können Sie die Entwicklung Ihrer Empfehlungen sehen. Überprüfen Sie diese Metriken regelmäßig, um Trends oder Bereiche zu identifizieren, denen Sie Ihre Aufmerksamkeit widmen müssen, und beginnen Sie, Ihre Geschäftsziele bewusst anzusteuern.
 

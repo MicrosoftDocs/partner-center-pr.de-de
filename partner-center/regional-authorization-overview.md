@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c3467ec4cf056d04392d3cbe9a61c66a80fc9bdb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855776"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153003"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider Programm für regionale Märkte und Währungen, in denen Sie CSP-Angebote verkaufen können
 
-**Geeignete Rollen:** Globaler Administrator
+**Geeignete Rollen**: Globaler Administrator
 
 Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie angebote Cloud Solution Provider CSP-Programm (CSP) verkaufen können.
 
-Wenn sich Ihr Unternehmen beispielsweise in der USA befindet, können Sie CSP-Angebote an Kunden in den USA und auf den US-Amerikanischen Outlying Islands verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
+Wenn sich Ihr Unternehmen z. B. im USA befindet, können Sie CSP-Angebote an Kunden in den USA und auf den US-Amerikanischen Outlying Islands verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
 
 Bevor Sie CSP-Angebote im Auftrag eines Kunden bestellen können, muss der Kunde die Microsoft-Kundenvereinbarung unterzeichnen. Die entsprechenden Microsoft-Kundenvereinbarung für Ihre Region/Ihr Land finden [Sie hier.](agreements.md)
 
@@ -31,7 +31,7 @@ Bevor Sie CSP-Angebote im Auftrag eines Kunden bestellen können, muss der Kunde
 Der Azure-Plan für CSP ist in weniger Regionen als Azure Software für CSP verfügbar. Die neuesten Updates zur regionalen Verfügbarkeit für den Azure-Plan finden Sie unter [Erwerben des Azure-Plans.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> Sie müssen bestätigen, dass ein Kunde die Microsoft-Kundenvereinbarung akzeptiert hat, indem Sie Informationen über die Person bereitstellen, die sie signiert hat. Ausführlichere Informationen findest du unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-consent.md).
+> Sie müssen bestätigen, dass ein Kunde die Microsoft-Kundenvereinbarung akzeptiert hat, indem Sie Informationen über die Person bereitstellen, die sie signiert hat. Ausführlichere Informationen findest du unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](./confirm-customer-agreement.md).
 
 Suchen Sie den Standort Ihres Unternehmens in einer der folgenden Listen, um zu ermitteln, wo Sie CSP-Angebote verkaufen können. Sie benötigen eine aktive Microsoft Partner Network (MPN)-ID für den Standort, an dem Sie verkaufen möchten.  
 

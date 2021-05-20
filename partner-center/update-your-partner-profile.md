@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818608"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153054"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Überprüfen oder Aktualisieren Ihrer Unternehmensprofilinformationen 
 
@@ -98,9 +98,8 @@ Wenn Sie der globale Administrator, Abrechnungsadministrator oder Administrator-
 |Rechnungsadresse|Die auf der CSP-Rechnung angegebene Rechnungsadresse. Kann über das [Abrechnungsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial) aktualisiert werden.|
 |Rechnungskontakt|Die Details zum Rechnungskontakt (Vorname, Nachname, primäre Nummer) für das CSP-Konto.  Kann über das [Abrechnungsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial) aktualisiert werden.|
 |Auftragsnummer|Die Auftragsnummer, die auf der Partnerrechnung angezeigt wird.  Kann über das [Abrechnungsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial) aktualisiert werden.|
-|Steuernummer des Unternehmens|Unternehmen in einigen Ländern können ihre [Umsatzsteuernummer oder eine lokale Entsprechung](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number) angeben. Um Ihre Steuer-/USt-IdNr. zu aktualisieren, müssen Sie ein globaler Administrator, Abrechnungsadministrator oder Administrator-Agent sein.|
+|Steuernummer des Unternehmens|Unternehmen in einigen Ländern können ihre [Umsatzsteuernummer oder eine lokale Entsprechung](./organization-tax-info.md) angeben. Um Ihre Steuer-/USt-IdNr. zu aktualisieren, müssen Sie ein globaler Administrator, Abrechnungsadministrator oder Administrator-Agent sein.|
 |Abrechnungswährung|Die Abrechnungswährung für Ihr CSP-Konto wird durch das rechtsgültige Land des CSP-Kontos bestimmt.  Dies kann nach der Erstellung des CSP-Kontos nicht geändert werden.|
-
 
 ## <a name="next-steps"></a>Nächste Schritte
 

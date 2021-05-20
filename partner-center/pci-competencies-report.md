@@ -1,96 +1,91 @@
 ---
-title: Partner Center Insights-Bericht "Kompetenzen"
+title: Bericht zu Partner Center Insights-Kompetenzen
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie sich an, was Sie tun und wo Sie in Bezug auf die Kompetenzen von Microsoft, die Kompetenzstufen und Angebote verbessern können, um Microsoft-Lösungen bereitzustellen.
+description: Sehen Sie sich an, was Sie gut machen und wo Sie die Kompetenzen, Kompetenzebenen und Angebote von Microsoft verbessern können, um Ihnen bei der Bereitstellung von Microsoft-Lösungen zu helfen.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086259"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152884"
 ---
-# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Bericht "Kompetenzen"
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Bericht zu Kompetenzen, der über das Dashboard "Partner Center Insights" verfügbar ist
 
-**Geeignete Rollen**
+**Geeignete Rollen:** globale | | des Administrator-Agents Berichts-Viewer-| Berichtsanzeige der Geschäftsleitung
 
-- Globaler Administrator
-- Administrator-Agent
-- Berichtleser
-- Executive Report-Leser
+Kompetenzen ermöglichen Es Ihrem Unternehmen, Ihre technischen Fähigkeiten zum Bereitstellen von Microsoft-Lösungen zu demonstrieren. Microsoft-Kompetenzen sind so konzipiert, dass sie die Anforderungen Ihrer Kunden erfüllen und Ihr Fachwissen potenziellen Kunden präsentieren. Sie bieten eine Vielzahl von Vorteilen von Microsoft, z. B. enthaltene Mengen an Azure-Nutzung, Berechtigungen für Cloudprodukte wie Office 365, technischen Support, Markteinführungsangebote und andere. Derzeit gibt es insgesamt 19 Kompetenzen in den folgenden Kategorien: **App und Infrastruktur,** **Geschäftsanwendungen,** **Daten und KI** und Moderner **Arbeitsplatz.** Kompetenzen werden z. B. in die Ebenen "Silber" oder "Gold" unterteilt. Es gibt eine höhere Leiste für die Gold-Kompetenz und eine damit verbundene höhere Anzahl von Marketingressourcen, -angeboten und -programmen.  
 
-Mit den Kompetenzen kann Ihr Unternehmen ihre technische Funktion zur Bereitstellung von Microsoft-Lösungen veranschaulichen. Die Microsoft-Kompetenzen sind so konzipiert, dass Sie die Anforderungen Ihrer Kunden erfüllen und ihr Fachwissen an potenzielle Kunden präsentieren können. Sie verfügen über eine Vielzahl von Vorteilen von Microsoft, z. b. enthaltene Mengen an Azure-Verbrauch, Berechtigungen für cloudprodukte wie Office 365, technischen Support, Markt Einführungsangebote und andere. Heute gibt es insgesamt 19 Kompetenzen in den folgenden Kategorien: **App und Infrastruktur**, **Geschäftsanwendungen**, **Daten und Ki** und **moderner Arbeitsplatz**. Kompetenzen werden beispielsweise in Silver-oder Gold-Stufen eingeteilt. Es gibt einen höheren Balken für die Gold-Kompetenz und eine zugeordnete höhere Menge an Marketingressourcen, angeboten und Programmen.  
+Sie erhalten mehr Nutzen aus dem Kompetenzbericht, wenn Sie mehr über den Kompetenzlebenszyklus, den Kompetenzstatus und andere Details des Kompetenzberichts erfahren.
 
-Wenn Sie mehr über den Lebenszyklus des Lebenszyklus, die Kompetenz und andere Kompetenz Berichte erfahren möchten, erhalten Sie mehr Verwendungs Informationen aus dem kompetenzbericht.
+## <a name="competency-life-cycle"></a>Kompetenzlebenszyklus
 
-## <a name="competency-life-cycle"></a>Lebenszyklus der Kompetenz
+Aus Lebenszyklussicht beginnen Partner, indem sie auf den Key Performance Indicators (KPIs) aufbauen, die zum Erreichen bestimmter Kompetenzen erforderlich sind. Sobald sie den Schwellenwert für eine bestimmte Kompetenz für alle erforderlichen Metriken erreicht haben, werden sie für eine Kompetenz **qualifiziert.** Partner können dann für das Kompetenzangebot (Silber oder Gold) bezahlen, um die Kompetenz zu erwerben und in dieser Kompetenz **aktiv** zu werden. Der Status **"Aktiv"** der Kompetenz ist ab dem Datum der Kompetenzerläuterung ein Jahr lang gültig (dies wird als **Jahrestag** für die Kompetenz bezeichnet). Am Ende des Jahrestags müssen Partner die Kompetenzanforderungen erfüllen. Wenn sie diese Anforderungen nicht erneut erfüllen, verlieren sie die Kompetenz. Ein **Risikostatus** für eine zuvor erworbene Kompetenz bedeutet, dass bestimmte wichtige Metriken voraussichtlich unter den Schwellenwert an diesem **Jahrestag** der Kompetenzen fallen.
 
-Aus Sicht des Lebenszyklus beginnen Partner mit der Entwicklung von Key Performance Indicator (KPIs), die zum Erreichen spezifischer Kompetenzen erforderlich sind. Sobald Sie den Schwellenwert für eine bestimmte Kompetenz über alle erforderlichen Metriken erreichen, werden Sie für eine Kompetenz **qualifiziert** . Partner können dann das Kompetenz Angebot (Silver oder Gold) bezahlen, um die Kompetenz zu erreichen und in dieser Kompetenz **aktiv** zu werden. Der **aktive** Status der Kompetenz ist für ein Jahr ab dem Datum der Erlangung der Kompetenz gültig (Dies wird als **Jahrestag** der Kompetenz bezeichnet). Am Ende des Jahres Jahrs müssen Partner die Kompetenzanforderungen erfüllen. Wenn Sie diese Anforderungen nicht wieder erfüllen, verlieren Sie die Kompetenz. Ein **Risiko** Status für eine zuvor ersagte Kompetenz bedeutet, dass bestimmte Schlüsselmetriken an den Schwellenwert für das **Enddatum** der Zuständigkeiten unterliegen.
+## <a name="competency-attainment"></a>Kompetenzerzung
 
-## <a name="competency-attainment"></a>Kompetenz Erreichung
+Jede Kompetenz verfügt über einen bestimmten Satz von Anforderungen, die erfüllt werden müssen. Cloud-Kompetenzanforderungen lassen sich in zwei Kategorien unterteilen: Qualifikationen und Leistung.
 
-Jede Kompetenz muss einen bestimmten Satz von Anforderungen erfüllen. Die cloudanformfähigkeits-Anforderungen werden in zwei Kategorien unterteilt: Fähigkeiten und Leistung
+- Qualifikationen: Zu den Anforderungen gehören häufig Prüfungen, Bewertungen oder Zertifizierungen, die Personen in Ihrem Unternehmen bestehen müssen.
 
-- Fähigkeiten: Anforderungen umfassen häufig Prüfungen, Bewertungen oder Zertifizierungen, die Einzelpersonen innerhalb Ihres Unternehmens durchlaufen müssen.
+- Leistung: Damit Ihr Unternehmen für eine Kompetenz berechtigt ist, muss es bestimmte Leistungsschwellenwerte erfüllen, die an den Kompetenzbereich angepasst sind. Beispielsweise muss Ihr Unternehmen in den folgenden 12 Monaten möglicherweise eine Mindestmenge an Azure-Nutzung erfüllen.
 
-- Leistung: damit Sie für eine Kompetenz qualifiziert werden können, muss Ihr Unternehmen bestimmte Leistungs Schwellenwerte für den Kompetenzbereich erfüllen. Beispielsweise muss Ihr Unternehmen in den nachfolgenden 12 Monaten möglicherweise einen minimalen Azure-Verbrauch erreichen.
-
-## <a name="competencies-report-details"></a>Details zu den Zuständigkeiten Berichten
+## <a name="competencies-report-details"></a>Details zu Kompetenzenberichten
 
 Die folgenden Abschnitte werden im Bericht "Kompetenzen" angezeigt:
 
 - Zusammenfassung
-- Analyse der Kompetenz Metrik
-- Kompetenz Verlauf
+- Analyse von Kompetenzmetriken
+- Kompetenzverlauf
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administratorrechte für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzuzeigen, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer der Geschäftsleitung. Weitere Informationen finden Sie unter Globaler Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer mit Executive Report Viewer-Berechtigungen verfügbar.
 
 ### <a name="summary"></a>Zusammenfassung
 
-Die Zusammenfassungs Ansicht zeigt die Anzahl der Kompetenzen mit ihren Namen auf den einzelnen Zuständigkeits Stufen (Gold/Silver) in allen Phasen des Lebenszyklus der Kompetenz. Zu den Phasen des Lebenszyklus der Kompetenz gehören: **Started**, **qualified**, **Active** und **Risk**. Beispiel: Cloud-Kompetenzanforderungen fallen in zwei Kategorien: Fähigkeiten und Leistung.
+Die Zusammenfassungsansicht zeigt die Anzahl der Kompetenzen mit ihren Namen auf jeder Kompetenzebene (Gold/Silber) in allen Phasen des Kompetenzlebenszyklus an. Zu den Phasen des Kompetenzlebenszyklus **gehören: Gestartet,** **Qualifiziert,** **Aktiv** und **Gefährdet.** Beispiel: Cloud-Kompetenzanforderungen fallen in zwei Kategorien: Qualifikationen und Leistung.
 
-- Started: die Anzahl der Kompetenzen, für die mindestens eine der zugrunde liegenden Anforderungen erfüllt ist.
-Aufschlüsselung der Anzahl gestarteter Zuständigkeiten nach Kompetenzniveau (Silber/Gold) mit Kompetenz Namen.
+- Gestartet: Anzahl der Kompetenzen, für die Sie eine oder mehrere der zugrunde liegenden Anforderungen in Bearbeitung haben.
+Aufschlüsselung der Anzahl der gestarteten Kompetenzen nach Kompetenzebene (Silber/Gold) mit Kompetenznamen.
 
-- Qualifiziert: Kompetenzen, für die Sie die Anforderungen erfüllt haben, aber möglicherweise noch nicht das dazugehörige Silver/Gold-Angebot erworben haben. Aufschlüsselung der Anzahl qualifizierter Zuständigkeiten nach Kompetenzniveau (Silber/Gold) mit Kompetenz Namen.
+- Qualifiziert: Kompetenzen, für die Sie die Anforderungen erfüllt haben, aber möglicherweise noch nicht das zugehörige Silver/Gold-Angebot erworben haben. Aufschlüsselung der Anzahl qualifizierter Kompetenzen nach Kompetenzebene (Silber/Gold) mit Kompetenznamen.
 
-- Aktiv: Kompetenzen, für die Sie die Anforderungen erfüllt und ein Silver/Gold-Angebot erworben haben. Aufschlüsselung der Anzahl aktiver Zuständigkeiten nach Kompetenzniveau (Silber/Gold) mit Kompetenz Namen.
+- Aktiv: Kompetenzen, für die Sie die Anforderungen erfüllt und ein Silver/Gold-Angebot erworben haben. Aufschlüsselung der Anzahl aktiver Kompetenzen nach Kompetenzebene (Silber/Gold) mit Kompetenznamen.
 
-- Risiko (nächstes Jahr): Anzahl der zurzeit **aktiven** Kompetenzen, aber auch das **Risiko** , dass die Anforderungen für das nächste Jahr nicht erfüllt werden.
-Aufschlüsselung der Kompetenzen (nach Kompetenzniveau wie Silver/Gold und Kompetenz Namen), die nicht für das nächste Jahr qualifiziert sind.
+- Gefährdet (nächstes Jahr): Anzahl der Kompetenzen,  die derzeit aktiv **sind,** aber auch Das Risiko besteht, dass die Anforderungen für das nächste Jahr nicht erfüllt werden.
+Aufschlüsselung der Kompetenzen (nach Kompetenzebene, z. B. Silber/Gold, mit Kompetenznamen), für die das Risiko besteht, sich nicht für das nächste Jahr zu qualifizieren.
 
-:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Zusammenfassung der Zuständigkeiten":::
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Zusammenfassung der Kompetenzen":::
 
-### <a name="competency-metric-analysis"></a>Analyse der Kompetenz Metrik
+### <a name="competency-metric-analysis"></a>Kompetenzmetrikanalyse
 
-In dieser Ansicht wird der Status von Kompetenz Metriken anhand der Schwellenwerte angezeigt, die für Partner erforderlich sind, um die Kompetenz auf der Ebene Silber/Gold zu erreichen/zu behalten 
+In dieser Ansicht wird der Status von Kompetenzmetriken im Hinblick auf die Schwellenwerte angezeigt, die für Partner erforderlich sind, um die Kompetenz auf der Silver/Gold-Ebene zu erlangen/zu behalten. 
 
-Der Bericht kann nach folgenden zwei Datumsbereichen pivotiert werden:
+Der Bericht kann nach den folgenden zwei Datumsbereichen pivotiert werden:
 
-1. TTM-Ansicht: Hiermit wird die Partner Leistung in den letzten 12 Monaten (TTM) aufgelistet.
-2. Anniversary Year-Ansicht: Hiermit wird die Partner Leistung vom vorherigen Jahrestag bis zum nächsten Anniversary Date aufgelistet.
+1. TTM-Ansicht: Hier wird die Partnerleistung der letzten 12 Monate (TTM) aufzählt.
+2. Anniversary Year view (Jahresansicht des Jahrestags): Hier wird die Partnerleistung vom vorherigen Jahrestag bis zum nächsten Jahrestag aufzählt.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Analyse der Kompetenz Metrik":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Kompetenzmetrikanalyse":::
 
 > [!NOTE]
- > Nicht alle Metriken werden in der Analyse behandelt. Derzeit werden im Bericht "Kompetenzen" keine Metriken unterstützt. CBA-Kompetenzen (Cloud Business Applications) werden zurzeit in der metrikanalyse für den **aktiven** Kompetenz Status ebenfalls nicht unterstützt.
+ > Nicht alle Metriken werden in der Analyse behandelt. Derzeit werden Metriken im Zusammenhang mit Lernen und Zertifizierung im Bericht "Kompetenzen" nicht unterstützt. Cloud Business Applications(CBA)-Kompetenzen werden derzeit auch nicht in der Metrikanalyse für den Status der **aktiven** Kompetenz unterstützt.
 
-### <a name="competency-history"></a>Kompetenz Verlauf
+### <a name="competency-history"></a>Kompetenzverlauf
 
-Diese Ansicht zeigt eine detaillierte Tabelle mit allen Kompetenzen, die Sie bisher erreicht haben, mit dem Kompetenzniveau und der Kompetenz Phase.
+Diese Ansicht zeigt eine detaillierte Tabelle aller Kompetenzen, die Sie bisher erworben haben, mit Kompetenzebene und Kompetenzphase.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="Kompetenz Verlauf":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="Kompetenzverlauf":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).
+- Weitere Berichte finden Sie unter [Partner Center Insights.](partner-center-insights.md)
 
 >[!NOTE] 
-> Sie können die Rohdaten, die diesen Bericht über den Abschnitt Berichte herunterladen im Insights-Dashboard herunterladen. [Weitere Informationen](pci-download-reports.md) 
+> Sie können die Rohdaten für diesen Bericht aus dem Abschnitt Berichte herunterladen im Insights-Dashboard herunterladen. [Weitere Informationen](pci-download-reports.md) 

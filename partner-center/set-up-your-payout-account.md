@@ -2,17 +2,17 @@
 title: Einrichten von Auszahlungskonten und Steuerformularen – kommerzieller Microsoft-Marketplace
 description: Erfahren Sie hier, wie Sie Ihr Auszahlungskonto einrichten und die erforderlichen Steuerformulare ausfüllen müssen, um auf dem kommerziellen Marketplace Geld aus Angebotsverkäufen zu erhalten.
 ms.topic: conceptual
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2dbbab72ea68246bf0cb99d57a5ce3640f25c867
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854842"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152918"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Einrichten von Auszahlungskonten und Steuerformularen
 
@@ -42,7 +42,7 @@ Sie verwalten Ihr Steuerprofil und Ihre Steuerformulare auf der **Seite Auszahlu
 Zunächst müssen Sie ein Steuerprofil erstellen und es den Programmen zuweisen, an denen Sie teilnehmen. Verwenden Sie die folgenden Schritte zum Erstellen oder Aktualisieren Ihres *Steuerprofils* in Partner Center. Sie können Ihre Steuerformulare auf dem Dashboard ausfüllen und Partner Center übermitteln. In den meisten Fällen müssen Sie keine Formulare drucken und per E-Mail versenden.
 
 > [!IMPORTANT]
-> In verschiedenen Ländern und Regionen gelten unterschiedliche Steueranforderungen. Wie viele Steuern Sie genau abführen müssen, hängt von den Ländern und Regionen ab, in denen Sie Ihr Angebot bereitstellen. Unter [Microsoft Azure Marketplace – Herausgebervertrag](https://go.microsoft.com/fwlink/p/?LinkID=699560) ist angegeben, für welche Länder/Regionen Microsoft die Mehrwertsteuer und Verbrauchssteuer für Sie überweist. Abhängig davon, wo Sie registriert sind, müssen Sie in anderen Ländern/Regionen unter Umständen die Mehrwert- und Verbrauchssteuer für Ihre Angebotsverkäufe direkt an die örtliche Steuerbehörde abführen. Darüber hinaus können Ihre erhaltenen App-Verkaufserlöse unter Umständen als Einkommen steuerbar sein. Es wird dringend empfohlen, sich an die entsprechende Behörde für Ihr Land bzw. Ihre Region zu wenden. Diese kann Ihnen am besten dabei helfen, die richtige Besteuerung für Ihre Aktivitäten auf dem kommerziellen Marketplace zu ermitteln.
+> In verschiedenen Ländern und Regionen gelten unterschiedliche Steueranforderungen. Wie viele Steuern Sie genau abführen müssen, hängt von den Ländern und Regionen ab, in denen Sie Ihr Angebot bereitstellen. Unter [Microsoft Azure Marketplace – Herausgebervertrag](/legal/marketplace/msft-publisher-agreement) ist angegeben, für welche Länder/Regionen Microsoft die Mehrwertsteuer und Verbrauchssteuer für Sie überweist. Abhängig davon, wo Sie registriert sind, müssen Sie in anderen Ländern/Regionen unter Umständen die Mehrwert- und Verbrauchssteuer für Ihre Angebotsverkäufe direkt an die örtliche Steuerbehörde abführen. Darüber hinaus können Ihre erhaltenen App-Verkaufserlöse unter Umständen als Einkommen steuerbar sein. Es wird dringend empfohlen, sich an die entsprechende Behörde für Ihr Land bzw. Ihre Region zu wenden. Diese kann Ihnen am besten dabei helfen, die richtige Besteuerung für Ihre Aktivitäten auf dem kommerziellen Marketplace zu ermitteln.
 
 1. Wählen Sie [Partner Center Dashboard](https://partner.microsoft.com/dashboard)das  Zahnradsymbol Einstellungen in der oberen rechten Ecke und dann **Kontoeinstellungen aus.**
 
@@ -169,7 +169,7 @@ Nachdem die Auszahlung an Ihre Bank überwiesen wurde, haben Sie 30 Tage Zeit, 
 Wenn Sie als Herausgeber in Russland ansässig sind, müssen Sie bei Ihrer Bank unter Umständen Dokumente einreichen, bevor von der Bank Beträge unter Ihrem Konto bereitgestellt werden. Wenn Sie Anspruch auf eine Auszahlung haben, erhalten Sie von uns die folgenden Dokumente per E-Mail:
 
 - Annahmezertifikat (Acceptance Certificate, AC): Enthält den Auszahlungsbetrag, der auf Ihr Konto überwiesen wird.
-- [Microsoft Azure Marketplace – Herausgebervertrag](https://go.microsoft.com/fwlink/p/?LinkID=699560): Ein unterschriebenes Exemplar des Herausgebervertrags, das gegengezeichnet werden muss.
+- [Microsoft Azure Marketplace – Herausgebervertrag](/legal/marketplace/msft-publisher-agreement): Ein unterschriebenes Exemplar des Herausgebervertrags, das gegengezeichnet werden muss.
 
 Überprüfen Sie Folgendes, um sicherzustellen, dass die Auszahlungen für Sie erfolgreich sind:
 
@@ -183,7 +183,7 @@ Wenn Sie als Herausgeber in Russland ansässig sind, müssen Sie bei Ihrer Bank 
 Wenn Sie als Herausgeber in der Ukraine ansässig sind, müssen Sie bei Ihrer Bank unter Umständen Dokumente einreichen, bevor von der Bank Beträge unter Ihrem Konto bereitgestellt werden. Wenn Sie Anspruch auf eine Auszahlung haben, erhalten Sie von uns die folgenden Dokumente per E-Mail:
 
 - Annahmezertifikat (Acceptance Certificate, AC): Enthält den Auszahlungsbetrag, der auf Ihr Konto überwiesen wird.
-- [Microsoft Azure Marketplace – Herausgebervertrag](https://go.microsoft.com/fwlink/p/?LinkID=699560): Ein unterschriebenes Exemplar des Herausgebervertrags, das gegengezeichnet werden muss.
+- [Microsoft Azure Marketplace – Herausgebervertrag](/legal/marketplace/msft-publisher-agreement): Ein unterschriebenes Exemplar des Herausgebervertrags, das gegengezeichnet werden muss.
 - Zusatzvereinbarung (Amendment Agreement, AA): Dieses Dokument kann von Ihrer Bank als Hilfe beim Identifizieren Ihrer Auszahlungsbeträge verwendet werden.
 
 Microsoft stellt alle drei Dokumente beim ersten Auszahlungsversuch bereit. Bei allen nachfolgenden Auszahlungen erhalten Sie nur das Annahmezertifikat. Bewahren Sie die Zusatzvereinbarung und das Annahmezertifikat auf, falls Sie sie benötigen, um zukünftige Auszahlungen über Ihre Bank zu erhalten.

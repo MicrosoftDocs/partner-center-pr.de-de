@@ -1,91 +1,86 @@
 ---
-title: Partner Center Insights-Vorteil (Bericht)
+title: Bericht zu den Vorteilen von Partner Center Insights
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie sich an, welche Typen von Microsoft-Partner Vorteilen Sie erhalten haben, um Ihr Unternehmen zu erweitern, die Effizienz zu verbessern und die Fähigkeiten Ihres Teams zu verbessern
+description: Sehen Sie sich an, welche Arten von Microsoft Partner Vorteile Ihnen gewährt wurden, um Ihr Unternehmen zu vergrößern, die Effizienz zu verbessern und die Fähigkeiten Ihres Teams zu verbessern.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 488d5641422de3036cb36818c0aa21bdc81a3628
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087007"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152544"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Leistungsbericht
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Bericht "Vorteile", der über das Dashboard "Partner Center Insights" verfügbar ist
 
-**Geeignete Rollen**
+**Geeignete Rollen:** globale | | des Administrator-Agents Berichts-Viewer-| Berichtanzeige der Geschäftsleitung
 
-- Globaler Administrator
-- Administrator-Agent
-- Berichtleser
-- Executive Report-Leser
+Als Microsoft Partner können Sie auf eine Vielzahl von Vorteilen zugreifen, die die neuesten Technologien und Innovationen nutzen, um die Fähigkeiten Ihres Teams zu verbessern, die Effizienz zu verbessern und Ihr Unternehmen zu steigern. Zu den Vorteilspaketen gehören: Zuordnungen lizenzierter Software, Clouddienste, Visual Studio Abonnements und Support. Diese Pakete können auch bestimmte Markteinführungsressourcen, Angebote und Programme enthalten. Der Bericht Vorteile zeigt Trends der Vorteile, auf die Sie zugegriffen haben, und deren Verwendung während des ausgewählten Datumsbereichs.
 
-Als Microsoft-Partner können Sie auf eine Reihe von Vorteilen zugreifen, die die neuesten Technologien und Innovationen nutzen, um Sie bei der Verbesserung der Fähigkeiten Ihres Teams zu unterstützen, die Effizienz zu verbessern und Ihr Geschäft zu steigern. Zu den Vorteilen von Paketen gehören: Zuordnungen lizenzierter Software, Cloud Services, Visual Studio-Abonnements und Support. Diese Pakete können auch bestimmte Markt Einführungs Ressourcen, Angebote und Programme enthalten. Der Bericht "Vorteile" zeigt Trends zu den Vorteilen, auf die Sie zugegriffen haben, und deren Verwendung während des ausgewählten Datums Bereichs.
-
-:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="Übersicht über die Vorteile":::
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="Übersicht über die Vorteilsseite":::
 
 Sie können die folgenden Diagramme im Bericht "Vorteile" visualisieren:
 
 - Zusammenfassung
-- Gewährte Cloud Services
+- Gewährte Clouddienste
 - Softwareprodukte
 - Visual Studio-Abonnements
 - Technische Vorteile
 - Markteinführung
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administratorrechte für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzuzeigen, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer der Geschäftsleitung. Weitere Informationen finden Sie unter Globaler Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer mit Executive Report Viewer-Berechtigungen verfügbar.
 
 ## <a name="summary"></a>Zusammenfassung
 
-Der Abschnitt Zusammenfassung enthält die Vorteile, die in Bezug auf lizenzierte Software, Clouddienste (nicht Azure), Visual Studio-Abonnements, technischen Support und bestimmte Markt Einführungs Dienste oder-Angebote gewährt werden.
+Im Abschnitt Zusammenfassung werden die Vorteile aufgeführt, die in Bezug auf lizenzierte Software, Clouddienste (nicht Azure), Visual Studio Abonnements, technischen Support und bestimmte Markteinführungsdienste oder -angebote gewährt werden.
 
-Beispiel: Microsoft Partner Network-Mitgliedschafts Partner (MPN) sind für den technischen Support lokaler Produkte und cloudprodukte qualifiziert. Partner, die die Silver-Kompetenz erreichen, erhalten technischen Support für 15 Vorfälle für lokale Produkte. Diese Unterstützung kann bei Bedarf genutzt werden. 
+Beispiel: MpN-Mitgliedschaftspartner (Microsoft Partner Network) sind für technischen Support für lokale Produkte und Cloudprodukte berechtigt. Partnern, die die Silver-Kompetenz erwerben, wird technischer Support für 15 Incidents für lokale Produkte gewährt. Sie können diese Unterstützung nach Bedarf nutzen. 
 
 :::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Zusammenfassung der Vorteile":::
 
-## <a name="cloud-services-granted"></a>Gewährte Cloud Services
+## <a name="cloud-services-granted"></a>Gewährte Clouddienste
 
-Dieses Diagramm zeigt den monatlichen Trend der Lizenzen, die während des ausgewählten Datums Bereichs für Lizenz basierte Abonnements des ausgewählten clouddiensts erteilt wurden.
-Wählen Sie auf der Registerkarte **Dienste** einen clouddienst aus, um das Diagramm für einen bestimmten clouddienst anzuzeigen. Das Liniendiagramm stellt die Gesamt Lizenzen dar, die Ihrem Unternehmen erteilt wurden.
+Dieses Diagramm zeigt den monatlichen Trend der Lizenzen, die während des ausgewählten Datumsbereichs für lizenzbasierte Abonnements des ausgewählten Clouddiensts gewährt wurden.
+Wählen Sie auf der Registerkarte Dienste **einen** Clouddienst aus, um das Diagramm für einen bestimmten Clouddienst zu sehen. Das Liniendiagramm stellt die Gesamtlizenzen dar, die Ihrem Unternehmen gewährt wurden.
 
-:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="gewährte Cloud Services":::
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="Gewährte Clouddienste":::
 
 ## <a name="software-products"></a>Softwareprodukte
 
-Dieses Diagramm zeigt den monatlichen Trend von Lizenzen, die im ausgewählten Datumsbereich für ein bestimmtes Softwareprodukt erteilt wurden. Wählen Sie ein Softwareprodukt aus der Dropdown Liste oben im Diagramm aus, um den Trend eines bestimmten Softwareprodukts anzuzeigen, das Sie als Vorteile erhalten. Das Liniendiagramm stellt die Gesamt Lizenzen dar, die Ihrem Unternehmen erteilt wurden.
+Dieses Diagramm zeigt den monatlichen Trend der Lizenzen, die während des ausgewählten Datumsbereichs für ein bestimmtes Softwareprodukt gewährt wurden. Wählen Sie ein Softwareprodukt aus der Dropdownliste oben im Diagramm aus, um den Trend eines bestimmten Softwareprodukts zu sehen, das Ihnen als Vorteile gewährt wird. Das Liniendiagramm stellt die Gesamtlizenzen dar, die Ihrem Unternehmen gewährt wurden.
 
-:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="gewährte Softwareprodukte":::
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="Gewährte Softwareprodukte":::
 
 ## <a name="visual-studio-subscriptions"></a>Visual Studio-Abonnements
 
-Dieses Diagramm zeigt den monatlichen Trend von Visual Studio-Abonnements, die für Abonnements aktiviert sind, die Sie im Rahmen des ausgewählten Datums Bereichs zugewiesen haben.
+Dieses Diagramm zeigt den monatlichen Trend Visual Studio Abonnements, die für Abonnements aktiviert wurden, die Sie während des ausgewählten Datumsbereichs zugeordnet haben.
 
-Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmten Visual Studio-Abonnements anzuzeigen, das Sie als Vorteile erhalten. Die Spalten im Diagramm repräsentieren die für das Abonnement genutzten Lizenzen. Das Liniendiagramm stellt die Gesamt Lizenzen dar, die für das Abonnement zugewiesen wurden.
+Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmten Abonnements Visual Studio, das Ihnen als Vorteile gewährt wird. Die Spalten im Diagramm stellen die für das Abonnement verbrauchten Lizenzen dar. Das Liniendiagramm stellt die gesamt zugewiesenen Lizenzen für das Abonnement dar.
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio-Abonnements":::
 
 ## <a name="technical-benefits"></a>Technische Vorteile
 
-Dieses Diagramm zeigt den monatlichen Trend der Support Leistungen, die während des ausgewählten Datums Bereichs erteilt wurden.
+Dieses Diagramm zeigt den monatlichen Trend der Supportvorteile, die während des ausgewählten Datumsbereichs gewährt wurden.
 
-Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmten von ihnen gewährten Support Vorteils anzuzeigen. Das Liniendiagramm stellt die Gesamtstunden der Unterstützung dar, die für den ausgewählten Support Vorteil zugewiesen wurde.
+Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmten Supportvorteils zu sehen, den Sie erhalten. Das Liniendiagramm stellt die Gesamtstunden des Für den ausgewählten Supportvorteil zugewiesenen Supportes dar.
 
 :::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="technische Vorteile":::
 
-## <a name="go-to-market-offers-or-services"></a>Angebote oder Dienste für Markteinführungszeiten
+## <a name="go-to-market-offers-or-services"></a>Markteinführungsangebote oder -dienste
 
-Dieses Diagramm zeigt den monatlichen Trend von Markt Einführungs angeboten oder-Diensten, die für die Zuordnung während des ausgewählten Datums Bereichs und für ein ausgewähltes Angebot oder eine Dienst Kategorie ausgewählt werden.
+Dieses Diagramm zeigt den monatlichen Trend von Markteinführungsangeboten oder -diensten, die im ausgewählten Datumsbereich und für ein ausgewähltes Markteinführungsangebot oder eine ausgewählte Dienstkategorie aktiviert wurden.
 
-Wählen Sie in der Dropdown Liste oben im Diagramm ein Angebot oder eine Dienst Kategorie für das Markt Einführungsangebot aus, um den Trend der ausgewählten Markt Einführungs Dienste anzuzeigen, die Ihrem Unternehmen erteilt wurden. Die Spalten im Diagramm Stellenangebote oder aktivierte Dienste dar. Das Liniendiagramm stellt die Gesamtzahl der Markt Einführungsangebote oder-Dienste dar, die Ihrem Unternehmen erteilt wurden.
+Wählen Sie in der Dropdownliste oben im Diagramm ein Markteinführungsangebot oder eine Dienstkategorie aus, um den Trend der ausgewählten Markteinführungsdienste für Ihr Unternehmen zu sehen. Die Spalten im Diagramm stellen Go-To-Market-Angebote oder aktivierte Dienste dar. Das Liniendiagramm stellt die allgemeinen Markteinführungsangebote oder -dienste dar, die Ihrem Unternehmen gewährt werden.
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Angebote zu Markteinführungszeiten":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Markteinführungsangebote":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).
+- Weitere Berichte finden Sie unter [Partner Center Insights.](partner-center-insights.md)

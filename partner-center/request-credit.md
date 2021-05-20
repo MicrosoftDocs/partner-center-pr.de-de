@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855555"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152952"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Anfordern eines SLA-Guthabens (Service Level Agreement) von Microsoft
 
@@ -34,7 +34,7 @@ SLA-Gutschriften von Microsoft werden basierend darauf bestimmt, welche Dienste 
 *Der CSP-Partner (Cloud Solution Provider) muss den Anspruch und alle erforderlichen Informationen bis zum Ende des Kalendermonats übermitteln, der auf den Monat folgt, in dem der Vorfall aufgetreten ist.* Wenn der Vorfall beispielsweise am 15. Februar aufgetreten ist, muss Microsoft den Anspruch und alle erforderlichen Informationen bis zum 31. März erhalten. Endkunden und indirekte Vertriebspartner können keine SLA-Gutschriftansprüche übermitteln. entweder der indirekte Anbieter oder der Direktabrechnungspartner muss Ansprüche in ihrem Namen übermitteln.
 
 >[!NOTE]
->Beratungsvorfälle[(Überprüfen Microsoft 365 Service Health)](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)sind nicht für SLA-Gutschriften berechtigt.
+>Beratungsvorfälle[(Überprüfen Microsoft 365 Service Health)](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)sind nicht für SLA-Gutschriften berechtigt.
 
 ### <a name="required-information"></a>Erforderliche Informationen
 
@@ -53,7 +53,7 @@ Bevor Sie [eine SLA-Gutschriftanforderung](#submit-sla-credit-request) an Micros
 - Anzahl und Speicherort der betroffenen Benutzer (falls zutreffend)
 - Beschreibungen Ihrer Versuche, den Incident zum Zeitpunkt des Auftretens zu beheben
 - Eine E-Mail des kundenspezifischen Kunden, der Support anklangt, und anschließend eine Gutschrift
-- Die Nummer des Supporttickets und details des Kundenkontakts im Hinblick auf die Lösung der Auswirkungen auf den Dienst
+- Die Nummer des Supporttickets und details des Kundenkontakts in Bezug auf die Lösung der Auswirkungen auf den Dienst
 
 
 #### <a name="outage-incident-identifier"></a>Id des Incidents "Ausfall"
@@ -65,7 +65,7 @@ Sie finden den Bezeichner für den Ausfallfall auf **Service Health** Seite im M
 | EX | Exchange Online |
 | FO | Exchange Online-Schutz |
 | SB | Skype for Business Online (ehemals Lync Online) |
-| OS | Office-Abonnement |
+| Betriebssystem | Office-Abonnement |
 | PB | Power BI für Office 365 |
 | SP | SharePoint Online |
 | Ya | Yammer Enterprise |

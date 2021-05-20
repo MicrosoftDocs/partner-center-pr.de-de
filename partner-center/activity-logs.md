@@ -1,31 +1,24 @@
 ---
-title: Gewinnen Sie Einblicke in die Kunden Aktivitäts Protokolle
+title: Gewinnen von Erkenntnissen mit Kundenaktivitätsprotokollen
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Aktivitäts Protokolle anzeigen und exportieren, um Einblicke in Kundenkonto Transaktionen und andere Kunden relevante Partner Verwaltungsaktivitäten zu erhalten.
+description: Erfahren Sie, wie Sie Aktivitätsprotokolle anzeigen und exportieren, um Einblicke in Kundenkontotransaktionen und andere kundenbezogene Partnerverwaltungsaktivitäten zu erhalten.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474239"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150589"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Anzeigen oder Exportieren von Kunden Aktivitäts Protokollen, um weitere Einblicke in Kundentransaktionen zu erhalten
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Anzeigen oder Exportieren von Kundenaktivitätsprotokollen für weitere Einblicke in Kundentransaktionen
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Abrechnungsadministrator
-- Benutzerverwaltungsadministrator
-- Administrator-Agent
-- Vertriebsbeauftragter
-- Helpdesk-Agent
+**Geeignete Rollen:** globale | Abrechnungsadministrator-| | des Benutzerverwaltungsadministrators | des Administrator-Agents | des Vertriebsmitarbeiters Helpdesk-Agent
 
 Aktivitätsprotokolle enthalten Informationen zu Transaktionen und Partnerverwaltungsaktionen für Kunden. Protokolle für Transaktionen bieten detaillierte Informationen zu Transaktionen, einschließlich zahlungspflichtiger Abonnements. Sie können Aktivitätsprotokolle auch in eine mit Excel kompatible durch Trennzeichen getrennte Datei (.csv) exportieren.
 
@@ -53,4 +46,4 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Analysieren von Abonnements und Lizenzen, um geschäftliche Entscheidungen zu fördern](analyze-subscriptions-licenses.md)
+- [Analysieren von Abonnements und Lizenzen zur Unterstützung von Geschäftsentscheidungen](analyze-subscriptions-licenses.md)

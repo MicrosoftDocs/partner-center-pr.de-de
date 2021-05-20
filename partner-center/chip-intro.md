@@ -1,43 +1,41 @@
 ---
-title: Verwenden der Channel-Incentive-Plattform (Chip)
+title: Verwenden der Channel Incentives Platform (CHIP)
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Erfahren Sie, wie Sie die Channel-Incentive-Plattform (Chip) für ihre Anreize verwenden können. Beachten Sie, dass diese Plattform am Ende von 2021 eingestellt wird.
+description: Erfahren Sie, wie Sie die Channel Incentives Platform (CHIP) für Ihre Incentives-Arbeit verwenden. Beachten Sie, dass diese Plattform Ende 2021 zurückgezogen wird.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570399"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148957"
 ---
-# <a name="navigate-the-channel-incentives-platform-chip"></a>Navigieren Sie zur Channel-Incentive-Plattform (Chip).
+# <a name="navigate-the-channel-incentives-platform-chip"></a>Navigieren durch die Channel Incentives Platform (CHIP)
+
+**Geeignete Rollen:** CHIP-Administrator
 
 >[!NOTE]
->Die Chip Plattform wird am Ende von 2021 eingestellt.
+>Die CHIP-Plattform wird Ende 2021 aus dem Unternehmen zurückgezogen.
 
-**Geeignete Rollen**
+## <a name="sign-into-the-chip-dashboard"></a>Melden Sie sich beim CHIP-Dashboard an.
 
-- Chip-admin
+Die Channel Incentives Platform (CHIP) bietet Zugriff auf Incentivedaten für bestimmte Microsoft Channel Incentives-Programme und zeigt aktualisierte Einnahmendetails für den Verkauf von Microsoft-Produkten an.
 
-## <a name="sign-into-the-chip-dashboard"></a>Anmelden beim Chip-Dashboard
-
-Die Channel Incentive Platform (Chip) ermöglicht den Zugriff auf die Daten von Incentives für bestimmte Programme von Microsoft-channelincentives und zeigt aktualisierte Details zum Erwerb von Microsoft-Produkten an.
-
-Zum Registrieren bei Chip erhält der primäre Kontakt für Ihr Unternehmen eine Einladung, die einen eindeutigen Einladungs Code (User Identity, UIC) enthält. Sie müssen den Code zum ersten Mal auf den Chip zugreifen.
+Um sich bei CHIP zu registrieren, erhält der primäre Kontakt für Ihr Unternehmen eine Einladung, die einen eindeutigen Einladungscode (Unique Invitation Code, UIC) enthält. Sie müssen den Code zum ersten Mal für den Zugriff auf CHIP verwenden.
 
 
-Sie können sich anmelden und wie folgt navigieren:
+Sie können sich wie folgt anmelden und navigieren:
 
-1. Öffnen Sie Chip, geben Sie Ihre Microsoft-ID (vorherige Live-ID) und das zugehörige Kennwort auf der Anmeldeseite ein, und klicken Sie dann auf anmelden.
+1. Öffnen Sie CHIP, geben Sie Ihre Microsoft-ID (vorherige Live-ID) und ihr Kennwort auf der Anmeldeseite ein, und klicken Sie dann auf Anmelden.
  
 1. Wählen Sie das Programm aus, auf das Sie zugreifen möchten.
-Von dort aus können Sie die **Leistung** und den **Gewinn** für das ausgewählte Programm anzeigen. 
+Von dort aus können Sie Ihre **Leistung und** Einnahmen **für das** ausgewählte Programm anzeigen. 
 
 ## <a name="next-steps"></a>Nächste Schritte
 

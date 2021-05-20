@@ -1,61 +1,59 @@
 ---
-title: Analysieren der Leads
+title: Analysieren Ihrer Leads
 ms.topic: article
 ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie die Seite Leads Insights verwenden können, um zu sehen, wie gut Sie die Aufmerksamkeit Ihrer Zielkunden erfassen und Referenzen erstellen.
+description: Erfahren Sie, wie Sie die Leads Insights-Seite verwenden, um zu sehen, wie gut Sie die Aufmerksamkeit Ihrer Zielkunden erfassen und Empfehlungen generieren.
 author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 6ddb9544e0c6f6a29540fe30d03d307318ddfdf8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530832"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150215"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysieren ihrer Leads: Sehen Sie sich an, wie gut Sie beim Gewinnen von Zielkunden und möglichen Empfehlungen abschneiden.
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Empfehlungsadministrator
 
-- Empfehlungsadministrator
+Auf **der Seite** Leads im Abschnitt **Analyse** unter Empfehlungen können Sie die Leistung Ihrer Empfehlungen anzeigen. Überprüfen Sie diese Metriken regelmäßig, um Trends oder Bereiche zu identifizieren, denen Sie Ihre Aufmerksamkeit widmen müssen, und beginnen Sie, Ihre Geschäftsziele bewusst anzusteuern.
 
-Auf der Seite **Leads** im Abschnitt **Analytics** unter Verweise können Sie sehen, wie Ihre Verweise funktionieren. Überprüfen Sie diese Metriken regelmäßig, um Trends oder Bereiche zu identifizieren, denen Sie Ihre Aufmerksamkeit widmen müssen, und beginnen Sie, Ihre Geschäftsziele bewusst anzusteuern.
-
-Um Ihre Leads Insights-Daten anzuzeigen, navigieren Sie im Partner Center-Menü zu "Verweise", **> > Leads analysieren**.
+Um Ihre Leads insights-Daten zu sehen, wechseln Sie Partner Center Menü zu Empfehlungen > **Analysieren > Leads**.
 
 ## <a name="apply-filters"></a>Anwenden von Filtern
 
-Im oberen Bereich der Seite **Leads** können Sie den Zeitraum auswählen, in dem Sie Daten anzeigen möchten. Standardmäßig ist **3M** (drei Monate) ausgewählt, Sie können sich aber entscheiden, stattdessen Daten für einen Zeitraum von sechs Monaten oder einem Jahr anzuzeigen. Sie können auch **Benutzerdefiniert** auswählen, um Daten für alle Empfehlungen innerhalb eines bestimmten Zeitraums anzuzeigen.
+Am oberen Ende der **Seite Leads** können Sie den Zeitraum auswählen, für den Sie Daten anzeigen möchten. Standardmäßig ist **3M** (drei Monate) ausgewählt, Sie können sich aber entscheiden, stattdessen Daten für einen Zeitraum von sechs Monaten oder einem Jahr anzuzeigen. Sie können auch **Benutzerdefiniert** auswählen, um Daten für alle Empfehlungen innerhalb eines bestimmten Zeitraums anzuzeigen.
 
 Sie können auf die Schaltfläche „Filter“ klicken, um den Bereich zu öffnen, in dem Sie alle Daten auf dieser Seite nach Kundenname, Land/Region, Dealtyp, Dealrichtung, Lösungsname und Status filtern können. Die Details dieser Filter sind nachfolgend angegeben.
 
 - **Kundenname**: Der Standardwert lautet **Alle**, aber Sie können die Daten auf einen oder mehrere ausgewählte Kunden begrenzen.
 - **Land/Region**: Der Standardwert lautet **Alle**, aber Sie können die Daten auf ein oder mehrere Länder des ausgewählten Kunden begrenzen.
-- Weiterleitungs **Programm**: der Standardwert ist " **all**", aber Sie können die Daten auf ein bestimmtes Weiterleitungs Programm beschränken. Dieser Filter ist nur sichtbar, wenn Ihre Organisation im Verweis Programm registriert ist.
+- **Empfehlungsprogramm:** Der Standardwert ist **"Alle",** aber Sie können die Daten auf ein bestimmtes Empfehlungsprogramm beschränken. Dieser Filter ist nur sichtbar, wenn Ihre Organisation im Empfehlungsprogramm registriert ist.
 - **Status**: Der Standardwert lautet **Alle**, aber Sie können die Daten auf Empfehlungen begrenzen, die einen oder mehrere ausgewählte Statustypen für Empfehlungen enthalten, z. B. angenommen, abgelehnt, abgelaufen, verloren und gewonnen.
-- **Qualifizierungstyp**: der Standardwert ist " **all**". Sie können jedoch festlegen, dass die Daten auf Verweise eingeschränkt werden, die entweder Marketplace-Leads oder qualifizierte Leads sind.
+- **Qualifizierungstyp:** Der Standardwert ist **"Alle",** aber Sie können die Daten auf Empfehlungen beschränken, bei denen es sich entweder um Marketplace-Leads oder qualifizierte Leads handelt.
 
 Die Informationen in allen unten angezeigten Diagrammen beziehen sich auf den ausgewählten Zeitraum und alle von Ihnen ausgewählten Filter, abgesehen von den unten aufgeführten Ausnahmen. Einige Abschnitte ermöglichen außerdem das Anwenden weiterer Filter, beispielsweise, wenn nach einer bestimmten Lösung gefiltert werden soll.
 
 ## <a name="referrals-summary"></a>Zusammenfassung der Empfehlungen
 
-Diese Karte zeigt eine Übersicht über die Leistung Ihrer Leads.
+Diese Karte enthält eine Übersicht über die Leistung Ihrer Leads.
 
-Das Diagramm zeigt die Gesamtzahl der Seitenbesuche, die Anzahl der Aufrufe der Aktions Schaltfläche (Kontakt Partner), die Anzahl der Leads, die generiert wurden, nachdem die Kunden auf den Aktions Aufruf geklickt haben, und die Gesamtanzahl der Leads, die für den ausgewählten Zeitraum gewonnen wurden.
+Das Diagramm zeigt die Gesamtzahl der Seitenbesuche, die Anzahl der Klicks auf die Schaltfläche "Handlungsaufruf" (Partner kontaktieren), die Anzahl der Leads, die generiert wurden, nachdem die Kunden auf den Aktionsaufruf geklickt haben, und die Gesamtanzahl der für den ausgewählten Zeitraum gewonnenen Leads.
 
 Die Metriken für die prozentuale Änderung (in rot oder grün mit einem Pfeilindikator dargestellt) zeigen den Unterschied zwischen dem **letzten vollen Monat im ausgewählten Datumsbereich** und dem **ersten vollen Monat in diesem Bereich** an. Nehmen wir beispielsweise an, das aktuelle Datum ist der 15. Juni, und Sie haben den Filter **3M** aktiviert, um Daten für die letzten drei Monate anzuzeigen. In diesem Fall würden die Metriken der Unterschied zwischen Mai (dem letzten vollen Monat im ausgewählten Datumsbereich) und März (dem ersten vollen Monat des Datumsbereich) anzeigen. Dabei liegt der Datumsbereich **3M** zugrunde, und der Vergleich bezieht sich auf die Daten für Mai und die Daten für März.
 
-:::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Bild, das die Zusammenfassungs Karte der Leads Analytics anzeigt.":::
+:::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Abbildung, die die Zusammenfassungskarte der Leadsanalyse zeigt.":::
 
 ## <a name="conversion-funnel"></a>Conversion Funnel
 
-In diesem Abschnitt wird visuell angezeigt, wie Ihre Deals im Laufe ihres Lebenszyklus von einem Status in einen anderen wechseln. Sie können den gesamten Lebenszyklus basierend auf dem Dealumfang sowie den Dealwert in USD basierend auf dem Hauptpivot für diesen Abschnitt anzeigen. Der erste Abschnitt ist mit dem Typ des Deals gekennzeichnet, um Ihnen einen visuellen Indikator für das Volume oder den Wert nach Typ zu geben. Es gibt auch einen Abschnitt, der **aus der Vergangenheit** stammt, der verwendet wird, um die Vorgänge anzugeben, für die Sie entweder die Annahme/Ablehnung durchgeführt haben, oder Sie in dem Zeitraum, der für den Bericht ausgewählt wurde, als "gewonnen/verloren" markiert haben. Sie können Filter anwenden, um den Fortschritt der Deals über verschiedene Phasen in ihrem Lebenszyklus anzuzeigen.
+In diesem Abschnitt wird visuell angezeigt, wie Ihre Deals im Laufe ihres Lebenszyklus von einem Status in einen anderen wechseln. Sie können den gesamten Lebenszyklus basierend auf dem Dealumfang sowie den Dealwert in USD basierend auf dem Hauptpivot für diesen Abschnitt anzeigen. Der erste Abschnitt ist mit dem Typ des Deal bezeichnet, um Ihnen einen visuellen Indikator für das Volume oder den Wert nach Typ zu geben. Es gibt auch den Abschnitt Leads aus der **Vergangenheit,** der verwendet wird, um die Abschlüsse anzugeben, für die Sie Maßnahmen ergriffen haben, um sie entweder zu akzeptieren/zu veralten oder sie im für den Bericht ausgewählten Zeitraum als gewonnen/verloren zu markieren. Sie können Filter anwenden, um den Fortschritt der Deals über verschiedene Phasen in ihrem Lebenszyklus anzuzeigen.
 
 :::image type="content" source="images/referrals/leadsanalyticsfunnel.png" alt-text="Abbildung des Konvertierungstrichters für Empfehlungen":::
 
@@ -67,49 +65,49 @@ Im diesem Abschnitt werden die Länder/Regionen angezeigt, aus denen die Deals s
 
 ## <a name="leads-by-program"></a>Leads nach Programm
 
-Mit dieser Kombination aus Tabelle und Diagramm können Sie feststellen, welche ihrer Referenzprogramm Leads die meisten Verweise und den höchsten Wert nutzen.
-Die Tabelle enthält die Gesamtzahl der Leads, die Leads, die mit in der SLA (24 Stunden) akzeptiert wurden, sowohl in Prozent als auch in absoluten Begriffen, den Leads, die abgelaufen sind, und den Leads, die in den Status "in US-Dollar" gewonnen wurden Es gibt auch ein Leads-Trend Diagramm auf der rechten Seite der Tabelle, in der die Gesamtanzahl der Angebote und der in US-Dollar Erstellungs Wert auf der Grundlage des ausgewählten Programms angezeigt werden. Standardmäßig sind alle Lösungen ausgewählt.
+Mit dieser Kombination aus Tabelle und Diagramm können Sie sehen, welche Ihrer Empfehlungsprogramm-Leads die meisten Empfehlungen und den höchsten Dealwert generieren.
+Die Tabelle enthält gesamte Leads, die Leads, die in der SLA (24 Stunden) sowohl in Prozent als auch in absoluter Hinsicht akzeptiert wurden, die leads, die abgelaufen sind, und die Leads, die in den Zustand "Gewonnen" übergegangen sind, zusammen mit dem Gesamtwert der Leads, die in USD-Währung gewonnen wurden. Rechts neben der Tabelle befindet sich auch ein Trenddiagramm für Leads, das die Gesamtzahl der Deals und den gewonnenen Dealwert in USD-Währung basierend auf dem ausgewählten Programm anzeigt. Standardmäßig sind alle Lösungen ausgewählt.
 
-:::image type="content" source="images/referrals/leadsanalyticsreferralsprogram.png" alt-text="Das Bild zeigt die Leistung der qualifizierten Referenzen.":::
+:::image type="content" source="images/referrals/leadsanalyticsreferralsprogram.png" alt-text="Abbildung, die die Leistung des qualifizierten Empfehlungsprogramms zeigt.":::
 
 ## <a name="declined--lost-reasons"></a>Gründe für abgelehnte und verlorenen Deals
 
-In diesem Abschnitt erfahren Sie, warum die Leads von Ihrem Unternehmen als **abgelehnt** oder **verloren** gekennzeichnet werden. Die Optionen in diesen Darstellungen sind die gleichen Gründe, die ihre Verkäufer ausgewählt haben, während Sie den Lead als abgelehnt oder verloren geschlossen haben.
+Dieser Abschnitt hilft Ihnen bei der Analyse der Gründe, warum die Leads von Ihrem Unternehmen als **abgelehnt** oder **verloren** markiert werden. Die Optionen in diesen Darstellungen sind dieselben Gründe, die Ihre Verkäufer beim Schließen des Lead als abgelehnt oder verloren ausgewählt haben.
 
-:::image type="content" source="images/referrals/leadsanalyticsreasons.png" alt-text="Bild, das die vom Partner ausgewählten Gründe anzeigt, wenn er absinkt oder einen Lead als verloren geht.":::
+:::image type="content" source="images/referrals/leadsanalyticsreasons.png" alt-text="Abbildung mit den vom Partner ausgewählten Gründen beim Ablehnen oder Verlust eines Lead.":::
 
 ## <a name="comparison-charts"></a>Vergleichsdiagramme
 
-Der Vergleichs Abschnitt unterstützt Sie beim Vergleichen der Daten, die mit Leads verknüpft sind, die auf mehreren Dimensionen basieren, sowohl auf dem Volume als auch auf dem gewonnenen Wert für Leads in USD Pivot.
+Der Vergleichsabschnitt hilft Ihnen, die Daten im Zusammenhang mit Leads basierend auf mehreren Dimensionen sowohl auf dem Volume als auch auf dem Gewonnenswert der Leads in USD Pivot zu vergleichen.
 Die folgenden drei Dimensionen können für den Datenvergleich ausgewählt werden:
 
-- Qualifikentyp
+- Qualifizierungstyp
 - Märkte
-- Weiterleitungs Programm
+- Empfehlungsprogramm
 
-Wenn qualifizierungstyp ausgewählt ist, haben Sie die Möglichkeit, die Verweis Leistung von in Bezug auf Marketplace-Leads und qualifizierte Leads zu vergleichen. Für beide Märkte und das Weiterleitungs Programm können Sie bis zu drei verschiedene Optionen zum Vergleichen der Leistung auswählen. Im ersten Diagramm, bei dem es sich um ein Balkendiagramm handelt, werden die Daten mit einem Trend im Vergleich zum Vormonat angezeigt, der auf dem Hauptpivot basiert, d. h. dem Umfang oder dem gewonnenen Dealwert. Rechts neben dem Balkendiagramm ist außerdem ein Kreisdiagramm enthalten, das die Verteilung in Prozent für die gleichen Daten zeigt.
+Wenn der Qualifizierungstyp ausgewählt ist, haben Sie die Möglichkeit, die Empfehlungsleistung von in Bezug auf Marketplace-Leads und qualifizierte Leads zu vergleichen. Sowohl für Märkte als auch für Empfehlungsprogramme können Sie bis zu drei verschiedene Optionen auswählen, um deren Leistung zu vergleichen. Im ersten Diagramm, bei dem es sich um ein Balkendiagramm handelt, werden die Daten mit einem Trend im Vergleich zum Vormonat angezeigt, der auf dem Hauptpivot basiert, d. h. dem Umfang oder dem gewonnenen Dealwert. Rechts neben dem Balkendiagramm ist außerdem ein Kreisdiagramm enthalten, das die Verteilung in Prozent für die gleichen Daten zeigt.
 
 :::image type="content" source="images/referrals/leadsanalyticscompare.png" alt-text="Abbildung des Vergleichsabschnitts":::
 
 ## <a name="raw-data-table"></a>Rohdatentabelle
 
-Die folgende Tabelle mit allen Rohdaten, die sich auf die Leads beziehen, hilft Ihnen beim schnellen **exportieren** der Daten für jede ausführliche oder benutzerdefinierte Analyse, die Sie ausführen möchten.
+Die folgende Tabelle mit allen Rohdaten, die sich auf die Leads beziehen, hilft Ihnen, die Daten für jede detaillierte oder benutzerdefinierte Analyse, die Sie ausführen möchten, schnell zu **exportieren.**
 
-:::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="Bild, das die Rohdaten Tabelle für Leads anzeigt.":::
+:::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="Abbildung der Rohdatentabelle für Leads":::
 
 ## <a name="no-data"></a>Keine Daten
 
-Es kann mehrere Gründe geben, warum beim Zugriff auf die Leads Analytics wie unten beschrieben ein leeres Diagramm wie unten angegeben wird.
+Es kann mehrere Gründe geben, warum Sie ein leeres Diagramm wie unten erhalten, wenn Sie wie unten beschrieben auf die Leadsanalyse zugreifen.
 
 - Es sind keine Daten für dieses Konto vorhanden. Versuchen Sie, Deals zu erstellen, um diesen Bericht aufzufüllen.
 - Es gibt ein Netzwerkkonnektivitätsproblem. Prüfen Sie Ihre Internetverbindung, und versuchen Sie es erneut.
 - Es gibt keine Datensätze, die den von Ihnen angewendeten Filtern entsprechen. Versuchen Sie, die Filter zurückzusetzen.
-- Es gibt eine Verzögerung zwischen der Änderung des Lead Zustands und der Aktualisierung im Analysebericht. Überprüfen Sie den Bericht nach 24 Stunden.
+- Es gibt eine Verzögerung zwischen der Änderung des Leadzustands und der Aktualisierung desSelben im Analysebericht. Überprüfen Sie den Bericht nach 24 Stunden.
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="Bild, das keine Datenvisualisierung für Leads anzeigt.":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="Abbildung, die keine Datenvisualisierung für Leads zeigt.":::
 
 > [!TIP]
-> Um zu erfahren, wie Ihre Co-Selling-Möglichkeiten durchgeführt werden, lesen Sie die Informationen auf der [Seite zusammen verkaufen von Verkaufschancen](referral-insights.md).
+> Informationen zur Leistung Ihrer Co-Selling-Verkaufschancen finden Sie auf der Seite Erkenntnisse zu [Co-Selling-Verkaufschancen.](referral-insights.md)
 
 ## <a name="next-steps"></a>Nächste Schritte
 

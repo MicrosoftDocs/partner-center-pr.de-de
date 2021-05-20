@@ -4,28 +4,23 @@ ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Untersuchen Sie die Abrechnung, wenn Sie neue Abonnements hinzufügen, die Lizenz Menge anpassen oder ein Abonnement kündigen. Sehen Sie sich an, wie sich nutzungsbasierte und Lizenz basierte Abonnements unterscheiden.
+description: Erkunden Sie die Abrechnung, wenn Sie neue Abonnements hinzufügen, die Lizenzmenge anpassen oder ein Abonnement kündigen. Erfahren Sie, wie sich nutzungsbasierte und lizenzbasierte Abonnements unterscheiden.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 54f3afc36e51299b6b8656eecdeff67628128580
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964406"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148549"
 ---
-# <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Häufige Abrechnungs Szenarien für CSP-Programmpartner, die in Partner Center arbeiten
+# <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Häufige Abrechnungsszenarien für CSP-Programmpartner, die in Partner Center
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Administrator-Agent-| Abrechnungsadministrator-| | des Helpdesk-Agents Vertriebsmitarbeiter
 
-- Administrator-Agent
-- Abrechnungsadministrator
-- Helpdesk-Agent
-- Vertriebsbeauftragter
-
-In diesen Artikeln wird erläutert, was Sie auf Ihrer Rechnung erwarten sollten, nachdem Sie neue Abonnements hinzugefügt, die Anzahl der Lizenzen an ein Abonnement angepasst oder ein Abonnement gekündigt haben. Andere [Partner Center-Abrechnungs Typen](billing-different-types.md), z. b. nutzungsbasierte und Lizenz basierte Abonnements, werden unterschiedlich abgerechnet.
+In diesen Artikeln wird erläutert, was Sie auf Ihrer Rechnung erwarten sollten, nachdem Sie neue Abonnements hinzugefügt, die Anzahl der Lizenzen für ein Abonnement angepasst oder ein Abonnement gekündigt haben. Andere [Partner Center Abrechnungstypen,](./billing-basics.md)z. B. nutzungsbasierte und lizenzbasierte Abonnements, werden unterschiedlich abgerechnet.
 
 
 ## <a name="change-billing-frequency"></a>Ändern der Abrechnungshäufigkeit
@@ -41,11 +36,11 @@ So ändern Sie die Abrechnungshäufigkeit für einen Onlinedienst für einen Kun
 5. Wählen Sie auf der Seite **Details** unter **Fakturierungsintervall** entweder **Monatlich** oder **Jährlich** aus. Es wird Ihnen eine Bestätigungsseite mit wichtigen Informationen zum Ändern der Abrechnungshäufigkeit sowie eine Liste der Abonnements angezeigt, die gleich geändert werden.
 6. Wählen Sie **OK** aus, damit die Änderung vorgenommen wird (oder **Abbrechen**, um sie rückgängig zu machen).
 
-## <a name="billing-scenarios"></a>Abrechnungs Szenarien
+## <a name="billing-scenarios"></a>Abrechnungsszenarien
 
-| Art der Abrechnung | Behandelte Szenarien |
+| Abrechnungstyp | Behandelte Szenarien |
 | --------------- | ----------------- |
-| [Monatliche Abrechnung](common-billing-scenarios-monthly.md) | Hinzufügen neuer Abonnements, Ändern der Lizenz Menge und Anhalten von Abonnements. |
-| [Jährliche Abrechnung](common-billing-scenarios-annual.md) | Hinzufügen neuer Abonnements, Hinzufügen von Lizenzen vor dem Abrechnungsdatum, Ändern der Lizenz Menge und anhalten und erneutes Aktivieren von Abonnements. |
-| [Abrechnung für einmalige Käufe und Auswahl von wiederkehrenden Käufen](common-billing-scenarios-onetime-recurring.md) | Erwerben von Abonnements, Hinzufügen von weiteren Abonnements, hinzufügen und Entfernen von Lizenzen. |
-| [Abrechnung für Lizenz basierte Saas-Abonnements](common-billing-scenarios-saas.md) | Kostenlose Testversionen für Lizenz basierte Saas-Abonnements (Software-as-a-Service). Erwerben und Abbrechen von benutzerdefinierten Abrechnungs Einheiten für SaaS-Abonnements. |
+| [Monatliche Abrechnung](common-billing-scenarios-monthly.md) | Hinzufügen neuer Abonnements, Ändern der Lizenzmenge und Anhalten von Abonnements. |
+| [Jährliche Abrechnung](common-billing-scenarios-annual.md) | Hinzufügen neuer Abonnements, Hinzufügen von Lizenzen vor dem Abrechnungsdatum, Ändern der Lizenzmenge und Anhalten und erneutes Aktivieren von Abonnements. |
+| [Abrechnung für einmalige und ausgewählte wiederkehrende Käufe](common-billing-scenarios-onetime-recurring.md) | Erwerben von Abonnements, Hinzufügen weiterer Abonnements, Hinzufügen und Entfernen von Lizenzen. |
+| [Abrechnung für lizenzbasierte SaaS-Abonnements](common-billing-scenarios-saas.md) | Kostenlose Testversionen für lizenzbasierte SaaS-Abonnements (Software-as-a-Service). Erwerben und Kündigen von SaaS-Abonnements für benutzerdefinierte Verbrauchszähler. |

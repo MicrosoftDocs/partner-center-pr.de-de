@@ -1,41 +1,36 @@
 ---
-title: Häufige monatliche Abrechnungs Szenarien
+title: Allgemeine monatliche Abrechnungsszenarien
 ms.topic: article
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 'Häufige Szenarien in Partner Center bei der monatlichen Abrechnung: umfasst das Hinzufügen neuer Abonnements, das Ändern der Lizenz Menge und das Anhalten von Abonnements.'
+description: Häufige Szenarien in Partner Center, wenn Sie die monatliche Abrechnung verwenden, z. B. das Hinzufügen neuer Abonnements, das Ändern der Lizenzmenge und das Anhalten von Abonnements.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 66c9ec09f707d87248fdef31e4cf66f4ca927ce1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502513"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148651"
 ---
-# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Stichproben von monatlichen Abrechnungs Szenarien für neue Abonnements, Ändern von Lizenz Beträgen oder Suspendierungen
+# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Beispiele für monatliche Abrechnungsszenarien für neue Abonnements, Ändern von Lizenzbeträgen oder Unterbrechungen
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Administrator-Agent-| Abrechnungsadministrator-| | des Helpdesk-Agents Vertriebsmitarbeiter
 
-- Administrator-Agent
-- Abrechnungsadministrator
-- Helpdesk-Agent
-- Vertriebsbeauftragter
-
-Diese Beispiel [Szenarien gelten für allgemeine Abrechnungs Szenarien](common-billing-scenarios.md) , wenn Sie die monatliche Abrechnung in Partner Center verwenden.
+Diese [gängigen Beispielabrechnungsszenarien](common-billing-scenarios.md) sind anwendbar, wenn Sie die monatliche Abrechnung in Partner Center verwenden.
 
 ## <a name="new-monthly-subscription"></a>Neues monatliches Abonnement
 
-Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für "$ 4/Monat" und wählen die monatliche Abrechnung aus. Die Lizenz basierte ababstimmungs Datei für den 15. Januar enthält die folgenden Abrechnungs Zeilen:
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD/Monat und wählen die monatliche Abrechnung aus. Die lizenzbasierte Abstimmungsdatei vom 15. Januar enthält die folgenden Abrechnungszeilen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4.00       |1        |4.00 |
 
-Die Lizenz basierte ababstimmungs Datei von Februar 15 enthält die folgende Abrechnungs Zeile:
+Die lizenzbasierte Abstimmungsdatei vom 15. Februar enthält die folgende Abrechnungszeile:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -43,13 +38,13 @@ Die Lizenz basierte ababstimmungs Datei von Februar 15 enthält die folgende Abr
 
 ## <a name="change-license-quantity"></a>Lizenzanzahl ändern
 
-Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für "$ 4/Monat" und wählen die monatliche Abrechnung aus. Die Lizenz basierte ababstimmungs Datei für den 15. Januar enthält die folgenden Abrechnungs Zeilen:
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD/Monat und wählen die monatliche Abrechnung aus. Die lizenzbasierte Abstimmungsdatei vom 15. Januar enthält die folgenden Abrechnungszeilen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4.00       |1        |4.00    |
 
-Am 1. Februar erhöhen Sie Ihre Lizenz Menge von einem auf zwei. Die Lizenz basierte ababstimmungs Datei für den 15. Februar enthält die folgenden Abrechnungs Zeilen:
+Am 1. Februar erhöhen Sie Ihre Lizenzmenge von eins auf zwei. Die lizenzbasierte Abstimmungsdatei vom 15. Februar enthält die folgenden Abrechnungszeilen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -70,13 +65,13 @@ Anteiliger Preis pro Einheit = 1,54 = 12 x 0,129
 
 ## <a name="suspend-before-30-days"></a>Aussetzen eines Abonnements innerhalb von 30 Tagen
 
-Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für "$ 4/Monat" und wählen die monatliche Abrechnung aus. Die Lizenz basierte ababstimmungs Datei für den 15. Januar enthält die folgenden Abrechnungs Zeilen:
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD/Monat und wählen die monatliche Abrechnung aus. Die lizenzbasierte Abstimmungsdatei vom 15. Januar enthält die folgenden Abrechnungszeilen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4.00       |1        |4.00    |
 
-Am 1. Februar Sperren Sie ein Abonnement. Die Lizenz basierte ababstimmungs Datei von Februar 15 enthält die folgende Abrechnungs Zeile:
+Am 1. Februar setzen Sie ein Abonnement aus. Die lizenzbasierte Abstimmungsdatei vom 15. Februar enthält die folgende Abrechnungszeile:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -84,19 +79,19 @@ Am 1. Februar Sperren Sie ein Abonnement. Die Lizenz basierte ababstimmungs Date
 
 ## <a name="suspend-after-30-days"></a>Aussetzen eines Abonnements nach 30 Tagen
 
-Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für "$ 4/Monat" und wählen die monatliche Abrechnung aus. Die Lizenz basierte ababstimmungs Datei für den 15. Januar enthält die folgenden Abrechnungs Zeilen:
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD/Monat und wählen die monatliche Abrechnung aus. Die lizenzbasierte Abstimmungsdatei vom 15. Januar enthält die folgenden Abrechnungszeilen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.2018|12.02.2018|Gebühr für Zyklus|4.00|1|4.00
 
-Die Lizenz basierte ababstimmungs Datei von Februar 15 enthält die folgende Abrechnungs Zeile:
+Die lizenzbasierte Abstimmungsdatei vom 15. Februar enthält die folgende Abrechnungszeile:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.02.2018|12.03.2018|Gebühr für Zyklus|4.00|1|4.00
 
-Am 1. März brechen Sie das Abonnement ab. Die Lizenz basierte ababstimmungs Datei vom März 15 enthält die folgende Abrechnungs Zeile:
+Am 1. März wird das Abonnement ausgesetzt. Die lizenzbasierte Abstimmungsdatei vom 15. März enthält die folgende Abrechnungszeile:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -112,4 +107,4 @@ Deshalb beträgt der Preis pro Einheit = -1,716 (12 x 0,143 x (-1)).
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Abrechnungs Szenarien für einmalige Käufe und Auswahl von wiederkehrenden Käufen](common-billing-scenarios-onetime-recurring.md)
+- [Abrechnungsszenarien für einmalige und ausgewählte wiederkehrende Käufe](common-billing-scenarios-onetime-recurring.md)

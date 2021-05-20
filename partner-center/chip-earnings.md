@@ -2,46 +2,44 @@
 title: Anzeigen von Einnahmen in CHIP
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Erfahren Sie, wie Sie Ihre Incentive-Anweisung und die Einnahmen im Tool "Channel Incentive Platform (Chip)" anzeigen.
+description: Erfahren Sie, wie Sie Ihre Incentives-Anweisung und -Einnahmen im Channel Incentives Platform-Tool (CHIP) anzeigen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354490"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149025"
 ---
-# <a name="view-earnings-using-the-chip-tool"></a>Anzeigen von Ergebnissen mit dem Chip-Tool
+# <a name="view-earnings-using-the-chip-tool"></a>Anzeigen von Einnahmen mit dem CHIP-Tool
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Primärer Kontakt oder Programmadministrator
 
-- Primärer Kontakt oder Programm Administrator
+Sie können über das Channel Incentives Platform-Tool (CHIP) auf Ihre Incentives-Anweisung zugreifen.
 
-Sie können auf Ihre Incentives-Anweisung über das Channel Incentive Platform Tool (Chip) zugreifen.
+## <a name="view-earnings"></a>Anzeigen von Einnahmen
 
-## <a name="view-earnings"></a>Ergebnis anzeigen
+1. Melden Sie sich mit Ihrem Microsoft-Konto (vorherige Live-ID) bei CHIP an.
 
-1. Melden Sie sich mit Ihrem Microsoft-Konto (vorherige Live ID) bei Chip an.
+2. Wählen Sie das Incentives-Programm aus, an dem Sie interessiert sind.
 
-2. Wählen Sie das gewünschte Incentives-Programm aus.
-
-3. Wählen Sie unter **Programm Zusammenfassung** die Option Zeitraum oder Monat. 
-1. Wählen Sie Berechnungs Details aus der Dropdown Liste aus.
-1.  Klicken Sie in der Benachrichtigungsleiste auf **Öffnen** , um die Anweisung zu öffnen.
+3. Wählen Sie unter **Programmzusammenfassung** Zeitraum oder Monat aus. 
+1. Wählen Sie in der Dropdownliste Berechnungsdetails aus.
+1.  Klicken Sie auf der Benachrichtigungsleiste auf **Öffnen,** um Ihre Anweisung zu öffnen.
 
 ### <a name="explanation-of-details-tabs"></a>Erläuterung der Registerkarten "Details"
 
-|**TAB**|**Definition**|
+|**TABULATORTASTE**|**Definition**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Enthält Details für das Programm "Incentives" für den ausgewählten Zeitraum einschließlich Kunden Name, Vereinbarung, hekeitsdetails|
-|Delta Port-Pivot|Updates der letzten veröffentlichten Anweisung nur für Unternehmen|
-|Detailreport-Pivot|Zusammenfassung der Zahlungsdetails einschließlich Währung und Zahlungsbetrag|
-|Details zur Leistung|Baselinewert,-Wert und-Wachstums Prozentsatz für nur splar|
+|DetailReport-Flatfile|Enthält Details zum Incentives-Programm für den ausgewählten Zeitraum, einschließlich Kundenname, Vereinbarung, Details zum Incentive|
+|DeltaReport-pivot|Updates der letzten veröffentlichten Anweisung nur für Enterprise|
+|DetailReport-pivot|Zusammenfassung der Zahlungsdetails einschließlich Währung und Zahlungsbetrag|
+|Details zur Leistung|Baselinewert, Leistung und Zuwachsprozentsatz nur für SPLAR|
 
 ## <a name="next-steps"></a>Nächste Schritte
 

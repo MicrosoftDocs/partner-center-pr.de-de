@@ -9,19 +9,16 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284161"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150657"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center verfügt über zwei Kontoebenen für MPN-Partner.
 
-**Geeignete Rollen**
-
-- Kontoadministrator
-- Globaler Administrator
+**Geeignete Rollen:** Kontoadministrator-| Globaler Administrator
 
 Ihr Unternehmen verfügt über zwei Ebenen von Konten in Partner Center.
 
@@ -46,4 +43,4 @@ Ihr PGA kann zusätzliche Geschäftsstandorte darunter haben. Jeder Standort ver
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Weitere Informationen zum Verwalten von Standorten finden Sie unter [Verwalten Ihres Partnerkontos: Standorte](manage-locations.md).
+- Weitere Informationen zum Verwalten von Standorten finden Sie unter [Verwalten Ihres Partnerkontos: Standorte.](manage-locations.md)

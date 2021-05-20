@@ -1,60 +1,59 @@
 ---
 title: Verfassen von Einladungen zu Office 365-Testversionen
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Partner Einladungen für Ihre Clients erstellen und senden können, um Office 365 zu testen. Partner sind ein autorisierter Abonnement Ratgeber.
+description: Erfahren Sie, wie Partner Test-Einladungen für ihre Clients erstellen und senden können, um Office 365 auszuprobieren. Partner sind ein autorisierter Abonnementratgeber.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 5e34ebe290941ee24a9e945c1b1b34abd9f4baa3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557714"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150317"
 ---
-# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Ratgeber: Erstellen und Senden einer Einladung zum Testen für Clients zum Testen von Office 365
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisors: Erstellen und Senden einer Test-Einladung für Clients zum Testen von Office 365
 
 
-**Geeignete Rollen**
-
-- Advisor
+**Geeignete Rollen:** Advisor
 
 > [!NOTE]
-> Diese Funktion ist nur für Microsoft-Partner verfügbar, die autorisierte Abonnement Berater sind.
+> Dieses Feature ist nur für Microsoft-Partner verfügbar, die autorisierte Abonnementberater sind.
 
-Sie können Test Einladungen für Ihre Clients erstellen und senden, damit Sie Office 365 ausprobieren können. Wenn Sie eine Einladung zum Testen erstellen, erstellt der Assistent zum **Erstellen einer Testversion** eine benutzerdefinierte URL für Sie. Die URL enthält einen eingebetteten Code, mit dem Sie als Abonnement Ratgeber identifiziert werden. Sie können diese URL für einen oder mehrere Clients verwenden. Senden Sie die URL per e-Mail an Ihren Client, oder verwenden Sie die URL in anderen Dokumenten. Das Abonnement kann abhängig vom jeweiligen Angebot einen oder mehrere Dienste umfassen. Eine Einladung kann nur für ein Testabonnement gleichzeitig gesendet werden.
+Sie können Testversionseinladungen erstellen und an Ihre Clients senden, damit diese Office 365 ausprobieren können. Wenn Sie eine Testversions-Einladung erstellen, erstellt der Assistent zum Erstellen von **Testversionseinladungen** eine benutzerdefinierte URL für Sie. Die URL enthält einen eingebetteten Code, der Sie als Abonnementratgeber identifiziert. Sie können diese URL für einen oder mehrere Clients verwenden. Senden Sie die URL per E-Mail an Ihren Client, oder verwenden Sie die URL in anderen Dokumenten. Das Abonnement kann abhängig vom jeweiligen Angebot einen oder mehrere Dienste umfassen. Eine Einladung kann jeweils nur für ein Testabonnement gesendet werden.
 
-Wenn Sie für die delegierte Administration zertifiziert sind, können Sie der Einladung für die Einladung eine Option hinzufügen, die es Ihnen ermöglicht, das Konto im Auftrag Ihres Clients zu verwalten. Dies erleichtert es dem Client, Office 365 auszuprobieren.
+Wenn Sie für die delegierte Verwaltung zertifiziert sind, können Sie der Testeinladung eine Option hinzufügen, mit der Sie das Konto im Namen Ihres Clients verwalten können. Dadurch ist es für Ihren Client einfacher, Office 365 auszuprobieren.
 
-## <a name="to-create-a-trial-invitation"></a>So erstellen Sie eine Einladung zum Testen
+## <a name="to-create-a-trial-invitation"></a>So erstellen Sie eine Einladung zur Testversion
 
-1. Navigieren Sie zu " **Tests" und "Kaufangebote**  >  **Erstellen**".
+1. Navigieren Sie zu **Testversionen und Kaufangebote**  >  **Einladungen erstellen.**
 
-2. Wählen Sie auf der Seite **Einladung zum Erstellen einer Test** Version die Einladungs Optionen für die Einladung aus, die Sie einschließen möchten:
+2. Wählen Sie auf der Seite **Create trial invitation (Testversions-Einladung erstellen)** die Einladungsoptionen für die Testversion aus, die Sie einschließen möchten:
 
-    - **Partner Niederlassung**: Wenn Ihr Unternehmen über mehrere Niederlassungen verfügt, wählen Sie die Niederlassung aus, die Sie dieser Einladung zum Testen zuordnen möchten.
+    - **Partner office**:Wenn Ihr Unternehmen über mehrere Niederlassungen verfügt, wählen Sie das Büro aus, das Sie dieser Einladung für die Testversion zuordnen möchten.
 
-        Informationen zum Hinzufügen von Partner Niederlassungen finden Sie unter [Hinzufügen eines Standorts](manage-locations.md). Neue Bürostandorte benötigen möglicherweise bis zu 24 Stunden, nachdem Sie erstellt wurden, um in der Liste der Partner Büros angezeigt zu werden.
+        Informationen zum Hinzufügen von Partnerstandorten finden Sie unter [Hinzufügen eines Standorts.](manage-locations.md) Für neue Bürostandorte kann es bis zu 24 Stunden dauern, bis sie erstellt wurden, um in der Liste der Partnerbüros angezeigt zu werden.
 
-    - **Verwendungs Speicherort**: Wählen Sie den Standort aus, an dem der Client die Dienste verwenden soll.
-    - **Test Abonnements**: die Liste der Test Abonnements, die Sie auswählen können, wird durch den Verwendungs Standort des Clients oder der Region des Clients bestimmt.
-    - **Delegierte Administration**: diese Option ist nur für Partner verfügbar, die für das anbieten der delegierten Administration zertifiziert sind. Wählen Sie diese Option aus, wenn Sie dem Client die delegierte Administration anbieten möchten. Wenn Sie dies tun, kann Ihr Client die Einladung zum Testen mit oder ohne Annahme der delegierten Administration akzeptieren. Weitere Informationen zur delegierten Administration finden Sie unter [anbieten der delegierten Administration](customers-revoke-admin-privileges.md).
+    - **Verwendungsstandort:** Wählen Sie den Standort aus, an dem Ihr Client die Dienste verwendet.
+    - **Testabonnements:** Die Liste der Testabonnements, die Sie auswählen können, wird durch den Nutzungsstandort des Landes oder der Region Ihres Clients bestimmt.
+    - **Delegierte Verwaltung:** Diese Option ist nur für Partner verfügbar, die zertifiziert sind, delegierte Verwaltung anbieten zu können. Wählen Sie diese Option aus, wenn Sie die delegierte Clientverwaltung anbieten möchten. Wenn Sie dies tun, kann Ihr Client die Testeinladung mit oder ohne Zustimmung zur delegierten Verwaltung annehmen. Weitere Informationen zur delegierten Verwaltung finden Sie unter [Anbieten der delegierten Verwaltung.](customers-revoke-admin-privileges.md)
 
 3. Wählen Sie **Weiter** aus.
 
-4. Kopieren Sie auf der **Einladungs Seite Ihres Test** Zeitraums die Einladungs Informationen und die URL der Testversion, und fügen Sie Sie in eine e-Mail, ein Dokument oder eine Webseite ein, um eine angepasste Einladung für die Einladung zu erstellen.
+4. Kopieren Sie **auf der Seite** Ihre Testeinladung die Einladungsinformationen und die URL der Testversion, und fügen Sie sie dann in eine E-Mail, ein Dokument oder eine Webseite ein, um eine benutzerdefinierte Einladung für die Testversion zu erstellen.
 
     > [!NOTE]
-    > Notieren Sie sich die Einladungs **Zusammenfassungs-ID** der Testversion. Verwenden Sie diese ID, um das Angebot zu verfolgen.
+    > Notieren Sie sich die Zusammenfassungs-ID der Einladung **für die Testversion.** Verwenden Sie diese ID zum Nachverfolgen des Angebots.
 
-5. Personalisieren Sie Ihre Nachricht, indem Sie Ihr Firmenlogo, eine Einführung, abschließende Hinweise oder andere Informationen einschließen.
+5. Personalisieren Sie Ihre Nachricht, indem Sie Ihr Unternehmenslogo, Ihre Einführung, Ihre schließenden Hinweise oder andere Informationen enthalten.
 
-6. Senden Sie die Einladung zum Testen an Ihren Client.
+6. Senden Sie die Einladung zur Testversion an Ihren Client.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Erstellen eines Kaufangebots](advisor-create-a-purchase-offer.md)
+- [Partner können sich nicht mehr als Ratgeber registrieren.](advisors-no-csp.md)

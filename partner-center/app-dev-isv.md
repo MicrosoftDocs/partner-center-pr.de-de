@@ -1,73 +1,70 @@
 ---
-title: Ausnahme Prüfung der Anwendungs Entwicklungskompetenz
+title: Ausnahme bei der Prüfung zur Kompetenz "Anwendungsentwicklung"
 ms.topic: article
 ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Für Partner mit einer früheren ISV-Kompetenz erfahren Sie, wie Sie eine einmalige Prüfung der Anforderungen an die Anwendungsentwicklung erhalten.
+description: Für Partner mit einer früheren ISV-Kompetenz erfahren Sie, wie Sie eine Ausnahme zu einmaligen Prüfunganforderungen für die Anwendungsentwicklungs-Kompetenz erhalten.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 2d3dfbb409ec8a11d4152e9c064e0ce7a05711b5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333802"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149994"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Prüfungsanforderungen für die Application Development-Kompetenz – einmalige Ausnahme
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Globale Administratorrechte | MPN-Partneradministrator
 
-- Globaler Administrator
-- MPN-Partneradministrator
+Wenn Sie die jetzt zurückgezogene ISV-Kompetenz erworben haben und eines der folgenden Szenarien für Sie gilt, bieten [](https://partner.microsoft.com/membership/application-development-competency)wir Ihrem Unternehmen eine Ausnahme für einmalige Prüfunganforderungen für die Gold- oder Silver-Kompetenz Anwendungsentwicklung an. 
 
-Wenn Sie die nun abgekoppelte ISV-Kompetenz erworben haben und eines der folgenden Szenarien zutrifft, bieten wir Ihrem Unternehmen eine einmalige Prüfung der Anforderungen an die [Anwendungsentwicklung](https://partner.microsoft.com/membership/application-development-competency)für Gold oder Silber. 
+Partner mit ISV-Kompetenz:
 
-Partner mit einer ISV-Kompetenz:
+- **Ihre ISV-Kompetenz ist abgelaufen:** Die Ausnahme für einmalige Prüfunganforderungen ist ab dem 22. November 2019 Partner Center verfügbar. Sie haben 30 Tage Zeit, um das Angebot zu nutzen. Melden Sie sich bei Partner Center Für Ihr Unternehmen spezifische Details an.
 
-- **Ihre ISV-Kompetenz ist abgelaufen** – die Ausnahme für die einmalige Prüfung von Anforderungen steht ab dem 22. November 2019 im Partner Center zur Verfügung. Sie haben 30 Tage Zeit, um das Angebot zu nutzen. Melden Sie sich bei Partner Center an, um ausführliche Informationen zu Ihrem Unternehmen zu erhalten.
+- **Ihre Kompetenzmitgliedschaft befindet sich im** Verlängerungsfenster: Die Ausnahme für einmalige Prüfunganforderungen ist ab dem 22. November 2019 in Partner Center verfügbar. Sie haben 30 Tage Zeit, um das Angebot zu nutzen. Melden Sie sich bei Partner Center Für Ihr Unternehmen spezifische Details an.
 
-- **Ihre Kompetenz Mitgliedschaft befindet sich im Erneuerungs Fenster** – die Ausnahme für die einmalige Prüfung von Anforderungen steht ab dem 22. November 2019 im Partner Center zur Verfügung. Sie haben 30 Tage Zeit, um das Angebot zu nutzen. Melden Sie sich bei Partner Center an, um ausführliche Informationen zu Ihrem Unternehmen zu erhalten.
+- **Ihre Kompetenzmitgliedschaft wird in** den kommenden Monaten verlängert. Ihre Ausnahme für einmalige Prüfungsanforderungen steht Ihnen zur Verfügung, wenn sie verlängert werden muss. Zu diesem Zeitpunkt haben Sie 30 Tage Zeit, um das Angebot zu erhalten.
 
-- **Ihre Kompetenz Mitgliedschaft wird in den kommenden Monaten erneuert** – ihre einmalige Prüfung ist für Sie verfügbar, wenn die Verlängerung verlängert wird. Zu diesem Zeitpunkt haben Sie 30 Tage Zeit, um das Angebot zu erhalten.
+Partner mit einer Anwendungsentwicklungs-Kompetenz, die über den Zertifikat-IP-Pfad erworben wird:
 
-Partner mit einer Anwendungs Entwicklungskompetenz über den Zertifikat-IP-Pfad:
+- Wenn Sie über eine Auflistung im kommerziellen **Microsoft-Marketplace** verfügen, ist Ihre Ausnahme für einmalige Prüfungsanforderungen zum Zeitpunkt der Verlängerung Ihrer Kompetenz verfügbar. Zu diesem Zeitpunkt haben Sie 30 Tage Zeit, um das Angebot zu nutzen.
 
-- **Wenn Sie über eine Microsoft-Liste mit kommerziellen Marketplace verfügen**, ist die Ausnahme für die einmalige Prüfung der Anforderungen zum Zeitpunkt der Verlängerung ihrer Kompetenz verfügbar. Zu diesem Zeitpunkt haben Sie 30 Tage Zeit, um das Angebot zu nutzen.
-
-- **Wenn Sie nicht über eine [Microsoft kommerziellen Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) -Liste verfügen**, veröffentlichen Sie Ihre Lösung bis Februar 2020, damit Sie für die Ausnahme bei der einmaligen Prüfung von Anforderungen berechtigt ist.
+- Wenn Sie über kein Angebot im kommerziellen **[Microsoft-Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)** verfügen, veröffentlichen Sie Ihre Lösung bis Februar 2020, um für die Ausnahme für einmalige Prüfunganforderungen berechtigt zu sein.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Nutzen Ihres Angebots
 
 1. Wählen Sie im Partner Center-Menü auf Ihrem Dashboard die Option **Kompetenzen** aus.
-2. In der Liste der verfügbaren Zuständigkeiten ist die Anwendungsentwicklung als " **Fertig**" markiert.
+2. In der Liste der verfügbaren Kompetenzen ist Anwendungsentwicklung als **Abgeschlossen gekennzeichnet.**
 
-3. Wählen Sie **Anwendungsentwicklung**aus. Sie werden feststellen, dass Sie eine außer Kraft Setzung erhalten haben, die Ihr Unternehmen von der Erfüllung der Prüfungsanforderungen ausnimmt. 
+3. Wählen Sie **Anwendungsentwicklung aus.** Sie sehen, dass Ihnen eine Außerkraftsetzung erteilt wurde, die Ihr Unternehmen von der Erfüllung der Prüfungsanforderungen ausnehmen kann. 
 
-4. Um dieses Angebot nutzen zu können, navigieren Sie zu **Mitgliedschaftsangebote**. Sie müssen möglicherweise die Kompetenz Gebühr bezahlen, um den Vorgang abhängig von Ihrem Kompetenz Kauf oder Erneuerungs Status abzuschließen. 
+4. Um dieses Angebot nutzen zu können, navigieren Sie zu **Mitgliedschaftsangebote**. Möglicherweise müssen Sie die Kompetenzgebühr bezahlen, um den Prozess abhängig von Ihrem Kompetenzerwerbs- oder Verlängerungsstatus abzuschließen. 
 
 Dieses Angebot ist über Partner Center verfügbar.
 
-Wenn Sie Unterstützung bei der Beschaffung Ihres Angebots benötigen oder Fragen zu Ihrer Berechtigung für dieses Angebot haben, wenden Sie sich an den [Partner Support](https://partner.microsoft.com/Support). 
+Wenn Sie Unterstützung beim Erhalten Ihres Angebots benötigen oder Fragen zu Ihrer Berechtigung für dieses Angebot haben, wenden Sie sich an den [Partnersupport.](https://partner.microsoft.com/Support) 
 
 ## <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 
 **Gewusst wie wissen, ob mein Unternehmen für dieses Angebot berechtigt ist?**
 
-Partnerunternehmen, die für dieses Angebot berechtigt sind, wurden per e-Mail und im Partner Center über Informationen über das Angebot informiert. Berechtigte Partner sind Personen, die die jetzt abgekoppelte ISV-Kompetenz erworben haben, und diejenigen, die die Anwendungs Entwicklungskompetenz über den Zertifikat-IP-Pfad erworben haben. 
+Partnerunternehmen, die für dieses Angebot berechtigt sind, wurden per E-Mail und in Partner Center benachrichtigt, um Informationen zum Erhalt des Angebots zu erhalten. Berechtigte Partner sind diejenigen, die die jetzt eingestellte ISV-Kompetenz erworben haben, und diejenigen, die die Anwendungsentwicklungs-Kompetenz über den IP-Pfad des Zertifikats erworben haben. 
 
-**Was sind die Vorteile der Anwendungs Entwicklungskompetenz?**
+**Welche Vorteile bietet die Anwendungsentwicklungs-Kompetenz?**
 
-Sie können die Vorteile der Anwendungs Entwicklungskompetenz auf der Microsoft-Partner Website überprüfen. 
+Die Vorteile der Anwendungsentwicklungs-Kompetenz finden Sie auf der Microsoft-Partnerwebsite. 
 
-**Was geschieht, wenn ich die Kompetenz bei diesem Angebot erneuern möchte?** 
+**Was geschieht, wenn ich meine Kompetenz verlängern möchte, wenn ich dieses Angebot erhalte?** 
 
-Wir werden bald weitere Informationen zu unseren Plänen für ISVs geben und einen Leitfaden für Partner bereitstellen, die als Ergebnis dieses Angebots die Anwendungs Entwicklungskompetenz haben. * *  
+Wir werden in Kürze weitere Informationen zu unseren Plänen für ISVs teilen und Partner unterstützen, die aufgrund dieses Angebots über die Kompetenz "Anwendungsentwicklung" verfügen.**  
 
-**Wie kann ich dieses Angebot erhalten, wenn mein Unternehmen nicht über die ISV-Kompetenz verfügte?**
+**Wie erhalte ich dieses Angebot, wenn mein Unternehmen nicht über die ISV-Kompetenz verfügte?**
 
-Dieses Angebot ist nur für berechtigte Partner verfügbar – Personen mit der ISV-Kompetenz oder der Anwendungs Entwicklungskompetenz über den Zertifikat-IP-Pfad. Wir untersuchen aktiv kurzfristige und langfristige umfassende Lösungen für die Betreuung von ISVs und geben in Kürze weitere Details weiter. 
+Dieses Angebot ist nur für berechtigte Partner verfügbar– diejenigen, die über die ISV-Kompetenz oder die Anwendungsentwicklungs-Kompetenz über den IP-Pfad des Zertifikats verfügten. Wir ziehen aktiv langfristige und langfristige umfassende Lösungen für die Bereitstellung von ISVs in Betracht und werden in Kürze weitere Details mitteilen. 
 
 

@@ -1,33 +1,28 @@
 ---
-title: Anpassen der Out-of-Box-Funktion eines Geräts
+title: Anpassen der out-of-box-Erfahrung eines Geräts
 ms.topic: how-to
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bevor Sie das neue Gerät eines Kunden bereitstellen können, können Sie Windows Autopilot-Profile verwenden, um die Out-of-Box-Benutzerfreundlichkeit (OOBE) des Geräts anzupassen oder vorab zu konfigurieren.
+description: Bevor Sie das neue Gerät eines Kunden bereitstellen, können Sie Windows Autopilot-Profile verwenden, um die Out-of-Box-Erfahrung (OOBE) des Geräts anzupassen oder vorab zu konfigurieren.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 5294495403be729adecb5a7814ade4f9d454a0f6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534986"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149824"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Verwenden von Windows Autopilot-Profilen auf neuen Geräten zum Anpassen der Out-of-Box-Experience eines Kunden
 
-**Geeignete Rollen**
-
-- Administrator-Agent
-- Globaler Administrator
-- Vertriebsbeauftragter
-- Benutzerverwaltungsadministrator
+**Geeignete Rollen:** Administrator-Agent| Globale Administratorrechte | Sales agent | Benutzerverwaltungsadministrator
 
 Wenn Sie Kundengeräte verwalten, müssen Sie die Windows-Willkommensseite für die Benutzer des Kunden anpassen. Sie können neue Geräte mit Windows Autopilot-Profilen vorkonfigurieren, bevor Sie die Geräte an Kunden ausliefern, und neue Profile auf bereits erworbene Geräte anwenden. 
 
-Beachten Sie, dass OEMs damit begonnen haben, eine Versand Bezeichnung auf der Außenseite des Autopilot-Geräts hinzufügen, die die **Product Key-ID (pkid)** des Geräts anzeigt.  Dieser eindimensionale, lesbare Barcode bietet downstreampartnern eine Möglichkeit, Geräte für Autopilot zu registrieren, ohne die Geräte zu entkacken und die Geräte-ID auf alternative Weise zu erfassen.
+Beachten Sie, dass OEMs damit begonnen haben, ein Versandetikett außerhalb des Autopilot-Gerätefelds einzulegen, das die **Product Key ID (PKID) des Geräts zeigt.**  Dieser eindimensionale, lesbare Barcode bietet Downstreampartnern die Möglichkeit, Geräte für Autopilot zu registrieren, ohne die Geräte ausboxen und die Geräte-ID auf andere Weise ablesen zu müssen.
 
 In diesem Artikel wird erläutert, wie Sie im Partner Center Autopilot-Profile erstellen und auf Geräte anwenden.
 
@@ -145,11 +140,11 @@ Wenn Sie planen, die Kombination aus OEM-Name, Seriennummer und Modell zu verwen
 
 - Dieses Tupel funktioniert nur für neuere Geräte (z.B. 4K-Hashes) und wird für 128B-Hashes (RS2 und frühere Geräte) nicht unterstützt.
 
-- Bei der tupelregistrierung wird die Groß-/Kleinschreibung beachtet, sodass die Daten in der Datei mit den *_exactly_* Modell-und Herstellernamen übereinstimmen müssen, die vom OEM-Anbieter (Hardware Anbieter) bereitgestellt werden.
+- Bei der Registrierung des Tupels wird zwischen Groß- und Kleinschreibung unterschieden. Daher müssen die Daten in der Datei mit den Modell- und Herstellernamen ***genau*** mit den Angaben des OEM-Anbieters (Hardwareanbieters) übereinstimmen.
 
 Führen Sie die im Partner Center nachstehenden Anweisungen zum Hinzufügen von Geräten zum Konto eines Kunden aus.
 
-1. Wählen Sie im Partner Center-Menü _ *Customers** aus, und wählen Sie dann den Kunden aus, dessen Geräte Sie verwalten möchten.
+1. Wählen Sie im Partner Center-Menü **Kunden** und dann den Kunden aus, dessen Geräte Sie verwalten möchten.
 
 2. Wählen Sie auf der Detailseite des Kunden **Geräte** aus.
 
@@ -164,16 +159,16 @@ Führen Sie die im Partner Center nachstehenden Anweisungen zum Hinzufügen von 
 
 Wenn Sie beim Versuch, die CSV-Datei hochzuladen, eine Fehlermeldung erhalten, überprüfen Sie das Format der Datei. Sie können nur den Hardwarehash oder den OEM-Namen, die Seriennummer und das Modell (in dieser Spaltenreihenfolge) oder die Windows-Produkt-ID verwenden. Sie können auch die CSV-Beispieldatei verwenden, die über den Link neben **Geräte hinzufügen** bereitgestellt wird, um eine Geräteliste zu erstellen.
 
-Die CSV-Datei sollte in etwa wie folgt aussehen:
+Ihre CSV-Datei sollte in etwa so aussehen:
 
-> **Seriennummer des Geräts, Windows-Produkt-ID, Hardware Hash, Herstellername, Gerätemodell**
+> **Geräteseriennummer, Windows-Produkt-ID, Hardwarehash, Herstellername, Gerätemodell**
 
-> **{SerialNumber},,, Microsoft Corporation, Surface Laptop**
+> **{serialNumber},,,Microsoft Corporation,Surface Laptop**
 
 >[!NOTE]
-> Bei "Herstellername" und "Gerätemodell" wird die Groß-/Kleinschreibung beachtet.
+> Bei "Herstellername" und "Gerätemodell" wird die Kleinschreibung beachtet.
 
-Wenn Sie nicht wissen, welchen Wert Sie für Herstellername und Gerätemodell benötigen, können Sie diesen auf dem Gerät ausführen, um die richtigen Werte zu erfassen:
+Wenn Sie nicht wissen, welcher Wert für Herstellername und Gerätemodell angegeben werden soll, können Sie dies auf dem Gerät ausführen, um die richtigen Werte zu erfassen:
 
 <pre><code>md c:\\HWID
 

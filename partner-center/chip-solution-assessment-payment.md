@@ -1,58 +1,56 @@
 ---
-title: Zahlungsstatus der Lösungs Bewertung
+title: Zahlungsstatus der Lösungsbewertung
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Verwenden Sie die Channel Incentive Platform (Chip), um Informationen zu Lösungs Bewertungsmöglichkeiten, ihren Berechnungen und deren Zahlungsstatus zu finden.
+description: Verwenden Sie die Channel Incentives Platform (CHIP), um Informationen zu Lösungsbewertungsmöglichkeiten, ihren Berechnungen und ihrem Zahlungsstatus zu finden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f005db5d69fe6febf79720544642ee9f3d8c2e75
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354405"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148872"
 ---
-# <a name="solution-assessment-payment-status-and-calculation-info"></a>Lösungs Bewertungs Status und Berechnungs Informationen
+# <a name="solution-assessment-payment-status-and-calculation-info"></a>Zahlungsstatus und Berechnungsinformationen der Lösungsbewertung
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Primärer Kontakt oder Programmadministrator
 
-- Primärer Kontakt oder Programm Administrator
-
-Sie können den Zahlungsstatus eines Lösungs Bewertungs Status in Chip überprüfen.
+Sie können den Zahlungsstatus einer Lösungsbewertungschance in CHIP überprüfen.
 
 ## <a name="how-to-review-your-payment-status"></a>Überprüfen Ihres Zahlungsstatus
 
-1. Öffnen Sie den Chip, und melden Sie sich mit Ihrem Microsoft-Konto (vorherige Live-ID) an.
-2. Geben Sie im Feld Verkaufs **Chancen-ID** die ID-Nummer der Verkaufschance ein, oder fügen Sie Sie ein.
+1. Öffnen Sie CHIP, und melden Sie sich mit Ihrem Microsoft-Konto (vorherige Live-ID) an.
+2. Geben Sie im Feld **Opportunity ID (Verkaufschance-ID)** die ID-Nummer der Verkaufschance ein, oder fügen Sie sie ein.
 3. Klicken Sie auf **Suchen**.
-4. Wählen Sie den Namen der Verkaufschance aus, um die Verkaufschancen anzuzeigen.
-5. Überprüfen Sie den Abschnitt **Zahlungsanforderungen** , um festzustellen, ob eine Zahlungsanfrage erstellt wurde.
+4. Wählen Sie den Namen der Verkaufschance aus, um die Verkaufschancendetails anzuzeigen.
+5. Überprüfen Sie im Abschnitt **Zahlungsanforderungen,** ob eine Zahlungsanforderung erstellt wurde.
 6. Überprüfen Sie den Status der Verkaufschance.
 
-    - Wenn die Zahlungs Anforderung nicht erstellt wird, stellen Sie sicher, dass die Verkaufschancen den Berechtigungs Kriterien erfüllen, um die Lösungs Bewertungs Anreize zu erhalten. Weitere Informationen zum Überprüfen der Berechtigungs Kriterien finden Sie in der [Lösungs Bewertung](chip-solution-assessment.md).
-    - Wenn die Zahlungs Anforderung erstellt wurde, fahren Sie mit Schritt 7 fort.
-7. Überprüfen Sie den Status der Zahlungs Anforderung.
+    - Wenn keine Zahlungsanforderung erstellt wird, stellen Sie sicher, dass die Möglichkeit die Berechtigungskriterien erfüllt, um den Incentive für Lösungsbewertungen zu erhalten. Weitere Informationen zum Überprüfen der Berechtigungskriterien finden Sie unter [Lösungsbewertung.](chip-solution-assessment.md)
+    - Wenn eine Zahlungsanforderung erstellt wird, fahren Sie mit Schritt 7 fort.
+7. Überprüfen Sie den Status der Zahlungsanforderung.
 
-    - Review für ausstehende Zahlung: wenden Sie sich an das Channel-Incentive-Team, um weitere Untersuchungen zu erhalten – Details zu
-    - Zahlung genehmigt: die Zahlung wird von Microsoft innerhalb von 35 Tagen nach dem Ende des Monats nach der EM-Zertifizierung nach der EM-Zertifizierung im Chip, in dem die Zahlungsanfrage erstellt wurde, gerendert.
-    -  Zahlung gesendet: Klicken Sie auf den Link "Status", um die Details zur Zahlungs Freigabe anzuzeigen.
-    - Zahlung abgebrochen: Klicken Sie auf den Status Link, um den Ablehnungs Grund anzuzeigen. Weitere Informationen erhalten Sie vom Channel-Incentive-Team.
+    - Ausstehende Überprüfung der Zahlung: Wenden Sie sich an das Channel Incentives-Team, um weitere Informationen zu erhalten– die unten aufgeführten Kontaktdetails.
+    - Zahlung genehmigt: Die Zahlung wird von Microsoft innerhalb von 35 Tagen nach dem Ende des Monats nach der EM-Zertifizierung der Engagement-Vollständigkeit in CHIP gerendert, in der die Zahlungsanforderung erstellt wurde.
+    -  Zahlung gesendet: Klicken Sie auf den Statuslink, um die Details zur Zahlungsfreigabe anzuzeigen.
+    - Zahlung storniert: Klicken Sie auf den Statuslink, um den Ablehnungsgrund anzuzeigen. Weitere Informationen erhalten Sie vom Channel Incentives-Team.
 
-## <a name="calculations-for-solutions-assessment"></a>Berechnungen für die Lösungs Bewertung
+## <a name="calculations-for-solutions-assessment"></a>Berechnungen für die Lösungsbewertung
 
-Mithilfe der definierten Gebühren Zeitpläne berechnen und verarbeiten die in Microsoft regionalen Betriebszentren die zugeordneten Incentive-Gebühren, wobei Zahlungen monatlich ausgestellt werden.
+Anhand der definierten Gebührenpläne berechnen und verarbeiten die regionalen Microsoft-Betriebszentren die zugehörigen Incentivegebühren, und die Zahlungen werden monatlich ausgegeben.
 
-Die Verkaufschancen müssen über alle der folgenden Attribute verfügen, damit Sie in diesem Zahlungs Genehmigungs Bericht angezeigt werden:
+Verkaufschancen müssen über alle folgenden Attribute verfügen, damit sie in diesem Bericht zur Genehmigung von Zahlungen angezeigt werden:
 
-1. Der Incentive der Lösungs Bewertung muss genehmigt werden.
+1. Der Incentive für die Lösungsbewertung muss genehmigt werden.
 
-1. Die Ebene "Lösungs Bewertung Engagement Level local Attribute" wird für die Einbindung zum Zeitpunkt der Genehmigung des Incentive in MSX festgelegt.
+1. Die Lokale Attributrate für die Lösungsbewertungs-Engagementebene wird für die Einbindung zum Zeitpunkt der Genehmigung des Incentives in MSX festgelegt.
  
-1. Das Kontrollkästchen "em Review" muss von EM in Chip überprüft und übermittelt werden.
+1. Das Kontrollkästchen "EM Review" muss von EM in CHIP überprüft und übermittelt werden.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

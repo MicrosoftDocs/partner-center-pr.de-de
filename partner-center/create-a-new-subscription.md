@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Kundenabonnements in Partner Center
 ms.topic: how-to
-ms.date: 05/17/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Abonnements für von Microsoft veröffentlichte Produkte und SaaS-Produkte, die von ISVs von Drittanbietern veröffentlicht werden, an Ihre Kunden verkaufen.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9052954c81ef55a2bfa06778ace651c9d0f9b26f
+ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148196"
+ms.locfileid: "110201407"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
@@ -29,6 +29,9 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
 >[!IMPORTANT]
 > Als Partner im CSP-Programm können Sie lizenzbasierte oder gemessene  SaaS-Abonnements von ISV-Herausgebern innerhalb Partner Center.  Dies bedeutet, dass Sie alle lizenzbasierten oder gemessenen  SaaS-Angebote [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) erwerben können, die der **ISV-Herausgeber** Ihnen zur Verfügung gestellt hat, einschließlich exklusiver Angebote, auf die Sie Zugriff haben. Um andere, kommerzielle Marketplace-Angebote von ISVs zu erwerben oder zu verwalten (z. B. nutzungsbasierte Angebote mit Azure-Anwendungen, Containern oder virtuellen [Azure-Portal).](https://portal.azure.com/)
 
+>[!NOTE]
+>Alle Datums- und Uhrzeitangaben in Partner Center werden im UTC-Zeitstandard (Universal Time Coordinated) angegeben. Dies kann sich um bis zu 24 Stunden von Ihrer Ortszeit unterscheiden.
+
 ## <a name="create-a-new-subscription"></a>Erstellen eines neuen Abonnements
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) an.
@@ -42,7 +45,7 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
    - **Abrechnungstyp:** Wählen Sie den Typ der Abonnementabrechnung aus, den Sie verwenden möchten: **Lizenz** oder **Nutzung**. Informationen [zur Entscheidung zwischen monatlicher](license-based-billing.md) und jährlicher Abrechnungshäufigkeit finden Sie unter Lizenzbasierte Abrechnung.
    - **Kategorie:** Wählen Sie **Enterprise,** **Small Business** oder **Trial aus.** Informationen zu Testabonnements finden Sie unter [Testversionen von Microsoft-Produkten anbieten](offer-your-customers-trials-of-microsoft-products.md).
 
-5. Wählen Sie die Produktabonnements aus, die Sie für Ihren Kunden erwerben möchten. Welche Produkte Sie sehen, hängt von der Art des Kundensegments (Bildung, Regierung usw.) und den angewendeten Filtern ab. Einige angebote, die im Marketplace angezeigt werden, sind möglicherweise nicht immer für einen bestimmten Kunden oder einen bestimmten CSP-Partner verfügbar. Dies kann sein, weil:
+5. Wählen Sie die Produktabonnements aus, die Sie für Ihren Kunden erwerben möchten. Welche Produkte angezeigt werden, hängt vom Typ des Kundensegments (Bildung, Behörden usw.) und den angewendeten Filtern ab. Einige angebote, die im Marketplace angezeigt werden, sind möglicherweise nicht immer für einen bestimmten Kunden oder einen bestimmten CSP-Partner verfügbar. Dies kann sein, weil:
 
    - Der Kunde verfügt bereits über ein Abonnement für dieses Produkt und ist nur eines zulässig.
 
@@ -66,7 +69,7 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
     >[!NOTE]
     > Weder Sie noch Ihr Kunde erhalten eine E-Mail mit Anweisungen zum Abschließen der Kontoset up/provisioning für diese Art von ISV-Abonnement.)
 
-    - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie nicht auf den kostenlosen Testzeitraum für Angebote verzichten, die Sie für Kunden erwerben. Sobald der kostenlose Testzeitraum endet, beginnt die Abonnementlaufzeit, und das Abonnement wird in den kostenpflichtigen Status konvertiert. Das Abonnement wird dann automatisch gemäß demselben Zeitplan verlängert.
+    - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie nicht auf den kostenlosen Testzeitraum für Angebote verzichten, die Sie für Kunden erwerben. Nach Dem Ende des kostenlosen Testzeitraums beginnt die Abonnementlaufzeit, und das Abonnement wird in den kostenpflichtigen Status konvertiert. Das Abonnement wird dann automatisch gemäß demselben Zeitplan verlängert.
    
 ## <a name="update-subscriptions-with-add-ons"></a>Aktualisieren von Abonnements mit Add-Ons 
 
@@ -130,7 +133,7 @@ Für jährlich abgerechnete Angebote:
 Nachdem diese Zeiträume beendet sind, wird ihnen die Option zum Kündigen des Abonnements nicht mehr zur Auswahl stehen.
 
 > [!NOTE]
-> Nutzungsbasierte und gemessene ISV-Dienste von Drittanbietern (die z. B. virtuelle Computer oder Container verwenden) sind nicht zur Rückgabe berechtigt. Nutzungsbasierte Dienste können als Abbruchmethode aufgehoben werden. Da Gebühren nach der Nutzung in Rechnung gestellt werden, sind diese Dienste nicht für eine Rückerstattung berechtigt.
+> Nutzungsbasierte und gemessene ISV-Dienste von Drittanbietern (die z. B. virtuelle Computer oder Container verwenden) sind nicht für die Rückgabe berechtigt. Nutzungsbasierte Dienste können als Abbruchmethode aufgehoben werden. Da Gebühren nach der Nutzung in Rechnung gestellt werden, sind diese Dienste nicht für eine Rückerstattung berechtigt.
 
 Gehen Sie zum Kündigen eines lizenzbasierten SaaS-Abonnements eines ISV-Herausgebers wie folgt vor:
 

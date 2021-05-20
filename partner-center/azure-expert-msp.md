@@ -4,34 +4,29 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie sich für das Azure-Programm für verwaltete Dienstanbieter bewerben, um sich bei anderen Partnern zu bewerben und die höchste Priorität in der Referenz-Engine zu erhalten.
+description: Erfahren Sie, wie Sie sich für das Azure Expert Managed Services Provider-Programm bewerben, um sich von anderen Partnern zu abgesehen und in der Empfehlungs-Engine die höchste Priorität zu erhalten.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 364add7e25052ce97bfb26b84b26c5fcc430637d
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 45908ef67beaf2f84ae4cddfe11bfdfe8886ab96
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534657"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149807"
 ---
-# <a name="azure-expert-managed-services-provider-program"></a><span data-ttu-id="44273-103">Azure Expert Managed Services Provider-Programm</span><span class="sxs-lookup"><span data-stu-id="44273-103">Azure Expert Managed Services Provider program</span></span>
+# <a name="azure-expert-managed-services-provider-program"></a><span data-ttu-id="f1979-103">Azure Expert Managed Services Provider-Programm</span><span class="sxs-lookup"><span data-stu-id="f1979-103">Azure Expert Managed Services Provider program</span></span>
 
-<span data-ttu-id="44273-104">**Geeignete Rollen**</span><span class="sxs-lookup"><span data-stu-id="44273-104">**Appropriate roles**</span></span>
+<span data-ttu-id="f1979-104">**Geeignete Rollen:** Kontoadministrator-| Administratorkonto für Geschäftsprofile | Globale Administratorrechte | MPN-Partneradministrator</span><span class="sxs-lookup"><span data-stu-id="f1979-104">**Appropriate roles**: Account admin | Business profile admin | Global admin | MPN partner admin</span></span>
 
-- <span data-ttu-id="44273-105">Kontoadministrator</span><span class="sxs-lookup"><span data-stu-id="44273-105">Account admin</span></span>
-- <span data-ttu-id="44273-106">Unternehmensprofiladministrator</span><span class="sxs-lookup"><span data-stu-id="44273-106">Business profile admin</span></span>
-- <span data-ttu-id="44273-107">Globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="44273-107">Global admin</span></span>
-- <span data-ttu-id="44273-108">MPN-Partneradministrator</span><span class="sxs-lookup"><span data-stu-id="44273-108">MPN partner admin</span></span>
+<span data-ttu-id="f1979-105">Wenn Ihr Unternehmen ein Spitzenreiter bei Verkauf und Verwaltung von Azure-Diensten für Kunden ist, sollten Sie erwägen, sich für das Azure Expert Managed Services Provider-Programm zu bewerben.</span><span class="sxs-lookup"><span data-stu-id="f1979-105">If your company is a superstar at selling and managing Azure services to customers, look into applying to the Azure Expert Managed Services Provider program.</span></span> <span data-ttu-id="f1979-106">Azure Expert MSP Partner erhalten einen exklusiven Badge, um sie von anderen Microsoft-Partnern zu unterscheiden, und erhalten in der Empfehlungs-Engine die höchste Priorität.</span><span class="sxs-lookup"><span data-stu-id="f1979-106">Azure Expert MSP partners earn an exclusive badge differentiating them from other Microsoft partners and gain top priority in the referral engine.</span></span> <span data-ttu-id="f1979-107">Sie werden für Co-Sell-Engagements priorisiert, erhalten Unterstützung bei der Entwicklung neuer Methoden und können an exklusiven Veranstaltungen teilnehmen.</span><span class="sxs-lookup"><span data-stu-id="f1979-107">They are prioritized for co-sell engagements, receive support when developing new practices, and can attend exclusive events.</span></span>
 
-<span data-ttu-id="44273-109">Wenn Ihr Unternehmen ein Spitzenreiter bei Verkauf und Verwaltung von Azure-Diensten für Kunden ist, sollten Sie erwägen, sich für das Azure Expert Managed Services Provider-Programm zu bewerben.</span><span class="sxs-lookup"><span data-stu-id="44273-109">If your company is a superstar at selling and managing Azure services to customers, look into applying to the Azure Expert Managed Services Provider program.</span></span> <span data-ttu-id="44273-110">Azure-Experten für MSP-Partner erhalten einen exklusiven Badge, der Sie von anderen Microsoft-Partnern unterscheidet und die höchste Priorität in der Referenz-Engine erhält.</span><span class="sxs-lookup"><span data-stu-id="44273-110">Azure Expert MSP partners earn an exclusive badge differentiating them from other Microsoft partners and gain top priority in the referral engine.</span></span> <span data-ttu-id="44273-111">Sie sind für Co-Selling-Engagements priorisiert, erhalten Unterstützung bei der Entwicklung neuer Praktiken und können an exklusiven Veranstaltungen teilnehmen.</span><span class="sxs-lookup"><span data-stu-id="44273-111">They are prioritized for co-sell engagements, receive support when developing new practices, and can attend exclusive events.</span></span>
+<span data-ttu-id="f1979-108">Um den Prozess der Anwendung auf den Azure MSP zu starten, verwenden Sie den linken Navigations nav.</span><span class="sxs-lookup"><span data-stu-id="f1979-108">To begin the process of applying to the Azure MSP, from the left nav.</span></span> <span data-ttu-id="f1979-109">Wählen **Sie Kompetenzen und Programme und** dann Azure Expert MSP. </span><span class="sxs-lookup"><span data-stu-id="f1979-109">select **Competencies and programs** and then select **Azure Expert MSP**.</span></span> <span data-ttu-id="f1979-110">Erfahren Sie mehr [über die Voraussetzungen und den Anwendungsprozess.](https://partner.microsoft.com/membership/azure-expert-msp)</span><span class="sxs-lookup"><span data-stu-id="f1979-110">Learn more about [the prerequisites and application process](https://partner.microsoft.com/membership/azure-expert-msp).</span></span> 
 
-<span data-ttu-id="44273-112">Um den Prozess der Anwendung von auf den Azure MSP zu starten, über den linken Navigationsbereich.</span><span class="sxs-lookup"><span data-stu-id="44273-112">To begin the process of applying to the Azure MSP, from the left nav.</span></span> <span data-ttu-id="44273-113">Wählen Sie **Zuständigkeiten und Programme** aus, und wählen Sie dann **Azure-Experte MSP** aus.</span><span class="sxs-lookup"><span data-stu-id="44273-113">select **Competencies and programs** and then select **Azure Expert MSP**.</span></span> <span data-ttu-id="44273-114">Erfahren Sie mehr über [die Voraussetzungen und den Anwendungsprozess](https://partner.microsoft.com/membership/azure-expert-msp).</span><span class="sxs-lookup"><span data-stu-id="44273-114">Learn more about [the prerequisites and application process](https://partner.microsoft.com/membership/azure-expert-msp).</span></span> 
+<span data-ttu-id="f1979-111">Wenn Sie sich noch nicht qualifizieren, können Sie Ihre Microsoft-Partnerschaft weiterhin durch Erweiterungen der Mitgliedschaft, Schulungen und andere Wachstumschancen aufbauen.</span><span class="sxs-lookup"><span data-stu-id="f1979-111">If you don't qualify yet, you can still build your Microsoft partnership through membership enhancements, training, and other growth opportunities.</span></span>
+<span data-ttu-id="f1979-112">Erfahren Sie mehr über die Schritte, die Sie unternehmen können, um [ Ihr Unternehmen und Fachwissen zu entwickeln](https://partner.microsoft.com/membership/azure-expert-msp).</span><span class="sxs-lookup"><span data-stu-id="f1979-112">Learn about steps you can take to [develop your business and expertise](https://partner.microsoft.com/membership/azure-expert-msp).</span></span>
 
-<span data-ttu-id="44273-115">Wenn Sie sich noch nicht qualifiziert haben, können Sie Ihre Partnerschaft zwischen Microsoft mithilfe von Mitgliedschafts Verbesserungen, Schulungen und anderen Wachstumsmöglichkeiten aufbauen.</span><span class="sxs-lookup"><span data-stu-id="44273-115">If you don't qualify yet, you can still build your Microsoft partnership through membership enhancements, training, and other growth opportunities.</span></span>
-<span data-ttu-id="44273-116">Erfahren Sie mehr über die Schritte, die Sie unternehmen können, um [ Ihr Unternehmen und Fachwissen zu entwickeln](https://partner.microsoft.com/membership/azure-expert-msp).</span><span class="sxs-lookup"><span data-stu-id="44273-116">Learn about steps you can take to [develop your business and expertise](https://partner.microsoft.com/membership/azure-expert-msp).</span></span>
+## <a name="next-steps"></a><span data-ttu-id="f1979-113">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="f1979-113">Next steps</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="44273-117">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="44273-117">Next steps</span></span>
-
-<span data-ttu-id="44273-118">-[Weitere Informationen zu erweiterten Spezialisierungs Informationen](advanced-specializations.md)</span><span class="sxs-lookup"><span data-stu-id="44273-118">-[Learn about advanced specializations](advanced-specializations.md)</span></span>
+<span data-ttu-id="f1979-114">-[Erfahren Sie mehr über erweiterte Spezialisierungen.](advanced-specializations.md)</span><span class="sxs-lookup"><span data-stu-id="f1979-114">-[Learn about advanced specializations](advanced-specializations.md)</span></span>

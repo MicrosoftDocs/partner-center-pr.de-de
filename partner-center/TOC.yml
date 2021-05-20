@@ -134,6 +134,8 @@
     - name: Wechsel vom CSP-Partner mit direkter Abrechnung zum indirekten Vertriebspartner
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: Partner können sich nicht mehr als Beratungsdienstleister registrieren
+      href: advisors-no-csp.md
 - name: CSP-Vereinbarungen
   href: microsoft-partner-agreement.md
   items:

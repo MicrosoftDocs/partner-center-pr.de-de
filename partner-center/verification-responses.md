@@ -4,53 +4,51 @@ ms.topic: article
 ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Befolgen Sie den Status Ihrer Kontoüberprüfung, wenn Sie versuchen, sich für ein neues Partner Center registrieren. Erfahren Sie, wie Sie bei Bedarf zusätzliche Informationen zur Verfügung stellen.
+description: Befolgen Sie den Status Ihrer Kontoüberprüfung, wenn Sie versuchen, sich für ein neues Partner Center Programm zu registrieren. Erfahren Sie, wie Sie bei Bedarf zusätzliche Informationen bereitstellen.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bd6ab7359dc295d075be937f2760e55bd7e6f3e
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 8486e16d9979a1c1482577248334c1854b116273
+ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794903"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "110236099"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Überprüfen der Kontoinformationen bei der Registrierung für ein neues Partner Center-Programm
 
-**Geeignete Rollen:** Globale Administratorrechte | MPN-Partneradministrator
+**Geeignete Rollen:** globale | MPN-Partneradministrator
 
-Wenn Sie sich für ein neues Programm in Partner Center registrieren, überprüft Microsoft die von Ihnen angegebenen Kontoregistrierungsinformationen, z. B. Den Namen Ihres Unternehmens, die Unternehmensadresse und die Primären Kontaktdetails. Während dieses Vorgangs kann Microsoft eine E-Mail an Ihren primären Kontakt senden, um ihn über den Status zu informieren und weitere Dokumentation zur Überprüfung an fordern.
+Wenn Sie sich für ein neues Programm in Partner Center registrieren, überprüft Microsoft Ihre Registrierung, z. B. den Namen Ihres Unternehmens, die Unternehmensadresse und die primären Kontaktdetails. Während dieses Vorgangs kann Microsoft eine E-Mail an Ihren primären Kontakt senden, um weitere Dokumentation zur Überprüfung anzufordern.
 
 >[!NOTE]
->Um sicherzustellen, dass Sie die E-Mail erhalten, achten Sie darauf, E-Mails von Microsoft.com als "sichere" Domäne zu kennzeichnen, und überprüfen Sie Die Junk-E-Mail-Ordner.
+>Um sicherzustellen, dass Sie die E-Mail erhalten, markieren Sie E-Mails von Microsoft.com als "sichere" Domäne, und aktivieren Sie Junk-E-Mail-Ordner.
 
-Wenn Sie der primäre Kontakt (globaler Administrator oder Kontoadministrator) sind, empfehlen wir Ihnen, zu Ihrem Partnerprofil zu wechseln, um den Überprüfungsstatus zu überwachen und den Fortschritt zu verfolgen.
+Wenn Sie der primäre Kontakt (globaler Administrator oder Kontoadministrator) sind, empfehlen wir Ihnen, zu Ihrem Partnerprofil zu wechseln, um den Überprüfungsstatus zu überwachen und den Fortschritt nachzuverfolgen.
 
-Wechseln Sie für das MPN-Programm zur Seite [Rechtliche](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) Informationen.
+- Informationen zum MPN-Programm finden Sie unter [Rechtliche Informationen.](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)
+- Wechseln Sie für das CSP-Programm zu [Rechtliche Informationen.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
 
-Wechseln Sie für das CSP-Programm zur Seite [Rechtliche](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) Informationen.
 
+## <a name="what-is-verified-and-how-to-respond"></a>Was überprüft wird und wie reagiert wird
 
-## <a name="what-is-verified-and-how-to-respond"></a>Was wird überprüft und wie reagiert wird
-
-|**Typ der Überprüfung**   |**Was wird überprüft?**   |**Was ist zu tun, wenn es abgelehnt wird?**   |
+|**Überprüfungstyp**   |**Was wurde überprüft?**   |**Was zu tun ist, wenn abgelehnt?**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
-|E-Mail-Besitz   |Mit dem Besitz der E-Mail-Adresse wird bestätigt, dass die Adresse des primären Kontakts (primäre E-Mail-Adresse) gültig ist. Die E-Mail-Adresse des primären Kontakts muss ein überwachtes Geschäftskonto sein, über das E-Mails gesendet und empfangen werden können. **Folgendes sollte von Partnern nicht verwendet werden:** (1) Eine private E-Mail-Adresse, die nicht der Unternehmensdomäne zugeordnet ist. (2) Anmeldeinformationen eines Mandantenbenutzers, die nicht mit E-Mails verknüpft sind (z. B. jsmith@testcompany.onmicrosoft.com ).  |Wenn Sie die E-Mail-Nachricht zur Überprüfung des E-Mail-Besitzes nicht innerhalb eines Geschäftstags erhalten, können Sie die erneute Benachrichtigung über die folgenden Links anfordern: für [MPN,](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)für [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile). Wählen Sie auf der Profilseite den Link "Überprüfungs-E-Mail erneut senden" aus, damit Microsoft die E-Mail erneut an Sie senden kann. Um den Empfang der E-Mail sicherzustellen, sollten Sie E-Mails von „microsoft.com“ als „Sicher“ kennzeichnen und auch in Ihren Ordnern für Junk-E-Mails nachsehen.|
-|Beschäftigung |Bei der Überprüfung des Arbeitsplatzes wird bestätigt, dass der primäre Kontakt ein Mitarbeiter des registrierenden Unternehmens ist, da er über eine aktive E-Mail-Adresse in einer E-Mail-Domäne des Unternehmens verfügen muss.|Wenn die Überprüfung des Arbeitsplatzes abgelehnt wird, muss der primäre Kontakt (normalerweise Ihr globaler Oder Kontoadministrator) eine Dokumentation bereitstellen, die bestätigt, dass die E-Mail-Domäne des Kontakts im Besitz des Arbeitgebers ist. [Erstellen Sie ein Supportticket.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)|
-|Business   | Die geschäftliche Überprüfung bestätigt, dass das registrierende Unternehmen eine legitime Geschäftseinheit ist und sich an der für die Registrierung verwendeten Adresse befindet.|Vergewissern Sie sich, dass der Firmenname und die Adresse in Ihrem [Rechtsgeschäftsprofil](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) frei von Rechtschreibfehlern und Abkürzungen sind, und stimmen Sie genau mit Den offiziellen Unternehmensregistrierungsdatensätzen überein. Der Hauptansprechperson (normalerweise Ihr globaler Administrator oder Kontoadministrator) wird aufgefordert, offizielle Dokumente wie z. B. ein Zertifikat für die Unternehmensregistrierung, eine Steuerregistrierung oder einen Beleg aus dem Land oder der Niederlassung des Unternehmens bereitzustellen, um zu bestätigen, dass das Unternehmen berechtigt ist, unter diesem Entitätsnamen Geschäfte zu tätigen, und sich an der Registrierungsadresse befindet. [Erstellen eines Supporttickets](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
+|E-Mail-Besitz   |Mit dem Besitz der E-Mail-Adresse wird bestätigt, dass die Adresse des primären Kontakts (primäre E-Mail-Adresse) gültig ist. Die E-Mail-Adresse des primären Kontakts muss ein überwachtes Geschäftskonto sein, über das E-Mails gesendet und empfangen werden können. **Vermeiden Sie** die Verwendung einer persönlichen E-Mail-Adresse, die nicht der Unternehmensdomäne oder den Anmeldeinformationen eines Mandantenbenutzers zugeordnet ist, die nicht der E-Mail-Adresse zugeordnet sind. (Beispiel: jsmith@testcompany.onmicrosoft.com)  |Wenn Sie die E-Mail-Besitzüberprüfungs-E-Mail-Nachricht nicht innerhalb eines Geschäftstags erhalten, können Sie anfordern, dass die E-Mail erneut gesendet wird. Wechseln Sie zu Ihrer Profilseite für [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) oder [CSP,](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) und wählen Sie **Überprüfungs-E-Mail erneut senden** aus. Achten Sie darauf, E-Mails aus Microsoft.com als "sichere" Domäne zu kennzeichnen, und aktivieren Sie Junk-E-Mail-Ordner. Erstellen Sie [ein Supportticket,](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=b818ac05-8091-44a0-f9b4-6bb008a1ef54)um weitere Unterstützung zu erhalten.|
+|Beschäftigung |Die Überprüfung des Arbeitsplatzes bestätigt, dass Ihr Hauptkontakt ein Mitarbeiter des registrierenden Unternehmens ist. Der Kontakt benötigt eine aktive E-Mail-Adresse in einer E-Mail-Domäne, die sich im Besitz des Unternehmens befindet.|Wenn die Überprüfung des Arbeitsplatzes abgelehnt wird, muss der primäre Kontakt (normalerweise Ihr globaler Oder Kontoadministrator) eine Dokumentation bereitstellen, die bestätigt, dass die E-Mail-Domäne des Kontakts im Besitz des Arbeitgebers ist. Erstellen Sie ein [Supportticket, um weitere Unterstützung zu erhalten.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)|
+|Business   | Die Geschäftsüberprüfung bestätigt, dass das registrierende Unternehmen eine legitime Geschäftsentität unter der angegebenen Adresse ist.|Vergewissern Sie sich, dass [](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) der Firmenname und die Adresse in Ihrem Rechtlichen Geschäftsprofil frei von Rechtschreibfehlern und Abkürzungen sind. Sie müssen genau mit den Unternehmensregistrierungsdatensätzen Ihres formalen Unternehmens übereinstimmen. Microsoft bittet den primären Kontakt (normalerweise Ihren globalen Administrator oder Kontoadministrator) um eine offizielle Dokumentation. Bei der Dokumentation kann es sich um ein Geschäftsregistrierungs- oder Steuerregistrierungszertifikat oder eine Quittung aus dem Land bzw. der Stadt des Unternehmens gehen. Microsoft verwendet diese Dokumentation, um zu überprüfen, ob das Unternehmen berechtigt ist, unter diesem bestimmten Entitätsnamen und unter der angegebenen Adresse Geschäft zu machen. Erstellen Sie ein [Supportticket, um weitere Unterstützung zu erhalten.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
->[!NOTE]
->Erfahren Sie, wie Sie Ihr [Rechtliches Geschäftsprofil (Adresse)](update-your-partner-profile.md)aktualisieren.
+> [!NOTE]
+> Erfahren Sie, wie Sie Ihr [Rechtliches Geschäftsprofil (Adresse) aktualisieren.](update-your-partner-profile.md)
 
-## <a name="when-verification-concludes"></a>Nach Abschluss der Überprüfung
+## <a name="after-verification"></a>Nach der Überprüfung
 
-Nach Abschluss des Überprüfungsprozesses ändert sich der Überprüfungsstatus Ihrer Registrierung auf der Profilseite von "Ausstehend" in "Autorisiert", und die Prozessschritte mit dem auf dieser Seite angezeigten Status werden ausgeblendet.
-Der primäre Kontakt erhält innerhalb weniger Werktage nach Abschluss der Überprüfung eine E-Mail von Microsoft. 
+Nach Abschluss der Überprüfung ändert sich der Überprüfungsstatus in Ihrem Profil von "Ausstehend" in "Autorisiert", und die Prozessschritte mit dem Status, der auf dieser Seite angezeigt wird, werden nicht mehr angezeigt. Der primäre Kontakt erhält innerhalb weniger Werktage eine E-Mail von Microsoft. 
 
-Wenn nach der Anmeldung bei Ihrem Profil **ausstehende Aktionen** angezeigt werden, führen Sie die erforderlichen Änderungen wie folgt aus:
+Wenn nach der Anmeldung bei Ihrem Profil ausstehende Aktionen **angezeigt** werden, führen Sie die erforderlichen Änderungen wie folgt aus:
 
-- Wechseln Sie für das MPN-Programm zur Seite [Rechtliche Informationen.](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)  
-- Wechseln Sie für das CSP-Programm zur Seite [Rechtliche Informationen.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
+- Wechseln Sie für das MPN-Programm zur Seite [Rechtliche](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) Informationen.  
+- Wechseln Sie für das CSP-Programm zur Seite [Rechtliche](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) Informationen.
 
-Wenn Sie Hilfe beim Ausführen dieser Schritte in Partner Center benötigen, können Sie sich an das Supportteam des Partners wenden, indem Sie im Abschnitt Support von Partner Center ein Ticket erstellen. Beginnen Sie dazu auf der Seite [Hilfe und Support.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)
+Wenn Sie Hilfe beim Ausführen dieser Schritte in Partner Center benötigen, können Sie sich an das Supportteam des Partners wenden, indem Sie im Abschnitt Support des Partner Center. Wechseln Sie hierzu zu [Hilfe und Support.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)

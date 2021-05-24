@@ -83,7 +83,7 @@ Zeigen Sie Ihre technischen Vorteile in Partner Center wie folgt an:
    > [!NOTE]
    > Wenden Sie sich an Ihren Supportkonto-Manager (Support Account Manager, SAM), falls Sie im Rahmen Ihres ASfP- oder PSfP-Supportplans eine Cloudberatung benötigen.
 
-5. **Füllen Sie das Formular aus, und wählen Sie dann die Option zum Absenden aus.** Achten Sie darauf, dass Sie bei Ihrer Telefonnummer auch die vollständige internationale Vorwahlnummer angeben. Für Länder, die sich über mehrere Zeitzonen erstrecken (z. B. USA, Russland), ist es hilfreich, wenn Sie Ihre Zeitzone und die bevorzugten Geschäftszeiten angeben.
+5. **Füllen Sie das Formular aus, und wählen Sie dann die Option zum Absenden aus.** Achten Sie darauf, dass Sie bei Ihrer Telefonnummer auch die vollständige internationale Vorwahlnummer angeben. Für Länder/Regionen, die sich über mehrere Zeitzonen erstrecken (z. B. USA, Russland), ist es hilfreich, wenn Sie Ihre Zeitzone und die bevorzugten Geschäftszeiten angeben.
 
    > [!IMPORTANT]
    > Wählen Sie das relevante Land (bzw. die Region) und die Sprache aus, da basierend auf diesen Angaben ermittelt wird, wohin Ihre Anfrage weitergeleitet wird.

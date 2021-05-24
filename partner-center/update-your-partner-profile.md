@@ -9,16 +9,19 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110153054"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315869"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Überprüfen oder Aktualisieren Ihrer Unternehmensprofilinformationen 
 
-**Geeignete Rollen**: Globaler Administrator | MPN-Kontoadministrator
+**Geeignete Rollen**
+
+- Globaler Administrator
+- MPN-Kontoadministrator
 
 Wenn Sie sich zum ersten Mal bei Partner Center als globaler Administrator anmelden, sollten Sie bestätigen, dass alle Unternehmensdetails richtig sind. Hierzu gehören der primäre Kontakt, der rechtliche Geschäftsname und die Adresse sowie Programminformationen. Wenn Ihr Unternehmen mehr als einen Standort hat, überprüfen Sie Ihre Standortdaten auf Richtigkeit. Als globaler Administrator, Abrechnungsadministrator oder Administrator-Agent können Sie auch Ihre Abrechnungs- und Steuerinformationen einsehen und aktualisieren.
 
@@ -98,8 +101,9 @@ Wenn Sie der globale Administrator, Abrechnungsadministrator oder Administrator-
 |Rechnungsadresse|Die auf der CSP-Rechnung angegebene Rechnungsadresse. Kann über das [Abrechnungsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial) aktualisiert werden.|
 |Rechnungskontakt|Die Details zum Rechnungskontakt (Vorname, Nachname, primäre Nummer) für das CSP-Konto.  Kann über das [Abrechnungsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial) aktualisiert werden.|
 |Auftragsnummer|Die Auftragsnummer, die auf der Partnerrechnung angezeigt wird.  Kann über das [Abrechnungsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial) aktualisiert werden.|
-|Steuernummer des Unternehmens|Unternehmen in einigen Ländern können ihre [Umsatzsteuernummer oder eine lokale Entsprechung](./organization-tax-info.md) angeben. Um Ihre Steuer-/USt-IdNr. zu aktualisieren, müssen Sie ein globaler Administrator, Abrechnungsadministrator oder Administrator-Agent sein.|
-|Abrechnungswährung|Die Abrechnungswährung für Ihr CSP-Konto wird durch das rechtsgültige Land des CSP-Kontos bestimmt.  Dies kann nach der Erstellung des CSP-Kontos nicht geändert werden.|
+|Steuernummer des Unternehmens|Unternehmen in einigen Ländern können ihre [Umsatzsteuernummer oder eine lokale Entsprechung](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number) angeben. Um Ihre Steuer-/USt-IdNr. zu aktualisieren, müssen Sie ein globaler Administrator, Abrechnungsadministrator oder Administrator-Agent sein.|
+|Abrechnungswährung|Die Abrechnungswährung für Ihr CSP-Konto wird durch das rechtsgültige Land/die Region des CSP-Kontos bestimmt.  Dies kann nach der Erstellung des CSP-Kontos nicht geändert werden.|
+
 
 ## <a name="next-steps"></a>Nächste Schritte
 

@@ -1,73 +1,99 @@
 ---
-title: Erstellen eines Partnerlogos, eines zertifizierten Buchstabens oder eines Preises mit logo Builder
-ms.topic: article
-ms.date: 03/23/2021
+title: Erstellen eines Partnerlogos, eines zertifizierten Buchstabens oder eines Preises – Logo Builder
+ms.topic: how-to
+ms.date: 05/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Wenn Ihr Unternehmen über eine Gold- oder Silber-Kompetenz verfügt, generieren Sie ein für Ihr Unternehmen angepasstes Logo, oder fordern Sie mithilfe des Logo Builder-Tools in Partner Center einen benutzerdefinierten zertifizierten Prüfbuchstaben an.
+description: Wenn Ihr Unternehmen über eine Gold- oder Silber-Kompetenz verfügt, können Sie ein logo generieren, das für Ihr Unternehmen angepasst ist, oder ein benutzerdefiniertes zertifiziertes Bestätigungsschreiben anfordern, indem Sie das Logo Builder-Tool in Partner Center.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72be76473dcb7afd3f8d6ae60d79599b10c025fc
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: b3618cd02372c56b9f5381f8bdc8a6b3e6f24784
+ms.sourcegitcommit: fcf7a0d4f8e43de775894255f0ef9225838957a5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152255"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "110440443"
 ---
-# <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Erstellen eines Partnerlogos, eines zertifizierten Buchstabens oder einer Auszeichnung mit logo Builder
+# <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>Erstellen eines Partnerlogos, eines zertifizierten Buchstabens oder eines Preislogos
 
 **Geeignete Rollen:** Alle Partner, die mehr über Logo Builder erfahren möchten
 
-Der Wert der Erreichung einer Silver- oder Gold-Kompetenz ist die Möglichkeit für Sie, sich mit Kunden zu unterscheiden. Ein Logo, das Sie für Ihre Vertriebs- und Marketingmaterialien und Ihr Geschäftsprofil in Partner Center verwenden können, um die Kompetenz oder Kompetenzen, die Sie erworben haben, zu präsentieren, ist in Ihren Kompetenzvorteilen enthalten. 
+Um Ihre Silver- oder Gold-Kompetenz zu präsentieren, können Sie den Logo-Generator in Partner Center verwenden, um ein Logo zu erstellen, das in Ihren Vertriebs- und Marketingmaterialien und in Ihrem Geschäftsprofil in Partner Center. Wenn Sie am Azure Expert Managed Services Provider-Programm (MSP) teilnehmen, einen Partner des Jahres erhalten oder die Microsoft Action Pack erworben haben, sind Logos für Ihre Teilnahme an diesen Programmen auch im Logo-Generator verfügbar. Sie können die Bibliothek im Logo-Generator verwenden, um Ihre Ressourcen zu speichern, und Sie können sie herunterladen, wenn Sie verkaufs- und marketingmaterial erstellen möchten.
 
-Wenn Sie in das Azure Expert MSP-Programm aufgenommen wurden, einen Partner des Jahres erhalten oder die Microsoft Action Pack erworben haben, sind Logos für Ihre Teilnahme an diesen Programmen auch in Logo Builder verfügbar. Sie können die Bibliothek in Logo Builder verwenden, um Ihre Ressourcen zu speichern, und Sie können sie herunterladen, wenn Sie bereit sind, Vertriebs- und Marketingmaterialien zu erstellen. 
+## <a name="what-is-available-in-logo-builder"></a>Verfügbare Informationen im Logo-Generator
 
-## <a name="what-is-available-in-logo-builder"></a>Was ist in Logo Builder verfügbar?
+Die Logos, die Ihrem Unternehmen im Logo Builder zur Verfügung stehen, sind auf Ihre Microsoft Partner Network (MPN) ausgerichtet. In Ihrer Ansicht der Partner Center **Logos,** **Buchstaben** und **Auszeichnungen** oder eine Kombination angezeigt.
 
-Die Logos, die Ihrem Unternehmen in Logo Builder zur Verfügung stehen, sind an Ihrer MPN-Mitgliedschaft (Microsoft Partner Network) ausgerichtet. Es dauert bis zu 24 Stunden, bis eine Änderung Ihrer MPN-Mitgliedschaft widergespiegelt wird, z. B. das Erreichen einer neuen Kompetenz.
+:::image type="content" source="images/logo-builder.png" alt-text="Screencap des vollständigen Logo-Generators.":::
 
-Die Objekte, die Sie in Logo Builder erstellen können, umfassen Folgendes:
+Je nach Zugriff können Sie im Logo Builder folgende Objekte erstellen:
 
-- Zertifizierter Buchstabe zur Überprüfung von Kompetenzen und erweiterten Spezialisierungen, die Ihr Unternehmen erworben hat
+- Zertifizierter Buchstabe, der Kompetenzen und erweiterte Spezialisierungen überprüft, die Ihr Unternehmen erworben hat
 
 - Partner mit Gold-Kompetenzlogo
 
 - Partner mit Silver-Kompetenzlogo
 
-- Azure Expert MSP Logo
+- Azure Expert MSP-Logo
 
-- Partnerlogos
+- Partnerpreislogos
 
-- Logo für Partner, die microsoft Action Pack
+- Logo für Partner, die die Microsoft-Action Pack
+
+>[!NOTE]
+>Es dauert 24 Stunden, bis eine Änderung Ihrer Mitgliedschaft, z. B. neue Kompetenz, Ehrung oder andere Inhaber, in Ihrem Mitgliedschaftskonto angezeigt wird. Wenn das gewünschte Logo in Ihrer Bibliothek nicht angezeigt wird, stellen Sie sicher, dass 24 Stunden verstrichen sind.
 
 ## <a name="create-a-logo-using-logo-builder"></a>Erstellen eines Logos mit Logo Builder
 
 Ihr Logo Builder-Profil enthält Informationen, die Logo Builder über Ihre Organisation speichert, und dient nur zu Ihren Informationen.
 
-Wenn Sie verschiedene Logos für verschiedene Geschäftsstandorte erstellt haben, können Sie mithilfe des MPNID-Selektors auswählen, welchen Geschäftsstandort Sie anzeigen/erstellen möchten.
+Wenn Sie verschiedene Logos für verschiedene Geschäftsstandorte erstellt haben, können Sie die MPNID-Auswahl verwenden, um anzugeben, für welchen Geschäftsstandort Sie ein Logo anzeigen und/oder erstellen möchten.
 
-Zuvor erstellte und gespeicherte Logos sind in Ihrer zuletzt **gespeicherten Bibliothek** verfügbar.
+Zuvor erstellte und gespeicherte Logos sind in Ihrer **Zuletzt gespeicherten** Bibliothek verfügbar.
 
-Wenn Sie zuvor Logos erstellt haben, wählen Sie **Alle anzeigen aus,** um Ihre gesamte Bibliothek zu sehen.
+Wenn Sie zuvor Logos erstellt haben, wählen Sie **Alle anzeigen** aus, um Ihre gesamte Bibliothek anzuzeigen.
 
-1. Melden Sie sich beim [Partner Center-Dashboard mit](https://partner.microsoft.com/dashboard) Ihrem Arbeitskonto an.
+1. Melden Sie sich mit Ihrem Arbeitskonto beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) an.
+1. Wählen Sie im Menü Partner Center unter **Vorteile** die Option **Logo-Generator** aus.
 
-1. Wählen Sie Partner Center menü logo **builder (Logo-Generator)** unter **Vorteile aus.**
- 
-   :::image type="content" source="images/logo-one.png" alt-text="Screenshot des Menüs, das den Logo-Generator zeigt.":::
+   :::image type="content" source="images/logo-one.png" alt-text="Bildschirmseite des Menüs mit Logo-Generator.":::
+1. Wählen Sie unter **Logo erstellen** im Feld **Logos** das Pluszeichen aus.
 
-3. Wählen Sie das Pluszeichen im Feld **Logo erstellen aus,** um ein neues Logo zu erstellen.
+   :::image type="content" source="images/logo-two.png" alt-text="Bildschirmseite zum Erstellen eines neuen Logos.":::
+1. Wählen **Sie** im Dropdownmenü Sprache und Vorlage auswählen die Sprache aus, die Sie verwenden möchten. Verfügbare Vorlagen werden unterhalb des Dropdownmenüs angezeigt.
+1. Wählen  Sie Für Vorlage erstellen aus, die Sie verwenden möchten. Die Vorlage basiert auf dem Logotyp, den Sie erstellen, z. B. einem Logo für einen MPN-Partner mit einer Gold-Kompetenz.
+1. Verwenden Sie dann die folgenden Schritte, um Ihr Logo anzupassen:
+    1. Wählen Sie unter **Verfügbare Kompetenzen** die Kompetenzen für das Logo aus. Wenn Sie Werte auswählen, können Sie die Symbole nach oben und unten neben den Werten verwenden, um die Reihenfolge zu ändern, in der die Kompetenzen oder Programme angezeigt werden.
+    1. Geben Sie unter **Logoname** einen Namen für Ihr Logo ein.
+    1. Wenn Sie das Anpassen Ihres Logos abgeschlossen haben, wählen **Sie Speichern** oder **speichern aus, & herunterladen.**
 
-   :::image type="content" source="images/logo-two.png" alt-text="Screencap zum Erstellen eines neuen Logos.":::
+## <a name="create-a-certified-letter-using-logo-builder"></a>Erstellen eines zertifizierten Buchstabens mit Logo Builder
 
-4. Anschließend haben Sie die Möglichkeit, Ihre Sprache und die Vorlage auszuwählen, die Sie verwenden möchten. Die Vorlage basiert auf dem Logotyp, den Sie erstellen, z. B. ein Logo für einen MPN-Partner mit einer Gold-Kompetenz.
+1. Melden Sie sich mit Ihrem Arbeitskonto beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) an.
+1. Wählen Sie im Partner Center unter **Vorteile die Option** Logo Builder **(Logo-Generator) aus.**
+1. Wählen **Sie unter Logo erstellen** im Feld **Buchstaben** das Pluszeichen aus.
+1. Wählen Sie **im Dropdownmenü Sprache** und Vorlage auswählen die Sprache aus, die Sie verwenden möchten. Verfügbare Vorlagen werden unterhalb des Dropdownmenüs angezeigt.
+1. Wählen **Sie Erstellen** für die Vorlage aus, die Sie verwenden möchten.
+1. Führen Sie dann die folgenden Schritte aus, um Ihren Buchstaben anzupassen:
+    1. Wählen **Sie unter** Option aus, ob ihre Partnerunternehmensstandorte auf dem Buchstaben angezeigt werden sollen.
+    1. Geben **Sie unter Kundendetails** alle Kundendetails ein, die in der Kopfzeile des Buchstabens angezeigt werden sollen. Die Kundendetails werden in der Vorlage gerendert. Kundendetails sind nicht für alle Buchstaben verfügbar.
+    1. Wählen **Sie unter Verfügbare Programme** aus, welche Kompetenzen oder Programme auf dem Logo angezeigt werden sollen. Wenn Sie Werte auswählen, können Sie die Symbole nach oben und unten neben den Werten verwenden, um die Reihenfolge zu ändern, in der die Kompetenzen oder Programme angezeigt werden sollen.
+    1. Geben **Sie unter Letter name**(Buchstabename) einen Namen für Ihren Buchstaben ein.
+    1. Wenn Sie mit dem Anpassen Ihres Buchstabens fertig sind, wählen **Sie** Speichern oder Speichern aus, um **& herunterladen.**
 
-Sie können auch zertifizierte Buchstaben und Preislogos erstellen.
+## <a name="create-an-award-logo-using-logo-builder"></a>Erstellen eines Award-Logos mit logo builder
 
->[!NOTE]
->Es dauert 24 Stunden, bis eine neue Kompetenz, ein Preis oder eine andere Ehrung in Ihrem Mitgliedschaftskonto angezeigt wird. Wenn das gewünschte Logo in Ihrer Bibliothek nicht angezeigt wird, stellen Sie sicher, dass 24 Stunden verstrichen sind.
+1. Melden Sie sich mit Ihrem [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) beim Dashboard an.
+1. Wählen Sie im Partner Center unter **Vorteile die Option** Logo Builder **(Logo-Generator) aus.**
+1. Wählen **Sie unter Logo erstellen** im Feld **Preise** das Pluszeichen aus.
+1. Wählen Sie **im Dropdownmenü select award year & template** (Vorlage auswählen) das Preisjahr aus. Verfügbare Vorlagen werden unterhalb des Dropdownmenüs angezeigt.
+1. Wählen  Sie erstellen für die Vorlage aus, die Sie verwenden möchten.
+1. Verwenden Sie dann die folgenden Schritte, um Ihr Preislogo anzupassen:
+    1. Wählen Sie **unter Available award (Verfügbare Preise)** den Preis aus, den Sie auf dem Logo erhalten möchten.
+    1. Geben Sie unter **Award-Name** einen Namen für Ihr Logo ein.
+    1. Wenn Sie mit dem Anpassen Ihres Award-Logos fertig sind, wählen **Sie Speichern** oder **speichern aus, & herunterladen.**
 
 ## <a name="next-steps"></a>Nächste Schritte
 

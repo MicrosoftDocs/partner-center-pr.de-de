@@ -1,0 +1,58 @@
+---
+title: Vorteil eines Prepaidtarifs für den Azure-Verbrauch – Azure Marketplace
+description: Erfahren Sie mehr über Microsoft Azure Verbrauchsverpflichtung (MACC), wie Sie ermitteln können, ob Ihre Organisation Angebote in Azure-Portal azure-vorteilsfähig finden kann.
+ms.prod: marketplace-customer
+ms.topic: article
+author: mingshen
+ms.author: mingshen
+ms.date: 6/02/2021
+ms.openlocfilehash: ea6683c3033b25110784896eea0ac85083b8ed9e
+ms.sourcegitcommit: 09bb02ec24d5dfc873e1528c1994a442c3fd53a4
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "111390888"
+---
+# <a name="azure-consumption-commitment-benefit"></a><span data-ttu-id="0baef-103">Vorteil eines Prepaidtarifs für den Azure-Verbrauch</span><span class="sxs-lookup"><span data-stu-id="0baef-103">Azure consumption commitment benefit</span></span>
+
+<span data-ttu-id="0baef-104">Wenn für Ihr Unternehmen eine der folgenden Vereinbarungen getroffen wurde, wird der Microsoft Azure Consumption Commitment (MACC)-Vorteil Ihres Unternehmens durch eine ausgewählte Reihe von Angeboten für den kommerziellen Microsoft-Marketplace unterstützt:</span><span class="sxs-lookup"><span data-stu-id="0baef-104">A select set of Microsoft commercial marketplace offers will contribute towards your organization’s Microsoft Azure consumption commitment if your organization has one of these agreements:</span></span>
+
+- <span data-ttu-id="0baef-105">Microsoft Azure Consumption Commitment (MACC)</span><span class="sxs-lookup"><span data-stu-id="0baef-105">Microsoft Azure consumption commitment (MACC)</span></span>
+- <span data-ttu-id="0baef-106">Azure Commit to Consume (CtC)</span><span class="sxs-lookup"><span data-stu-id="0baef-106">Azure commit to consume (CtC)</span></span>
+
+<span data-ttu-id="0baef-107">Wir überprüfen alle Angebote im Rahmen dieses Programms, um sicherzustellen, dass Sie hochwertige Lösungen erhalten.</span><span class="sxs-lookup"><span data-stu-id="0baef-107">We validate all offers that participate in this program to ensure you receive high-quality solutions.</span></span>
+
+<span data-ttu-id="0baef-108">Um den Vorteil zu nutzen, erwerben Sie im Azure Marketplace unter Verwendung eines Abonnements, das mit Ihrer Azure-Vereinbarung verknüpft ist, einfach ein berechtigendes Angebot.</span><span class="sxs-lookup"><span data-stu-id="0baef-108">To take advantage of this benefit, simply purchase a qualifying offer on Azure Marketplace using a subscription that’s related to your Azure agreement.</span></span> <span data-ttu-id="0baef-109">Dieser Vorteil gilt nicht in Verbindung mit der Azure-Vorauszahlung (zuvor als „Mindestverbrauch“ bezeichnet).</span><span class="sxs-lookup"><span data-stu-id="0baef-109">Azure Prepayment (previously called monetary commitment) are not eligible for this benefit.</span></span>
+
+> [!IMPORTANT]
+> <span data-ttu-id="0baef-110">Außerdem können CtC-Vereinbarungen ausgeschlossen sein, die vor diesem Marketplace-Vorteilsprogramm abgeschlossen wurden.</span><span class="sxs-lookup"><span data-stu-id="0baef-110">Exclusions may apply to CtC agreements signed prior to this marketplace benefit.</span></span> <span data-ttu-id="0baef-111">Wenn Sie Fragen zur Berechtigung haben, wenden Sie sich an Ihren Microsoft-Kundenbetreuer.</span><span class="sxs-lookup"><span data-stu-id="0baef-111">If you have questions about eligibility, contact your Microsoft account executive.</span></span>
+
+## <a name="determine-if-your-organization-has-an-azure-consumption-commitment-maccctc"></a><span data-ttu-id="0baef-112">Ermitteln, ob Ihre Organisation einen Azure Consumption Commitment (MACC/CtC)-Vorteil nutzt</span><span class="sxs-lookup"><span data-stu-id="0baef-112">Determine if your organization has an Azure consumption commitment (MACC/CtC)</span></span>
+
+<span data-ttu-id="0baef-113">Wenn Sie sich nicht sicher sind, ob Ihre Organisation einen entsprechenden Vertrag abgeschlossen hat, melden Sie sich beim Marketplace unter einem mit Ihrer Organisation verbundenen Mandanten im [Azure-Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) an.</span><span class="sxs-lookup"><span data-stu-id="0baef-113">If you are unsure if your organization has a qualifying agreement, sign in to the Marketplace experience within the [Azure portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) under a tenant associated with your organization.</span></span> <span data-ttu-id="0baef-114">Wenn Ihnen die Option **Nur für Azure-Vorteil berechtigt** zur Auswahl als Filteroption bereitsteht, verfügen Sie über einen berechtigenden Prepaidtarif für den Azure-Verbrauch.</span><span class="sxs-lookup"><span data-stu-id="0baef-114">If you see the option to select **Azure benefit eligible only** as a filter option, you have a qualifying Azure consumption commitment.</span></span> <span data-ttu-id="0baef-115">Qualifizierte Azure Marketplace-Käufe tragen zum Azure-Vorteil für Ihre Organisation bei, wenn der Prepaidtarif direkt über den Azure Marketplace erworben wird.</span><span class="sxs-lookup"><span data-stu-id="0baef-115">Qualifying Azure Marketplace purchases will contribute towards your organization’s Azure consumption commitment if purchased directly through the Azure Marketplace.</span></span>
+
+<span data-ttu-id="0baef-116">[![Menüoption „Für Azure-Vorteil berechtigt“.](media/azure-benefit/azure-benefit-eligible.png)](media/azure-benefit/azure-benefit-eligible.png#lightbox)</span><span class="sxs-lookup"><span data-stu-id="0baef-116">[![Azure benefit eligible menu option.](media/azure-benefit/azure-benefit-eligible.png)](media/azure-benefit/azure-benefit-eligible.png#lightbox)</span></span>
+
+## <a name="determine-which-offers-are-eligible-for-azure-consumption-commitments-maccctc"></a><span data-ttu-id="0baef-117">Bestimmen, welche Angebote für den Azure Consumption Commitment (MACC/CtC)-Vorteil berechtigt sind</span><span class="sxs-lookup"><span data-stu-id="0baef-117">Determine which offers are eligible for Azure consumption commitments (MACC/CtC)</span></span>
+
+1. <span data-ttu-id="0baef-118">Melden Sie sich beim Marketplace unter einem mit Ihrer Organisation verbundenen Mandanten im [Azure-Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) an.</span><span class="sxs-lookup"><span data-stu-id="0baef-118">Sign in to the Marketplace experience within the [Azure portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) under a tenant associated with your organization.</span></span>
+2. <span data-ttu-id="0baef-119">Wenden Sie den Filter **Für Azure-Vorteil berechtigt** (Abbildung oben) an, um Angebote zu entdecken, die zum Azure Consumption Commitment-Vorteil Ihrer Organisation beitragen können.</span><span class="sxs-lookup"><span data-stu-id="0baef-119">Apply the **Azure benefit eligible** filter (image above) to discover offers that are eligible to contribute towards your organization’s Azure consumption commitment.</span></span>
+
+   > [!NOTE]
+   > <span data-ttu-id="0baef-120">Wenn Sie nicht über diesen Filter verfügen, ist Ihre Organisation nicht berechtigt.</span><span class="sxs-lookup"><span data-stu-id="0baef-120">If you do not have this filter, your organization does not have a qualifying commitment.</span></span> <span data-ttu-id="0baef-121">Wenden Sie sich an Ihren Microsoft-Kundenbetreuer, wenn Sie der Meinung sind, dass hier ein Fehler vorliegt.</span><span class="sxs-lookup"><span data-stu-id="0baef-121">Please contact your Microsoft account executive if you believe this is incorrect.</span></span>
+ 
+3. <span data-ttu-id="0baef-122">Angebote erhalten ein Badge **Für Azure-Vorteil berechtigt**, um zusätzlich darauf hinzuweisen, dass die mit diesem Angebot verbundenen Softwareprodukte/IP-Kosten zusätzlich zu den Azure-Dienste, die Ihrer Organisation in Rechnung gestellt werden, zum Azure Consumption Commitment-Vorteil Ihrer Organisation beitragen.</span><span class="sxs-lookup"><span data-stu-id="0baef-122">Offers will be badged with **Azure benefit eligible** to further indicate that the software/IP costs associated with this offer will contribute towards your organization’s Azure consumption commitment on top of any Azure services billed to your organization.</span></span>
+
+    :::image type="content" source="media/azure-benefit/azure-benefit-eligible-badge.png" alt-text="Badge „Für Azure-Vorteil berechtigt“.":::
+
+   > [!NOTE]
+   > <span data-ttu-id="0baef-124">Microsoft Azure-Dienste, die Ihrer Organisation über eine Azure Marketplace-Bereitstellung in Rechnung gestellt werden, werden grundsätzlich auf den Prepaidtarif Ihrer Organisation angerechnet.</span><span class="sxs-lookup"><span data-stu-id="0baef-124">Microsoft Azure services billed to your organization through an Azure Marketplace deployment will inherently contribute towards your organization’s commitment.</span></span> <span data-ttu-id="0baef-125">Der zusätzliche Vorteil von „Für Azure-Vorteil berechtigt“-Angeboten besteht darin, dass Softwareprodukte/IP-Kosten, die vom Drittanbieter weitergegeben werden, ebenfalls vollständig über Ihre Azure Marketplace-Rechnung abgerechnet werden.</span><span class="sxs-lookup"><span data-stu-id="0baef-125">The added benefit to “Azure benefit eligible” offers is that software/IP costs passed through by the 3rd-party vendor will also contribute at 100% of your Azure Marketplace invoice.</span></span>
+
+4. <span data-ttu-id="0baef-126">Kaufen/erstellen Sie das Angebot direkt über den Azure Marketplace.</span><span class="sxs-lookup"><span data-stu-id="0baef-126">Purchase/create the offer directly through the Azure Marketplace.</span></span> <span data-ttu-id="0baef-127">Microsoft unterstützt zu 100 % Käufe im Rahmen eines qualifizierten Angebots für den Azure Consumption Commitment-Vorteil Ihrer Organisation in jedem Rechnungszeitraum, einschließlich der Softwareprodukte/IP-Kosten.</span><span class="sxs-lookup"><span data-stu-id="0baef-127">Microsoft will contribute 100% of qualifying offer purchases towards your organization’s Azure consumption commitment at each invoice period, including software/IP costs.</span></span>
+
+> [!IMPORTANT]
+> <span data-ttu-id="0baef-128">Die Angebote müssen direkt über den Azure Marketplace mit einer Registrierung in Bezug auf den Azure Consumption Commitment-Vorteil Ihrer Organisation erworben werden, damit der Kauf zu Ihrem Prepaidtarif beiträgt.</span><span class="sxs-lookup"><span data-stu-id="0baef-128">Offers must be purchased directly via the Azure Marketplace with an enrollment related to your organization’s Azure consumption commitment for the purchase to contribute towards your commitment.</span></span> <span data-ttu-id="0baef-129">Angebote, die über Cloudlösungsanbieter (CSP), einen anderen Handelspartnerkanal oder außerhalb des Marketplace erworben wurden, werden nicht über den Prepaidtarif abgerechnet.</span><span class="sxs-lookup"><span data-stu-id="0baef-129">Offers purchased through Cloud Solution Provider (CSP), any other reseller channel, or outside of marketplace do not contribute towards your commitment.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="0baef-130">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="0baef-130">Next steps</span></span>
+
+- [<span data-ttu-id="0baef-131">Abrechnung und Fakturierung</span><span class="sxs-lookup"><span data-stu-id="0baef-131">Billing and invoicing</span></span>](billing-invoicing.md)

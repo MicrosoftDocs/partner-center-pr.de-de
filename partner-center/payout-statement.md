@@ -1,31 +1,31 @@
 ---
 title: Auszahlungsauszüge
-description: Erfahren Sie mehr über Auszahlungsauszüge und -zusammenfassungen sowie über das Anzeigen und Exportieren Ihrer Zahlungsdaten aus Microsoft Partner Center.
+description: Erfahren Sie mehr über Auszahlungen und Zusammenfassungen sowie darüber, wie Sie Ihre Zahlungsdaten aus Microsoft Partner Center anzeigen und exportieren.
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: 4e9ab721fe356dbcdff7316a5ed5b52c81f2d4eb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: dc0c720544f4a8a3c95e5b91ec656e65dbce7c80
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152595"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276109"
 ---
 # <a name="payout-statements"></a>Auszahlungsauszüge
 
 **Geeignete Rollen:** Kontoadministrator-| Globaler Administrator
 
-Der **Auszahlungsauszug** bietet eine Übersicht über Ihre Auszahlungen von Angeboten, die über den kommerziellen Marketplace verkauft werden. Sie zeigt den Transaktionsverlauf Ihrer Einnahmen an, schätzt ihre nächste Zahlung und zeigt Zahlungstrends an. Sie können auch den Transaktionsverlauf und Zahlungsanweisungen herunterladen. In diesem Artikel wird erläutert, wie Sie auf Ihren Auszahlungsauszug und die verschiedenen Auszahlungsseiten und Downloads zugreifen, auf die Sie in Partner Center zugreifen können.
+Der **Auszahlungsauszug** bietet eine Übersicht über Ihre Auszahlungen von Angeboten, die über den kommerziellen Marketplace verkauft werden. Sie zeigt den Transaktionsverlauf Ihrer Einnahmen an, schätzt Ihre nächste Zahlung und zeigt Zahlungstrends an. Sie können auch den Transaktionsverlauf und Zahlungsbedingungen herunterladen. In diesem Artikel wird erläutert, wie Sie auf Ihren Auszahlungsauszug sowie auf die verschiedenen Auszahlungsseiten und Downloads zugreifen können, auf die Partner Center.
 
 >[!NOTE]
->Es werden nur Daten für MPN-IDs und Programme angezeigt, denen Sie zugeordnet sind. Wenn Sie zusätzliche Daten anzeigen möchten, wenden Sie sich an Ihren Kontoadministrator, um Berechtigungen zu erhalten. 
+>Es werden nur Daten für MPN-IDs und Programme angezeigt, denen Sie zugeordnet sind. Wenn Sie zusätzliche Daten sehen möchten, wenden Sie sich an Ihren Kontoadministrator, um Berechtigungen zu erhalten. 
 
 ## <a name="roles-and-permissions"></a>Rollen und Berechtigungen
 
-Um auf einen Auszahlungsauszug zugreifen zu können, muss Ihnen die Rolle **Kontobesitzer** oder **Finanzmitwirkender** zugewiesen sein.
+Um auf einen Auszahlungsauszug zugreifen zu können, muss Ihnen die Rolle Kontobesitzer oder **Finanzieller** **Mitwirkender zugewiesen** sein.
 
 | Berichte/Seiten | Kontobesitzer | Manager | Entwickler | Mitwirkender im Geschäftsbereich | Mitwirkender im Finanzbereich | Vermarkter |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -40,27 +40,27 @@ Um auf einen Auszahlungsauszug zugreifen zu können, muss Ihnen die Rolle **Kont
 
 ## <a name="access-your-payout-statement"></a>Zugreifen auf Ihren Auszahlungsauszug
 
-Melden Sie sich bei [Partner Center](https://partner.microsoft.com/dashboard/home) an, und wählen Sie das Auszahlungssymbol in der oberen rechten Ecke des Bildschirms aus, um auf diese verschiedenen Zusammenfassungen zuzugreifen:
+Melden Sie sich bei [Partner Center,](https://partner.microsoft.com/dashboard/home) und wählen Sie das Auszahlungssymbol in der oberen rechten Ecke des Bildschirms aus, um auf diese verschiedenen Zusammenfassungen zu zugreifen:
 
 - Transaktionsverlauf
 - Zahlungen
 - Exportieren von Daten
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Veranschaulicht das Auszahlungssymbol in der oberen rechten Ecke des Partner Center-Portals":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Auszahlungssymbol rechts oben im Partner Center-Portal":::
 
-Sie können auch die [Partnerauszahlungs-API](https://apidocs.microsoft.com/services/partnerpayouts) verwenden, um direkt eine Verbindung mit Auszahlungstransaktionen und Zahlungsdaten herzustellen und diese abzurufen.
+Sie können auch die [Partnerauszahlungs-API verwenden,](https://apidocs.microsoft.com/services/partnerpayouts) um direkt eine Verbindung herzustellen und Auszahlungstransaktions- und Zahlungsdaten zu erhalten.
 
 
 ## <a name="transaction-history"></a>Transaktionsverlauf
 
-Auf der Seite **Transaktionsverlauf** werden die Zusammenfassung Ihrer Einnahmen, die geschätzte nächste Zahlung sowie Der Umsatz- und Zahlungstrend der letzten 36 Monate angezeigt. Sie können auch Transaktionsdetails aus diesem Abschnitt herunterladen.<br><br>In diesem Bericht werden alle auszahlungsfähigen Einnahmen angezeigt, einschließlich der noch nicht gesendeten Zahlungen. Einnahmen sind zur Auszahlung berechtigt, wenn ein ISV alle Bank- und Steuerinformationen in Partner Center abgeschlossen hat, >50 USD erworben hat, das ISV-Konto aktiv ist und dem Kunden (für EA-Transaktionen) oder die Zahlung (für Nicht-EA-Transaktionen) in Rechnung gestellt wurde.
+Auf **der Seite Transaktionsverlauf** werden die Zusammenfassung Ihrer Einnahmen, die geschätzte nächste Zahlung sowie Ihre Einnahmen- und Zahlungstrends in den letzten 36 Monaten angezeigt. Sie können auch Transaktionsdetails aus diesem Abschnitt herunterladen.<br><br>In diesem Bericht werden alle auszahlungsfähigen Einnahmen einschließlich noch nicht gesendeter Zahlungen gezeigt. Einnahmen sind auszahlungsfähig, wenn ein ISV alle Bank- und Steuerinformationen in Partner Center abgeschlossen hat, >USD 50 verdient hat, das ISV-Konto aktiv ist und dem Kunden (für EA-Transaktionen) in Rechnung gestellt wurde oder die Zahlung empfangen wurde (bei Nicht-EA-Transaktionen).
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Transaktionsübersicht.":::
 
-- **In diesem Jahr gesendete Einnahmen:** Die Gesamteinnahmen und die Aufschlüsselung der Einnahmen, die bezahlt wurden und im nächsten Monat bezahlt werden.
+- **In diesem Jahr gesendete Einnahmen:** Gesamter Einnahmen und Aufschlüsselung der Einnahmen, die bezahlt wurden und im kommenden Monat bezahlt werden.
 - **Geschätzter Zahlungsmonat:** Die insgesamt in den kommenden Monaten erwarteten Einnahmen.
 - **Einnahmen- und Zahlungstrend:** Monatliche Einnahmen- und Zahlungsbeträge der letzten 36 Monate.
-- **Herunterladen:** Laden Sie Transaktionsdetails im CSV- oder TSV-Format herunter.
+- **Herunterladen:** Laden Sie Transaktionsdetails im .csv tsv-Format herunter.
 
 Verwenden Sie die Datumsbereichsauswahl in der oberen rechten Ecke der Seite, um die Ausgabe der Seite so zu filtern, dass die letzten 3, 6, 12 oder 36 Monate angezeigt werden. Oder wählen Sie einen benutzerdefinierten Datumsbereich von bis zu 36 Monaten aus. Der Standarddatumsbereich beträgt 12 Monate. Sie können auch nach Registrierungs-ID, Programm, Zahlungs-ID, Einnahmentyp, Hebel und Status filtern. Daten sind für das aktuelle Geschäftsjahr (1. Juli bis 30. Juni) und die beiden vorherigen Geschäftsjahre verfügbar.
 
@@ -79,25 +79,25 @@ In dieser Ansicht werden Einnahmendetails angezeigt, einschließlich des Ursprun
 - **Gesamtbetrag:** Der Nettogewinnbetrag. Im kommerziellen Marketplace bedeutet dies, dass die Standard-Marketplace-Gebühr abgezogen wurde.
 - **Status:** Verfügt über drei Optionen:
     - **Anstehend:** Die Einnahmen befinden sich in einem ausstehenden Kühlzeitraum.
-    - **Verarbeitet:** Einnahmen werden für die nächste Zahlung vorbereitet.
-    - **Gesendet:** Die Einnahmen wurden bezahlt.
-- **Geschätzter Zahlungsmonat:** Der Monat, in dem die Einnahmen voraussichtlich bezahlt werden. Weitere Informationen finden Sie im [nächsten Abschnitt.](#estimated-payment-month)
+    - **Verarbeitet:** Einnahmen werden auf die nächste Zahlung vorbereitet.
+    - **Gesendet:** Einnahmen wurden bezahlt.
+- **Geschätzter Zahlungsmonat:** Der Monat, in dem die Einnahmen voraussichtlich bezahlt werden. Weitere Informationen [finden Sie im](#estimated-payment-month) nächsten Abschnitt.
 
-Einnahmentransaktionen werden angezeigt, sobald die Transaktion die Auszahlungsberechtigung erfüllt. Informationen dazu, warum Sie möglicherweise fehlende oder unerwartete Einnahmen haben, finden Sie unter [Allgemeine Fragen zu Auszahlungen](payout-faq.md#why-are-my-earnings-missing)für den kommerziellen Marketplace.
+Einnahmentransaktionen werden angezeigt, sobald die Transaktion die Auszahlungsberechtigung erfüllt. Informationen zu fehlenden oder unerwarteten Einnahmen finden Sie unter Häufig gestellte Fragen zu Auszahlungen im [kommerziellen Marketplace.](payout-faq.md#why-are-my-earnings-missing)
 
 #### <a name="estimated-payment-month"></a>Geschätzter Zahlungsmonat
 
-Die Seite Transaktionsverlauf enthält jetzt eine Tabelle mit Ihren geschätzten Zahlungsbeträgen für die nächsten Monate. Sie können diese Informationen auch in den Exporten transaktionsverlauf und Zusammenfassungsbericht anzeigen und herunterladen. Diese Informationen erleichtern Abstimmungen und Zahlungsprognosen.
+Die Seite Transaktionsverlauf enthält jetzt eine Tabelle mit Ihren geschätzten Zahlungsbeträgen für die nächsten Monate. Sie können diese Informationen auch in den Exporten Transaktionsverlauf und Zusammenfassungsbericht anzeigen und herunterladen. Diese Informationen erleichtern Abstimmungen und Zahlungsprognosen.
 
-Der geschätzte Zahlungsmonat wird basierend auf Programmkonfigurationsregeln und Zeitplänen berechnet und im nächsten/bevorstehenden Zahlungszyklus verarbeitet.
+Der Geschätzte Zahlungsmonat wird basierend auf Programmkonfigurationsregeln und Zeitplänen berechnet und im nächsten/bevorstehenden Zahlungszyklus verarbeitet.
 
-Der geschätzte Zahlungsmonat ist derzeit für alle Einnahmenarten verfügbar, mit Ausnahme der Co-Op, die als **Nicht zutreffend** angezeigt wird. Für Einnahmen vor dem 1. Juli 2020 wird der geschätzte Zahlungsmonat als **Nicht verfügbar** angezeigt.
+Der geschätzte Zahlungsmonat ist derzeit für alle Einnahmentypen verfügbar, mit Ausnahme von Co-Op, die als Nicht zutreffend **angezeigt wird.** Für Einnahmen vor dem 1. Juli 2020 wird der Monat geschätzte Zahlung als **Nicht verfügbar angezeigt.**
 
 Die folgende Tabelle zeigt ein Beispiel für einen geschätzten Zahlungsmonat.
 
-| Month | Amount (Betrag) |
+| Month (Monat) | Amount (Betrag) |
 | ------ | :-----------: |
-|  Sep-2020 |  7.273,99 USD   |
+|  September 2020 |  7.273,99 USD   |
 |  Oktober 2020 | 8.692,30 USD  |
 |  Nov. 2020 | 107,89 USD  |
 
@@ -108,7 +108,7 @@ Der geschätzte Betrag kann aus verschiedenen Gründen vom tatsächlichen Betrag
 - Regeländerung: Eine Änderung der Regeln kann eine Neuberechnung des tatsächlich bezahlten Betrags widerspiegeln.
 - Bezahlbar: Wenn ein Zahlungsfehler auftritt, kann der tatsächliche Betrag unterschiedlich sein.
 
-Beachten Sie, dass Ihre Zahlung nur im voraussichtlichen Monat freigegeben wird, wenn die Schwellenwert- und Zahlungsberechtigungsregeln Ihres Programms erfüllt sind. Diese Regeln umfassen, sind aber nicht auf die folgende Liste beschränkt:
+Beachten Sie, dass Ihre Zahlung nur im voraussichtlichen Monat freigegeben wird, wenn der Schwellenwert ihres Programms und die Zahlungsberechtigungsregeln erfüllt sind. Diese Regeln umfassen, sind aber nicht auf die folgende Liste beschränkt:
 
 - Ihr Steuerprofil muss auf dem neuesten Stand sein.
 - Ihre Einnahmen müssen den in Ihrem Programmleitfaden definierten Mindestverdienungsschwellenwert erfüllen oder überschreiten.
@@ -125,7 +125,7 @@ Klicken Sie oben auf der Seite auf **Herunterladen,** um weitere Details zu eine
 >- **lastPaymentCurrency**  Die Währung, in der die letzte Zahlung empfangen wurde, für alle MPNs, auf die der derzeit angemeldete Partner Zugriff hat. Wenn keine Zahlung empfangen wird, ist die letzte Zahlungswährung US-Dollar.
 >- **earningAmountInLastPaymentCurrency**  Der Einnahmenbetrag in der Währung der letzten Zahlung.
 
-| Spaltenname | BESCHREIBUNG | Anwendbarkeit für Incentive-Programme/Marketplaces |
+| Spaltenname | Beschreibung | Anwendbarkeit für Incentive-Programme/Marketplaces |
 | --- | --- | --- |
 | agreementEndDate | Enddatum der Vereinbarung | Incentives – nur einige Programme |
 | agreementNumber | Vereinbarungsnummer | Incentives – nur einige Programme |
@@ -134,7 +134,7 @@ Klicken Sie oben auf der Seite auf **Herunterladen,** um weitere Details zu eine
 | claimId | Eindeutiger Bezeichner für den Anspruch | Incentives – nur einige Programme |
 | customerCountry | Land/Region des Kunden | marketplaces |
 | customerEmail |  |  |
-| customerName | Kann leer sein. | Nur Incentive-Programme (Ausnahme: OEM) und Marketplaces. Für CSP-Transaktionen wird in Marketplaces der Name des CSP angezeigt. |
+| customerName | Kann leer sein. | Nur Incentive-Programme (Ausnahme: OEM) und Marketplaces. Für CSP-Transaktionen werden marketplaces den Namen des CSP anzeigen. |
 | customerTenantId |  |  |
 | distributorId | Verteiler-ID | Incentives – nur einige Programme |
 | distributorName | Verteilername | Incentives – nur einige Programme |
@@ -151,26 +151,26 @@ Klicken Sie oben auf der Seite auf **Herunterladen,** um weitere Details zu eine
 | externalReferenceIdLabel | Beschriftung der eindeutigen ID | Direct Pay-Programme (Incentives und Marketplaces) |
 | instantRebateAmount |  |  |
 | invoiceDate |  |  |
-| InvoiceNumber | Rechnungsnummer (gilt nur für Unternehmen) | Incentives und Marketplaces – nur einige Programme |
+| InvoiceNumber | Rechnungsnummer (gilt nur für Unternehmen) | Incentives und Marketplaces– nur einige Programme |
 | lastPaymentCurrency | Währung der letzten Zahlung (leer, wenn noch keine Zahlungen geleistet wurden) |  |
 | lever | Geschäftsregel für die Einnahme | All |
 | LicensingProgramName | Name des Lizenzierungsprogramms |  |
 | LineItemId | Einzelne Position in der Rechnung eines Kunden |  |
 | localProviderSeller | Lokaler Anbieter/Seller of Record |  |
-| Fälligkeitsmonat | Der geschätzte Zahlungsmonat | Alles |
+| Fälligkeitsmonat | Der geschätzte Zahlungsmonat | Alle |
 | OrderId | Bezieht sich auf die Rechnung eines Kunden  | marketplaces |
 | parentProductId | Eindeutige ID des übergeordneten Produkts. Wenn kein übergeordnetes Produkt für die Transaktion vorhanden ist, entspricht die ID des übergeordneten Produkts der Produkt-ID. | marketplaces |
 | parentProductName | Name des übergeordneten Produkts. Wenn kein übergeordnetes Produkt für die Transaktion vorhanden ist, entspricht der Name des übergeordneten Produkts dem Produktnamen. | marketplaces |
 | participantID | Primäre Identität des Partners, der unter dem Programm die Einnahme erzielt | All |
-| participantIdType | Größtenteils Programm-ID für Incentive-Programme und Verkäufer-IF für Marketplaces | All |
+| participantIdType | Hauptsächlich Programm-ID für Incentive-Programme und Verkäufer-IF für Marketplaces | All |
 | participantName | Name des Partners, der die Einnahme erzielt | All |
 | partnerCountryCode | Standort/Land/Region des Partners, der die Einnahme erzielt | All |
-| partNumber | Ist immer leer | Einige Incentiveprogramme und Marketplaces |
-| paymentId | Eindeutiger Bezeichner zum Korrelieren aller Transaktionen im Transaktionsbericht mit einer bestimmten Zahlung im Zahlungsbericht | Alles |
+| partNumber | Ist immer leer | Einige Incentive-Programme und Marketplaces |
+| paymentId | Eindeutiger Bezeichner zum Korrelieren aller Transaktionen im Transaktionsbericht mit einer bestimmten Zahlung im Zahlungsbericht | Alle |
 | paymentStatus | Zahlungsstatus | All |
 | paymentStatusDescription | Benutzerfreundliche Beschreibung des Zahlungsstatus | All |
 | productId | Eindeutige Produkt-ID | marketplaces |
-| ProductName | Mit der Transaktion verknüpfter Produktname | Alles |
+| ProductName | Mit der Transaktion verknüpfter Produktname | Alle |
 | productType | Produkttyp, z. B. App, Add-On oder Spiel | marketplaces |
 | Programmcode | Dem Programmnamen zuzuordnende Zeichenfolge |  |
 | programName | Name des Incentive-/Store-Programms | All |
@@ -194,7 +194,7 @@ Klicken Sie oben auf der Seite auf **Herunterladen,** um weitere Details zu eine
 | taxRemitted | Betrag der abgeführten Steuern (Verkaufssteuer, Nutzungssteuer oder Mehrwertsteuer/Waren- und Dienstleistungssteuer) | marketplaces |
 | taxState | Bundesland/Kanton des Kunden |  |
 | taxzipcode | Postleitzahl des Kunden |  |
-| tpan | Gibt das Ad Network (Werbenetzwerk) des Drittanbieters an | Nur Marketplaces Ads |
+| tpan | Gibt das Ad Network (Werbenetzwerk) des Drittanbieters an | Nur Marketplace-Anzeigen |
 | transactionAmount | Transaktionsbetrag in der ursprünglichen Transaktionswährung, auf deren Basis die Einnahme generiert wird | All |
 | transactionAmountUSD | Transaktionsbetrag in US-Dollar | All |
 | transactionCountryCode | Code des Landes/der Region, in dem/der die Transaktion erfolgt ist |  |
@@ -211,20 +211,20 @@ Klicken Sie oben auf der Seite auf **Herunterladen,** um weitere Details zu eine
 
 In der folgenden Tabelle sind die Ursachencodes für Anpassungen und deren Beschreibungen aufgeführt.
 
-|**Grundcode**   |**Beschreibung**   |
+|**Ursachencode**   |**Beschreibung**   |
 |------------------|:-------------------------------------|
-| AR-Konformität | Anpassung, die die Einnahmen reduziert, wenn Microsoft-Rechnungen nicht vom Partner zeitsentspricht. |
-| Co-Op-Rollover | Anpassung, die Co-Op-Einnahmen auf einen anderen Zeitraum überträgt oder Co-Op-Einnahmen in Bereinigte umvertiert. |
-| Ops-Anpassung | Anpassung, die Microsoft-Systemberechnungsfehler korrigiert. |
+| AR-Konformität | Anpassung, die Einnahmen reduziert, wenn Microsoft-Rechnungen vom Partner nicht rechtzeitig bezahlt werden. |
+| Co-Op-Rollover | Anpassung, die Co-Op-Einnahmen in einen anderen Zeitraum überträgt oder Co-Op-Einnahmen in Einnahmen umwandelt. |
+| Ops-Anpassung | Anpassung zur Behebung von Microsoft-Systemberechnungsfehlern. |
 | Ops Adjustment Microsoft incorrect calc | Anpassung, die Fehlberechnungen korrigiert. |
 | Ops Adjustment Microsoft incorrect enrollment | Anpassung für registrierungsbezogene Fehlberechnungen. |
-| Partnerzuordnung (Abonnement) MCI/CSP | Anpassung, die die falsche Ausrichtung des Abonnements korrigiert. |
+| Partnerzuordnung (Abonnement) MCI/CSP | Anpassung, die eine fehlerhafte Abonnementausrichtung korrigiert. |
 | Richtlinienausnahme | Anpassung, die eine Programmregel überschreibt.  |
-| Einnahmen im vorherigen Zeitraum | Anpassung für Einnahmen außerhalb des aktuellen Einnahmenzeitraums. |
+| Einnahmen des vorherigen Zeitraums | Anpassung für Einnahmen außerhalb des aktuellen Einnahmenzeitraums. |
 
 ## <a name="payments"></a>Zahlungen
 
-Auf **der Seite** Zahlungen wird das Geld angezeigt, das Sie mit Microsoft verdient haben. Außerdem wird gezeigt, wann und wie viel Sie bezahlen.
+Auf der Seite **Zahlungen** wird das Geld angezeigt, das Sie mit Microsoft erworben haben. Außerdem wird angezeigt, wann und wie viel Sie bezahlen werden.
 
 >[!Note]
 > Qualifiziert für eine Auszahlung sind Beträge, die den [Zahlungsschwellenwert](payment-thresholds-methods-timeframes.md) von 50 US-Dollar erreichen. Weitere Informationen finden Sie in der [Microsoft-Herausgebervereinbarung.](/legal/marketplace/msft-publisher-agreement)
@@ -240,14 +240,14 @@ Auf **der Seite** Zahlungen wird das Geld angezeigt, das Sie mit Microsoft verdi
 
 In der Tabelle **Liste der Zahlungen** werden bezahlte und ausstehende Zahlungen angezeigt. Sie können Die Steuerinformationen zur Dienstgebühr im PDF-Format herunterladen und die Einnahmendetails für eine bestimmte Zahlung anzeigen.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Exportieren des Transaktionsverlaufs":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Exportieren sie den Transaktionsverlauf.":::
 
 - **Bezahlt:** Alle erfolgreich gesendeten Zahlungen. Wählen Sie im Dropdownmenü das Jahr aus, um nach den in diesem Jahr freigegebenen Zahlungen zu filtern.
 - **Ausstehend:** Bevorstehende Zahlungen.
 - **Dienstgebührensteuer (PDF-Formular):** Steht für die Zahlungen zur Verfügung, für die eine Dienstgebühr erhoben wird. Steuern von Dienstgebühren werden unter **Andere Steuern** angezeigt.
-- **Ansicht:** Leitet zum Transaktionsverlauf mit einer Liste der in der Zahlung enthaltenen Einnahmen um.
+- **Ansicht:** Umleitungen zum Transaktionsverlauf mit einer Liste der Einnahmen, die in der Zahlung enthalten sind.
 
-Informationen dazu, warum Sie möglicherweise fehlende oder unerwartete Einnahmen haben, finden Sie unter [Allgemeine Fragen zu Auszahlungen](payout-faq.md#why-are-my-earnings-missing)für den kommerziellen Marketplace.
+Informationen zu fehlenden oder unerwarteten Einnahmen finden Sie unter Häufig gestellte Fragen zu Auszahlungen im [kommerziellen Marketplace.](payout-faq.md#why-are-my-earnings-missing)
 
 ### <a name="payment-status"></a>Zahlungsstatus
 
@@ -255,8 +255,8 @@ In der folgenden Tabelle werden die verschiedenen Einnahmenstatus erläutert.
 
 | Einnahmenstatus | `Reason` | Partneraktion erforderlich? |
 | --- | --- | --- |
-| Nicht verarbeitet | Die Einnahme ist für eine Auszahlung qualifiziert. Er verbleibt in diesem Zustand für einen Kühlzeitraum, wie im Programmleitfaden für die Incentives-Programm definiert. | Nein |
-| Anstehend | Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird. | Nein |
+| Nicht verarbeitet | Die Einnahme ist für eine Auszahlung qualifiziert. Er bleibt für einen Kühlzeitraum in diesem Zustand, wie im Programmleitfaden für die Incentives-Programm. | Nein |
+| Anstehend | Vor der Verarbeitung der Zahlung generierter Zahlungsauftrag ausstehende interne Überprüfungen. | Nein |
 | Ausstehende Steuerrechnung | Ihre Steuerrechnung ist unvollständig oder ungültig. | Sie müssen Ihre Steuerrechnung aktualisieren, bevor Sie bezahlt werden können. |
 | Bei Überprüfung abgelehnt | Die Zahlung wurde während der Überprüfung abgelehnt. | Wenden Sie sich an den Microsoft-Support, um weitere Informationen zu erhalten. |
 | Fehler | Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen. | Wenden Sie sich an den Microsoft-Support, um Weitere Informationen zu erhalten. |
@@ -283,7 +283,7 @@ In der folgenden Tabelle werden die verschiedenen Einnahmenstatus erläutert.
 | earned | Einnahmebetrag in der Auszahlungswährung für diese Programm-/Teilnehmer-ID |
 | earnedUSD | Einnahmebetrag für die Programm-/Teilnehmer-ID in US-Dollar |
 | withheldTax | Einbehaltener Steuerbetrag in der Auszahlungswährung für die Programm-/Teilnehmer-ID |
-| salesTax | Total amount of sales tax in the Pay To currency for the program/participantID (Total amount of sales tax in the Pay To currency for the program/participantID (gilt nur für Incentives-Programme) |
+| salesTax | Gesamtmenge der Verkaufssteuer in der Währung "An zahlen" für die Programm-/Teilnehmer-ID (gilt nur für Incentives-Programme) |
 | serviceFeeTax | Gesamtbetrag der Steuer auf Servicegebühren in der Auszahlungswährung für die Programm-/Teilnehmer-ID (gilt nur für Store-Programme und Azure Marketplace) |
 | totalPayment | Gesamtzahlung in der lokalen Währung ohne einbehaltene Steuern und einschließlich Verkaufssteuer (falls zutreffend) für die Programm-/Teilnehmer-ID |
 | currencyCode | Code der Auszahlungswährung |
@@ -300,31 +300,31 @@ Die **Seite Daten** exportieren wird nicht allein aktualisiert. Möglicherweise 
 
 Ihr Filter kann zu einem Fehler **Keine Daten verfügbar** führen. Dies kann passieren, wenn Sie den ausgewählten Standardzeitraum bei drei Monaten be lassen und dann eine Zahlungs-ID aus einer Einnahmen ausgewählt haben, die außerhalb dieses Zeitraums liegt. Erweitern Sie in diesem Fall Ihren Zeitraum, und versuchen Sie es erneut.
 
-Hier sehen Sie einen Beispielexport für Zahlungen:
+Hier sehen Sie ein Beispiel für einen Zahlungsexport:
 
-:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Exportieren des Zahlungsberichts.":::
+:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Bericht zum Exportieren von Zahlungen.":::
 
 ### <a name="historical-statements"></a>Historische Auszüge
 
-Die Datenzusammenfassung **Exportieren** bietet auch Zugriff auf Verlaufsanweisungen.
+Die **Zusammenfassung Export data** (Daten exportieren) bietet auch Zugriff auf verlaufsorientierte Anweisungen.
 
 > [!NOTE]
-> Eine Verlaufs-Anweisung ist eine Momentaufnahme und wird nicht aktualisiert. Wenden Sie sich an den [Support,](https://partner.microsoft.com/support/v2/?stage=1) und fordern Sie bei Bedarf die neuesten Daten an.
+> Eine Verlaufs-Anweisung ist eine Momentaufnahme und wird nicht aktualisiert. Wenden Sie sich [an den Support,](https://partner.microsoft.com/support/v2/?stage=1) und fordern Sie bei Bedarf die neuesten Daten an.
 
-:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Exportieren sie Verlaufsanweisungen.":::
+:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Exportieren von Verlaufs-Anweisungen.":::
 
 - Der Transaktionsverlauf vor dem 1. Juli 2019 wird separat behandelt und verwendet andere Felder aus späteren Verlaufsberichten.
-- Der Legacytransaktionsverlauf verfügt über eine Spalte namens "Reserved", die der Spalte "Einnahmen" im modernen Verlauf entspricht, mit der Ausnahme, dass alle Einnahmen mit dem Status "Zahlung gesendet" ausgeschlossen werden.
+- Der Legacytransaktionsverlauf enthält eine Spalte namens "Reserved", die der Spalte "Einnahmen" im modernen Verlauf entspricht, mit der Ausnahme, dass alle Einnahmen mit dem Status "Payment Sent" (Gesendete Zahlung) ausgeschlossen sind.
 - Filter wie „3M“, „6M“ oder „12M“ gelten nicht für den Abschnitt Historische Auszüge.
 
-### <a name="historical-statement-downloads"></a>Downloads von Verlaufshinweisen
+### <a name="historical-statement-downloads"></a>Verlaufs-Anweisungsdownloads
 
 In der folgenden Tabelle wird jede Spalte in einer historischen Anweisung erläutert.
 
 | Feldname | BESCHREIBUNG |
 | --- | --- |
 | Umsatzquelle | Die Quelle Ihres Umsatzes basierend auf dem Ursprungsort der Transaktion, z. B. Microsoft Store, Windows Phone Store, Windows Store 8 oder Werbung |
-| Bestell-ID | Eindeutiger Bestellungsbezeichner. Mit dieser ID können Sie Kauftransaktionen mit den jeweiligen Nicht-Kauftransaktionen, z. B. Rückerstattungen oder Rückzahlungen, identifizieren. Beide weisen die gleiche Bestell-ID auf. Außerdem können Sie die Kauftransaktionen verknüpfen, wenn mehrere Zahlungsmethoden für einen einzelnen Kauf verwendet wurden, wenn es eine getrennte Gebühr gibt. |
+| Bestell-ID | Eindeutiger Bestellungsbezeichner. Mit dieser ID können Sie Kauftransaktionen mit den jeweiligen Nicht-Kauftransaktionen, z. B. Rückerstattungen oder Rückzahlungen, identifizieren. Beide weisen die gleiche Bestell-ID auf. Wenn für einen einzelnen Kauf mehrere Zahlungsmethoden verwendet wurden, können Sie außerdem die Kauftransaktionen verknüpfen, wenn eine Teilungsgebühr gilt. |
 | TransactionID | Eindeutiger Transaktionsbezeichner. |
 | Datum/Uhrzeit der Transaktion | Das Datum und die Uhrzeit, zu der die Transaktion stattfand (UTC). |
 | Übergeordnete Produkt-ID | Eindeutige ID des übergeordneten Produkts. Wenn kein übergeordnetes Produkt für die Transaktion vorhanden ist, entspricht die ID des übergeordneten Produkts der Produkt-ID. |

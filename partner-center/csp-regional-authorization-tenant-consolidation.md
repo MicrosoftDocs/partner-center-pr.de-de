@@ -10,18 +10,18 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d2168dcd60b8675a21960918dab49b778025fa51
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 84e5f7f2674e9b2f3c3c26ed2ea49f9bba0e96e0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147580"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276874"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Anweisungen zur Mandantenkonsolidierung für regionale CSP-Autorisierung
 
 **Gilt für**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-**Geeignete Rollen:** Globale Administratorrechte | Administrator-Agent
+**Geeignete Rollen**: Globaler Administrator | Administrator-Agent
 
 \[Einige Informationen beziehen sich auf Vorabversionen, die vor der kommerziellen Freigabe grundlegend geändert werden können. Microsoft übernimmt keine Garantie, weder ausdrücklich noch stillschweigend, für die hier bereitgestellten Informationen.\]
 
@@ -54,7 +54,7 @@ Die Kunden werden in der Kundenliste des Partners angezeigt, nachdem sie die Ver
 
 1. Nachdem der Kunde die Vereinbarung unterzeichnet hat, können Sie die Abonnements unter dem zentralisierten Partnermandanten erneut erstellen.
 
-2. Wählen **Partner Center** die Option **Kunden aus.**
+2. Wählen **Partner Center** aus, und wählen **Sie Kunden aus.**
 
 3. Öffnen Sie den Unternehmensnamen für den Kunden, den Sie migrieren möchten.
 
@@ -62,7 +62,7 @@ Die Kunden werden in der Kundenliste des Partners angezeigt, nachdem sie die Ver
 
 5. Fügen Sie die richtigen Abonnements und Lizenzanzahlen aus dem Katalog hinzu. Gleichen Sie die Angaben mit den Informationen der Partnerkonten vom Typ **Transitioning From** ab.
 
-   :::image type="content" source="images/regionalcustomer2.png" alt-text="Kundenliste":::
+   :::image type="content" source="images/regionalcustomer2.png" alt-text="Kundenliste.":::
 
 6. Wählen Sie **Senden aus.**
 
@@ -73,7 +73,7 @@ Die Kunden werden in der Kundenliste des Partners angezeigt, nachdem sie die Ver
 Bevor Sie mit dem nächsten Abschnitt fortfahren, stellen Sie sicher, dass alle Kundenabonnements unter den Partnerkonten vom Typ **Transitioning From** unter dem Partnerkonto vom Typ **Transitioning To** erneut bereitgestellt wurden.
 
 > [!NOTE]
-> Partner müssen Abonnements für das Konto "Übergang vom Partner-Mandanten" in Partner Center an dem Tag  aussetzen, an dem diese Abonnements über das Konto "Übergang zum Partner-Mandanten" in der Partner Center eingerichtet werden, um sicherzustellen, dass keine doppelte Abrechnung erfolgt.  Supportanfragen für Guthaben werden aufgrund von Überschneidungen bei der Abrechnung verweigert, die auftreten, wenn die **Umstellung von** Abonnements nicht ordnungsgemäß deaktiviert wird.
+> Partner müssen Abonnements für das Konto "Übergang vom Partner-Mandanten" in Partner Center an dem Tag  aussetzen, an dem diese Abonnements über das Konto "Übergang zum Partner-Mandanten" in der Partner Center eingerichtet werden, um sicherzustellen, dass keine doppelte Abrechnung erfolgt.  Supportanfragen für Guthaben werden aufgrund von Überschneidungen bei der Abrechnung abgelehnt, die auftreten, wenn die Umstellung von **Abonnements nicht ordnungsgemäß deaktiviert** wird.
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Deaktivieren der Office 365-Abonnements unter dem Partnerkonto vom Typ „Transitioning From“
 
@@ -83,12 +83,12 @@ Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Tr
 
 2. Öffnen Sie den Kunden, für den Sie Abonnements deaktivieren möchten, und wählen Sie das erste zu deaktivierende Angebot aus.
 
-3. Legen Sie das Abonnement auf **angehalten fest,** und wählen Sie dann **übermitteln** aus.
+3. Legen Sie das Abonnement auf **angehalten fest,** und wählen Sie dann **Übermitteln aus.**
 
    >[!Note]
-   >Durch das Anhalten des Abonnements wird sichergestellt, dass keine doppelte Abrechnung erfolgt.
+   >Durch das Aussetzen des Abonnements wird sichergestellt, dass keine doppelte Abrechnung erfolgt.
 
-   Das Abonnement wird in der Abonnementliste **als angehalten** angezeigt.
+   Das Abonnement wird **in der Abonnementliste** als angehalten angezeigt.
 
 4. Wiederholen Sie diese Schritte für alle Abonnements des Kunden. Vergewissern Sie sich, dass für alle Abonnements **suspended** angezeigt wird.
 
@@ -96,17 +96,17 @@ Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Tr
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrieren von nutzungsbasierten Azure-Abonnements
 
-Im Gegensatz zu Office 365-CSP-Abonnements, Azure, müssen nutzungsbasierte CSP-Abonnements nicht manuell migriert werden. Microsoft Azure Support migriert die Azure-Abonnements und alle bereitgestellten Dienste oder Ressourcen von den Konten für den **Übergang von** CSP-Handelspartnern zum Konto für den **Übergang zum** CSP-Handelspartner. Während dieses Übergangs treten beim Kunden keine Dienstunterbrechungen auf.
+Im Gegensatz zu Office 365-CSP-Abonnements, Azure, müssen nutzungsbasierte CSP-Abonnements nicht manuell migriert werden. Microsoft Azure-Support migriert die Azure-Abonnements und alle bereitgestellten  Dienste oder Ressourcen von  den CSP-Vertriebspartnerkonten in das CSP-Handelspartnerkonto. Während dieses Übergangs treten beim Kunden keine Dienstunterbrechungen auf.
 
-1. Stellen Sie sicher, dass die Kundenkonten, für die Azure-Abonnements migriert werden, der Vereinbarung zugestimmt haben, dem neuen CSP-Konto zugeordnet **zu** werden.
+1. Stellen Sie sicher, dass die Kundenkonten, für die Azure-Abonnements  migriert werden, die Vereinbarung akzeptiert haben, die dem neuen CSP-Konto für den Übergang zugeordnet werden soll.
 
-2. Sie benachrichtigen Microsoft darüber, welche Kundenkonten für die Migration bereit sind, und geben die Firmennamen dieses Kunden an.
+2. Sie benachrichtigen Microsoft darüber, welche Kundenkonten migriert werden können, und geben die Unternehmensnamen dieser Kunden an.
 
 3. Microsoft migriert die nutzungsbasierten Azure-Abonnements und benachrichtigt Sie, wenn die Migration abgeschlossen ist.
 
-4. Sie müssen sich vergewissern, dass das Azure-Abonnement unter dem Konto für den **Übergang vom** CSP-Handelspartner jetzt in Partner Center im Abschnitt "Kundenabonnements" als **angehalten** markiert ist.
+4. Sie müssen bestätigen, dass das Azure-Abonnement unter dem CSP-Handelspartnerkonto **"Übergang** vom CSP" jetzt im Abschnitt "Kundenabonnements" **in** der Partner Center als angehalten markiert ist.
 
-5. Vergewissern Sie sich, dass für das Azure-Abonnement unter dem Konto **"Übergang zum** CSP-Handelspartner" jetzt der Status **aktiv** in Partner Center im Abschnitt "Kundenabonnements" angezeigt wird.
+5. Vergewissern Sie sich, dass das Azure-Abonnement unter **dem** CSP-Vertriebspartnerkonto jetzt im Abschnitt Kundenabonnements den Status aktiv **in** Partner Center angezeigt wird.
 
    >[!Note]
    > Das Deaktivieren der Abonnements unter dem Kunden ändert nicht die Darstellung des Kunden in der Kundenliste. Zurzeit besteht keine Möglichkeit, Kunden aus der Liste zu entfernen. Partner sollten in Zukunft das erneute Hinzufügen von Abonnements zu diesen Kunden aus dem Konto vom Typ **Transitioning From** vermeiden.
@@ -115,7 +115,7 @@ Im Gegensatz zu Office 365-CSP-Abonnements, Azure, müssen nutzungsbasierte CSP-
 
 ### <a name="additional-information"></a>Zusätzliche Informationen
 
-- Das Deaktivieren des Abonnements aus dem **Konto "Übergang vom** CSP" wirkt sich nicht auf den Dienst des Endkunden aus, solange der Dienst vor dem Deaktivieren des Abonnements über das Konto **"Übergang** zum CSP" bereitgestellt wurde.
+- Das Deaktivieren des Abonnements aus dem CSP-Konto "Übergang vom" wirkt sich nicht auf  den Dienst des Endkunden aus, solange der Dienst aus dem CSP-Konto für den Übergang bereitgestellt wurde, bevor das Abonnement deaktiviert wurde. 
 
 - Abonnements können nicht vom Kunden verwendet werden und generieren keine Gebühren, wenn sie angehalten oder storniert werden.
 

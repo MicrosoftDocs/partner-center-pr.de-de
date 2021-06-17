@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 798fde02b87e8f8105dad6d00c32b050fb90097e
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818744"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277248"
 ---
 # <a name="view-your-incentives-program-details"></a>Anzeigen der Details ihres Incentives-Programms
 
@@ -23,7 +23,7 @@ ms.locfileid: "109818744"
 In diesem Artikel wird die **Übersichtsseite Meine Incentives** erläutert, auf der der Gesamtstatus Ihrer Incentiveprogramme sowie der Status der einzelnen Programme an jedem Standort angezeigt werden. Außerdem werden die verschiedenen Registrierungsstatus angezeigt.
 
 >[!NOTE]
->Weitere Informationen zu Incentives und Incentivefeatures in Partner Center finden Sie unter [Partnerinvestitionen und Incentives](https://partner.microsoft.com/membership/partner-incentives) (Anmeldung erforderlich).
+>Weitere Informationen zu Incentives und Incentivefunktionen in Partner Center finden Sie unter [Partnerinvestitionen und Incentives](https://partner.microsoft.com/membership/partner-incentives) (Anmeldung erforderlich).
 
 ## <a name="access-the-incentives-overview-page"></a>Zugreifen auf die Übersichtsseite für Incentives
 
@@ -34,7 +34,7 @@ In diesem Artikel wird die **Übersichtsseite Meine Incentives** erläutert, auf
    - Um nach Spalte zu sortieren, wählen Sie den Spaltennamen aus.
    - Um nach Programm zu gruppieren, wählen Sie die Registerkarte **Nach Programm** oberhalb der Tabelle aus.
    - Um nach Standort zu gruppieren, wählen Sie die Registerkarte **Nach Standort** oberhalb der Tabelle aus.
-   - Um weitere Details zu Registrierungen innerhalb einer bestimmten Gruppe anzuzeigen, wählen Sie das Chevronsymbol am Ende einer bestimmten Zeile aus. Dieses Chevron erweitert Ihre Ansicht.
+   - Um weitere Details zu Registrierungen innerhalb einer bestimmten Gruppe anzuzeigen, wählen Sie das Chevronsymbol am Ende einer bestimmten Zeile aus. Mit diesem Chevron wird Ihre Ansicht erweitert.
 1. Wenn weitere Aktionen erforderlich sind, um sich für ein Programm zu registrieren, werden diese Informationen in der Spalte **Status** angezeigt. Wählen Sie in diesem Fall das Chevron-Symbol aus, um mehr über die nächsten Schritte zu erfahren, die Sie durchführen müssen.
 
 ## <a name="enrollment-status"></a>Anmeldungsstatus
@@ -45,25 +45,25 @@ In der folgenden Tabelle werden die verschiedenen Registrierungszustände erläu
 |:------------------------------------|:------------------|
 | Erforderliche Aktion  | Der Partner hat eine Einladung zur Registrierung für ein Incentive-Programm angenommen, muss aber möglicherweise Bank- oder Steuerinformationen aktualisieren. Weitere Schritte oder Links zum Aktualisieren Ihrer Bank- oder Steuerinformationen in Partner Center finden Sie in der Spalte **Erforderliche** Aktionen. |
 | Nicht mehr unterstützt  | Das spezifische Incentive-Programm wird im Incentives-System nicht mehr angeboten. |
-| Enrolled (Registriert)  | Alle Steuer- und Bankinformationen wurden überprüft. Vom Partner ist keine weitere Registrierungsaktion erforderlich. |
-| Wird registriert  | Der Benutzer ist kein Incentiveadministrator, und die Registrierung befindet sich in den Registrierungszuständen Aktion **erforderlich** **oder Überprüfen.**|
-| Inaktiv/Nicht akzeptabel | Das Incentiveprogramm ist derzeit möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt die aktuelle Berechtigung für die Registrierung oder erneute Registrierung nicht. <br><br> Wenn der Status **Nicht wählbar** ist, erfüllt der Partner die aktuellen Berechtigungsanforderungen für das Programm nicht. Wenn Sie **unter** dem Registrierungsstatus den Link Berechtigungsanforderungen anzeigen auswählen, werden die Anforderungen für die Berechtigung und die erfüllten Anforderungen angezeigt. <br><br> Möglicherweise wird auch der **Status Inaktiv** für Registrierungen virtueller Organisationen (VORG) oder globaler Partnerkonto (Partner Global Account, PGA) angezeigt, die nicht mehr im Incentiveprogramm aktiv sind.  |
-| Eingeladen  | Eine neue Einladung zur Registrierung des Incentiveprogramms wurde an den Partner gesendet, aber der Partner hat den Registrierungsprozess noch nicht gestartet. In der angrenzenden **Spalte Actions required** (Aktionen erforderlich) werden die nächsten Schritte und alle zugehörigen Links angezeigt.  |
-| Überprüfen der Registrierung  | Der Partner hat bereits Bank- und Steuerinformationen für eine neue oder vorhandene Registrierung abgeschlossen oder aktualisiert und wartet darauf, dass Microsoft diese Informationen überprüft. Während des Überprüfungsprozesses kann **die Überprüfung der Registrierung** bis zu 48 Stunden lang angezeigt werden.  |
+| Registriert  | Alle Steuer- und Bankinformationen wurden überprüft. Für den Partner ist keine weitere Registrierungsaktion erforderlich. |
+| Wird registriert  | Der Benutzer ist kein Incentiveadministrator, und die Registrierung befindet sich im Status **Aktion erforderlich** oder Überprüfung **der Registrierung.**|
+| Inactive/Ineligible | Das Incentive-Programm ist derzeit möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt die aktuelle Berechtigung für die Registrierung oder erneute Registrierung nicht. <br><br> Wenn der Status **Ineligible** lautet, erfüllt der Partner nicht die aktuellen Berechtigungsanforderungen für das Programm. Wenn Sie unter dem Registrierungsstatus den Link **Berechtigungsanforderungen anzeigen** auswählen, werden die Anforderungen für die Berechtigung angezeigt, und welche dieser Anforderungen erfüllt wurden. <br><br> Möglicherweise wird auch ein **Inaktivitätsstatus** für Registrierungen virtueller Organisationen (VORG) oder globaler Partnerkonten (Partner Global Account, PGA) angezeigt, die nicht mehr im Incentive-Programm aktiv sind.  |
+| Eingeladen  | Eine neue Einladung zur Incentiveprogrammregistrierung wurde an den Partner gesendet, aber der Partner hat den Registrierungsprozess noch nicht gestartet. In der nebenstehenden Spalte **Aktionen erforderlich** werden die nächsten Schritte und alle zugehörigen Links angezeigt.  |
+| Überprüfen der Registrierung  | Der Partner hat bereits Bank- und Steuerinformationen für eine neue oder vorhandene Registrierung abgeschlossen oder aktualisiert und wartet darauf, dass Microsoft diese Informationen überprüft. Während des Überprüfungsprozesses kann die **Überprüfung der Registrierung** bis zu 48 Stunden lang angezeigt werden.  |
 
 ## <a name="see-your-payment-information"></a>Anzeigen Ihrer Zahlungsinformationen
 
-Wählen Sie das Auszahlungssymbol in der oberen rechten Ecke des Bildschirms aus, um auf diese verschiedenen Zusammenfassungen zu zugreifen:
+Wählen Sie das Auszahlungssymbol in der oberen rechten Ecke des Bildschirms aus, um auf diese verschiedenen Zusammenfassungen zuzugreifen:
 
 - Transaktionsverlauf
 - Zahlungen
 - Exportieren von Daten
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Veranschaulicht das Auszahlungssymbol in der oberen rechten Ecke des Partner Center Portal":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Auszahlungssymbol rechts oben im Partner Center-Portal":::
 
 Diese Informationen umfassen den Gesamtgewinn und die Gesamtzahlungen, seit Sie sich bei Incentive-Programmen angemeldet haben. Diese Seite enthält auch Einnahmen und Zahlungen nach Standort oder Programm sowie alle weiteren Aktionen, die Sie möglicherweise durchführen müssen, um sich an einem bestimmten Ort bei einem Programm anzumelden. 
 
-Sie können auch die [Partnerauszahlungs-API verwenden,](https://apidocs.microsoft.com/services/partnerpayouts) um direkt eine Verbindung herzustellen und Auszahlungstransaktions- und Zahlungsdaten zu erhalten. Weitere [Informationen finden Sie unter Auszahlungsauszahlungen.](payout-statement.md)
+Sie können auch die [Partnerauszahlungs-API](https://apidocs.microsoft.com/services/partnerpayouts) verwenden, um direkt eine Verbindung mit Auszahlungstransaktionen und Zahlungsdaten herzustellen und diese abzurufen. Weitere Informationen finden Sie unter [Auszahlungsanweisungen.](payout-statement.md)
 
 ## <a name="next-steps"></a>Nächste Schritte
 

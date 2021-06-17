@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151949"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277860"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Problembehandlung bei fehlenden Zahlungen, falschen Einnahmen und anderen Problemen
 
-**Geeignete Rollen:** Incentivesadministrator
+**Geeignete Rollen:** Incentives-Administrator
 
 Dieser Artikel hilft Ihnen bei der Behebung von Einnahmen- oder Zahlungsproblemen in Ihrem Incentives-Programm. Zu den behandelten Themen gehören die zeitliche Steuerung von Zahlungen, die Überprüfung Ihrer Einnahmenberechtigungen und die Wichtigkeit der ordnungsgemäßen Einrichtung Ihrer Auszahlungs- und Steuerprofile.
 
@@ -63,26 +63,26 @@ Fehlende oder falsche Zahlungen sind häufig auf eine der folgenden Ursachen zur
 
   **So zeigen Sie Ihre ausstehenden Aktionen an**
 
-  1. Melden Sie sich bei [Partner-Incentives an.](https://partner.microsoft.com/membership/partner-incentives)
-  2. Öffnen Sie die **Seite Transaktionsverlauf.** Überprüfen Sie die Felder auf dieser Seite auf ausstehende Aktionen, die abgeschlossen werden müssen, z. B. Ausstehendes Steuerprofil, Ausstehendes Zahlungsprofil **oder** **Ausstehende Steuerrechnungsübermittlung.**
+  1. Melden Sie sich bei [Partner-Incentives](https://partner.microsoft.com/membership/partner-incentives)an.
+  2. Öffnen Sie die Seite **Transaktionsverlauf.** Überprüfen Sie die Felder auf dieser Seite auf ausstehende Aktionen, die abgeschlossen werden müssen, z. B. **ausstehendes Steuerprofil,** **Ausstehendes Zahlungsprofil** oder **Ausstehende Steuerrechnungsübermittlung.**
 
-Wenn diese Aktionen nicht helfen und Ihre Zahlungen weiterhin fehlen oder falsch sind, wenden Sie sich an [den Support.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Wenn diese Aktionen nicht hilfreich sind und Ihre Zahlungen weiterhin fehlen oder falsch sind, wenden Sie sich an [den Support.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="how-can-i-reconcile-my-adjustments"></a>Wie kann ich meine Anpassungen abstimmen?
 
 Sie können Ihre Anpassungen ermitteln und abstimmen, indem Sie Ihre Einnahmen- und Transaktionsdetails herunterladen.
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
-2. Wählen Sie in der oberen Navigationsleiste das Geldsymbol und dann **Transaktionsverlauf aus.**
-3. Wenden Sie die entsprechenden Filter an. (Siehe wichtiger **Hinweis** unten.)
-4. Nachdem Sie Ihre Daten gefiltert haben, wählen Sie **Herunterladen starten** und dann Daten **exportieren aus.** Ihre Daten werden in einer CSV-Datei geöffnet.
-5. Navigieren Sie in der CSV-Datei zu Spalte P, **Einnahmentyp.**
-6. Filtern Sie diese Spalte **nach Anpassungs-/Bereinigung.** Sie können den Monat jeder Anpassung in Spalte S sehen.
+2. Wählen Sie in der oberen Navigationsleiste das Geldsymbol und dann **Transaktionsverlauf** aus.
+3. Wenden Sie die entsprechenden Filter an. (Siehe den **wichtigen** Hinweis weiter unten.)
+4. Nachdem Sie Ihre Daten gefiltert haben, wählen **Sie Download starten** und dann Daten **exportieren** aus. Ihre Daten werden in einer CSV-Datei geöffnet.
+5. Navigieren Sie in der CSV-Datei zu Spalte P, **Einnahmentyp**.
+6. Filtern Sie diese Spalte nach **Anpassungsabgleich.** Sie können den Monat jeder Anpassung in Spalte S anzeigen.
 
 >[!IMPORTANT]
->Anpassungen, die auf frühere Einnahmenzeiträume angewendet werden, sind in den Einnahmen für den Monat, in dem die Anpassung angewendet wurde, nicht sichtbar. Anpassungen spiegeln sich immer im Einnahmenbericht für den Monat wider, auf den die Anpassung angewendet wurde.
+>Anpassungen, die auf frühere Einnahmenzeiträume angewendet wurden, sind in den Einnahmen für den Monat, in dem die Anpassung angewendet wurde, nicht sichtbar. Anpassungen werden immer im Ergebnisbericht für den Monat berücksichtigt, auf den die Anpassung angewendet wurde.
 >
->Beispielsweise spiegelt eine Anpassung der Einnahmen aus Januar 2019, die im September 2019 verarbeitet wurde, nicht den Einnahmenbetrag für September 2019 wider. Wenn jedoch die Zahlung für September 2019 eingegangen ist, enthält sie die Anpassung für Januar 2019, die im September angewendet wurde. In diesem Szenario müssen Sie die Transaktionsdetails für Januar 2019 herunterladen, um die angewendete Anpassung anzuzeigen.
+>Eine Anpassung der Im September 2019 verarbeiteten Einnahmen vom Januar 2019 spiegelt sich beispielsweise nicht im Einnahmenbetrag für September 2019 wider. Wenn jedoch die Zahlung für September 2019 eingeht, enthält sie die Anpassung für Januar 2019, die im September angewendet wurde. In diesem Szenario müssen Sie die Transaktionsdetails für Januar 2019 herunterladen, um die angewendete Anpassung anzuzeigen.
 >
 >Beachten Sie dies, wenn Sie Ihre Datumsfilter festlegen. Wie bereits erwähnt, sind Anpassungen für vorherige Zeiträume nur in dem Monat sichtbar, in dem die Anpassung angewendet wurde. Überprüfen Sie, ob der ausgewählte Datumsbereich dem Monat der Anpassung entspricht, die Sie suchen möchten. Möglicherweise müssen Sie **Alle** löschen auswählen, um Ihre Filter zu entfernen, und dann neue Filter anwenden.
 
@@ -110,11 +110,11 @@ Fehlende oder falsche Einnahmen können durch eines der folgenden Probleme verur
 
 - **Unter Umständen haben Sie die Voraussetzungen nicht erfüllt.**  Überprüfen Sie, ob Sie die [Berechtigung](#my-payment-is-missing-or-incorrect) besitzen und die entsprechenden Umsatzerlösregeln für die gesuchte Incentive erfüllen.
 
-- **Unter Umständen liegt eine Abweichung vor.**  Wenn Sie sowohl die Berechtigungsanforderungen für [das Programm](incentives-determined-your-program-eligibility.md) als auch die Voraussetzungen für [die Einnahmenberechtigung](incentives-confirm-your-earnings-eligibility.md) erfüllen und Ihre Einnahmen weiterhin falsch erscheinen, helfen Ihnen die folgenden Informationen möglicherweise beim Abrufen Ihrer Daten.
+- **Unter Umständen liegt eine Abweichung vor.**  Wenn Sie [sowohl](incentives-determined-your-program-eligibility.md) die Berechtigungs- als auch die [Berechtigungsanforderungen](incentives-confirm-your-earnings-eligibility.md) für Einnahmen erfüllen und Ihre Einnahmen weiterhin falsch zu sein scheinen, helfen Ihnen möglicherweise die folgenden Informationen beim Abrufen Ihrer Daten.
 
 Einnahmen werden sowohl auf der Seite **Transaktionsverlauf** als auch auf der Seite **Zahlungen** angezeigt. Sie können auf beide Seiten zugreifen, indem Sie das **Auszahlungssymbol** auf der Navigationsleiste in Partner Center auswählen.
 
-:::image type="content" source="images/incentives/paymenticon.png" alt-text="Transaktionsinformationen":::
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Transaktionsinformationen.":::
 
 Monatliche Einnahmenbeträge in der Ansicht Transaktionsverlauf stimmen möglicherweise nicht mit dem Zahlungsbetrag für einen bestimmten Monat ab. Dies ist auf Neuberechnungen und Anpassungen früherer Einnahmenzeiten zurückzuführen, die auf zukünftige Zahlungen angewendet werden.
 
@@ -128,7 +128,7 @@ In dieser Ansicht werden Einnahmen- und Zahlungstrends nach Monat, Einnahmen nac
 
 ### <a name="payments"></a>Zahlungen
 
-In dieser Ansicht können Sie Zahlungen für alle Programme und MPN-IDs anzeigen. Daten sind nur für die Programme und MPN-IDs sichtbar, für die Sie ein Incentivebenutzer oder Administrator sind. In dieser Ansicht können Sie Überweisungen herunterladen oder Transaktionsdetails per Zahlung anzeigen.
+Mit dieser Ansicht können Sie Zahlungen für alle Programme und MPN-IDs anzeigen. Daten sind nur für die Programme und MPN-IDs sichtbar, für die Sie ein Incentivebenutzer oder Administrator sind. In dieser Ansicht können Sie Überweisungen herunterladen oder Transaktionsdetails nach Zahlung anzeigen.
 
 | Aufgabe | Dazugehörige Dokumentation |
 | ------ | :----------- | 
@@ -147,23 +147,23 @@ Wenn Sie Ihre Einnahmen immer noch nicht finden können oder der Meinung sind, d
 
 Führen Sie die folgenden Schritte aus, falls Ihre Einnahmen Abweichungen aufweisen:
 
-1. **Vergewissern Sie sich, dass Sie zum Erhalt von Einnahmen berechtigt sind.**  Einnahmen sind nur verfügbar, wenn Sie sowohl die [Programmberechtigung](incentives-determined-your-program-eligibility.md) als auch [die Einnahmenberechtigung](incentives-confirm-your-earnings-eligibility.md)erfüllen.
+1. **Vergewissern Sie sich, dass Sie zum Erhalt von Einnahmen berechtigt sind.**  Einnahmen sind nur verfügbar, wenn Sie sowohl die [Programmberechtigung als](incentives-determined-your-program-eligibility.md) auch die [Einnahmenberechtigung erfüllen.](incentives-confirm-your-earnings-eligibility.md)
 
 2. **Überprüfen Sie, ob Ihr Zahlungsprofil vollständig ist.**  Das Startdatum Ihrer Incentive-Einnahmen ist der erste Tag des Monats, in dem Sie alle Berechtigungsvoraussetzungen erfüllt haben, einschließlich Onboarding mit Auszahlungs- und Steuerdetails. In den Monaten vor der Vervollständigung der Angaben zu Auszahlung und Steuern stehen Einnahmen nicht zur Verfügung. Wenn Sie beispielsweise alle Anforderungen während des Monats April 2020 erfüllt haben, ist der 1. April 2020 das Startdatum für Ihre Einnahmen. 
 
 3. **Vergewissern Sie sich, dass Sie die Anforderungen erfüllt haben.**  Überprüfen Sie, ob Sie die [Berechtigungs-](#my-payment-is-missing-or-incorrect) und Umsatzregeln für Ihr Incentiveprogramm erfüllt haben.
 
-Wenn diese Aktionen nicht hilfreich sind und Ihre Einnahmen immer noch nicht abgestimmt sind, wenden Sie sich an [den Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+Wenn diese Aktionen nicht helfen und Ihre Einnahmen immer noch nicht abgestimmt sind, wenden Sie sich an [den Support.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="where-can-i-find-my-rates"></a>Wo finde ich meine Raten?
 
-1. Melden Sie sich bei [Partner-Incentives](https://partner.microsoft.com/membership/partner-incentives)an.
+1. Melden Sie sich bei [Partner-Incentives an.](https://partner.microsoft.com/membership/partner-incentives)
 
-2. Scrollen Sie nach unten, um auf die Dokumente für Ihr Programm zuzugreifen.
+2. Scrollen Sie nach unten, um auf die Dokumente für Ihr Programm zu zugreifen.
 
 3. Wählen Sie den Dokumentlink für das entsprechende Programm aus.
 
-4. Lesen Sie im Dokument den Abschnitt **Programmstruktur und Preise**.
+4. Im Dokument finden Sie weitere Informationen im Abschnitt **Programmstruktur und Raten.**
 
 ## <a name="next-steps"></a>Nächste Schritte
 

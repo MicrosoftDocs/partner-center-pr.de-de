@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 929907c7c6f238fb84a13622227534797f0ac949
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ffec50d53b50bdb6aa2690f1dfcc1bc7312cc3cb
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855334"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277299"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Hinzufügen Azure Partner Shared Services, damit Partner Azure-Abonnements für ihre eigene Verwendung erwerben können
 
@@ -30,11 +30,11 @@ Azure Partner Shared Services ist eine neue Art von Angebot für Partner im CSP-
 
 2. Wenn Sie bereits einen Mandanten für gemeinsame Dienste haben, klicken Sie auf **Gemeinsame Dienste erstellen**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Gemeinsame Dienste erstellen":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Erstellen sie freigegebene Dienste.":::
 
 3. Dient zum Erstellen eines Mandanten für gemeinsame Dienste und Kaufen eines Azure CSP Shared Services-Abonnement, das für gemeinsame genutzte Ressourcen und interne Workloads verwendet werden kann.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Mandanten erstellen und Abonnement kaufen":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Erstellen Sie den Mandanten, und erwerben Sie das Abonnement.":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Informationen zum Angebot „Azure – Internal/Shared Services”
 
@@ -67,9 +67,9 @@ Seit dem 1. März 2019 unterstützt Azure Partner Shared Services (APSS) keine M
 
 Partner, die über BYOL oder kostenlose Dienste verfügen, die mit APSS bereitgestellt wurden, sind nicht von den Auswirkungen in Mithilfe von Nach dem 1. März 2019 können sie jedoch keine neuen BYOL- oder kostenlosen Dienste erwerben.
 
-Um den vollständigen Katalog der verfügbaren Marketplace-Angebote (nicht nur BYOL und kostenlose Dienste) nutzen zu können, empfehlen wir CSP-Partnern die Bereitstellung gemeinsam genutzter Dienste mithilfe von Azure-Web-Direktabonnements.  CSP-Partner, die zuvor BYOL- und kostenlose Dienstressourcen von Drittanbietern aus dem Marketplace bereitgestellt haben und diese weiterhin verwenden und weitere Angebote von Drittanbietern bereitstellen möchten, werden empfohlen, das APSS-Abonnement zu einer webdirekten [Migration vorhandener Azure-Abonnements](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)zu migrieren.
+Um den vollständigen Katalog der verfügbaren Marketplace-Angebote (nicht nur BYOL und kostenlose Dienste) nutzen zu können, empfehlen wir CSP-Partnern die Bereitstellung gemeinsam genutzter Dienste mithilfe von Azure-Web-Direktabonnements.  CSP-Partnern, die zuvor BYOL- und kostenlose Dienstressourcen von Drittanbietern aus dem Marketplace bereitgestellt haben und diese weiterhin nutzen und weitere Angebote von Drittanbietern bereitstellen möchten, wird empfohlen, das APSS-Abonnement zu web direct [Migrating Existing Azure Subscriptions](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)zu migrieren.
 
-Partner, die planen, das APSS-Abonnement nach dem 1. März 2019 weiterhin zu verwenden und neue [BYOL-Dienste](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) von Drittanbietern oder kostenlose Dienste bereitstellen möchten, können die Anweisungen von ISVs befolgen, um diese in ihren APSS-Abonnements bereitzustellen.
+Partner, die planen, das APSS-Abonnement nach dem 1. März 2019 weiter zu verwenden und neue [BYOL-Dienste](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) von Drittanbietern oder kostenlose Dienste bereitstellen möchten, können die Anweisungen von ISVs befolgen, um diese in ihren APSS-Abonnements bereitzustellen.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

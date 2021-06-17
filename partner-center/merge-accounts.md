@@ -8,12 +8,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bcef4c771d748b0e2fbeae8cf1daaf41d7f53b43
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146509"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276636"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
 
@@ -41,7 +41,7 @@ Zwei oder mehr Unternehmen, die aktive Microsoft-Partner sind und über Konten i
 
 ### <a name="view-of-merged-accounts"></a>Ansicht zusammengeführter Konten
 
-:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Kontozusammenführung":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Kontozusammenführung.":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Was Sie erwarten sollten, wenn Sie eingeladen wurden, Ihr Partner Center-Konto mit einem anderen Partner Center-Konto zusammenzuführen?
 
@@ -49,7 +49,7 @@ Wenn Sie die Einladung zum Zusammenführen von Konten annehmen möchten: · Ihre
 
 - Ihre Benutzer werden mit intakten Rollen in das zusammengeführte Konto aufgenommen.
 
-- Vorhandene Vorteile und Kompetenzen werden für beide Unternehmen nach der Fusion bis zur Verlängerung beibehalten. Bei der Verlängerung werden die Konten als ein Unternehmen behandelt, und es gelten die standardmäßigen Verlängerungsregeln.
+- Vorhandene Vorteile und Kompetenzen werden für beide Unternehmen nach der Fusion bis zur Verlängerung beibehalten. Bei der Verlängerung werden die Konten als ein Unternehmen behandelt, und es gelten standardmäßige Verlängerungsregeln.
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>Grundlegendes zu den Auswirkungen auf Programme und Vorteile, wenn Partner sich für die Zusammenführung von Konten entscheiden
 
@@ -57,7 +57,7 @@ Wenn Sie die Einladung zum Zusammenführen von Konten annehmen möchten: · Ihre
 
 - Das höchste Jahrestag für Microsoft Action Pack wird nach der Fusion beibehalten. Wenn beispielsweise das Jahrestag für Unternehmen 1 der 1. Juni 2020 für Action Pack Verlängerung und das Jahrestag für Action Pack Erneuerung für Unternehmen 2 der 2. Oktober 2020 ist, verwendet Microsoft das Datum Oktober 2020 als neues Jahrestag für das zusammengeführte Unternehmen.
 
-- Während der Kontozusammenführung und bis zur nächsten Verlängerung behält jedes Konto seine Action Pack und/oder Kompetenzvorteile bei. Bei der Verlängerung gelten die Standardregeln für Action Pack und Die Kompetenzerneuerung.
+- Während der Kontozusammenführung und bis zur nächsten Verlängerung behält jedes Konto seine Action Pack und/oder Kompetenzvorteile bei. Bei der Verlängerung gelten die Standardregeln für Action Pack und Kompetenzerneuerung.
 
 - Nach der Verlängerung werden Vorteile, die in kompetenzbasierten und Action Pack enthalten sind, für das globale Partnerkonto des Partnerunternehmens implementiert:
 
@@ -65,7 +65,7 @@ Wenn Sie die Einladung zum Zusammenführen von Konten annehmen möchten: · Ihre
 
   - Kompetenz: Das Partnerunternehmen erhält ein Paket von Hauptvorteilen, die dem höchsten Leistungsstand zugeordnet sind, sowie kompetenzspezifische Vorteile, für die der Partner pro globalem Partnerkonto berechtigt ist.
 
-- Alle Vorteile unterliegen dem [Nutzungsleitfaden](https://aka.ms/partner-benefits-use-guide)für Microsoft Partner Network Vorteile. Beispiel: Ein aktiviertes O365 E3-Token ist 12 Monate nach der Aktivierung funktionsfähig. Sobald ein Token für Lizenzen in einem Mandanten aktiviert wurde, können diese Lizenzen nicht in einen anderen Mandanten verschoben werden.
+- Alle Vorteile unterliegen dem [Nutzungsleitfaden](https://aka.ms/partner-benefits-use-guide)für Microsoft Partner Network Vorteile. Beispiel: Ein aktiviertes O365 E3-Token ist 12 Monate nach der Aktivierung funktionsfähig. Nachdem ein Token für Lizenzen auf einem Mandanten aktiviert wurde, können diese Lizenzen nicht in einen anderen Mandanten verschoben werden.
 
 - Die MCP-ID-Zuordnungen für beide Unternehmen werden beibehalten und der PGA-MPN-ID zugeordnet.
 
@@ -79,7 +79,7 @@ Wenn Sie die Einladung zum Zusammenführen von Konten annehmen möchten: · Ihre
 
 - Die DPOR- oder PAL-Zuordnung hat keine Auswirkungen. Alle zugehörigen Umsatzbeiträge fließen in das neue globale Partnerkonto.
 
-## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Einladen eines Unternehmens, sein Partner Center-Konto mit Ihrem Partner Center-Konto zusammenzuführen
+## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Einladen eines Unternehmens zum Zusammenführen des Partner Center-Kontos mit Ihrem Partner Center-Konto
 
 >[!Note]
 >Um die Kontozusammenführung durchzuführen, müssen Sie der **Kontoadministrator** für Ihr Unternehmen sein.
@@ -96,31 +96,31 @@ Wenn Sie die Einladung zum Zusammenführen von Konten annehmen möchten: · Ihre
 
 1. Contoso, Ltd. hat 
 
-    a. eine [globale MPN-ID 1111111 und](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) eine [MPN-ID des untergeordneten Standorts von 2222222 .](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)
+    a. eine [globale MPN-ID von 11111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) und eine [UNTERGEORDNETE STANDORT-MPN-ID von 2222222 .](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)
   
     b. ein Azure AD Mandant = @contoso.com
  
-    c. Gold-Kompetenz, die am 1. Oktober 2020 abläuft
+    c. eine Gold-Kompetenz, die am 1. Oktober 2020 abläuft
 2. Fabrikam, Inc. hat
  
-    a.  eine globale MPN-ID von 3333333 und zwei UNTERGEORDNETE MPN-Standort-IDs von 4444444 und 5555555
+    a.  eine globale MPN-ID von 3333333 und zwei UNTERGEORDNETEN STANDORT-MPN-IDs von 4444444 und 55555555
 
     b.  ein Azure AD Mandant = @fabrikam.com
 
-    c.  Zwei Gold-Kompetenzen, die am 1. Dezember 2020 ablaufen
-3.  Contoso kauft Fabrikam und leitet [hier](https://partner.microsoft.com/dashboard/account/merger) eine Mergeanforderung ein.
-4.  Fabrikam Partner Center und geht zur gleichen Seite wie Contoso in Schritt #3, um die Anforderung von Contoso zu genehmigen.
-5.  Contoso überprüft die Details der Zusammenführung auf derselben Seite und gibt eine Bestätigung aus, um mit der Kontozusammenführung fortzufahren.
-6.  Nach der Fusion wird das Unternehmenskonto wie im folgenden Beispiel angezeigt:
+    c.  zwei Gold-Kompetenzen, die am 1. Dezember 2020 ablaufen
+3.  Contoso kauft Fabrikam und leitet [hier](https://partner.microsoft.com/dashboard/account/merger) eine Zusammenführungsanforderung ein.
+4.  Fabrikam meldet sich bei Partner Center an und wechselt zur gleichen Seite wie Contoso in Schritt #3, um die Anforderung von Contoso zu genehmigen.
+5.  Contoso überprüft die Details der Zusammenführung auf derselben Seite und stellt eine Bestätigung bereit, um mit der Kontozusammenführung fortzufahren.
+6.  Nach der Fusion wird das Unternehmenskonto folgendermaßen angezeigt:
 
-    a.  Ein Unternehmen namens Contoso mit der globalen MPN-ID 1111111 und vier untergeordneten MPN-Standort-IDs von 2222222, 3333333, 444444 und 555555
+    a.  Ein Unternehmen namens Contoso mit der globalen MPN-ID 1111111 und den MPN-IDs 2222222, 3333333, 44444444 und 5555555
     
-    b.  Er hat zwei Azure AD Mandanten ( @contoso.com + ), die Zugriff auf @fabrikam.com dasselbe konto Partner Center haben.
+    b.  Sie verfügt über zwei Azure AD Mandanten ( @contoso.com + ), die Zugriff auf @fabrikam.com dasselbe Partner Center Konto haben.
     
-    c.  Es werden zwei Kompetenzvorteilepakete bereitgestellt: eines, das am 1. Oktober 2020 abläuft, und ein weiteres, das am 1. Dezember 2020 abläuft. Sie können am 1. Dezember 2020 als einzelnes Kompetenzvorteilepaket verlängern. Nach der Verlängerung behält Contoso alle drei Kompetenzen bei, obwohl nur ein einzelnes Vorteilspaket verwaltet werden kann.
+    c.  Es werden zwei Kompetenzvorteilepakete angeboten: eines, das am 1. Oktober 2020 abläuft, und ein weiteres, das am 1. Dezember 2020 abläuft. Das Unternehmen kann am 1. Dezember 2020 als einzelnes Kompetenzvorteilspaket erneuert werden. Nach der Verlängerung behält Contoso alle drei Kompetenzen bei, obwohl nur ein einzelnes Vorteilspaket beibehalten werden kann.
     
-7.  Die Administratoren von Contoso verwalten weiterhin Partner Center Rollen für @contoso.com die Benutzer von . Die Administratoren von Fabrikam verwalten weiterhin Partner Center Rollen für @fabrikam.com die Benutzer von . Die Administratoren von Contoso können die Benutzer von Fabrikam nur verwalten, wenn sie als Gast in den Fabrikam-Mandanten eingeladen werden.
-8.  Contoso könnte entscheiden, den Mandanten zu ignorieren und den Fabrikam-Mitarbeitern neue Anmeldeinformationen @fabrikam.com mit neuen Rollen und Berechtigungen erneut @contoso.com auszugeben.
+7.  Die Administratoren von Contoso verwalten weiterhin Partner Center Rollen für @contoso.com die Benutzer von . Die Administratoren von Fabrikam verwalten weiterhin Partner Center Rollen für @fabrikam.com die Benutzer von . Die Administratoren von Contoso können die Benutzer von Fabrikam nur verwalten, wenn sie als Gast in den Mandanten von Fabrikam eingeladen werden.
+8.  Contoso könnte den Mandanten ignorieren @fabrikam.com und den Fabrikam-Mitarbeitern neue @contoso.com Anmeldeinformationen mit neuen Rollen und Berechtigungen erneut erteilen.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

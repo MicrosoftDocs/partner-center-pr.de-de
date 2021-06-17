@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855164"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277469"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Bericht "Produktlizenzen" im Partner Center Insights-Dashboard
 
@@ -34,7 +34,7 @@ Der Bericht "Produktlizenzen" enthält Lizenzanalysen für lizenzbasierte Cloudp
 
 Der Abschnitt "Zusammenfassung" enthält eine Momentaufnahmeansicht der Key Performance Indicators (KPIs), die den verkauften, bereitgestellten und verwendeten Cloudproduktlizenzen zugeordnet sind. Auf diese Weise können Sie die aktive Nutzung für die Lizenzen nachverfolgen, die an Ihre Kunden verkauft werden.
 
-:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Lizenzberichtszusammenfassung":::
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Lizenzberichtszusammenfassung.":::
 
 Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Sie unten:
 
@@ -45,39 +45,39 @@ Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Si
 
 - Bereitgestellte Lizenzen:
   - Aktuelle Anzahl aller zugewiesenen Lizenzen Ihres Kunden.
-  - Prozentuales Wachstum oder Ablehnen dieser Lizenzen während des ausgewählten Zeitraums.
-  - Mikrodiagramm "Lizenzanzahl": Das Mikrodiagramm zeigt den Monatlichen Trend der anzahl zugewiesener Lizenzen während des ausgewählten Datumsbereichs an.
+  - Prozentuales Wachstum oder Rückgang dieser Lizenzen während des ausgewählten Zeitraums.
+  - Mikrodiagramm zur Lizenzanzahl: Das Mikrodiagramm zeigt den Trend der anzahl zugewiesener Lizenzen im ausgewählten Datumsbereich im Monats-zu-Monat-Bereich an.
 
 - Aktive Lizenzen: 
-  - Die aktuelle Anzahl aller Kundenlizenzen mit einer beliebigen aktiven Nutzung in den letzten 30 Tagen während des ausgewählten Datumsbereichs.
-  - Prozentuales Wachstum oder Ablehnen dieser Lizenzen während des ausgewählten Datumsbereichs.
-  - Das Micro-Diagramm zeigt den Monatlich-im-Monat-Trend der Anzahl von Lizenzen während des ausgewählten Datumsbereichs.
+  - Die aktuelle Anzahl aller Kundenlizenzen mit aktiver Nutzung in den letzten 30 Tagen während des ausgewählten Datumsbereichs.
+  - Prozentuales Wachstum oder Rückgang dieser Lizenzen während des ausgewählten Datumsbereichs.
+  - Das Mikrodiagramm zeigt den Monatlichen Trend der Anzahl von Lizenzen während des ausgewählten Datumsbereichs an.
 
 ## <a name="geographical-spread-of-licenses"></a>Geografische Verteilung von Lizenzen
 
-Die Geografische **Verteilungsansicht Lizenzen** zeigt die geografische Verteilung der aktuellen Lizenzen und der aktiven Lizenzen nach Kundenmarkt an. (Die **Anzahl der aktuellen** Lizenzen umfasst auch nicht zugewiesene Lizenzen.)
+In **der Geografischen Verteilungsansicht Lizenzen** wird die geografische Verteilung der aktuellen Lizenzen und aktiven Lizenzen nach Kundenmarkt angezeigt. (Die **Anzahl** der aktuellen Lizenzen umfasst auch nicht zugewiesene Lizenzen.)
 
-**Die Anzahl der Länder/Regionen** zeigt die Gesamtzahl der Länder/Regionen an, in denen Sie über aktuelle und aktive Kundenlizenzen verfügen.
+**Die Anzahl der Länder/Regionen gibt** die Gesamtanzahl der Länder/Regionen an, in denen Sie über aktuelle und aktive Kundenlizenzen verfügen.
 
-Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Drücken Sie die Option **Start** auf der Karte, um zur Standardansicht zurückzukehren. Zeigen Sie auf die Karte, um aktuelle Lizenzen und aktive Lizenzen nach Kundenland anzuzeigen. Beide Felder im Raster sind sortierbar.
+Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Klicken Sie **auf der** Karte auf die Option Start, um zur Standardansicht zurück zu gehen. Zeigen Sie auf die Karte, um die aktuellen lizenzen und aktiven Lizenzen nach Land des Kunden anzuzeigen. Beide Felder im Raster sind sortierbar.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="lizenzgeografische Verteilung":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="geografische Verteilung der Lizenz.":::
 
-## <a name="license-adds"></a>Lizenz fügt hinzu
+## <a name="license-adds"></a>Lizenz-Add-Ins
 
 In dieser Ansicht wird der Trend der Lizenzen angezeigt, die während des ausgewählten Datumsbereichs hinzugefügt wurden. 
 
-Um den Trend nach Produkt und Dienst/Workload darzustellen, wählen Sie oben auf dem Bildschirm ein Produkt und in der Dropdownliste SKUs einen Dienst/eine Workload aus.
+Um den Trend nach Produkt und Dienst/Workload anzuzeigen, wählen Sie oben auf dem Bildschirm ein Produkt und in der Dropdownliste SKUs einen Dienst/eine Workload aus.
 
 Die X-Achse stellt Monate des ausgewählten Datumsbereichs dar. Die Y-Achse stellt die Anzahl der hinzugefügten Lizenzen dar. Verwenden Sie den Schieberegler oben im Diagramm, um einen bestimmten Zeitraum zu vergrößern.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="License adds":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="-Lizenz wird addiert.":::
 
 ## <a name="license-distribution"></a>Lizenzverteilung
 
 Diese Ansicht zeigt eine Aufschlüsselung Ihrer Kundenlizenzen nach Produkt und Land/Region des Kunden. Wenn Sie ein Produkt im Kreisdiagramm Lizenz **nach** Produkt auswählen, wird im angrenzenden Diagramm eine Lizenzaufschlüsselung nach Kundenregion angezeigt.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="Lizenzverteilung":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="Lizenzverteilung.":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

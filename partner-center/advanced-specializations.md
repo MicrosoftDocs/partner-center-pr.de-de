@@ -4,32 +4,32 @@ ms.topic: article
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Stärken Sie Ihr Geschäftsprofil im Microsoft-Partnerverzeichnis. Erfahren Sie mehr über die erweiterten Spezialisierungen, die Sie zusammen mit Ihren vorhandenen Gold- und Silver-Kompetenzen erreichen können.
+description: Stärken Sie Ihr Geschäftsprofil im Microsoft-Partnerverzeichnis. Erfahren Sie mehr über die erweiterten Spezialisierungen, die Sie zusammen mit Ihren vorhandenen Gold- und Silver-Kompetenzen erwerben können.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150453"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125921"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Erwerben Sie eine erweiterte Spezialisierung, um Ihre überprüften Funktionen zu präsentieren.
+# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Erhalten Sie eine erweiterte Spezialisierung, um Ihre überprüften Funktionen zu präsentieren.
 
-**Geeignete Rollen:** globale | Kontoadministrator
+**Geeignete Rollen**: Globaler Administrator | Kontoadministrator
 
-Erweiterte Microsoft-Spezialisierungen bauen auf den verwandten [Gold-Kompetenzen](learn-about-competencies.md) auf, die ein Partner erwerben kann. Dank der Gold-Kompetenzen und der zugehörigen erweiterten Spezialisierungen können Partner ihre Fähigkeiten gegenüber Kunden weiter unterscheiden.
+Erweiterte Microsoft-Spezialisierungen bauen auf den entsprechenden [Gold-Kompetenzen auf,](learn-about-competencies.md) die ein Partner erwerben kann. Durch den Erwerb von Gold-Kompetenzen und den zugehörigen erweiterten Spezialisierungen können Partner ihre Fähigkeiten für Kunden weiter unterscheiden.
 
-Um eine erweiterte Spezialisierung zu erhalten, muss ein Partner häufig anspruchsvolle Anforderungen erfüllen, wie z. B. das Abrufen von Kundenreferenzen, das Durchlaufen einer Drittanbieterprüfung, das Nachweisen eines relevanten Qualifikationssatzes und das Erfüllen bestimmter, anderer Leistungsmessungen.
+Um eine erweiterte Spezialisierung zu erzielen, muss ein Partner häufig anspruchsvolle Anforderungen erfüllen, z. B. das Abrufen von Kundenverweisen, das Durchführen einer Drittanbieterprüfung, das Nachweis eines relevanten Qualifikationssets und die Erfüllung bestimmter anderer Leistungsmessungen.
 
-Indem sie diese strengen Anforderungen erfüllen, können Partner ihr umfassendes Wissen, ihre umfassende Erfahrung und ihren bewährten Erfolg bei der Bereitstellung von angepassten Kundenlösungen für Bereiche mit hoher Kundennachfrage und Relevanz überprüfen.
+Indem diese strengen Anforderungen erfüllt werden, können Partner ihr umfassendes Wissen, ihre umfassende Erfahrung und ihren bewährten Erfolg bei der Bereitstellung von angepassten Kundenlösungen für Bereiche mit hoher Kundennachfrage und -relevanz überprüfen.
 
-Partner, die eine erweiterte Spezialisierung erwerben, erhalten eine kundenorientierte Bezeichnung, die sie in ihrem Geschäftsprofil im [Microsoft-Lösungsanbieter-Finder](https://www.microsoft.com/solution-providers/home)anzeigen können. Diese Bezeichnung überprüft die Funktionen des Partners weiter und bietet ihm gleichzeitig Zugriff auf die zugehörigen Vorteile, eine erweiterte Kundenreichweite und ein höheres Kundenvertrauen.
+Partner, die eine erweiterte Spezialisierung erhalten, erhalten eine kundenorientierte Bezeichnung, die sie in ihrem Geschäftsprofil im Finder des [Microsoft-Lösungsanbieters anzeigen können.](https://www.microsoft.com/solution-providers/home) Mit dieser Bezeichnung werden die Funktionen des Partners weiter überprüft, und gleichzeitig erhalten sie Zugriff auf die damit verbundenen Vorteile, die erweiterte Kundenbindung und ein höheres Kundenvertrauen.
 
 > [!NOTE]
-> Weitere Informationen zu erweiterten Spezialisierungen finden Sie auf der [Seite Microsoft Partner Network erweiterte Spezialisierungen.](https://partner.microsoft.com/membership/advanced-specialization)
+> Weitere Informationen zu erweiterten Spezialisierungen finden Sie auf der seite [Microsoft Partner Network für erweiterte Spezialisierungen.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="advanced-specialization-areas"></a>Erweiterte Spezialisierungsbereiche
 
@@ -40,20 +40,24 @@ Jede erweiterte Spezialisierung entspricht einem Lösungsbereich:
 - Moderne Arbeit
 - Sicherheit
 
- Zu den erweiterten Azure-Spezialisierungen gehören:
+**Zu den** erweiterten Azure-Spezialisierungen gehören:
 
-- Analysen für Microsoft Azure
+- Analysen auf Microsoft Azure
 - Data Warehouse-Migration zu Microsoft Azure
 - Kubernetes in Microsoft Azure
-- Migration von Linux- und Open Source-Datenbanken zu Microsoft Azure
+- Migration von Linux- und Open Source-Datenbanken Microsoft Azure
 - Microsoft Windows Virtual Desktop
 - Modernisierung von Webanwendungen auf Microsoft Azure
 - SAP unter Microsoft Azure
 - Migration von Windows Server und SQL Server zu Microsoft Azure
+- KI und Machine Learning in Microsoft Azure
+- Hybrid Cloud-Infrastruktur mit Microsoft Azure Stack HCI
+- Hybridvorgänge und -verwaltung mit Microsoft Azure Arc
+- Microsoft Azure VMware Solution
 
-**Business Applications** erweiterten Spezialisierungen umfassen Folgendes:
+**Business Applications** erweiterten Spezialisierungen sind:
 
-- Anwendungsentwicklung mit wenig Code
+- Entwicklung von Anwendungen mit geringem Code
 - Verwaltung kleiner und mittelgroßer Unternehmen
 
 **Erweiterte Spezialisierungen** für moderne Arbeit umfassen Folgendes:
@@ -67,13 +71,15 @@ Jede erweiterte Spezialisierung entspricht einem Lösungsbereich:
 
 - Identitäts- und Zugriffsverwaltung
 - Threat Protection
+- Information Protection und Governance
+- Cloudsicherheit
 
 > [!NOTE]
 > Informationen zu jeder erweiterten Spezialisierung sowie zu den Voraussetzungen und Anforderungen finden Sie auf der Seite [Erweiterte Spezialisierungen.](https://partner.microsoft.com/membership/advanced-specialization) Wenn Sie bereit sind, sich für eine erweiterte Spezialisierung zu bewerben, überprüfen Sie Ihren Fortschritt, indem Sie sich beim Partner Center [anmelden.](https://partner.microsoft.com/dashboard) Weitere Informationen zum Zugriff auf diesen Partner Center finden Sie unter [Anwenden auf eine erweiterte Spezialisierung.](advanced-specializations-apply.md)
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Verwenden Partner Center zum [Beantragen und Überprüfen des Status erweiterter Spezialisierungen](advanced-specializations-apply.md)
+- Verwenden Partner Center, [um erweiterte Spezialisierungen](advanced-specializations-apply.md) zu beantragen und den Status zu überprüfen.
 
 - Erfahren Sie mehr [über erweiterte Spezialisierungen, deren Vorteile und einzigartige Anforderungen.](https://partner.microsoft.com/membership/advanced-specialization)
 

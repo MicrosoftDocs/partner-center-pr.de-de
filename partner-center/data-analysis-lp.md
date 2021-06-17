@@ -4,45 +4,45 @@ ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Analysen in Partner Center verwenden, um Ihr Unternehmen besser zu verstehen und zu erfahren, wie Ihre Kunden die erworbenen Lizenzen verwenden.
+description: Erfahren Sie, wie Sie Analysen in Partner Center verwenden, um Ihr Unternehmen besser zu verstehen und wie Ihre Kunden die erworbenen Lizenzen verwenden.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147206"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276857"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Verwenden von Analysen, um mehr über den Abonnementumsatz zu erfahren
 
-**Geeignete Rollen:** Globale Administratorrechte | MPN-Partneradministrator
+**Geeignete Rollen:** globale | MPN-Partneradministrator
 
 Um Ihr CSP-Geschäft planen zu können, müssen Sie wissen, wie Kunden ihre Microsoft-Produkte verwenden. Sie haben mehrere Optionen zum Sammeln von Daten in Partner Center. Sie können Daten zu Ihrem Unternehmen erfassen und Daten darüber sammeln, ob und wie Ihre Kunden die erworbenen Lizenzen verwenden. Wenn Sie sich im direkten CSP-Modell befinden, haben Sie auch die Möglichkeit, die Partner Center Analytics-App für Power BI zu installieren und zu verwenden, um zusätzliche Daten zu sammeln.
 
 ## <a name="access-to-the-subscription-analytics"></a>Zugriff auf die Abonnementanalyse
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
-1. Wählen Sie im CSP Partner Center Menü Analysieren und dann **Abonnementanalyse aus.** 
+1. Wählen Sie im CSP im menü Partner Center die Option **Analysieren** und dann **Abonnementanalyse** aus.
 
-1. Der nach zwölfmonatige CSP-Umsatz wird oben auf der Seite angezeigt.
+1. Der nachgestellte CSP-Umsatz für zwölf Monate wird oben auf der Seite angezeigt.
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="Bildschirm &quot;Abonnement&quot;":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Abonnementbildschirm.":::
 
-## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Trailing Twelve-Month (TTM) CSP Revenue
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>CSP-Umsatz nachgestellter Twelve-Month (TTM)
 
-Der CSP-Umsatz nach 12 Monaten stellt den nach Cloud Solution Provider Programmumsatz in USD auf der Ebene eines globalen Partnerkontos dar. Die Daten werden am achten jedes Monats aktualisiert, um den nach zwölfmonatigen Umsatz bis zum vorherigen Monat anzuzeigen. Beispielsweise sollten Sie am 9. September 2020 das TTM für den festen Zeitraum von September 2019 bis August 2020 sehen können.
+Der nachgestellte CSP-Umsatz für 12 Monate entspricht dem Umsatz der nachgestellten Cloud Solution Provider Programms in USD auf Ebene eines globalen Partnerkontos. Die Daten werden am achten jedes Monats aktualisiert, um den nachgestellten Umsatz von zwölf Monaten bis zum Vormonat anzuzeigen. Beispielsweise sollten Sie am 9. September 2020 die TTM für den festen Zeitraum von September 2019 bis August 2020 sehen können.
 
-Der auf dem Partner Center wird für ein festes Zeitintervall von 12 Monaten berechnet und kann nicht in einen kürzeren Zeitraum geändert werden.
+Der auf Partner Center angezeigte Umsatz wird für ein festes Zeitintervall von 12 Monaten berechnet und kann nicht in einen kürzeren Zeitraum geändert werden.
 
 So sehen Sie eine Aufschlüsselung des Umsatzes auf Ebene Ihres Partnerstandortkontos:
 
-- Wählen Sie den Link "Details herunterladen" aus, und laden Sie eine TSV-Datei herunter, die den TTM-Umsatz an allen Standorten anzeigt.
+- Wählen Sie den Link "Details herunterladen" aus, und laden Sie eine TSV-Datei herunter, die den TTM-Umsatz an allen Ihren Standorten anzeigt.
 
 >[!NOTE] 
->Die Summe der einzelnen TTM-Umsatzzahlen über MPN-IDs hinweg in der TSV-Datei scheint möglicherweise größer als der TTM-Gesamtumsatz zu sein, der auf der seite Partner Center. Dies liegt daran, dass der Umsatz für Abonnements mit mehreren Partnerzuordnungen in der heruntergeladenen Datei doppelt gezählt werden kann.
+>Das Summieren der einzelnen TTM-Umsatzzahlen für MPN-IDs in der TSV-Datei scheint größer zu sein als der TTM-Gesamtumsatz, der auf Partner Center angezeigt wird. Dies liegt daran, dass der Umsatz bei Abonnements mit mehreren Partnerzuordnungen in der heruntergeladenen Datei doppelt gezählt werden kann.
 
 ## <a name="subscription-summary"></a>Abonnementzusammenfassung
 

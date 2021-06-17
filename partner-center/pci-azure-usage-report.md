@@ -9,16 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: cd302a7b4839b98cdd96fda38b381d9282b00620
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146849"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112275990"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure-Nutzungsbericht über das Dashboard "Partner Center Insights" verfügbar
 
-**Geeignete Rollen:** globale | | des Administrator-Agents Berichts-Viewer-| Berichtanzeige der Geschäftsleitung
+**Geeignete Rollen:** globale | | des Administrator-Agents Berichts-Viewer-| Berichtsanzeige der Geschäftsleitung
 
 Der Azure-Nutzungsbericht enthält Metriken im Zusammenhang mit den Azure-Abonnements Ihrer Kunden. Dieser Bericht enthält den Azure-Verbrauchsumsatz und die Nutzung nach Verbrauchsklassen. Sie können die folgenden Abschnitte im Azure-Nutzungsbericht anzeigen.
 
@@ -27,7 +27,7 @@ Der Azure-Nutzungsbericht enthält Metriken im Zusammenhang mit den Azure-Abonne
 - Azure-Auslastung
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzuzeigen, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer der Geschäftsleitung. Weitere Informationen finden Sie unter Globaler Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer mit Berechtigungen des Berichts-Viewers der Geschäftsleitung verfügbar.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzuzeigen, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer der Geschäftsleitung. Weitere Informationen finden Sie unter Globaler Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer mit Executive Report Viewer-Berechtigungen verfügbar.
 
 ## <a name="summary"></a>Zusammenfassung
 
@@ -40,7 +40,7 @@ Das Microdiagramm zeigt einen Monatlich-im-Monat-Trend der Anzahl der Azure-Abon
 - Aktive Azure-Abonnements: Aktuelle Anzahl der von Ihnen verkauften oder verwalteten Azure-Abonnements, die in den letzten 30 Tagen aktiv genutzt wurden.
 Prozentuales Wachstum oder Ablehnen dieser Abonnements während des ausgewählten Datumsbereichs.
 
-Das Microdiagramm zeigt einen Monatlich-im-Monat-Trend der Anzahl aktiver Azure-Abonnements während des ausgewählten Datumsbereichs an.
+Das Microdiagramm zeigt einen Monatlich-im-Monat-Trend der Anzahl der aktiven Azure-Abonnements während des ausgewählten Datumsbereichs an.
 
 - Azure-Umsatzverbrauch (ACR): Gesamte Azure-Umsatzverbrauch (US$), die Ihnen über den ausgewählten Datumsbereich zugewiesen wurden.
 Prozentuales Wachstum oder Rückgang der attributierten ACR US$ während des ausgewählten Datumsbereichs. 
@@ -51,7 +51,7 @@ Das Micro-Diagramm zeigt einen monatlichen Trend von ACR US$, der Ihnen im ausge
 > [!NOTE]
  > Azure-Umsatzverbrauch (ACR) ist nur für Benutzer sichtbar, denen die Rolle "Managerberichts-Viewer" zugewiesen wurde.
 
-:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure-Nutzungszusammenfassung":::
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Zusammenfassung der Azure-Nutzung.":::
 
 ## <a name="azure-usage-by-geography"></a>Azure-Nutzung nach Geografie
 
@@ -61,15 +61,15 @@ Die Tabelle **Anzahl der Länder/Regionen** enthält die Gesamtanzahl der Lände
 
 Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Wählen Sie auf der Karte die Option **Start** aus, um zur ursprünglichen Ansicht zurückzukehren.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Azure-Nutzung nach Geografie":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Azure-Nutzung nach Geografie.":::
 
 ## <a name="azure-utilization"></a>Azure-Auslastung
 
 In dieser Ansicht werden die Trends für den Azure-Verbrauchsumsatz oder die Nutzungsstunden im Monatsverlauf nach ausgewählten Azure-Kategorien für Servicelevel/Verbrauchserfassung angezeigt. 
 
-Das Balkendiagramm zeigt den monatlichen Umsatz-/Nutzungsstundentrend an. Das Liniendiagramm zeigt den Wachstumstrend im Vergleich zum Vormonat für die ausgewählten Azure-Kategorien service level/meter an.
+Das Balkendiagramm zeigt den monatlichen Umsatz-/Nutzungsstundentrend an. Das Liniendiagramm zeigt den Wachstumstrend im Vergleich zum Vormonat für die ausgewählten Azure-Kategorien für Servicelevel/Verbrauchszähler an.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure-Nutzungsauslastung":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure-Nutzungsauslastung.":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855606"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277792"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partner Center Portalanforderungen und Diagnosetool
 
@@ -29,13 +29,13 @@ Wenden Sie sich an Partner Center Support, wenn Sie Probleme finden oder Hilfe b
 
 1. Wählen Sie in Ihrem **Partner Center-Dashboard** **die** Option Support und dann **Partnersupportanfragen** aus.
 
-2. Wählen Sie **Neue Anforderung** aus, und suchen Sie dann nach dem Problemtyp, der Ihr Problem am besten beschreibt. Wählen Sie den Problemtyp und **Lösungen überprüfen aus.**
+2. Wählen Sie **Neue Anforderung** aus, und suchen Sie dann nach dem Problemtyp, der Ihr Problem am besten beschreibt. Wählen Sie den Problemtyp und **lösungen überprüfen aus.**
 
 3. Auf der Seite **Empfohlene Lösungen** finden Sie Schritte oder zugehörige Dokumente, die Ihnen bei der Lösung Ihres Problems helfen können.
 
-4. Wenn das Problem mit **den empfohlenen Lösungen** gelöst wurde, können Sie **zum Dashboard zurückkehren** auswählen. Wenn Sie weiterhin Hilfe benötigen, können Sie fortfahren und **Problemdetails angeben.**
+4. Wenn das Problem mit **den empfohlenen Lösungen** behoben wurde, können Sie **zum Dashboard zurückkehren** auswählen. Wenn Sie weiterhin Hilfe benötigen, können Sie fortfahren und **Problemdetails angeben.**
 
-5. Füllen Sie die **Problemdetails** aus, und **senden Sie** dann . Ein Partner-Supportmitarbeiter wird sich bei Ihnen melden.
+5. Füllen Sie die **Problemdetails aus,** und **senden Sie** dann . Ein Partner-Supportmitarbeiter wird sich bei Ihnen melden.
 
 ## <a name="schedule-a-support-appointment"></a>Planen eines Supporttermins 
 
@@ -43,27 +43,27 @@ Wenden Sie sich an Partner Center Support, wenn Sie Probleme finden oder Hilfe b
 
 Wenn Ihr Problem eine Konversation mit Ihrem Support advocate erfordert, können Sie den Termin über Ihre Ticketdetails planen.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Planen eines Supporttermins":::
+:::image type="content" source="images/support/ticket.png" alt-text="Planen sie einen Supporttermin.":::
 
-1.  Wählen Sie auf der Ticketdetailsepage in Partner Center ein verfügbares Datum und eine verfügbare Uhrzeit im Kalender des Support advocate aus. In Ihrer lokalen Zeitzone werden nur verfügbare Datums- und Uhrzeitangaben zu sehen sein.
+1.  Wählen Sie auf der Seite mit den Ticketdetails in Partner Center ein verfügbares Datum und eine verfügbare Uhrzeit im Kalender des Supportanwalts aus. In Ihrer lokalen Zeitzone werden nur verfügbare Datums- und Uhrzeitangaben angezeigt.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Termin planen":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Termin planen.":::
 
-2. Partner Center überprüft den Kalender des Support advocate auf Verfügbarkeit.
+2. Partner Center überprüft den Kalender des Supportanwalts auf Verfügbarkeit.
 
-1. Wenn Sie einen Termin planen, sendet Partner Center Ihnen eine Kalendereinladung mit Informationen dazu, wie der Support Advocate Sie kontaktieren wird, damit Sie diesen Termin in Ihrem eigenen Arbeitskalender nachverfolgen können.  Diese Funktion befindet sich zwar noch in der Vorschau, die E-Mail- und Kalendereinladung ist jedoch auf Englisch, aber der Advocate kann Sie in der Sprache unterstützen, die Sie beim Erstellen Ihres Tickets ausgewählt haben.
+1. Wenn Sie einen Termin planen, sendet Partner Center Ihnen eine Kalender-Einladung mit Informationen dazu, wie der Supportanwalt Sie kontaktieren wird, damit Sie diesen Termin in Ihrem eigenen Arbeitskalender nachverfolgen können.  Diese Funktion befindet sich zwar noch in der Vorschau, aber die Einladung für E-Mail und Kalender ist auf Englisch, aber der Advocate kann Sie in der Sprache unterstützen, die Sie beim Erstellen Ihres Tickets ausgewählt haben.
 
-:::image type="content" source="images/support/ticket3.png" alt-text="Datum und Uhrzeit":::
+:::image type="content" source="images/support/ticket3.png" alt-text="Datum und Uhrzeit.":::
 
 ## <a name="hours-of-operation"></a>Geschäftszeiten
 
 **Partnersupport**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Supportstunden des Betriebs":::
+:::image type="content" source="images/support/hoop.png" alt-text="Supportstunden des Vorgangs.":::
 
 ## <a name="send-diagnostics"></a>Senden von Diagnosen
 
-Wenn ein Fehler auftritt, während Sie sich auf einer seite Partner Center, werden Sie möglicherweise aufgefordert, Protokollinformationen zu erfassen. Klicken **Sie über den Link,** der oben auf der Seite nach unten angezeigt wird, auf Weitere Informationen sammeln, um das Clientdiagnosetool zu öffnen. Mit diesem Tool werden Informationen gesammelt, die vom Supportteam des Partners benötigt werden, um die Ursache des Fehlers zu ermitteln. 
+Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center Seite befinden, werden Sie möglicherweise aufgefordert, Protokollinformationen zu erfassen. Wählen Sie im Link, der oben auf der Seite angezeigt wird, die Option **Weitere Informationen sammeln** aus, um das Clientdiagnosetool zu öffnen. Mit diesem Tool werden Informationen gesammelt, die vom Supportteam des Partners benötigt werden, um die Ursache des Fehlers zu ermitteln. 
 
 >[!NOTE]
 >Auf Partner Center Seiten, die **/pcv/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu sammeln.
@@ -74,7 +74,7 @@ Wenn ein Fehler auftritt, während Sie sich auf einer seite Partner Center, werd
 
 Sie erhalten eine Vorschau der Diagnoseinformationen und können diese auf eine Datei speichern, die Sie der Anfrage hinzufügen können. So senden Sie uns die Informationen:
 
-3. Überprüfen Sie die Informationen in der Datei, bevor Sie sie senden, da sie personenbezogene Daten enthalten kann, die Sie möglicherweise entfernen möchten.
+3. Überprüfen Sie die Informationen in der Datei, bevor Sie sie senden, da sie personenbezogene Daten enthalten können, die Sie möglicherweise entfernen möchten.
 
     >[!NOTE]
     >In einigen Browsern wird der Abschnitt **Seitenansicht** am unteren Rand der Seite **Vorschau** möglicherweise leer angezeigt. Dies ist in Ordnung.

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152391"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276568"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Ermitteln Ihrer Microsoft Partner Network-Vorteile 
 
@@ -36,30 +36,30 @@ Als Microsoft Partner Network-Mitglied hat Ihr Unternehmen Zugriff auf viele Vor
    - [Azure & Cloud-Produkte](mpn-benefits-azure-cloud.md)
    - [Softwareprodukte](mpn-benefits-software.md)
    - [Visual Studio-Abonnements](mpn-benefits-visual-studio.md)
-   - Technische Vorteile: [Vorteile des technischen Supports (Zugriffs-ID und Vertrags-ID)](mpn-benefits-technical-support.md) oder Technische [Presales and Deployment Services (TPD)](technical-benefits.md)
+   - Technische Vorteile: [Vorteile des technischen Supports (Zugriffs-ID und Vertrags-ID)](mpn-benefits-technical-support.md) oder Technische [Presales- und Bereitstellungsdienste (TPD)](technical-benefits.md)
    - [Markteinführung](mpn-learn-about-go-to-market-benefits.md)
    - [Marketplace-Prämien](marketplace-rewards.md)
    - [Logo-Generator](mpn-logo-builder.md)
 
 3. Wenn Sie ( + ) einen Vorteil erweitern, finden Sie zusätzliche Informationen, die Ihnen helfen, den jeweiligen Vorteil zu aktivieren.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Erweiterte Vorteile":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Erweiterte Vorteile.":::
 
    > [!NOTE]
-   > Um Vorteile zu aktivieren, muss Ihnen die Rolle "Globaler Administrator" oder "MPN-Partneradministrator" in der Partner Center. Alle anderen Benutzer in einem Unternehmen sollten jedoch in der Lage sein, details zu den Vorteilen Partner Center anzeigen zu können, z. B. Produktsupport-IDs. Weitere Informationen zum Zuweisen Partner Center Rollen finden Sie unter [Zuweisen von Benutzerrollen und](permissions-overview.md)Berechtigungen in Partner Center .
+   > Um Vorteile zu aktivieren, muss Ihnen die Rolle globaler Administrator oder MPN-Partneradministrator in Partner Center zugewiesen werden. Alle anderen Benutzer in einem Unternehmen sollten jedoch in der Lage sein, die Details der Vorteile in Partner Center anzuzeigen, z. B. Produktsupport-IDs. Weitere Informationen zu Partner Center Rollen finden Sie unter [Zuweisen von Benutzerrollen und Berechtigungen in Partner Center](permissions-overview.md).
 
 ## <a name="specific-benefit-offers"></a>Spezifische Vorteilsangebote
 
-Informationen zu den Vorteilen, die mit den Kompetenzen Microsoft Action Pack, Silver und/oder Gold verfügbar sind, finden Sie in den folgenden Ressourcen:
+Um herauszufinden, welche Vorteile mit Microsoft Action Pack-, Silver- und/oder Gold-Kompetenzen verfügbar sind, lesen Sie die folgenden Ressourcen:
 
-- [Lizenztabelle für Microsoft Action Pack Partner](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
+- [Lizenztabelle für Microsoft Action Pack-Partner](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [Lizenztabelle für Kompetenzpartner](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
-Informationen dazu, wie Sie diese Vorteile nutzen können, finden Sie im [Produktnutzungshandbuch.](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)
+Informationen dazu, wie Sie diese Vorteile nutzen können, finden Sie im [Produktnutzungsleitfaden.](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Zuordnen von Microsoft Learn-Konten](ms-learn-associate.md)
+- [Mitarbeiterkonten Microsoft Learn zuordnen](ms-learn-associate.md)
 - [Verwalten von Microsoft Partner Network-Mitgliedschaftsvorteilen und -Angeboten im Partner Center](manage-your-partner-network-benefits.md)
-- [Aktivieren technischer Vorteile für Mitglieder Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)
+- [Aktivieren technischer Vorteile für Mitglieder von Partner Membership Center (PMC)](partner-membership-center-tech-benefits-activate.md)

@@ -8,12 +8,12 @@ description: Sehen Sie sich an, was Ihnen gut geht und wo Sie die Nutzung Power 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854586"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276296"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI nutzungsbericht, der über das Dashboard "Partner Center Insights" verfügbar ist
 
@@ -46,39 +46,39 @@ Der Zusammenfassungsabschnitt enthält eine Momentaufnahmeansicht der Wichtigste
 
    Das Mikrodiagramm zeigt einen monatlichen Trend der monatlich aktiven Stellen im ausgewählten Zeitraum an.
 
-- Aktive Nutzung %: Gesamtzahl der aktiven Arbeitsplätze, ausgedrückt als Prozentsatz der verfügbaren Arbeitsplätze für den ausgewählten Zeitraum. 
+- Aktive Nutzung %: Gesamtanzahl der aktiven Stellen, ausgedrückt als Prozentsatz der verfügbaren Stellen für den ausgewählten Zeitrahmen. 
 
-   Das Micro-Diagramm zeigt einen monatlichen Trend des aktiven Nutzungsprozentsatzes für den ausgewählten Zeitraum an.
+   Das Mikrodiagramm zeigt einen monatlichen Trend des aktiven Nutzungsprozentwerts für den ausgewählten Zeitraum an.
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI Nutzungszusammenfassung":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI nutzungszusammenfassung.":::
 
-## <a name="power-bi-usage-by-geography"></a>Power BI Nutzung nach Geografie
+## <a name="power-bi-usage-by-geography"></a>Power BI nutzung nach Geografie
 
-Die **Power BI Nutzung nach Geografie** zeigt die Verteilung der verfügbaren Arbeitsplätze und aktiven Arbeitsplätze nach Kundenland. Hellere Farben auf der Karte stellen niedrigere Werte dar, dunklere Farben stellen höhere Werte dar. Sie können ein Land im Raster suchen und auswählen, auf das sie vergrößert werden sollen.
+Die **Power BI nach Geografie veranschaulicht** die Verteilung der verfügbaren und aktiven Stellen nach Land des Kunden. Hellere Farben auf der Karte stellen niedrigere Werte dar, während dunklere Farben höhere Werte darstellen. Sie können ein Land im Raster suchen und auswählen, auf das Sie zoomen möchten.
 
-Die Tabelle **Anzahl der Länder/Regionen** enthält die Gesamtanzahl der Länder/Regionen, in denen Azure-Nutzungsereignisse generiert werden.
+Die **Tabelle Anzahl der Länder/Regionen** enthält die Gesamtanzahl der Länder/Regionen, in denen Azure-Nutzungsereignisse generiert werden.
 
-Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Wählen Sie auf der Karte die Option **Start** aus, um zur ursprünglichen Ansicht zurückzukehren.
+Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Wählen Sie auf **der** Karte die Option Start aus, um zur ursprünglichen Ansicht zurück zu gehen.
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI Nutzung nach Geografie":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI verwendung nach Geografie.":::
 
-## <a name="power-bi-usage-by-sku"></a>Power BI Nutzung nach SKU
+## <a name="power-bi-usage-by-sku"></a>Power BI nutzung nach SKU
 
-Die Power BI Nutzung nach SKU stellt den monatlichen Trend verfügbarer Arbeitsplätze, aktiver Arbeitsplätze und zugewiesener Arbeitsplätze nach SKUs dar.
+Die Power BI SKU zeigt den monatlichen Trend der verfügbaren, aktiven und zugewiesenen Plätzen nach SKUs.
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI Nutzung nach SKU":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI nutzung nach SKU.":::
 
-## <a name="subscriptions-performance"></a>Leistung von Abonnements
+## <a name="subscriptions-performance"></a>Abonnementleistung
 
-Die Leistung von Abonnements zeigt den monatlichen Trend der aktiven Nutzung pro Kundenabonnement an. Daten für die ersten 100 Kunden nach abgerechnetem Umsatz werden in der Tabelle angezeigt, und Sie können nach einem beliebigen Kunden suchen oder die Rohdaten herunterladen, um Details für alle Abonnements anzuzeigen.
+Die Abonnementleistung stellt den monatlichen Trend der aktiven Nutzung pro Kundenabonnement dar. Daten für die 100 wichtigsten Kunden nach abgerechnetem Umsatz werden in der Tabelle angezeigt, und Sie können nach einem beliebigen Kunden suchen oder die Rohdaten herunterladen, um Details für alle Abonnements anzuzeigen.
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Leistung Power BI Abonnements":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI Abonnementleistung.":::
 
 ## <a name="power-bi-usage-distribution"></a>Power BI der Nutzungsverteilung
 
-Die Power BI Nutzungsverteilung zeigt die Aufschlüsselung der verfügbaren Arbeitsplätze, aktiven Arbeitsplätze und zugewiesenen Arbeitsplätze nach SKUs.
+Die Power BI nutzungsverteilung zeigt die Aufschlüsselung der verfügbaren, aktiven und zugewiesenen Stellen nach SKUs.
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI der Nutzungsverteilung":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI der Nutzungsverteilung.":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6124e20efe16e134c441bb1fd72f022e841083b0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152782"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276233"
 ---
 # <a name="download-reports"></a>Herunterladen von Berichten
 
@@ -28,11 +28,11 @@ Nachdem der Bericht generiert wurde,  steht er im Abschnitt Generierte Berichte 
 
 **Erstellen eines neuen Berichts**
 
-Um einen Bericht zu generieren, wählen Sie den Bericht zunächst in der **Dropdownliste Bericht** auswählen aus. Wählen Sie dann den Datumsbereich aus der **Dropdownliste Datumsbereich auswählen** aus. Wählen Sie **Generieren** aus. Der Bericht wird im TSV-Format (Tab-Separated Value) generiert und kann innerhalb weniger Minuten im Abschnitt **Generierte** Berichte heruntergeladen werden. Berichte, die während der letzten 14 Tage generiert wurden, stehen zum Download zur Verfügung.
+Um einen Bericht zu generieren, wählen Sie den Bericht zunächst in der **Dropdownliste** Bericht auswählen aus. Wählen Sie dann den Datumsbereich aus der **Dropdownliste Datumsbereich** auswählen aus. Wählen Sie **Generieren** aus. Der Bericht wird im TSV-Format (Tab-Separated Value) generiert und kann innerhalb weniger Minuten im Abschnitt **Generierte** Berichte heruntergeladen werden. Berichte, die während der letzten 14 Tage generiert wurden, stehen zum Download zur Verfügung.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Erstellen eines neuen Berichts":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Erstellen Sie einen neuen Bericht.":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Generierte Berichte":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Generierte Berichte.":::
 
 >[!NOTE] 
 >Nur die Benutzer, die Berichts-Viewer von Führungskräften sind, können Berichte herunterladen. Weitere Informationen zum rollenbasierten Zugriff auf die Berichte des Insights-Dashboards finden Sie unter [PCI-Rollen.](pci-roles.md) 
@@ -43,19 +43,19 @@ Die folgenden Berichte können heruntergeladen werden:
 
 **Das Partnerprofil** enthält die Details zum Partner. Details wie Partner-ID, Partnername, Partner ort und Partnerland sind im Bericht verfügbar. Für diesen Bericht gilt keine Aggregation oder kein Lookback.
 
-**Kundendetails** enthalten die Details der Kunden, denen ein Partner zugeordnet ist. Außerdem werden wichtige Metriken wie verkaufte Lizenzen, aggregierte ACR usw. bereitgestellt. Der Bericht wird monatlich aggregiert.
+**Kundendetails** enthalten die Details der Kunden, denen ein Partner zugeordnet ist. Außerdem werden wichtige Metriken wie verkaufte Lizenzen, aggregierte ACR-Werte und so weiter bereitgestellt. Der Bericht wird monatlich aggregiert.
 
-**Die Abonnementdetails** enthalten die Details der vom Partner verkauften oder verwalteten Abonnements sowie Kundeninformationen. Der Bericht wird monatlich aggregiert.
+**Abonnementdetails** enthalten details zu den Abonnements, die vom Partner verkauft oder verwaltet werden, sowie Kundeninformationen. Der Bericht wird monatlich aggregiert.
 
-**Die Azure-Nutzung** enthält die Azure-Nutzungsdetails. Diese Details gelten für die vom Partner verkauften oder verwalteten Azure-Abonnements. Die Nutzungsdetails werden nach Verbrauchsmessungskategorie und anderen Schlüsseldimensionen aufgeteilt. Der Bericht wird monatlich aggregiert.
+**Die Azure-Nutzung** enthält die Azure-Nutzungsdetails. Diese Details gelten für die Azure-Abonnements, die vom Partner verkauft oder verwaltet werden. Die Nutzungsdetails sind nach Verbrauchsmessungskategorie und anderen Schlüsseldimensionen aufgeteilt. Der Bericht wird monatlich aggregiert.
 
-**Office 365** – Lizenznutzung enthält die Nutzungsdetails von O365-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und wichtige Metriken wie monatliche aktive Benutzer (Monthly Active Users, MAU), qualifizierte Berechtigungen usw. angezeigt. Der Bericht wird monatlich aggregiert.
+**Office 365 – Lizenznutzung** enthält die Nutzungsdetails von O365-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Wichtige Metriken wie monatlich aktive Benutzer (Monthly Active Users, MAU), qualifizierte Berechtigungen und so weiter bereitgestellt. Der Bericht wird monatlich aggregiert.
 
-**Enterprise Mobility : Die Lizenznutzung**  enthält die Nutzungsdetails von Enterprise Mobility-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und wichtige Metriken wie monatliche aktive Benutzer (Monthly Active Users, MAU), qualifizierte Berechtigungen usw. angezeigt. Der Bericht wird monatlich aggregiert.
+**Enterprise Mobility – Lizenznutzung enthält**  die Nutzungsdetails von Enterprise Mobility-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Wichtige Metriken wie monatlich aktive Benutzer (Monthly Active Users, MAU), qualifizierte Berechtigungen und so weiter bereitgestellt. Der Bericht wird monatlich aggregiert.
 
-**Dynamics 365 – Lizenznutzung** enthält die Nutzungsdetails von D365-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und wichtige Metriken wie monatliche aktive Benutzer (Monthly Active Users, MAU), qualifizierte Berechtigungen usw. angezeigt. Der Bericht wird monatlich aggregiert.
+**Dynamics 365 – Lizenznutzung** enthält die Nutzungsdetails von D365-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Wichtige Metriken wie monatlich aktive Benutzer (Monthly Active Users, MAU), qualifizierte Berechtigungen und so weiter bereitgestellt. Der Bericht wird monatlich aggregiert.
 
-**Power BI: Die Lizenznutzung** enthält die Nutzungsdetails Power BI Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und wichtige Metriken wie monatliche aktive Benutzer (Monthly Active Users, MAU), qualifizierte Berechtigungen usw. angezeigt. Der Bericht wird monatlich aggregiert.
+**Power BI: Die Lizenznutzung** enthält die Nutzungsdetails Power BI Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Wichtige Metriken wie monatlich aktive Benutzer (Monthly Active Users, MAU), qualifizierte Berechtigungen und so weiter bereitgestellt. Der Bericht wird monatlich aggregiert.
 
 **Trainings** bieten Details wie Prüfungen, Zertifizierungen, Bewertungen, Spuren, Kurse, die von Mitarbeitern des Partners abgeschlossen oder aufgenommen wurden.
 

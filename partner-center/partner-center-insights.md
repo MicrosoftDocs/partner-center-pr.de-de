@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 05fad9c7eecbc8b7f639faa24b654fb0474245ca
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151014"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277622"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: Ein Dashboard, das die Funktionsweise eines kommerziellen Microsoft-Partners zeigt.
 
@@ -39,34 +39,34 @@ Die folgenden Berichte sind als Teil des Insights-Dashboards verfügbar.
 
 **Übersicht:** Der Übersichtsbericht enthält eine Momentaufnahmeansicht verschiedener KPIs, die für Sie von Interesse sind, z. B. Kundenanzahl, Anzahl aktiver Abonnements, Azure Consumption Revenue, Aktive Lizenzen usw.
 
-**Kunde:** Im Bericht "Kunde" werden Analysen zu Ihren Kunden angezeigt, z. B. Kundenakquisedaten, aktive Kunden usw.
+**Kunde:** Im Kundenbericht werden Analysen für Ihre Kunden angezeigt, z. B. Kundendaten, aktive Kunden usw.
 
-**Produkt – Abonnements:** Der Bericht "Abonnements" enthält Kauf- und Nutzungsanalysen für Ihre Cloudabonnements (z. B. O365, Azure, Dynamics usw.).
+**Produkt – Abonnements:** Im Abonnementbericht werden Die Erfassungs- und Nutzungsanalysen für Ihre Cloudabonnements (z. B. O365, Azure, Dynamics usw.) angezeigt.
 
-**Produkt– Lizenzen:** Das Lizenzdashboard zeigt Lizenzanalysen für lizenzbasierte Cloudprodukte wie O365, Dynamics, Power BI usw. an.
+**Produkt– Lizenzen:** Im Dashboard Lizenzen werden Lizenzanalysen für lizenzbasierte Cloudprodukte wie O365, Dynamics, Power BI usw. angezeigt.
 
-**Produkt – Azure-Nutzung:** Der Azure-Nutzungsbericht enthält Metriken im Zusammenhang mit den Azure-Abonnements Ihrer Kunden, einschließlich Azure-Verbrauchsumsatz und Nutzung nach Verbrauchsklassen.
+**Produkt – Azure-Nutzung:** Der Azure-Nutzungsbericht enthält Metriken im Zusammenhang mit den Azure-Abonnements Ihrer Kunden, einschließlich Azure-Verbrauchsumsatz und Nutzung nach Verbrauchskategorien.
 
-**Kompetenzen:** Der Bericht "Kompetenzen" enthält Metriken zu Ihren aktiven, qualifizierten und gefährdeten Kompetenzen.
+**Kompetenzen:** Der Bericht Kompetenzen enthält Metriken zu Ihren Kompetenzen "Aktiv", "Qualifiziert" und "Gefährdet".
 
-Vorteile: Der Bericht **"Vorteile"** enthält Analysen zu Partnervorteilen, die Sie erworben und genutzt haben.
+**Vorteile:** Der Bericht "Vorteile" enthält Analysen zu den Vorteilen von Partnern, die Sie im Vergleich zu den vorteilen erhalten haben.
 
 ## <a name="navigating-the-insights-reports"></a>Navigieren in den Insights-Berichten
 
-**Datumsbereichsfilter:** Sie finden eine Datumsbereichsauswahl in der oberen rechten Ecke jeder Seite. Die Ausgabe der Diagramme der Übersichtsseite kann angepasst werden, indem sie einen Datumsbereich basierend auf den letzten 3, 6 oder 12 Monaten oder einen benutzerdefinierten Datumsbereich auswählt. Die Standardauswahl für den Datumsbereich beträgt 12 Monate. 
+**Datumsbereichsfilter:** Eine Datumsbereichsauswahl finden Sie in der oberen rechten Ecke jeder Seite. Die Ausgabe der Übersichtsseitendiagramme kann angepasst werden, indem ein Datumsbereich basierend auf den letzten 3, 6 oder 12 Monaten oder ein benutzerdefinierter Datumsbereich ausgewählt wird. Die Standardauswahl für den Datumsbereich beträgt 12 Monate. 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="Einführungskarte":::
+:::image type="content" source="images/pci/intro1.png" alt-text="Einführungsübersicht.":::
 
-**Schaltfläche "Feedback":** Jedes Diagramm/Steuerelement in allen Insights-Berichten ist mit einer Feedbackschaltfläche integriert, mit der Sie Instanzfeedback zu einem Berichtsfeature bereitstellen können. 
+**Schaltfläche "Feedback":** Jedes Diagramm/Steuerelement in allen Insights-Berichten wird mit einer Feedbackschaltfläche integriert, mit der Sie Instanzfeedback zu einem Berichtsfeature bereitstellen können. 
 
  
 **Filter auf Seitenebene:** Mit Ausnahme der Berichte Übersicht, Vorteile und Kompetenzen können Sie mit allen Insights-Berichten Filter auf Seitenebene anwenden. 
 
-- Die ausgewählten Filter gelten für alle Diagramme und Metriken auf einer Seite, einschließlich des Abschnitts "Zusammenfassung". Ein Filterelement ist verfügbar, wenn Sie über Daten innerhalb dieser Filterkriterien verfügen. 
+- Die ausgewählten Filter gelten für alle Diagramme und Metriken auf einer Seite, einschließlich des Zusammenfassungsabschnitts. Ein Filterelement ist verfügbar, wenn Sie Daten innerhalb dieser Filterkriterien haben. 
 
-- Die Standardauswahl jeder Filterliste ist **alle**. Wenn Sie z. B. kein bestimmtes Produkt im Filter "Produkte" ausgewählt haben, ist die Standardauswahl alle Produkte.
+- Die Standardauswahl jeder Filterliste ist **.** Wenn Sie beispielsweise kein bestimmtes Produkt im Produktfilter ausgewählt haben, werden standardmäßig alle Produkte ausgewählt.
 
-- Ausgewählte Filter werden oben auf der Seite angezeigt. 
+- Die ausgewählten Filter werden oben auf der Seite angezeigt. 
 
 :::image type="content" source="images/pci/filters.png" alt-text="Teilabbildung der Leiste Angewendete Filter mit Filterauswahl für Produkte, Kundenmarkt, Partnerzuordnungen und Vertriebskanäle.":::
 

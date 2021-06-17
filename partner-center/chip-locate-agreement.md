@@ -1,5 +1,5 @@
 ---
-title: Suchen nach Desktopanzahl und Gebührenstufe
+title: Ermitteln der Desktopanzahl und der Gebührenstufe
 ms.topic: how-to
 ms.date: 02/18/2021
 description: Erfahren Sie, wie Sie die Channel Incentives-Plattform (CHIP) verwenden, um informationen zur Desktopanzahl und zum Gebührentarif für eine Vereinbarung zu finden.
@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148991"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276936"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Suchen der Desktopanzahl und Gebührenstufe für eine Vereinbarung
 
@@ -47,34 +47,34 @@ Sie können sich bei [explore.ms](https://www.explore.ms/) anmelden, um die Vere
 
 | Gebührenstufe | Desktopanzahl |
 | ------ | :-----------: |
-|  A | 0 – 2,399    |
+|  Ein | 0 – 2,399    |
 |  B | 2,400 – 5,999    |
 |  C | 6,000 – 14,999    |
 |  D | 15,000+   |
 
 >[!NOTE]
->Die Enterprise Incentive-Ebenen basieren auf der Desktop- oder Benutzeranzahl (je nach Höherem) bei Registrierungen im kommerziellen und öffentlichen Sektor (Public Sector, PS). Für Registrierungen ohne natürlich zugeordnete Desktop- oder Benutzeranzahl wendet Microsoft eine Desktopanzahl basierend auf der Anzahl der Desktops oder der Benutzeranzahl des zugehörigen EA an. <br><br>Wenn es kein zugehöriges EA gibt, basiert die Gebührenstufe auf dem Tarif der Registrierung. Die Preisstufe des Deals kann auch auf der Seite [www.explore.ms.](https://www.explore.ms/) <br><br>Wenn es mehrere Pool- und/oder Preisstufen für das vorhandene EA/EAS gibt, zahlen Microsoft Incentives auf der Ebene mit den höchsten zugewiesenen Preisen/Pools, bei denen Ebene A die niedrigste und Ebene D die höchste ist.
+>Enterprise Incentive-Ebenen basieren auf der Desktop- oder Benutzeranzahl (je nachdem, welcher Wert höher ist) bei Registrierungen im kommerziellen und öffentlichen Sektor (PS). Für Registrierungen ohne natürliche zugeordnete Desktop- oder Benutzeranzahl wendet Microsoft eine Desktopanzahl basierend auf der Desktopanzahl oder Benutzeranzahl des zugehörigen EA an. <br><br>Wenn kein begleitendes EA vorhanden ist, basiert die Gebührenstufe auf dem Tarif der Registrierung. Die Preisstufe des Deals kann auch auf [www.explore.ms](https://www.explore.ms/)angezeigt werden. <br><br>Wenn es mehrere Pool- und/oder Preisebenen für das vorhandene EA/EAS gibt, zahlen Microsoft Incentives auf der höchsten zugewiesenen Preis-/Poolebene, wobei Ebene A die niedrigste ebene und Ebene D die höchste ist.
 
-#### <a name="pool-and-pricing-levels"></a>Pool- und Preisstufen
+#### <a name="pool-and-pricing-levels"></a>Pool- und Preisebenen
 
-Wählen Sie nach der Suche nach der Vereinbarungsnummer in explore.ms den oben beschriebenen Schritten die Vertragsnummer aus. Dadurch wird die Seite mit den Vertragsdetails angezeigt, auf der die **Zusammenfassung und** angebote der Vereinbarung **angezeigt werden.** Der Abschnitt "Angebote" enthält die Tarife.
+Nachdem Sie mithilfe der oben beschriebenen Schritte in explore.ms nach der Vertragsnummer gesucht haben, wählen Sie die Vertragsnummer aus. Dadurch gelangen Sie zur Seite mit den Vertragsdetails, auf der die **Vertragszusammenfassung** und **die Angebote** angezeigt werden. Der Abschnitt "Angebote" enthält die Preisstufen.
 
-## <a name="method-2---chip"></a>Methode 2– CHIP
+## <a name="method-2---chip"></a>Methode 2 – CHIP
 
 1. Melden Sie sich bei CHIP an, und wählen Sie LSP-Incentives aus.
 
-2. Wählen Sie **auf der Seite** Partner payment Summary (Partnerzahlungszusammenfassung) den Berichtsmonat aus, den Sie anzeigen möchten, und wählen Sie dann in der Dropdownliste unter Nach Excel exportieren die Option Berechnungsdetails **aus:** 
+2. Wählen Sie auf der Seite **Partner payment summary (Partnerzahlungszusammenfassung)** den Berichtsmonat aus, den Sie anzeigen möchten, und wählen Sie dann **berechnungsdetails** aus der Dropdownliste unter **Export to Excel (Nach Excel exportieren)** aus:
 
-:::image type="content" source="images/chip/chiplocate.png" alt-text="Suchen von Programmdetails":::
+:::image type="content" source="images/chip/chiplocate.png" alt-text="Suchen Sie nach Programmdetails.":::
 
-3. Der Export wird gestartet, und Sie können entweder die Datei öffnen oder unter einem Ziel speichern bzw. speichern.
+3. Der Export wird gestartet, und Sie können die Datei öffnen oder unter in einem Ziel speichern.)
 
-4. Wenn der Bericht geöffnet ist, navigieren Sie ganz unten links zur Registerkarte **DetailReport-FlatFile:**
+4. Wenn der Bericht geöffnet ist, navigieren Sie ganz links zur Registerkarte **DetailReport-FlatFile:**
 
-:::image type="content" source="images/chip/flatfile.png" alt-text="Flat file download (Flatdateidownload)":::
+:::image type="content" source="images/chip/flatfile.png" alt-text="Flatfiledownload.":::
 
-Sie können nun nach der Vertragsnummer suchen, die Sie in Spalte J suchen. Sie finden die anzahl der zugewiesenen Desktops in spalte R mit der Bezeichnung Agreement_DesktopCount. Sie können die Gebührenstufe für diese Vereinbarung auch in der Spalte "KI" mit der Bezeichnung Tarif bestätigen.
+Sie können nun nach der Vertragsnummer suchen, die Sie in Spalte J suchen, und sie finden die zugewiesene Desktopanzahl in Spalte R mit der Bezeichnung Agreement_DesktopCount. Sie können die Gebührenstufe für diese Vereinbarung auch in der Spalte "KI" mit der Bezeichnung Tarif bestätigen.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Behandeln von CHIP-Zugriffsproblemen](chip-access-trouble.md)
+- [Behandeln von Problemen mit dem CHIP-Zugriff](chip-access-trouble.md)

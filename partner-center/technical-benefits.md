@@ -9,16 +9,18 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
-ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
-ms.translationtype: MT
+ms.openlocfilehash: b6af92907f56f85435cf3fb1c16b13196cf35e08
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112318094"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284484"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Erkunden der technischen Presales- und Bereitstellungsdienste (TPD) 
 
-**Geeignete Rollen:** Jedes MPN-Benutzerkonto, solange die Organisation über eine aktive Kompetenz oder Microsoft-Action Pack.
+**Geeignete Rollen**
+
+- MPN-Partneradministrator
 
 Dieser Artikel enthält eine Beschreibung der MPN-Vorteile (Microsoft Partner Network), die mit der Nutzung der technischen Presales- und Bereitstellungsdienste (TPD) verbunden sind, z. B. Beratungsgespräche, Presales-Unterstützung, Beratungsstunden und mehr.
 
@@ -42,21 +44,7 @@ Zusätzlich zu lokalen Instanzen von Windows 10, Windows Server und Microsoft S
 
 Melden Sie sich mit einem beliebigen MPN-Benutzerkonto an, um **[eine Serviceanfrage für technische Presales- und Bereitstellungsdienste (TPD) zu erstellen](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (Aktivierung des technischen Vorteils ist nicht erforderlich).
 
-## <a name="delivery-scenarios"></a>Übermittlungsszenarien
-
-- **Technische Presales-Sätze** werden verwendet, um Wertversprechen zu definieren, Kostenschätzungen, technische Lizenzierung, Kundenanstöße zu verwalten, auf Konkurrentennachrichten zu reagieren, technische Lösungen, Proof of Concepts oder Architekturplanung und -entwurf zu demonstrieren, die zu einer Statement of Work führen.
-
-  - *Nicht unterstützt:* Planung der Vertriebspipeline, Endbenutzerdiskussionen, Lizenzierungspreise und Preislisten.
-
-
-- **Bereitstellungsanleitungen** werden für architekturplanungs- und entwurfsanleitungen, bewährte Methoden, Bereitstellungsanleitungen, Produktreferenzen und Dokumentation verwendet.
-
-  - *Nicht unterstützt:* Fehlerbehebung für Support/Problembehandlung, Hotfixes, lokale Dienste, langfristige Beratung (weniger als 25 Stunden pro Engagement), direkt an den Kundensupport oder den praktischen Support in einer Produktionsumgebung. 
-
-
-- **Marketplace-Veröffentlichungen** werden verwendet, um Ihre Lösung für die fortlaufende Leadgenerierung im kommerziellen Microsoft-Marketplace zu veröffentlichen. Unterstützung für Entwickler, Dienstkonfiguration, Architektur oder Entwurf, Migration von lokalen Lösungen, Codeüberprüfung und Unterstützung bei der Veröffentlichung von Anwendungen.
-
-  - *Nicht unterstützt:* Codedebuggen, Anwendungsentwicklung über den einfachen Proof of Concepts hinaus.
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Vorteile von technischen Presales- und Bereitstellungsdiensten" :::
 
 ## <a name="in-scope-products-and-services"></a>Enthaltene Produkte und Dienste
 
@@ -66,10 +54,9 @@ Für die folgenden Produkte und Dienste werden technische Presales- und Bereitst
 - **Business Applications**: Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Nicht enthalten: Ausschließlich lokale Versionen von Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure**: Alle Microsoft Azure-Lösungen und zugehörigen Dienste, z. B. Infrastructure-as-a-Service, Platform-as-a-Service, Data Platform, BI Analytics, Cognitive Services, Azure Machine Learning, Azure Stack
-- **Windows Server und SQL Server:** Innerhalb des Mainstreamsupports, der durch den **[Produktlebenszyklus bestimmt wird)](/lifecycle/policies/fixed)**
+- **Windows Server**: Windows Server mit grundlegendem Support (gemäß **[Produktlebenszyklus](https://docs.microsoft.com/lifecycle/policies/fixed)** )
   - System Center umfasst verwandte Produkte wie SCCM, sofern im Zusammenhang mit Cloud- oder Hybridszenarien
 - **Windows 10**: Windows 10-Betriebssystem, Geräte, universelle Apps
-- **Produkte im privaten oder Public Preview:** Hilfe wird auf best efforts-Basis bereitgestellt, für Nicht-Produktionsumgebungen und ohne Garantie für die Verfügbarkeit von Informationen oder die Antwortzeit.
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Übermitteln einer Serviceanfrage für technische Presales- und Bereitstellungsdienste 
 
@@ -89,11 +76,9 @@ Zeigen Sie Ihre technischen Vorteile in Partner Center wie folgt an:
 
 3. Wählen Sie **[Submit technical presales and deployment request](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (Serviceanfrage für technische Presales- und Bereitstellungsdienste senden) aus.
 
-:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Technische Presales- und Bereitstellungsvorteile." :::
-
 4. Geben Sie unter **Produkte suchen** das relevante Produkt ein. Falls zu viele Ergebnisse angezeigt werden, können Sie nach dem Lösungsbereich filtern oder die Option „Themen durchsuchen“ nutzen, um die Suche nach den einzelnen Taxonomieebenen einzugrenzen.
 
-:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Technische Presales- und Bereitstellungsvorteile: Search-Produkte.":::
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Vorteile von technischen Presales- und Bereitstellungsdiensten: Produkte suchen":::
 
    > [!NOTE]
    > Wenden Sie sich an Ihren Supportkonto-Manager (Support Account Manager, SAM), falls Sie im Rahmen Ihres ASfP- oder PSfP-Supportplans eine Cloudberatung benötigen.
@@ -106,6 +91,5 @@ Zeigen Sie Ihre technischen Vorteile in Partner Center wie folgt an:
 6. Auf der Bestätigungsseite werden die Nummer und eine Beschreibung der Supportanfrage angezeigt. Darüber hinaus erhalten Sie von Partner Center eine Bestätigungs-E-Mail mit der Nummer der Anfrage.
 
 ## <a name="next-steps"></a>Nächste Schritte
-[Technischer Support für lokale oder Cloudprodukte](/mpn-benefits-technical-support.md)
 
 [Verwalten von Microsoft Partner Network-Mitgliedschaftsvorteilen und -Angeboten im Partner Center](manage-your-partner-network-benefits.md)

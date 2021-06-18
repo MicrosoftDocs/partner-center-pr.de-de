@@ -9,16 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276381"
+ms.locfileid: "112318094"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Erkunden der technischen Presales- und Bereitstellungsdienste (TPD) 
 
-**Geeignete Rollen**: MPN-Partneradministrator
+**Geeignete Rollen:** Jedes MPN-Benutzerkonto, solange die Organisation über eine aktive Kompetenz oder Microsoft-Action Pack.
 
 Dieser Artikel enthält eine Beschreibung der MPN-Vorteile (Microsoft Partner Network), die mit der Nutzung der technischen Presales- und Bereitstellungsdienste (TPD) verbunden sind, z. B. Beratungsgespräche, Presales-Unterstützung, Beratungsstunden und mehr.
 
@@ -44,14 +44,14 @@ Melden Sie sich mit einem beliebigen MPN-Benutzerkonto an, um **[eine Serviceanf
 
 ## <a name="delivery-scenarios"></a>Übermittlungsszenarien
 
-- **Technische Presales-Sätze** werden verwendet, um Wertversprechen zu definieren, Kostenschätzungen zu erstellen, Kundenanstöße zu verwalten, auf Mitbewerbernachrichten zu reagieren, technische Lösungen, Proof of Concepts oder Architekturplanung und -entwurf zu demonstrieren, die zu einer Statement of Work führen.
+- **Technische Presales-Sätze** werden verwendet, um Wertversprechen zu definieren, Kostenschätzungen, technische Lizenzierung, Kundenanstöße zu verwalten, auf Konkurrentennachrichten zu reagieren, technische Lösungen, Proof of Concepts oder Architekturplanung und -entwurf zu demonstrieren, die zu einer Statement of Work führen.
 
-  - *Nicht unterstützt:* Planung der Vertriebspipeline, Preise und Preislisten.
+  - *Nicht unterstützt:* Planung der Vertriebspipeline, Endbenutzerdiskussionen, Lizenzierungspreise und Preislisten.
 
 
 - **Bereitstellungsanleitungen** werden für architekturplanungs- und entwurfsanleitungen, bewährte Methoden, Bereitstellungsanleitungen, Produktreferenzen und Dokumentation verwendet.
 
-  - *Nicht unterstützt:* Fehlerbehebung für Support/Problembehandlung, lokale Dienste, langfristige Beratung, direkt an den Kundensupport oder praxisorientierten Support in einer Produktionsumgebung. 
+  - *Nicht unterstützt:* Fehlerbehebung für Support/Problembehandlung, Hotfixes, lokale Dienste, langfristige Beratung (weniger als 25 Stunden pro Engagement), direkt an den Kundensupport oder den praktischen Support in einer Produktionsumgebung. 
 
 
 - **Marketplace-Veröffentlichungen** werden verwendet, um Ihre Lösung für die fortlaufende Leadgenerierung im kommerziellen Microsoft-Marketplace zu veröffentlichen. Unterstützung für Entwickler, Dienstkonfiguration, Architektur oder Entwurf, Migration von lokalen Lösungen, Codeüberprüfung und Unterstützung bei der Veröffentlichung von Anwendungen.
@@ -66,7 +66,7 @@ Für die folgenden Produkte und Dienste werden technische Presales- und Bereitst
 - **Business Applications**: Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
   - *Nicht enthalten: Ausschließlich lokale Versionen von Dynamics 365, GP, SL, AX, NAV*
 - **Microsoft Azure**: Alle Microsoft Azure-Lösungen und zugehörigen Dienste, z. B. Infrastructure-as-a-Service, Platform-as-a-Service, Data Platform, BI Analytics, Cognitive Services, Azure Machine Learning, Azure Stack
-- **Windows Server**: Windows Server mit grundlegendem Support (gemäß **[Produktlebenszyklus](/lifecycle/policies/fixed)** )
+- **Windows Server und SQL Server:** Innerhalb des Mainstreamsupports, der durch den **[Produktlebenszyklus bestimmt wird)](/lifecycle/policies/fixed)**
   - System Center umfasst verwandte Produkte wie SCCM, sofern im Zusammenhang mit Cloud- oder Hybridszenarien
 - **Windows 10**: Windows 10-Betriebssystem, Geräte, universelle Apps
 - **Produkte im privaten oder Public Preview:** Hilfe wird auf best efforts-Basis bereitgestellt, für Nicht-Produktionsumgebungen und ohne Garantie für die Verfügbarkeit von Informationen oder die Antwortzeit.
@@ -106,5 +106,6 @@ Zeigen Sie Ihre technischen Vorteile in Partner Center wie folgt an:
 6. Auf der Bestätigungsseite werden die Nummer und eine Beschreibung der Supportanfrage angezeigt. Darüber hinaus erhalten Sie von Partner Center eine Bestätigungs-E-Mail mit der Nummer der Anfrage.
 
 ## <a name="next-steps"></a>Nächste Schritte
+[Technischer Support für lokale oder Cloudprodukte](/mpn-benefits-technical-support.md)
 
 [Verwalten von Microsoft Partner Network-Mitgliedschaftsvorteilen und -Angeboten im Partner Center](manage-your-partner-network-benefits.md)

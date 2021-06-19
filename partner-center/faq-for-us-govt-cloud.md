@@ -7,13 +7,13 @@ ms.subservice: partnercenter-csp
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.date: 11/20/2019
-ms.openlocfilehash: e2bff940dc2d145a783dddad3a71aba14e1ba25a
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 6/17/2021
+ms.openlocfilehash: a10235d002007c8b2dfd3ab460ccb67fd5384cc3
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150963"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373374"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Häufig gestellte Fragen zum Partner Center für Microsoft Cloud for US Government
 
@@ -27,7 +27,7 @@ Verwenden Sie die häufig gestellten Fragen, um mehr zum Cloud Solution Provider
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>Was ist Microsoft Cloud for US Government?
 
-Microsoft Cloud for US Government wurde von Grund auf für die US-Regierung entwickelt und ermöglicht Kunden des öffentlichen Sektor im USA – von großen Bundesbehörden bis hin zu Behörden in kleinen Städte – die Auswahl aus einer Reihe von Cloud Computing-Diensten. Um die spezifischen Anforderungen von Kunden zu erfüllen, hat Microsoft erhebliche Investitionen in Rechenzentren getätigt und ist bestrebt, die Einhaltung von Us-Bundes- und Bundesstaatsrichtlinien, -anforderungen und -anforderungen zu erfüllen.
+Microsoft Cloud for US Government wurde von Grund auf für die US-Regierung entwickelt und ermöglicht kunden im öffentlichen Sektor im USA – von großen Bundesbehörden bis hin zu Behörden in kleinen Städte – die Auswahl aus einer Reihe von Cloud Computing-Diensten. Um die spezifischen Anforderungen von Kunden zu erfüllen, hat Microsoft erhebliche Investitionen in Rechenzentren getätigt und ist bestrebt, die Einhaltung von Us-Bundes- und Bundesstaatsrichtlinien, -anforderungen und -anforderungen zu erfüllen.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>Wer kann am CSP-Programm für Microsoft Cloud for US Government teilnehmen?
 
@@ -53,7 +53,7 @@ Das CSP-Programm für Microsoft Cloud for US Government unterscheidet sich in de
 
 - Vertrag: Das Microsoft Cloud Reseller Agreement (MCRA) wurde aktualisiert, um eindeutigen behördlichen Bestimmungen Rechnung zu tragen.
 
-- Funktionalität des Partner Centers: Bestimmte Funktionen im Partner Center werden nicht für das CSP-Programm für Microsoft Cloud for US Government aktiviert, um deren regulatorische und Compliance-Anforderungen zu erfüllen. Partner können stattdessen Azure Active Directory (Azure AD) oder [Graph-API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) verwenden, um Aufgaben zur Verwaltung von Benutzern und Gruppen auszuführen. Das Feature "Beziehungsanforderung" zur Unterstützung von Szenarien mit mehreren Kanälen und mehreren Partnern ist nach dem Start verfügbar, wenn lizenzbasierte Dienste im CSP für Microsoft Cloud for US Government.
+- Funktionalität des Partner Centers: Bestimmte Funktionen im Partner Center werden nicht für das CSP-Programm für Microsoft Cloud for US Government aktiviert, um deren regulatorische und Compliance-Anforderungen zu erfüllen. Partner können stattdessen Azure Active Directory (Azure AD) oder [Graph-API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) verwenden, um Aufgaben im Zusammenhang mit der Benutzer- und Gruppenverwaltung auszuführen. Das Feature für automatisierte Beziehungsanforderungen soll bis Oktober 2021 verfügbar gemacht werden.
 
 ### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>Ich bin noch kein CSP-Partner. Wo finde ich weitere Informationen darüber, wie ich ein CSP-Partner werden kann?
 
@@ -69,13 +69,13 @@ MCRA für Microsoft Cloud for US Government unterscheidet sich von der standardm
 
 - Das Addendum für die US Government-Cloud bezeichnet zusätzliche Verantwortlichkeiten für Partner bei Transaktionen mit US Government-Clouddiensten.
 
-- In Abbildung A sind die Microsoft-Kundenvereinbarung (Microsoft-Kundenvereinbarung) enthalten, die in jeden Vertrag für CLOUD-Dienste der US-Regierung einbezogen werden müssen, der zwischen dem CSP und seinem Kunden eingegangen ist.
+- Abbildung A enthält die Microsoft-Kundenvereinbarung (Microsoft-Kundenvereinbarung), die in jeden Vertrag für US Government Cloud-Dienste integriert werden müssen, die zwischen dem CSP und dem Kunden eingegangen sind.
 
-*Microsoft-Kundenvereinbarung (Microsoft-Kundenvereinbarung), das als "Exhibit A" in MCRA präsentiert wird*
+*Microsoft-Kundenvereinbarung (Microsoft-Kundenvereinbarung), dargestellt als Exponent A in MCRA*
 
 CSPs müssen Anlage A in den Regierungsvertrag zwischen CSPs und Kunden einbinden, die Microsoft Cloud for US Government erwerben. Der Vertrag wird im Partner Center veröffentlicht und ist nur auf Englisch verfügbar.
 
-Microsoft-Kundenvereinbarung für die US Government Cloud unterscheiden sich auf zwei Arten von Microsoft-Kundenvereinbarung Standard-Cloud:
+Microsoft-Kundenvereinbarung für die US Government Cloud unterscheidet sich auf zwei Arten vom Standard-Microsoft-Kundenvereinbarung:
 
 - Sie muss in den Vertrag des CSP mit dem Kunden integriert werden.
 
@@ -89,15 +89,15 @@ MCDA für Microsoft Cloud for US Government unterscheidet sich von der standardm
 
 - Das Addendum für Microsoft Cloud for US Government bezeichnet zusätzliche Verantwortlichkeiten für Partner bei Transaktionen mit US Government-Clouddiensten.
 
-- Abbildung A enthält Microsoft-Kundenvereinbarung (Microsoft-Kundenvereinbarung), die in jeden Vertrag für CLOUD-Dienste der US-Regierung integriert werden müssen, der zwischen dem CSP und seinen Kunden eingegangen ist.
+- Abbildung A enthält Microsoft-Kundenvereinbarung (Microsoft-Kundenvereinbarung), die in jeden Vertrag für US Government Cloud-Dienste integriert werden müssen, die zwischen dem CSP und seinen Kunden eingegangen sind.
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>Welche Qualifikationen sind für den Verkauf der Microsoft Cloud for US Government erforderlich?
 
-Die Qualifizierungskriterien für den Verkauf des CSP-Programms für Microsoft Cloud for US Government entsprechen den Qualifizierungskriterien für CSP Commercial, die sowohl direkten Partnern als auch indirekten Handelspartnern offen sind. Sie müssen nicht erneut als indirekter Wiederverkäufer für das CSP-Programm für Microsoft Cloud for US Government verwendet werden, wenn Sie als indirekter Wiederverkäufer für CSP Commercial zugelassen sind.
+Die Qualifizierungskriterien für den Verkauf des CSP-Programms für Microsoft Cloud for US Government entsprechen den Qualifizierungskriterien für CSP Commercial, die sowohl direkten Partnern als auch indirekten Handelspartnern offen stehen. Sie müssen nicht erneut als indirekter Vertriebspartner für das CSP-Programm für Microsoft Cloud for US Government werden, wenn Sie als indirekter Vertriebspartner für CSP Commercial genehmigt sind.
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>Ich bin bereits Partner. Was muss ich tun, um Microsoft Cloud for US Government zu verkaufen?
 
-Partner müssen dem CSP-Programm für Microsoft Cloud for US Government beitreten, um die regulatorischen und Compliance-Anforderungen zu erfüllen. (Onboarding für Microsoft Cloud for US Government ist vom Onboarding für CSP Commercial getrennt.) Nach dem Onboarding können Sie kunden- und transaktionsaktive Angebote erstellen, die in Microsoft Cloud for US Government. Wenn Sie APIs verwenden, finden Sie weitere Informationen unter Developing for Partner Center for Microsoft National Cloud (Entwickeln für Partner Center [für die nationale Microsoft-Cloud).](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
+Partner müssen dem CSP-Programm für Microsoft Cloud for US Government beitreten, um die regulatorischen und Compliance-Anforderungen zu erfüllen. (Das Onboarding für Microsoft Cloud for US Government unterscheidet sich vom Onboarding für CSP Commercial.) Sobald Sie das Onboarding durchgeführt haben, können Sie Kunden erstellen und Angebote, die in Microsoft Cloud for US Government verfügbar sind, tätigen. Wenn Sie APIs verwenden, finden Sie weitere Informationen unter [Developing for Partner Center for Microsoft National Cloud (Entwickeln für Partner Center für die nationale Microsoft-Cloud).](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
 
 ### <a name="is-there-any-difference-in-partner-incentives"></a>Gibt es Unterschiede bei Partner-Incentives?
 
@@ -107,9 +107,9 @@ Nein. Die Partner-Incentives für das CSP-Program für Microsoft Cloud for US Go
 
 Nein. Abrechnungskriterien und -anforderungen für das CSP-Programm für Microsoft Cloud for US Government sind mit den Abrechnungskriterien und -anforderungen für CSP Commercial identisch. Weitere Informationen über die Abrechnung finden Sie in den Ressourcen des [Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider/resources).
 
-### <a name="for-data-hosted-in-commercial-data-centers-is-it-possible-to-change-to-microsoft-cloud-for-us-government"></a>Ist es für Daten, die in kommerziellen Rechenzentren gehostet werden, möglich, in Microsoft Cloud for US Government?
+### <a name="for-data-hosted-in-commercial-data-centers-is-it-possible-to-change-to-microsoft-cloud-for-us-government"></a>Ist es für Daten, die in kommerziellen Rechenzentren gehostet werden, möglich, zu Microsoft Cloud for US Government zu wechseln?
 
-Zur Vereinfachung und Aufrechterhaltung der Integrität der Isolation von Microsoft Cloud for US Government gibt es keine Mechanismen zum Verschieben der vorhandenen Dienste eines Kunden in Microsoft Cloud for US Government. Wenn ein Kunde oder Partner über Azure verfügt, ist er für alle Datenverschiebungen in eine neue Umgebung in Microsoft Cloud for US Government verantwortlich.
+Zur Vereinfachung und Aufrechterhaltung der Integrität der Isolation von Microsoft Cloud for US Government gibt es keine Mechanismen, um die vorhandenen Dienste eines Kunden in Microsoft Cloud for US Government zu verschieben. Wenn ein Kunde oder Partner über Azure verfügt, ist er für alle Datenverschiebungen in eine neue Umgebung in Microsoft Cloud for US Government verantwortlich.
 
 ## <a name="questions-about-microsoft-cloud-for-us-government-for-azure"></a>Fragen zu Microsoft Cloud for US Government für Azure
 
@@ -150,13 +150,13 @@ Die APIs und Integrationsanforderungen für das CSP-Programm für Microsoft Clou
 
 ### <a name="is-there-a-workaround-for-apis-not-available-in-the-csp-program-for-microsoft-cloud-for-us-government"></a>Gibt es eine Problemumgehung für die nicht im CSP-Programm für Microsoft Cloud for US Government verfügbaren APIs?
 
-Partner können die Azure-Portal, Azure AD PowerShell oder die Graph-API für die Verwaltung von Partnerbenutzerkonten verwenden. Weitere technische Informationen finden Sie unter [Entwickeln mit Partner Center für Government Cloud.](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)
+Partner können die Azure-Portal, Azure AD PowerShell oder die Graph-API für die Verwaltung von Partnerbenutzerkontos verwenden. Weitere technische Informationen finden Sie unter [Entwickeln mit Partner Center für Government Cloud.](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)
 
 ## <a name="questions-about-other-resources"></a>Fragen zu anderen Ressourcen
 
 ### <a name="where-can-i-learn-more"></a>Wo kann ich mehr erfahren?
 
-Verwenden Sie die folgenden Links, um sich mit dem CSP-Programm vertraut zu machen und mehr über die Entwicklung mit Partner Center für Microsoft Cloud for US Government zu erfahren.
+Verwenden Sie die folgenden Links, um sich mit dem CSP-Programm vertraut zu machen und mehr über die Entwicklung mit Partner Center für Microsoft Cloud for US Government.
 
 - [Informationen zu Azure Government](https://azure.microsoft.com/overview/clouds/government/)
 
@@ -166,9 +166,9 @@ Verwenden Sie die folgenden Links, um sich mit dem CSP-Programm vertraut zu mach
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>An wen kann ich mich bei weiteren Fragen wenden?
 
-Wenden Sie sich an Ihren Konto-Manager, um weitere Informationen zu erfahren. Darüber hinaus können Sie sich an unsere Yammer-Gruppe für [CSP for Azure Government](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) wenden.
+Wenden Sie sich an Ihren Konto-Manager, um weitere Informationen zu erhalten. Darüber hinaus können Sie sich an unsere Yammer-Gruppe für [CSP for Azure Government](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) wenden.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Registrieren Sie sich für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md).
-- [Weitere Informationen zu Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
+- [Registrieren Sie sich für Cloud Solution Provider-Programm für Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md).
+- [Erfahren Sie mehr über Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

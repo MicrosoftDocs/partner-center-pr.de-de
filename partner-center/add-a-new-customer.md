@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen eines neuen Kundendatensatz
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 04/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie einen neuen Kundendatensatz in Partner Center. Anschließend können Sie die Kundenabonnements verkaufen, die Abrechnung verwalten oder Kundensupport bereitstellen.
@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 76e15992355eff88e3a9391ea4af327c3ad969e0
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150555"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373357"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>So fügen Sie im Partner Center einen neuen Kundendatensatz hinzu
 
@@ -41,7 +41,7 @@ In diesem Artikel wird beschrieben, wie Sie Ihrer Kundenliste in der Partner Cen
    >- Geben Sie die vollständige, genaue Adresse (Standortdetails, Ort, Bundesland, Land und Postleitzahl) an.
 
    >[!IMPORTANT]
-   > Am 1. Oktober 2019 hat Microsoft die **Microsoft-Kundenvereinbarung** für das CSP-Programm eingeführt, die den Microsoft Cloud-Vertrag ersetzt. Erfahren Sie mehr über [Microsoft-Kundenvereinbarung und wie Sie die Zustimmung bestätigen.](confirm-customer-agreement.md)
+   > Am 1. Oktober 2019 hat Microsoft die **Microsoft-Kundenvereinbarung** für das CSP-Programm eingeführt, die den Microsoft Cloud-Vertrag ersetzt. Erfahren Sie mehr [über Microsoft-Kundenvereinbarung und wie Sie die Zustimmung bestätigen.](confirm-customer-agreement.md)
   
 3. Wenn Sie ein indirekter Anbieter sind, wählen Sie in der Liste den indirekten Vertriebspartner aus, den Sie den Abonnements dieses Kunden zuordnen möchten.
 

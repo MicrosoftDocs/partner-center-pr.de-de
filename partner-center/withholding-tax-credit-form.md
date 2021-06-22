@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 05bf6e09c5dc5982c3faa3e426f7b99acfc09949
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276364"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431720"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Erhalten von Gutschrift auf Ihrem Partner Center Für Steuereinbehaltung
 
@@ -22,7 +22,7 @@ ms.locfileid: "112276364"
 
 ## <a name="overview"></a>Übersicht
 
-CSP-Partner in einigen Ländern erhalten Rechnungsbeträge, die Steuern enthalten. Einige dieser Partner zahlen ihre lokale Steuerstelle anstelle von Microsoft. Wenn Sie Ihre lokale Steuerstelle bezahlen, müssen Sie eine Steuereinbehaltungsanforderung einschließlich Ihres Steuerzertifikats übermitteln, um den steuerlich berechneten Betrag aus vorherigen Rechnungen zu löschen. Diese genehmigten Beträge werden in der Spalte **Letzte** Zahlung auf der Seite **Abrechnung** in Partner Center.
+Cloud Solution Provider (CSP) erhalten Partner in einigen Ländern Rechnungsbeträge, die Steuern enthalten. Einige dieser Partner zahlen ihre lokale Steuerstelle anstelle von Microsoft. Wenn Sie Ihre lokale Steuerstelle bezahlen, müssen Sie eine Steuereinbehaltungsanforderung einschließlich Ihres Steuerzertifikats übermitteln, um den steuerlich berechneten Betrag aus vorherigen Rechnungen zu löschen. Diese genehmigten Beträge werden in der Spalte **Letzte** Zahlung auf der Seite **Abrechnung** in Partner Center.
 
 Partner, die zum Übermitteln von Steuereinbehaltungsanforderungen verwendet werden, indem sie Serviceanfragen (Partnersupporttickets) in Partner Center. Dieser Prozess wurde im Januar 2020 geändert. CSP-Partner sollten jetzt Aufbehaltungsanforderungen für Steuern auf der Seite Abrechnung einreichen, **anstatt** Supportanfragen zu erstellen.
 
@@ -37,7 +37,7 @@ Führen Sie die folgenden Schritte aus, um eine neue Steuereinbehaltung zu über
 
 2. Wählen Sie im Menü auf der linken Seite Abrechnung **aus,** und wechseln Sie zu **Abrechnungsverlauf.**
 
-3. Klicken **Sie neben der** Rechnung, für die Sie einen Antrag einreichen möchten, auf Neue übermitteln. Über den Link "Neuen Absenden" werden Sie zur Seite **Neue Steuereinbehaltungsanforderung** angezeigt.
+3. Wählen **Sie neben der** Rechnung, für die Sie einen Antrag einreichen möchten, die Option Neu übermitteln aus. Über den Link "Neuen Absenden" werden Sie zur Seite **Neue Steuereinbehaltungsanforderung** angezeigt.
 
    :::image type="content" source="images/wht1.png" alt-text="Übermitteln Sie neue Steuereinbehaltung für eine Rechnung.":::
 
@@ -68,7 +68,7 @@ Das Überprüfungsteam verlangt möglicherweise, dass Sie Korrekturen vornehmen 
 
 3. Suchen Sie **im Abrechnungsverlauf** **der Seite** Abrechnung nach der Anforderung zur Steuereinbehaltung. Anforderungen, die Ihre Aufmerksamkeit erfordern, haben den Status "Partneraktion ausstehend".
 
-4. Klicken Sie auf die ID und den Status der Steuereinbehaltungsanforderung, um zur Seite der Anforderung zu werden.
+4. Wählen Sie die ID und den Status der Steuereinbehaltungsanforderung aus, um zur Seite der Anforderung zu werden.
 
 5. Wählen **Sie unter Status die Option Aktualisieren und** erneut senden **aus.**
 
@@ -105,7 +105,7 @@ Partner, die deutsche Steuereinbehaltungsanforderungen stellen, sollten daran de
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Fragen und Unterstützung bei Steuereinbehaltungsanforderungen
 
-Partner sollten den oben beschriebenen neuen Prozess verwenden, um neue Anforderungen zu übermitteln und nicht mehr die Erstellung von Supportanfragen für neue Steuereinbehaltungsanforderungen zu verwenden. Partner mit zusätzlichen Fragen zu Steuereinbehaltungsanforderungen können [Supportanfragen übermitteln.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Supportanfragen sollen Partnern bei vorhandenen Anforderungen helfen, sodass sie  über ihre Anforderungs-ID verfügen müssen, um ein neues Ticket zu übermitteln. Wenn Partner mit dem neuen Prozess keine Anforderung übermitteln können, sollten sie eine bestimmte Zahl (alle eins) in das Supportanfrageformular eingeben. 
+Partner sollten den oben beschriebenen neuen Prozess verwenden, um neue Anforderungen zu übermitteln und nicht mehr die Erstellung von Supportanfragen für neue Steuereinbehaltungsanforderungen zu verwenden. Partner mit mehr Fragen zu Steuereinbehaltungsanforderungen können [Supportanfragen senden.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Supportanfragen sollen Partnern bei vorhandenen Anforderungen helfen, sodass sie  über ihre Anforderungs-ID verfügen müssen, um ein neues Ticket zu übermitteln. Wenn Partner mit dem neuen Prozess keine Anforderung übermitteln können, sollten sie eine bestimmte Zahl (alle eins) in das Supportanfrageformular eingeben. 
 
    > [!IMPORTANT]
    > Partner müssen sich nicht an den Support wenden, wenn ihr Anforderungsstatus **Abgeschlossen ist.** Dieser Status wird im **Abrechnungsverlauf** neben der Rechnung für die Übermittlung angezeigt. **Die letzten Zahlungsbeträge** neben der Rechnung sollten den Steuereinbehaltungsbetrag innerhalb von zehn Tagen nach der Als Abgeschlossen markierten Anforderung **widerspiegeln.**

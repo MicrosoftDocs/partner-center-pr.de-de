@@ -1,42 +1,42 @@
 ---
-title: Anmeldung bei Partner Center nicht möglich
+title: Die Anmeldung bei der Partner Center
 ms.topic: troubleshooting
 ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Beheben sie mögliche Ursachen, und erfahren Sie mehr über Lösungen, wenn Sie sich nicht bei Partner Center anmelden können. Erfahren Sie mehr über das Zurücksetzen von Kennwörtern, das Überprüfen von Rollen und das Überprüfen von Anmeldeinformationen.
+description: Behandeln sie mögliche Ursachen, und erfahren Sie mehr über Lösungen, wenn Sie sich nicht bei Partner Center anmelden können. Erfahren Sie mehr über das Zurücksetzen von Kennwörtern, das Überprüfen von Rollen und das Überprüfen von Anmeldeinformationen.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 2b67201355e748f9280d28413a8737a9b07db5c6
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818795"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431504"
 ---
-# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Behandeln von Anmeldeproblemen für Partner Center
+# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Behandeln von Anmeldeproblemen bei Partner Center
 
-**Geeignete Rollen:** Alle Partner, die an Partner Center interessiert sind
+**Geeignete Rollen:** Alle Partner, die an Partner Center
 
-Dieser Artikel enthält Lösungen für häufige Anmeldeprobleme bei Partner Center.
+Dieser Artikel enthält Lösungen für häufige Anmeldeprobleme für Partner Center.
 
-## <a name="youve-forgotten-your-password-for-partner-center"></a>Sie haben Ihr Kennwort für Partner Center
+## <a name="youve-forgotten-your-password-for-partner-center"></a>Sie haben Ihr Kennwort für die Partner Center
 
-Wenn Sie Ihr Kennwort vergessen haben und sich nicht bei Partner Center anmelden können, wenden Sie sich an den Support. Die entsprechende Kontaktperson finden Sie unter [Support for Business Products](/microsoft-365/admin/contact-support-for-business-products).
+Wenn Sie Ihr Kennwort vergessen haben und sich nicht bei Partner Center anmelden können, wenden Sie sich an den Support. Den entsprechenden Kontakt finden Sie [unter Support für Geschäftsprodukte.](/microsoft-365/admin/contact-support-for-business-products)
 
-Wenn Sie MPN-Partner sind, bitten Sie Ihren globalen Administrator, ein neues Kennwort für Sie zu erstellen. Wenn Sie ein indirekter CSP-Vertriebspartner sind, bitten Sie Ihren indirekten Anbieter, einen neuen globalen Administrator für Sie in Ihrem Azure AD Mandanten zu erstellen oder ein neues Kennwort für Sie mit den delegierten Administratorrechten zu erstellen.
+Wenn Sie ein PARTNER Microsoft Partner Network (MPN) sind, bitten Sie Ihren globalen Administrator, ein neues Kennwort für Sie zu erstellen. Wenn Sie ein indirekter Cloud Solution Provider-Vertriebspartner (CSP) sind, bitten Sie Ihren indirekten Anbieter, einen neuen globalen Administrator für Sie in Ihrem Azure Active Directory-Mandanten (AD) zu erstellen oder mithilfe der delegierten Administratorrechte ein neues Kennwort für Sie zu erstellen.
 
-Weitere Informationen dazu, wie Sie Ihr Kennwort zurücksetzen und den Zugriff auf Ihr Arbeitskonto wiederherstellen können, finden Sie unter [Zurücksetzen Ihres Arbeits- oder Schulkennworts mithilfe von Sicherheitsinformationen.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)
+Weitere Informationen dazu, wie Sie Ihr Kennwort zurücksetzen und wieder Zugriff auf Ihr Arbeitskonto erhalten können, finden Sie unter Zurücksetzen des Kennworts für Ihr Unternehmen oder Ihre Schule [mithilfe der Sicherheitsinformationen.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)
 
-## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>Sie können die erwarteten Seiten oder Funktionen in Partner Center
+## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>Sie können die erwarteten Seiten oder Funktionen in der Partner Center
 
-Der Zugriff auf Seiten in Partner Center wird durch die Ihnen zugewiesenen Rollen gesteuert. Um zu überprüfen, welche Rollen Ihnen zugewiesen sind, klicken Sie in Partner Center auf das Symbol Einstellungen, wählen **Sie Kontoeinstellungen** und dann unter Kontoeinstellungen die Option **Benutzerverwaltung** aus. Geben Sie unter Suchen Ihren Namen ein, und zeigen Sie dann die Ergebnisse an.
+Der Zugriff auf Seiten in Partner Center wird durch die Ihnen zugewiesenen Rollen gesteuert. Um zu überprüfen, welche Rollen Ihnen zugewiesen sind, wählen Sie in Partner Center das Symbol Einstellungen aus, wählen Sie Kontoeinstellungen aus, und wählen Sie dann unter Kontoeinstellungen die Option **Benutzerverwaltung aus.** Geben Sie unter Suchen Ihren Namen ein, und zeigen Sie dann die Ergebnisse an.
 
-Wenn Sie die erwarteten Kompetenzen, Kunden, Incentives oder Benutzer nicht anzeigen oder verwalten können, probieren Sie die folgenden Lösungen aus:
+Wenn Sie die von Ihnen erwarteten Kompetenzen, Kunden, Incentives oder Benutzer nicht anzeigen oder verwalten können, probieren Sie die folgenden Lösungen aus:
 
-- Wenden Sie sich an Ihren globalen Administrator oder Kontoadministrator, um Zugriff auf die Funktionen von MPN, CSP und Empfehlungen zu erhalten. Weitere Informationen zu Rollen und den Aufgaben, die sie in Partner Center aktivieren, finden Sie unter [Zuweisen von Rollen & Berechtigungen zu Benutzern.](permissions-overview.md)
+- Wenden Sie sich an Ihren globalen Administrator oder Kontoadministrator, um Zugriff auf die Funktionen von MPN, CSP und Empfehlungen zu erhalten. Weitere Informationen zu Rollen und den Aufgaben, die sie in Partner Center aktivieren, finden Sie unter Zuweisen von Rollen [& Berechtigungen für Benutzer.](permissions-overview.md)
 - Um Zugriff auf die Funktionen des kommerziellen Marketplace und der Windows & Xbox-, Office Store-, Microsoft Edge- und Hardwareentwicklerprogramme zu erhalten, wenden Sie sich an die Person mit der Rolle "Besitzer" oder "Manager" in Ihrer Organisation. Weitere Informationen zu Rollen und Berechtigungen finden Sie unter Verwalten eines Kontos im [kommerziellen Marketplace in Microsoft Partner Center.](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions)
 
 ## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>Sie können Ihr Angebot oder Ihre Vorteile nicht in der Partner Center

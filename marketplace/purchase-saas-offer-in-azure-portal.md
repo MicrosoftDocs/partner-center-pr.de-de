@@ -8,12 +8,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/04/2021
-ms.openlocfilehash: b73a9acb7b9cf9eee1151de1f8e45f6fd6ef256f
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 8dba9f95607a4172e6d5d0bc2ec148a25b599cd1
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373474"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431445"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Erwerben eines SaaS-Angebots in Azure-Portal
 
@@ -105,7 +105,7 @@ Fehlermeldungen, auf die Sie während des Prozesses stoßen können:
   - Versuchen Sie es später noch einmal. Wenn sie nach einer Stunde weiterhin diese Fehlermeldung erhalten, wenden Sie sich an den Support. 
 
 - Die *Client-E-Mail-Adresse* mit der Objekt-ID *ObjectID* verfügt nicht über die Autorisierung zum Ausführen der Aktion *DeploymentValidationAction* über den Bereich *ResourceGroup. DeploymentScope* oder der Bereich ist ungültig.  
-  - Sie erhalten diese Meldung, wenn Sie nicht über die richtigen Berechtigungen für das Azure-Abonnement bzw. die Azure-Ressourcengruppe verfügen.  
+  - Sie erhalten diese Meldung, wenn Sie nicht über die richtigen Berechtigungen für das Azure-Abonnement bzw. die Ressourcengruppe verfügen.  
     Wenn der Zugriff kürzlich gewährt wurde, aktualisieren Sie Ihre Anmeldeinformationen.  
     Zum Bereitstellen von Ressourcen in einer Ressourcengruppe benötigen Sie mindestens Zugriff auf Mitwirkender. Überprüfen Sie Ihren Zugriffsstatus unter **Ressourcengruppen,** und **Access Control** Sie dann . Dies zeigt, wer der "Besitzer" ist, wen Sie bitten können, Sie als "Mitwirkender" zuzuweisen.
 
@@ -114,5 +114,5 @@ Fehlermeldungen, auf die Sie während des Prozesses stoßen können:
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Wenn Sie Ihr Angebot über Microsoft verkaufen, lesen Sie [Hinzufügen einer Vorschauzielgruppe für Ihr SaaS-Angebot](/azure/marketplace/create-new-saas-offer-preview).
-- Lesen Sie andernfalls [Verkaufen Ihres SaaS-Angebots](/azure/marketplace/create-new-saas-offer-marketing).
+- Wenn Sie bereits ein Angebot im Marketplace erworben haben, wechseln Sie zu [Abrechnung und Rechnungsstellung.](/marketplace/billing-invoicing)
+- Sie können auch mehr über optionen [für private Pläne](/marketplace/private-offers) erfahren.

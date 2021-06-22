@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276500"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431551"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace Käufe
 
@@ -30,6 +30,9 @@ Nachdem Sie die richtige Softwareanwendung gefunden haben, ist der Kauf einfach.
 Stellen Sie vor abschluss eines Kaufs sicher, dass der Benutzer über die richtige Konfiguration im Azure-Mandanten verfügt. Dies hilft, Fehler während des Kaufs zu vermeiden.
 
 Suchen Sie Azure Marketplace im Azure-Portal die Anwendung, die Sie kaufen möchten,  und wählen Sie Erstellen oder **Einrichten + abonnieren aus.** Sie werden aufgefordert, einige Informationen zu vervollständigen, bevor Sie Ihre neue Lösung verwenden können.
+
+> [!CAUTION]
+> Die Genehmigung im privaten Marketplace gibt keine Beschaffung einer Lösung an.
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="Die Schaltfläche &quot;Erstellen&quot; des Angebots.":::
 

@@ -7,12 +7,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80cb5503323f483c13c983375559baf70f9d0b6f
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854722"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490069"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Regionale Steuern, Bestimmungen für PTSN-Dienste (Public Switched Telephone Network)
 
@@ -26,7 +26,7 @@ Wenden Sie sich an Ihre Steuer- und Rechtsabteilung, um die Verantwortung Ihrer 
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Rechnungspräsentation und Partnerabstimmungsdatei
 
-CSP-Rechnungen und CSP-Abstimmungsdateien in den USA, Rico Rico und Kanada, die Skype for Business PSTN und Microsoft 365 Voice-Dienste enthalten, stellen separate Positionen für die PSTN- und Nicht-PSTN-Komponenten bereit.
+Cloud Solution Provider (CSP)-Rechnungen und CSP-Abstimmungsdateien in den USA, Inte rico und Kanada, die Skype for Business PSTN- und Microsoft 365 Voice-Dienste enthalten, stellen separate Zeilenelemente für die PSTN- und Nicht-PSTN-Komponenten bereit.
 
 Darüber hinaus wird auf CSP-Rechnungen die folgende Fußnote angezeigt:
 
@@ -34,7 +34,7 @@ Darüber hinaus wird auf CSP-Rechnungen die folgende Fußnote angezeigt:
 
 ## <a name="reconciliation-file-example"></a>Beispiel für eine Abstimmungsdatei
 
-Office 365 Enterprise E5 zeigt in der Abstimmungsdatei zwei Zeilenelemente mit identischen Namen und identischen IDs an, aber jedes Zeilenelement hat einen eindeutigen Einzelpreis (Beispiel: 28,40 USD und 2,00 USD). Dies unterscheidet die Skype for Business PSTN Conferencing-Komponente vom Office 365-Angebot, sodass Sie Steuern korrekt anwenden können.
+Office 365 Enterprise E5 wird in der Abstimmungsdatei als zwei Zeilenelemente mit identischen Namen und identischen IDs dargestellt, aber jedes Zeilenelement hat einen eindeutigen Einzelpreis (Beispiel: 28,40 USD und 2,00 USD). Dies unterscheidet die Skype for Business PSTN Conferencing-Komponente vom Office 365-Angebot, sodass Sie Steuern korrekt anwenden können.
 
 **Beispiel für Partnerabstimmung #1 (Spalten auswählen):**
 
@@ -43,10 +43,10 @@ Office 365 Enterprise E5 zeigt in der Abstimmungsdatei zwei Zeilenelemente mit i
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Gebühr für Zyklus   |28,40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Gebühr für Zyklus   |2.00   |
 
-**Beispiel für partnerabstimmung #2**
+**Beispiel für Partnerabstimmung #2**
 
-Microsoft 365 Business Voice in Kanada verfügt über zusätzliche PSTN-Komponenten, die auf der CSP-Rechnung konsolidiert werden (ähnlich wie bei Office 365 E5 werden zwei Zeilenelemente angezeigt: eine für PSTN-Komponenten und die andere für Nicht-PSTN-Komponenten).  In der CSP-Abstimmungsdatei für Microsoft 365 Business Voice werden alle PSTN-Komponenten einzeln angezeigt (einzelne PSTN-Komponenten werden nicht in konsolidiert). CSV- oder API-Tool).  Die Summe der Bestelldetails und abgerechneten Beträge für Kunden, die in der Abstimmungsdatei gefunden wurden, entspricht der CSP-Rechnung.
+Microsoft 365 In Kanada verfügbare Business Voice verfügt über zusätzliche pstn-steuerbare Komponenten, die auf der CSP-Rechnung konsolidiert sind (ähnlich wie bei Office 365 E5 werden zwei Positionen angezeigt, eine für PSTN-Komponenten und die andere für Nicht-PSTN-Komponenten).  In der CSP-Abstimmungsdatei für Microsoft 365 Business Voice werden alle besteuerbaren PSTN-Komponenten einzeln angezeigt (einzelne PSTN-Komponenten werden nicht in .CSV oder API-Tool konsolidiert).  Die Summe der Bestelldetails und abgerechneten Beträge für Kunden, die in der Abstimmungsdatei gefunden wurden, entspricht der CSP-Rechnung.
 
 ## <a name="additional-resources"></a>Weitere Ressourcen
-Weitere Informationen finden Sie auf der Website [Microsoft 365 für Partner.](https://www.microsoft.com/microsoft-365/partners/)
+Weitere Informationen finden Sie auf der [Website Microsoft 365 für Partner.](https://www.microsoft.com/microsoft-365/partners/)
 

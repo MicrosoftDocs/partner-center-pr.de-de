@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: a93e94912f840e4cb69c3cc834f03af1b34f19aa
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 32c5cda9558aaaeddaf194eb8258ba732e2ac698
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856014"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489967"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Auswirkungen von Steuerrichtlinien auf die Auszahlung Azure Marketplace
 
@@ -20,7 +20,7 @@ ms.locfileid: "109856014"
 
 ## <a name="introduction"></a>Einführung
 
-Der kommerzielle Microsoft-Marketplace hat globale Reichweite. Transaktionen erfolgen über Grenzen hinweg, und je nachdem, wo sich der ISV und der Kunde befinden, können die Steuerauswirkungen variieren. Microsoft AppSource und Azure Marketplace sie Partner Center Steuerprofilinformationen, um das Land des ISV zu bestimmen. Um das Land des Kunden zu ermitteln, verwenden Sie entweder die Abrechnungsinformationen des Kunden, oder wenn der Kunde in der EU ist, verwenden wir zwei verschiedene Informationen.
+Der kommerzielle Microsoft-Marketplace hat globale Reichweite. Transaktionen erfolgen über Grenzen hinweg, und je nachdem, wo sich der unabhängige Softwarehersteller (INDEPENDENT Software Vendor, ISV) und der Kunde befinden, können die steuerspezifischen Auswirkungen variieren. Microsoft AppSource und Azure Marketplace sie Partner Center Steuerprofilinformationen, um das Land des ISV zu bestimmen. Um das Land des Kunden zu ermitteln, verwenden Sie entweder die Abrechnungsinformationen des Kunden, oder wenn der Kunde in der EU ist, verwenden wir zwei verschiedene Informationen.
 
 Um die folgenden Szenarien besser [](tax-details-marketplace.md) zu verstehen, lesen Sie die Tabelle "Steuerdetails", die zeigt, ob Microsoft Steuern im Auftrag des Herausgebers einzieht und abzahlt oder ob diese Verantwortung dem Herausgeber gehört.
 
@@ -63,15 +63,15 @@ Weitere Informationen zu landspezifischen Preisen (z. B. zum Ausgleich bevorsteh
 
 ## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>Ein fremder Herausgeber verkauft an einen Kunden mit EU-Umsatzsteuer-Registrierung in einem von Microsoft verwalteten Land (außerhalb von Irland).
 
-**Szenario F:** Alle Transaktionen zwischen externen Herausgebern und kunden mit EU-Umsatzsteuer (außerhalb von Irland) in einem Microsoft-Managed Land. Der Kunde zahlt keine Steuern für den Verkauf.
+**Szenario F:** Alle Transaktionen zwischen externen Herausgebern und bei der EU registrierten Kunden (außerhalb von Irland) in einem Microsoft-Managed Land. Der Kunde zahlt keine Steuern für den Verkauf.
 
 :::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="Zeigt den Workflow für das Auszahlungsprozessszenario F an.":::
 
-## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>Ein fremder Herausgeber verkauft an einen kunden mit EU-Umsatzsteuer-Registrierung in einem von Microsoft verwalteten Land (in Irland).
+## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>Ein fremder Herausgeber verkauft an einen bei der EU-Steuer registrierten Kunden in einem von Microsoft verwalteten Land (in Irland)
 
-**Szenario G:** Alle Transaktionen zwischen fremden Herausgebern und Eu-Kunden mit Eu-Umsatzsteuer-Registrierung (innerhalb von Irland) in einem Microsoft-Managed Land. Der Kunde zahlt die Gesetzliche Steuer, und Microsoft zahlt diese Steuer an die Regierung.
+**Szenario G:** Alle Transaktionen zwischen fremden Herausgebern und kunden mit EU-Umsatzsteuer (innerhalb von Irland) in einem Microsoft-Managed Land. Der Kunde bezahlt die Umsatzsteuer, und Microsoft bezahlt diese Steuer an die Regierung von Government.
 
-:::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="Zeigt den Workflow für das Auszahlungsprozessszenario G an.":::
+:::image type="content" source="images/tax-policies/payout-scenario-g.png" alt-text="Zeigt den Workflow für das Auszahlungsprozessszenario G.":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie ein CSP-Programmpartner Partner Center verwenden kann, um vom Direktabrechnungspartner zum indirekten Handelspartner zu wechseln.
+description: Erfahren Sie, wie ein CSP-Programmpartner (Cloud Solution Provider) Partner Center verwenden kann, um vom Direktabrechnungspartner zum indirekten Handelspartner zu wechseln.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e57c4a5d0a02079e887b38fa9754d276062d20cc
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 205451a1c42c6538936df49ba8a4314372a94082
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276415"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490052"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
@@ -22,13 +22,13 @@ ms.locfileid: "112276415"
 
 >[!Note]
 >Dieser Artikel richtet sich an Direktabrechnungspartner, die indirekte Wiederverkäufer werden möchten. Selbst wenn Sie noch keine explizite Entscheidung getroffen haben, sich als indirekter Vertriebspartner zu registrieren, werden Direktabrechnungspartner, die die neuen [Anforderungen](direct-partner-new-requirements.md) für das CSP Direct Bill Partner-Programm nicht erfüllen, von Microsoft darüber informiert, wenn ihre [Funktionen für direkte Rechnungen eingeschränkt werden.](restricted-direct-bill-capabilities.md)
-<br>Ab Januar 2021 wird eine neue Umsatzanforderung hinzugefügt. Partner, die als Partner mit direkter Abrechnung registriert sind, müssen in den letzten 12 Monaten mindestens 300.000 USD an Cloud Solution Provider Programmumsatz auf ebene eines globalen Partnerkontos abgewickelt haben.
+<br>Ab Januar 2021 wird eine neue Umsatzanforderung hinzugefügt. Partner, die als Partner mit direkter Abrechnung registriert sind, müssen in den letzten 12 Monaten mindestens 300.000 USD an CSP-Programmumsatz auf ebene eines globalen Partnerkontos abgewickelt haben.
 
 Sie können sich unter Verwendung Ihres vorhandenen Direktabrechnungsmandanten beim Programm für indirekte Wiederverkäufer registrieren.
 
 ## <a name="get-started"></a>Erste Schritte
 
-1. Vergewissern Sie sich, dass Ihr Partnerprofil in Partner Center und Ihre MPN-ID aktuell sind.
+1. Stellen Sie sicher, dass Ihr Partnerprofil in Partner Center und der MPN-ID (Microsoft Partner Network) aktuell ist.
 
 2. Melden Sie sich bei Partner Center als globaler Administrator für den Direktabrechnungsmandanten an, den Sie auf einen indirekten Wiederverkäufer umstellen möchten.
 
@@ -38,7 +38,7 @@ Sie können sich unter Verwendung Ihres vorhandenen Direktabrechnungsmandanten b
 
    :::image type="content" source="images/direct/direct2a.png" alt-text="Registrieren Sie sich jetzt.":::
 
-4. Wählen Sie „Jetzt registrieren“ aus. Für Ihre Tätigkeit als indirekter Wiederverkäufer wird der gleiche AAD-Mandant verwendet wie für Ihre direkte Tätigkeit.
+4. Wählen Sie „Jetzt registrieren“ aus. Ihr Geschäft mit indirekten Handelspartnern verwendet denselben Microsoft Azure Active Directory(Azure AD)-Mandanten, den Sie auch für Ihr direkt tätiges Unternehmen verwenden.
 
     > [!NOTE]
     > Diese neue Übergangsfunktion steht anfänglich nur für Partner mit Onboarding-Jahrestagen zwischen September und Dezember zur Verfügung. Wenn Ihr Jahrestag nicht zwischen September und Dezember liegt, wird die Funktion momentan nicht angezeigt. Partner mit Jahrestagen nach Dezember 2018 werden benachrichtigt, sobald die Funktion für sie aktiviert wurde.
@@ -156,28 +156,28 @@ Sie können das Feature für die Resellerbeziehungserweiterung verwenden, um mit
 - Eine Kopie der Rechnungsinformationen, die Sie für diesen Kunden haben, wird dem indirekten Anbieter zur Verfügung gestellt. Sie können auf die Rechnungsinformationen zugreifen, indem Sie in Partner Center Dashboard auf die Seite Konto für diesen Kunden zugreifen.
 
     > [!NOTE]
-    > Mithilfe des Vertriebspartnerbeziehungserweiterungsfeatures erklären Sie sich damit einverstanden, die Rechnungsinformationen, die Sie für diesen Kunden haben, an den indirekten Anbieter weiterzugeben.
+    > Durch die Verwendung des Vertriebspartnerbeziehungserweiterungsfeatures erklären Sie sich damit einverstanden, die Rechnungsinformationen, die Sie für diesen Kunden haben, an den indirekten Anbieter zu teilen.
 
 - Ihrem indirekten Anbieter werden keine delegierten Administratorrechte für den [Kundenmandanten](customers-revoke-admin-privileges.md) zur Verfügung gestellt. Wenn Ihr indirekter Anbieter delegierte Administratorrechte erfordert, müssen Sie stattdessen eine Einladung für indirekte Vertriebspartner an den Kunden senden.
 
 - Sobald die Handelspartnerbeziehung eingerichtet wurde, wird der indirekte Anbieter dem Kunden auf der Seite Partnerbeziehungen im [Admin Center Microsoft 365 als](https://admin.microsoft.com/AdminPortal/Home#/partners) CSP-Partner angezeigt und [Microsoft Store für Unternehmen](/microsoft-store/work-with-partner-microsoft-store-business).
 
     > [!IMPORTANT]
-    > Um Verwechslungen und Verwechslungen zu vermeiden, sind Sie durch Ihre Partnervereinbarung vertraglich verpflichtet, den Kunden der direkten Rechnung zu informieren und seine Zustimmung einzuholen, bevor Sie das Feature für die Beziehungserweiterung verwenden, um eine Vertriebspartnerschaft zwischen einem vorhandenen Direktabrechnungskunden und einem indirekten Anbieter herzustellen.
+    > Um Verwechslungen und Unordnungen zu vermeiden, sind Sie durch Ihre Partnervereinbarung vertraglich verpflichtet, den Direktabrechnungskunden zu informieren und seine Zustimmung einzuholen, bevor Sie das Feature für die Beziehungserweiterung verwenden, um eine Vertriebspartnerschaft zwischen einem vorhandenen Direktabrechnungskunden und einem indirekten Anbieter herzustellen.
 
 So verwenden Sie dieses Feature für einen vorhandenen Kundenmandanten:
 
 1. Melden Sie sich bei Partner Center als **Administrator-Agent an.**
 
-2. Wählen Sie auf der **Seite Kunden** einen vorhandenen Kunden aus, und klicken Sie auf das Symbol **Quicklinks,** um die Zusammenfassungsansicht des Kunden zu erweitern.
+2. Wählen Sie auf der **Seite Kunden** einen vorhandenen Kunden aus, und wählen Sie das Symbol **Quicklinks** aus, um die Zusammenfassungsansicht des Kunden zu erweitern.
 
-3. Klicken Sie unter **Indirekte Anbieter** auf Kunde auf **einen indirekten Anbieter übertragen.**
+3. Wählen Sie unter **Indirekte Anbieter** die Option Kunde auf **einem indirekten Anbieter übertragen** aus.
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="Übertragen sie den Kunden an einen indirekten Anbieter.":::
 
-4. Wählen Sie im Popupdialogfeld den **indirekten Anbieter** aus, für den Sie eine Handelspartnerbeziehung mit dem Kunden einrichten möchten.
+4. Wählen Sie im Popupdialogfeld den **indirekten Anbieter** aus, für den eine Vertriebspartnerschaft mit dem Kunden eingerichtet werden soll.
 
-5. Klicken Sie auf **Speichern und fortfahren**.
+5. Wählen Sie **Speichern und fortfahren** aus.
 
 6. Überprüfen Sie, ob der ausgewählte indirekte Anbieter unter **Indirekte Anbieter** angezeigt wird.
 
@@ -189,13 +189,13 @@ Ihr indirekter Anbieter kann keine Bestellungen für Ihre vorhandenen Kunden mit
 
 1. Wählen Sie in Partner Center im linken Navigationsbereich die Option **Indirekte Anbieter** aus.
 
-2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Vertriebspartnerschaft mit Ihrem Kunden verfügen, damit er Bestellungen im Namen Ihres Kunden übermitteln kann, wenn der Kunde neue Abonnements kaufen oder vorhandenen Abonnements neue Lizenzen hinzufügen möchte.
+2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss eine Vertriebspartnerschaft mit Ihrem Kunden haben, damit er Bestellungen im Namen Ihres Kunden übermitteln kann, wenn der Kunde neue Abonnements kaufen oder vorhandenen Abonnements neue Lizenzen hinzufügen möchte.
 
     :::image type="content" source="images/direct/direct6.png" alt-text="Laden Sie neue Kunden ein.":::
 
 3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
-4. Bearbeiten Sie den Text in der E-Mail, um zu sagen, was Sie benötigen. Stellen Sie jedoch sicher, dass Sie den Link einschließen, da er personalisiert ist, um den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters zu verbinden. Wählen Sie dann **Fertig** aus.
+4. Bearbeiten Sie den Text in der E-Mail, um zu sagen, was Sie benötigen, aber achten Sie darauf, den Link einzubinden, da er personalisiert ist, um den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters zu verbinden. Wählen Sie dann **Fertig** aus.
 
 5. Nachdem der Kunde dich und deinen Anbieter als Vertriebspartner autorisiert hat, verfügst du über die nötigen Administratorberechtigungen zur Verwaltung seiner Abonnements, Lizenzen und Benutzer, und dein indirekter Anbieter kann Aufträge im Namen des Kunden übermitteln.
 
@@ -219,7 +219,7 @@ Microsoft Cloud-Vertrag ist bis zum 31. Januar 2020 gültig. Nach diesem Datum m
 
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Übertragen vorhandener Direktabrechnungsabonnements an indirekte Anbieter
 
-Beim indirekten CSP-Modell verfügen indirekte Vertriebspartner nicht über Abrechnungsbeziehungen mit Microsoft. Stattdessen erhalten indirekte Vertriebspartner Abonnements für ihre Kunden über ihre indirekten Anbieter. Beim Übergang vom Direktabrechnungspartner zum indirekten Vertriebspartner müssen Sie die vorhandenen Abonnements, über die Sie als Partner für direkte Rechnungen verfügen, an Ihren indirekten Anbieter übertragen. Hierzu können Sie das Feature für die self-served-Abonnementübertragung in Partner Center Dashboard verwenden.
+Im indirekten CSP-Modell verfügen indirekte Vertriebspartner nicht über Abrechnungsbeziehungen mit Microsoft. Stattdessen erhalten indirekte Vertriebspartner Abonnements für ihre Kunden über ihre indirekten Anbieter. Beim Übergang vom Direktabrechnungspartner zum indirekten Vertriebspartner müssen Sie die vorhandenen Abonnements, über die Sie als Partner für direkte Rechnungen verfügen, an Ihren indirekten Anbieter übertragen. Hierzu können Sie das Feature für die self-served-Abonnementübertragung in Partner Center Dashboard verwenden.
 
 ### <a name="prerequisites"></a>Voraussetzungen
 
@@ -254,21 +254,21 @@ Das Feature ist ein vierstufiger Prozess, bei dem Folgendes gilt:
 > - [Abrufen der Übertragungen eines Kunden](/partner-center/develop/get-all-of-a-customer-s-transfers)
 > - [Abrufen von Übertragungsdetails nach ID](/partner-center/develop/get-transfer-by-id)
 
-### <a name="transitioning-partner---create-transfer-request"></a>Übergangspartner : Erstellen einer Übertragungsanforderung
+### <a name="transitioning-partner---create-transfer-request"></a>Übergangspartner – Erstellen einer Übertragungsanforderung
 
 So erstellen Sie eine Übertragungsanforderung als Übergangspartner:
 
 1. Melden Sie sich bei Partner Center als **Administrator-Agent an.**
 
-2. Wählen Sie auf der Seite **Kunden** den gewünschten Kunden aus, und klicken Sie auf das Symbol Schnelllinks, um die Zusammenfassungsansicht des Kunden zu erweitern.
+2. Wählen Sie auf der Seite **Kunden** den gewünschten Kunden und dann das Symbol Quicklinks aus, um die Zusammenfassungsansicht des Kunden zu erweitern.
 
 3. Vergewissern Sie sich unter **Indirekte Anbieter,** dass der beabsichtigte indirekte Anbieter aufgeführt ist.
 
-4. Klicken Sie auf **Abonnements anzeigen.**
+4. Wählen Sie **Abonnements anzeigen** aus.
 
 5. Suchen Sie auf der Seite **Abonnements** nach **Abonnementübertragung.**
 
-6. Klicken Sie unter **Abonnementübertragung** auf **Abonnementübertragung anfordern.**
+6. Wählen Sie unter **Abonnementübertragung** die Option **Abonnementübertragung anfordern** aus.
 
     :::image type="content" source="images/direct/direct8.png" alt-text="Anfordern der Abonnementübertragung.":::
 
@@ -290,19 +290,19 @@ So überprüfen und akzeptieren Sie eine Übertragungsanforderung als indirekter
 
 1. Melden Sie sich bei Partner Center als **Administrator-Agent** oder **Vertriebs-Agent an.**
 
-2. Wählen Sie auf der Seite **Kunden** den gewünschten Kunden aus, und klicken Sie auf das Symbol Quicklinks , um die Zusammenfassungsansicht des Kunden zu erweitern.
+2. Wählen Sie auf der Seite **Kunden** den gewünschten Kunden aus, und wählen Sie das Symbol Quicklinks aus, um die Zusammenfassungsansicht des Kunden zu erweitern.
 
 3. Vergewissern Sie sich unter **Indirekte Vertriebspartner,** dass der übergehende Partner aufgeführt ist.
 
-4. Klicken Sie auf **Abonnements anzeigen.**
+4. Wählen Sie **Abonnements anzeigen** aus.
 
 5. Suchen Sie auf der Seite **Abonnements** nach **Abonnementübertragung.**
 
     :::image type="content" source="images/direct/direct11.png" alt-text="Anzeigen der Übertragungsanforderung.":::
 
-6. Klicken Sie unter **Abonnementübertragung** auf die zu überprüfende Übertragungsanforderung.
+6. Wählen Sie unter **Abonnementübertragung** die zu überprüfende Übertragungsanforderung aus.
 
-7. Klicken Sie nach Bedarf auf **Akzeptieren** (oder **Ablehnen).**
+7. Wählen Sie **ggf. Akzeptieren** (oder **Ablehnen)** aus.
 
     :::image type="content" source="images/direct/direct12.png" alt-text="Akzeptieren Sie die Übertragungsanforderung.":::
 
@@ -318,11 +318,11 @@ So überprüfen und akzeptieren Sie eine Übertragungsanforderung als indirekter
 
 Der übergehende Partner sollte folgende Schritte ausführen:
 
-1. Melden Sie sich als **Administrator-Agent** oder **Vertriebs-Agent** bei Partner Center an.
+1. Melden Sie sich bei Partner Center als **Administrator-Agent** oder **Vertriebs-Agent an.**
 
-2. Wählen Sie auf der Seite **Kunden** den gewünschten Kunden aus, und klicken Sie auf das Symbol **Schnelllinks,** um die Zusammenfassungsansicht des Kunden zu erweitern.
+2. Wählen Sie auf der Seite **Kunden** den gewünschten Kunden und dann das Symbol **Quicklinks** aus, um die Zusammenfassungsansicht des Kunden zu erweitern.
 
-3. Klicken Sie auf **Abonnements anzeigen.**
+3. Wählen Sie **Abonnements anzeigen** aus.
 
 4. Suchen Sie auf der Seite **Abonnements** nach **Abonnementübertragung.**
 

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bbdf85d20e15841189191d6b415b54c26378850e
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855912"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551196"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Informationen zu Ihrer Rechnungs- und Abstimmungsdatei: Erfahren Sie, wie Sie sie in der Partner Center
 
@@ -34,9 +34,9 @@ Sie finden Ihre Rechnung auf der Seite Abrechnung des Dashboards in Partner Cent
 
 3. Wählen Sie auf der Seite „Abrechnungsstatus“ eine Rechnung oder Kontenabstimmungsdatei aus, um ausführlichere Informationen anzuzeigen. 
 
-Einen Link zu Ihrer neuesten Rechnung finden Sie oben auf der Seite unter Kontostand ab dem letzten Rechnungsdatum. 
+Einen Link zu Ihrer neuesten Rechnung finden Sie oben auf der Seite unter Kontosaldo ab dem letzten Rechnungsdatum. 
 
-Vorherige Rechnungen finden Sie im Abschnitt Abrechnungsverlauf. Wählen Sie das entsprechende Jahr und dann den Dropdownpfeil neben dem entsprechenden Abrechnungszeitraum aus. Wählen Sie den Link neben Rechnungen (PDF) aus, um die Rechnung für diesen Zeitraum herunterzuladen. 
+Vorherige Rechnungen finden Sie im Abschnitt Abrechnungsverlauf. Wählen Sie das entsprechende Jahr und dann den Dropdownpfeil neben dem entsprechenden Abrechnungszeitraum aus. Klicken Sie auf den Link neben Rechnungen (.pdf), um die Rechnung für diesen Zeitraum herunterzuladen. 
 
 ## <a name="invoice-types"></a>Rechnungstypen
 
@@ -44,52 +44,52 @@ Microsoft stellt eine Rechnung für lizenzbasierte Gebühren (z. B. Office 365) 
 
 Beispiel:  
 
-**Szenario 1 [Einzelne Währung]**: Partner hat Käufe für 145P-Angebote und O365-Lizenzen,  
+**Szenario 1 [Einzelne Währung]**: Partner hat Käufe für 145P-Angebote und Office 365-Lizenzen,  
 
-- Partner erhalten eine PDF-Rechnung und zwei Abstimmungsdateien, die die Gebühren für O365 und Azure (145p) abdecken.  
+- Partner erhalten eine PDF-Rechnung und zwei Abstimmungsdateien, die die Gebühren für Office 365 und Azure (145p) abdecken.  
 
 **Szenario 2 [Einzelne Währung]**: Partner haben Käufe für Azure RI, Marketplace und/oder Azure-Plan zusammen mit 145p-Käufen.
 
 - Partner erhalten eine PDF-Rechnung und eine Abstimmungsdatei, die die Gebühren für Azure (145p) abdecken. 
 
-- Partner erhalten eine weitere RECHNUNGS-PDF-Datei und eine Abstimmungsdatei, die ihre Gebühren für Azure RI, Marketplace und Azure-Plan abdeckt. 
+- Der Partner erhält eine weitere PDF-Rechnung und eine Abstimmungsdatei, die die Gebühren für reservierte Azure-Instanzen (RI), Marketplace und Azure-Plan deckt. 
 
-**Szenario 3 [Multiwährung]**: Partner hat Käufe für Azure RI in DKK und Azure-Plan in EURO zusammen mit 145p-Käufen in €.
+**Szenario 3 [Mehrere Währungen]**: Partner haben Käufe für Azure RI in DKK und azure plan in EUR zusammen mit 145p-Käufen in EUR.
 
-- Der Partner erhält eine RECHNUNGS-PDF-Datei und eine Abstimmungsdatei, die die Gebühren für Azure RI in DKK abdeckt. 
+- Der Partner erhält eine PDF-Rechnung und eine Abstimmungsdatei, die die Gebühren für Azure RI in DKK deckt. 
 
-- Der Partner erhält eine RECHNUNGS-PDF-Datei und eine Abstimmungsdatei, die die Gebühren für den Azure-Plan in EURO abdeckt. 
+- Der Partner erhält eine PDF-Rechnung und eine Abstimmungsdatei, die die Gebühren für den Azure-Plan in EUR deckt. 
 
-- Der Partner erhält eine weitere RECHNUNGS-PDF-Datei und eine Abstimmungsdatei, die die Gebühren für ein 145p-Angebot in EURO (oder der Abrechnungswährung des Partners) abdeckt. 
+- Der Partner erhält eine weitere PDF-Rechnung und eine Abstimmungsdatei, die die Gebühren für ein 145p-Angebot in EUR (oder Partnerabrechnungswährung) deckt. 
 
 
-## <a name="understanding-invoice-pdf"></a>Grundlegendes zur RECHNUNGS-PDF-Datei 
+## <a name="understanding-invoice-pdf"></a>Grundlegendes zur PDF-Datei für Rechnungen 
 
-**Rechnungen für Nutzungs- und lizenzbasierte Gebühren:** Rechnungen für Gebühren für Dienste wie Office 365 und Azure sind innerhalb von zwei (2) Tagen nach dem ausgewählten Abrechnungsdatum [UTC] verfügbar.  
+**Rechnungen für nutzungs-** und lizenzbasierte Gebühren: Rechnungen für Gebühren für Dienste wie Office 365 und Azure sind innerhalb von zwei (2) Tagen nach dem ausgewählten Abrechnungsdatum [UTC] verfügbar.  
 
-**Rechnungen für einmalige und wiederkehrende Gebühren:** Rechnungen für Gebühren für Dienste wie Azure RI, Azure-Plan und Marketplace sind bis zum 8. jedes Monats verfügbar.  
+**Rechnungen für einmalige** und wiederkehrende Gebühren: Rechnungen für Gebühren für Dienste wie Azure RI, Azure-Plan und Marketplace sind nicht später als das achte jedes Monats verfügbar.  
 
-Im Folgenden finden Sie einige der Schlüsselfelder im PDF-Dokument für Rechnungen:
+Im Folgenden finden Sie einige der Wichtigsten Felder im PDF-Dokument zur Rechnung:
 
-**Rechnungsnummer:** Eindeutiger Bezeichner für das für den jeweiligen Abrechnungszeitraum generierte Rechnungsdokument. 
+**Rechnungsnummer:** Eindeutiger Bezeichner für das Für den jeweiligen Abrechnungszeitraum generierte Rechnungsdokument. 
 
 **Abrechnungszeitraum:** Dies ist der Zeitraum, in dem Sie über Nutzungen und lizenzbasierte Dienste verfügen. 
 
 **Rechnungsdatum:** Das Abrechnungsdatum oder das Jahrestag, an dem Ihre Rechnung jeden Monat generiert wird. 
 
-**Fälligkeitsdatum** der Zahlung: Das Datum, an dem Ihre Zahlung empfangen werden muss. 
+**Fälligkeitsdatum der Zahlung:** Das Datum, bis zu dem Ihre Zahlung empfangen werden muss. 
 
-**Gebühren:** Der in Ihrer Abrechnungswährung für den jeweiligen Abrechnungszeitraum fällige Betrag. 
+**Gebühren:** Der fällige Betrag in Ihrer Abrechnungswährung für den jeweiligen Abrechnungszeitraum. 
 
-**Guthaben:** Guthaben (z. B. SLA) oder Anpassungen für Änderungen an Abonnements (z. B. Erhöhung oder Verringerung der Lizenz). 
+**Gutschriften:** Gutschriften (z. B. Vereinbarung zum Servicelevel (SLA) oder Anpassungen für Änderungen an Abonnements (z. B. Lizenzerhöhungen oder -verringerungen). 
 
-**Zahlungsanweisungen:** Beschreibung der Zahlung Ihrer Rechnung basierend auf Ihrer Region. Achten Sie bei einer Zahlung immer darauf, Dass Sie Ihre Rechnungsnummer angeben. 
+**Zahlungsanweisungen:** Beschreibung der Zahlung Ihrer Rechnung basierend auf Ihrer Region. Achten Sie bei der Zahlung immer darauf, Dass Sie Ihre Rechnungsnummer enthalten. 
 
-Eine ausführliche Beschreibung aller Felder in Ihrer Rechnungsdatei (einschließlich der Felder für einmalige Gebühren) finden Sie unter Felder für [Die Rechnungsdatei.](invoice-file.md) 
+Eine ausführliche Beschreibung aller Felder in Ihrer Rechnungsdatei (einschließlich der Felder für einmalige Gebühren) finden Sie unter Felder der [Rechnungsdatei.](invoice-file.md) 
 
 ## <a name="understand-reconciliation-files"></a>Verstehen von Abstimmungsdateien
 
- Abstimmungsdateien, die einen Drilldown bzw. detaillierte Details zu Ihren Gebühren enthalten, können zusammen mit der PDF-Rechnung heruntergeladen werden. Die Abstimmungsdateien enthalten Kunden-IDs und Abonnement-IDs, die Sie zum Erstellen von Kundenrechnungen verwenden können. Weitere Informationen zu den  [Abstimmungsdateien](use-the-reconciliation-files.md) finden Sie unter Verwenden der Abstimmungsdateien. 
+ Abstimmungsdateien, die einen Drilldown bzw. detaillierte Details zu Ihren Gebühren bereitstellen, können zusammen mit der PDF-Rechnung heruntergeladen werden. Die Abstimmungsdateien enthalten Kunden-IDs und Abonnement-IDs, die Sie zum Erstellen von Kundenrechnungen verwenden können. Weitere Informationen zu Abstimmungsdateien finden Sie unter [Verwenden der Abstimmungsdateien.](use-the-reconciliation-files.md) 
 
 ## <a name="next-steps"></a>Nächste Schritte
 

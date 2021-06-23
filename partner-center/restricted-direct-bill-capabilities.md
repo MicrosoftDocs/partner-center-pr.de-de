@@ -4,44 +4,44 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über die Anforderungen von CSP-Direktabrechnungspartner und darüber, wie Sie eine Einschränkung von Funktionen vermeiden können. Finden Sie heraus, ob Ihre Funktionen eingeschränkt wurden.
+description: Erfahren Sie mehr über die Anforderungen Cloud Solution Provider (CSP) direkt abgerechneter Partner und darüber, wie Sie verhindern können, dass Funktionen eingeschränkt werden. Ermitteln Sie, ob Ihre Funktionen eingeschränkt wurden.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e5bc33101809a805ba591be5a9b51d8dfff2397b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855487"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551417"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Eingeschränkte Direktabrechnungsfunktionen und die Anforderungen, die für CSP-Partner mit direkter Abrechnung erforderlich sind
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Eingeschränkte Funktionen für direkt abgerechnete Rechnungen und die Anforderungen, die für CSP-Partner mit direkter Abrechnung erforderlich sind
 
-**Geeignete Rollen:** Globaler Administrator
+**Geeignete Rollen**: Globaler Administrator
 
-## <a name="overview"></a>Überblick
+## <a name="overview"></a>Übersicht
 
-Direktabrechnungspartner müssen die neuen Anforderungen [erfüllen, um](direct-partner-new-requirements.md) im CSP-Programm für Partner mit direkter Abrechnung verbleiben zu können. Andernfalls wird Ihr Zugriff auf die Funktionen der direkten Abrechnung schließlich eingeschränkt, und sie können bestimmte Aufgaben (z. B. die Durchführung neuer Käufe für Ihre Kunden) nicht mehr übernehmen.
+Partner mit direkter Abrechnung müssen die neuen [Anforderungen](direct-partner-new-requirements.md) erfüllen, um im CSP-Programm (Direct Bill Partner) Cloud Solution Provider zu bleiben. Andernfalls wird Ihr Zugriff auf die Funktionen der direkten Abrechnung schließlich eingeschränkt, und sie können bestimmte Aufgaben (z. B. die Durchführung neuer Käufe für Ihre Kunden) nicht mehr übernehmen.
 
 > [!Note]
-> Partner mit direkter Abrechnung, die die neuen Anforderungen für das CSP-Direktabrechnungspartnerprogramm nicht erfüllen, werden von Microsoft informiert, wenn ihre Funktionen für direkte Rechnungen eingeschränkt werden. Dies gilt für alle Direktabrechnungspartner, unabhängig davon, ob sie sich für den Übergang vom Direktabrechnungspartner zu indirekten [Handelspartnern entschieden](transition-direct-to-indirect.md) haben oder nicht.  
+> Partner mit direkter Abrechnung, die die neuen Anforderungen für das CSP-Partnerprogramm für direkt abgerechnete Rechnungen nicht erfüllen, werden von Microsoft darüber informiert, wann ihre Funktionen für direkte Rechnungen eingeschränkt werden. Dies gilt für alle Direktabrechnungspartner, unabhängig davon, ob sie sich für den [Übergang vom Direktabrechnungspartner zu indirekten Handelspartnern](transition-direct-to-indirect.md) entschieden haben oder nicht.  
 
-## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>So erkennen Sie, ob Ihre Funktionen für direkte Rechnungen eingeschränkt wurden
+## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Erfahren Sie, ob Ihre Funktionen für direkte Rechnungen eingeschränkt wurden.
 
-Um zu überprüfen, ob der Zugriff vom Direktabrechnungspartner-Mandanten auf Direct Bill-Funktionen eingeschränkt wurde, führen Sie die folgenden Schritte aus.
+Führen Sie die folgenden Schritte aus, um zu überprüfen, ob der Zugriff vom Direktabrechnungspartnermandanten auf Funktionen für direkte Rechnungen eingeschränkt wurde.
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) an.
 
-2. Wechseln Sie zu **Kontoeinstellungen**  ->  **Rechtliches Profil.**
+2. Wechseln Sie zu **Kontoeinstellungen**  >  **Rechtliches Profil**.
 
-3. Suchen **Sie unter** Programminformationen nach Microsoft Cloud Solution Provider **Status**.
+3. Suchen Sie unter **Programminformationen** nach **Microsoft Cloud Solution Provider Status**.
 
-4. Wenn der Programmstatus den Wert **eingeschränkt hat,** bedeutet dies, dass der Zugriff Ihres Direktabrechnungspartner-Mandanten auf Direktabrechnungsfunktionen eingeschränkt wurde.
+4. Wenn für den Programmstatus der Wert **eingeschränkt** ist, bedeutet dies, dass der Zugriff Ihres Partnermandanten für direkt abgerechnete Rechnungen auf Funktionen für direkte Rechnungen eingeschränkt wurde.
 
 ## <a name="affected-direct-bill-capabilities"></a>Betroffene Direktabrechnungsfunktionen
 
-Wenn Ihre Funktionen für direkte Rechnungen eingeschränkt wurden, können Sie keine neuen Käufe mehr für Ihre Kunden in Partner Center. Diese Einschränkung umfasst Folgendes:
+Wenn Ihre Funktionen für direkte Rechnungen eingeschränkt wurden, können Sie in Partner Center keine neuen Käufe mehr für Ihre Kunden tätigen. Diese Einschränkung umfasst Folgendes:
 
 - Azure-Abonnements
 
@@ -49,11 +49,11 @@ Wenn Ihre Funktionen für direkte Rechnungen eingeschränkt wurden, können Sie 
 
 - Fügen Sie vorhandenen lizenzbasierten Abonnements neue Add-Ons hinzu.
 
-- Einmalige Käufe von Software und Reservierungsprodukten (z. B. Softwareabonnements, unbefristete Software und Azure Reserved Virtual Machine-Instanzen).
+- Einmalige Käufe von Software- und Reservierungsprodukten (z. B. Softwareabonnements, unbefristete Software und Azure Reserved Virtual Machine-Instanzen).
 
-Sie können auch nicht das [Azure-Partnerangebot für gemeinsame Dienste](shared-services.md) im Rahmen des CSP-Programms verwenden, um neue Azure-Abonnements für Ihre eigene Verwendung zu erwerben.
+Sie können auch das Angebot für [gemeinsame Azure-Partnerdienste](shared-services.md) im Rahmen des CSP-Programms nicht verwenden, um neue Azure-Abonnements für Ihre eigene Verwendung zu erwerben.
 
-Vorhandene Direktabrechnungsabonnements sind nicht betroffen. Sie bleiben weiterhin gültig und werden automatisch verlängert. Sie werden weiterhin direkt von Microsoft abgerechnet, bis sie storniert werden. Sie können vorhandene Abonnements weiterhin auf folgende Weise verwalten:
+Vorhandene Direktabrechnungsabonnements sind nicht betroffen. Sie bleiben gültig und werden automatisch neu angepasst. Sie werden weiterhin direkt von Microsoft in Rechnung gestellt, bis sie storniert werden. Sie können vorhandene Abonnements weiterhin auf folgende Weise verwalten:
 
 - Aussetzen vorhandener Abonnements
 

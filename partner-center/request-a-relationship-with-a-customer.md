@@ -1,5 +1,5 @@
 ---
-title: Beantragen einer Partnerschaft mit einem Kunden
+title: Beantragen einer Vertriebspartnerschaft mit einem Kunden
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
@@ -8,31 +8,31 @@ description: Fordern Sie eine Beziehung mit einem Kunden für Szenarien mit mehr
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856116"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551638"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Anfordern einer Handelspartnerbeziehung von einem Kunden in Partner Center
 
-**Geeignete Rollen:** Administrator-Agent-| Globaler Administrator
+**Geeignete Rollen:** Administrator-Agent| Globaler Administrator
 
-Wenn Sie den Dienst oder das Abonnement eines Kunden in dessen Namen verwalten möchten, muss der Kunde Ihnen Administratorberechtigungen für diesen Dienst oder dieses Abonnement erteilen und die Microsoft-Kundenvereinbarung signieren.
+Wenn Sie den Dienst oder das Abonnement eines Kunden in deren Namen verwalten möchten, muss der Kunde Ihnen Administratorberechtigungen für diesen Dienst oder dieses Abonnement erteilen und die Microsoft-Kundenvereinbarung.
 
 Wenn Sie eine Handelspartnerbeziehung mit einem Kunden einrichten und nur die von Ihnen bereitgestellten Azure-Abonnements verwalten möchten, müssen Sie keine Administratorberechtigungen erhalten.
 
 >[!NOTE] 
->Partner, die in Microsoft Cloud for US Government oder Microsoft Cloud Deutschland arbeiten, können keine Berechtigungen anfordern. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](customers-revoke-admin-privileges.md).
+>Die Option, keine Berechtigungen an fordern, ist für Partner, die in Microsoft Cloud for US Government Microsoft Cloud Deutschland arbeiten, nicht verfügbar. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](customers-revoke-admin-privileges.md).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden, eine Vertriebspartnerschaft mit Ihnen einzugehen
 
-Sie können eine Vertriebspartnerschaft mit einem Kunden innerhalb Ihres Landes oder in derselben Region anfordern.
+Sie können eine Handelspartnerbeziehung mit einem Kunden innerhalb Ihres Landes oder derselben Region anfordern.
 
 1. Wählen Sie im **Partner Center**-Menü die Option **Kunden** und anschließend **Vertriebspartnerschaft beantragen** aus.
 
-2. Um Administratorberechtigungen von diesem Kunden anzufordern, wählen **Sie Delegierte Administratorrechte für Azure Active Directory und Office 365** einschließen aus. Deaktivieren Sie diese Option, um die Beziehung ohne Anforderung von Administratorberechtigungen herzustellen.
+2. Wenn Sie Administratorberechtigungen von diesem Kunden anfordern möchten, wählen Sie Delegierte Administratorrechte für Azure Active Directory **und Office 365 ein.** Deaktivieren Sie diese Option, um die Beziehung ohne Anforderung von Administratorberechtigungen herzustellen.
 
 3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail. Sie können den Entwurf der Nachricht in Ihrer Standardanwendung für E-Mails öffnen oder in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
@@ -40,19 +40,19 @@ Sie können eine Vertriebspartnerschaft mit einem Kunden innerhalb Ihres Landes 
 
 4. Senden Sie die E-Mail an den Kunden.
 
-5. Nachdem der Kunde Ihre Einladung angenommen hat, wird er auf der Seite **Kunden** angezeigt und kann den Dienst für den Kunden von dort aus bereitstellen und verwalten.
+5. Nachdem der Kunde Ihre Einladung angenommen hat,  wird er auf der Seite Kunden angezeigt und kann den Dienst für den Kunden von dort aus bereitstellen und verwalten.
 
    > [!NOTE]
-   > Wenn der Kunde die Microsoft-Kundenvereinbarung noch nicht akzeptiert hat, wird er aufgefordert, dies zu tun, wenn er Ihre Einladung annimmt. Der Kunde muss globaler Administrator sein, um die Einladung anzunehmen.
+   > Wenn der Kunde die Einladung noch nicht akzeptiert Microsoft-Kundenvereinbarung, wird er aufgefordert, dies zu tun, wenn er Ihre Einladung akzeptiert. Der Kunde muss globaler Administrator sein, um die Einladung anzunehmen.
 
 6. Erweitere zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem du neben seinem Namen auf den nach unten weisenden Pfeil klickst.
 
 > [!IMPORTANT]  
-> Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Solange Sie ihre Vereinbarung mit dem Kunden nicht erneut aushandeln, sind Sie jedoch weiterhin für die Bereitstellung des Kundensupports und die Einhaltung der Bedingungen des Microsoft Partner-Vereinbarung verantwortlich, auch nachdem ein Kunde Administratorberechtigungen neu zugewiesen oder entfernt hat. In diesem Fall können Sie Microsoft-Support anrufen, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
+> Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Es sei denn, und bis Sie Ihre Vereinbarung mit dem Kunden neu aushandeln, sind Sie weiterhin für die Bereitstellung des Kundensupports und die Einhaltung der Bedingungen der Microsoft Partner-Vereinbarung verantwortlich, auch nachdem ein Kunde Administratorberechtigungen neu zugewiesen oder entfernt hat. In diesem Fall können Sie Microsoft-Support anrufen, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Änderungen bei der Kundeneinladung
 
-Die Kundenerfahrung für die Annahme einer Einladung zur Handelspartnerbeziehung von einem Cloud Solution Provider Partner wird in verschiedenen kundenorientierten Portalen gehostet. Der Standort des Portals hängt davon ab, ob sich ein Kunde in einer öffentlichen Oder nationalen Cloud von Microsoft befindet:
+Die Kundenerfahrung für die Annahme einer Einladung zu einer Handelspartnerbeziehung von einem Cloud Solution Provider-Partner (CSP) wird von verschiedenen kundenorientierten Portalen gehostet. Der Standort des Portals hängt davon ab, ob sich ein Kunde in einer öffentlichen Oder nationalen Cloud von Microsoft befindet:
 
 |Typen von Cloudkunden  | Wo akzeptiert ein Kunde eine Einladung zur Handelspartnerbeziehung? |
 |---------|---------

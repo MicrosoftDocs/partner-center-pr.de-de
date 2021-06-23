@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5cb494f3e32201c20184d8de551e15cc8fc28d9b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854977"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551310"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Verwenden von Werbeaktionen, um neue Kunden zu gewinnen und die Einsparungen an sie zu übergeben
 
@@ -25,7 +25,7 @@ ms.locfileid: "109854977"
 
 Microsoft bietet gelegentlich Werbeaktionen für lizenzbasierte Abonnements an, deren Einsparungen Sie an die Kunden weitergeben können, um Ihr Geschäft zu erweitern. 
 
-Microsoft bietet zwei Arten von Werbeaktionen an: Diese sind für alle berechtigten Partner im Cloud Solution Provider-Programm (CSP) verfügbar, und solche, die nur für Partner in einer bestimmten geografischen Region verfügbar sind.
+Microsoft bietet zwei Arten von Werbeaktionen an: Die, die allen berechtigten Partnern im Cloud Solution Provider-Programm (CSP) zur Verfügung stehen, und diejenigen, die nur Partnern in einer bestimmten geografischen Region zur Verfügung stehen.
 
 Aktionspreise werden automatisch auf Ihren Nettopreis angewendet, wenn Sie neue Abonnements zum Werbepreis erwerben. Darüber hinaus werden alle Lizenzen, die Sie zu einem über einen Aktionspreis erworbenen Abonnement hinzufügen, zum Werbepreis hinzugefügt. 
 
@@ -35,7 +35,7 @@ Nehmen Sie sich einen Moment Zeit, diese wichtigen Fakten zu Werbeaktionen zu ü
 
 - Wenn ein Abonnement für mehrere Aktionen berechtigt ist, wird automatisch die Aktion mit dem höchsten Prozentsatz angewendet.
 
-- Für Stornierungen gelten der gleiche Prozess und die gleiche Richtlinie wie für Abonnements zum regulären Preis.
+- Kündigungen von Abonnements mit Preisaufstufung folgen demselben Prozess und derselben Richtlinie wie abonnements mit regelmäßigen Preisen.
 
 ## <a name="see-available-promotions"></a>Verfügbare Werbeaktionen anzeigen
 

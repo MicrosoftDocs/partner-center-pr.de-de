@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17133ec7c37d65dde5e01bd0fc90b161a44051fd
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 4709236b8887bc262cac3bf36b5dd7fcf3c17c92
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431577"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551145"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registrieren Sie Angebote, die Sie in Partner Center gewonnen haben, damit Sie später weitere Verkaufschancen erhalten.
 
@@ -28,25 +28,25 @@ Sie können auch neue, von Ihnen gewonnene Angebote registrieren, die eine Ihrer
 
 ## <a name="register-a-new-deal"></a>Registrieren eines neuen Angebots
 
-Um einen neuen **IP-Co-Selling-Deal** zu registrieren, wechseln Sie zur jeweiligen Co-Selling-Verkaufschance, und klicken Sie im Abschnitt "Status des Geschäftsfortschritts Ihres Unternehmens" auf die Schaltfläche **Deal registrieren.**
+Um einen neuen **IP-Co-Selling-Deal** zu registrieren, wechseln Sie zur jeweiligen Co-Selling-Verkaufschance, und wählen Sie im Abschnitt "Status des Geschäftsfortschritts Ihres Unternehmens" die Option **Deal registrieren** aus.
 
 Geben Sie auf der **Dealentwurfsseite** die folgenden Informationen an.
 
 - **Marketplace-Transaktionsstatus:** Aktivieren Sie das Kontrollkästchen, um die Registrierung für einen Deal zu erstellen, der auf dem Azure Marketplace abgewickelt wird.
 - **Marketplace-Transaktionsdatum:** Wenn das Feld für den Marketplace-Transaktionsstatus aktiviert ist, ist dieses Feld verfügbar und muss konfiguriert werden. Der Wert ist entweder ein Datum der letzten Transaktion oder ein geschätztes zukünftiges Datum der Transaktion.
 - **Gesamtvertragswert:** Der erwartete Gesamtwert für die Einbindung. Dieser sollte alle Software- und Dienstgebühren, aber keine Hardwarekosten umfassen. Achten Sie darauf, dass Sie die entsprechende Währung auswählen.
-- **Lösungswert:** Der Gesamtwert der Cloudlösung, die für den Deal verwendet wird. Stellen Sie sicher, dass Sie alle Kosten im Zusammenhang mit Software- und Wartungskosten einschließen, jedoch keine erstattungsfähigen Posten, einmalige Anpassungsgebühren oder direkt damit verbundene CSP-Lizenzgebühren, die von Microsoft bezahlt werden.
+- **Lösungswert:** Der Gesamtwert der Cloudlösung, die für den Deal verwendet wird. Achten Sie darauf, alle Kosten im Zusammenhang mit Software- und Wartungsgebühren einzuschließen, aber keine wiedererstattbaren Elemente, nicht wiederkehrende Anpassungsgebühren oder direkt zugeordnete CSP-Lizenzgebühren (Cloud Solution Provider), die von Microsoft bezahlt werden.
 - **Bereitgestellt auf**: Wählen Sie entweder **Azure** oder **Andere** aus.
 - **Wo wird die Lösung bereitgestellt?**: Wählen Sie entweder den **Kundenmandanten** oder den **Partnermandanten** aus.
 - **Vertragssigniertes Datum:** Das Datum, an dem der endgültige Vertrag von Ihrer Organisation und vom Kunden unterzeichnet wurde. Verwenden Sie für Nutzungsbasierte Bezahlung (Pay-As-You-Go, PAYG) das Datum der ersten Rechnung.
-- **Startdatum** des Vertrags: Das Datum, an dem der Vertrag beginnt. Verwenden Sie für Nutzungsbasierte Bezahlung (Pay-As-You-Go, PAYG) das Datum der ersten Rechnung. Standardmäßig lässt Partner Center nicht zu, dass Sie ein Startdatum vor dem Vertragsabschlussdatum eingeben. Dies kann sich auf einige Deals auswirken, z. B. IP-Bereitstellungen, die vor dem Signierungsdatum beginnen. Um diese Deals erfolgreich einzugeben, verwenden Sie bei der Übermittlung das Vertragsabschlussdatum sowohl für das Signierungsdatum **als auch** für das Startdatum. (Der Vertrag sollte die Dauer des Geschäftsabschlusses explizit angeben, damit ACV ordnungsgemäß berechnet werden kann.)
-- **Enddatum** des Vertrags: Wenn der Vertrag an einem bestimmten Datum endet, geben Sie dieses Datum an. Verwenden Sie für Nutzungsbasierte Bezahlung (Pay-As-You-Go, PAYG) das Datum der letzten oder letzten Rechnung.
+- **Vertragsstartdatum:** Das Datum, an dem der Vertrag beginnt. Verwenden Sie für PAYG-Abschlüsse das Datum der ersten Rechnung. Standardmäßig lässt Partner Center nicht zu, dass Sie ein Startdatum vor dem Vertragsabschlussdatum eingeben. Dies kann sich auf einige Deals auswirken, z. B. IP-Bereitstellungen, die vor dem Signierungsdatum beginnen. Um diese Deals erfolgreich einzugeben, verwenden Sie bei der Übermittlung das Vertragsabschlussdatum sowohl für das Signierungsdatum **als auch** für das Startdatum. (Der Vertrag sollte die Dauer des Geschäftsabschlusses explizit angeben, damit ACV ordnungsgemäß berechnet werden kann.)
+- **Enddatum** des Vertrags: Wenn der Vertrag an einem bestimmten Datum endet, geben Sie dieses Datum an. Verwenden Sie für PAYG-Abschlüsse das Datum der letzten oder letzten Rechnung.
 - **Vertragstyp:** Gilt nicht für IP-Co-Selling-Deals.
-- **Registrierungskontakt:** **Vorname,** **Nachname,** Telefonnummer und **E-Mail-Adresse** für eine Person in Ihrer Organisation, an die wir uns wenden können, wenn wir weitere Details zu den hier bereitgestellten Informationen benötigen. 
+- **Registrierungskontakt:** **Vorname,** **Nachname,** Telefonnummer und **E-Mail-Adresse** für eine Person in Ihrer Organisation, an die wir uns wenden können, wenn wir weitere Details zu den hier angegebenen Informationen benötigen. 
 
 Wenn Sie alle Abschnitte der Seite ausgefüllt haben, klicken Sie auf **Registrieren**. Die Dealregistrierung wird dann in den Status **Übermittelt** verschoben. Microsoft überprüft dann die Informationen, die Sie angegeben haben, nachdem der Deal in **Den Überprüfungsstatus** verschoben wurde. Sie können die Filter verwenden, um die Deals basierend auf ihrem Status anzuzeigen.
 
-Klicken Sie zum Registrieren eines geschlossenen **ISV Connect-Abschlusses** auf **+ Geschlossenen ISV Connect-Deal melden.**
+Wählen Sie zum Registrieren eines geschlossenen **ISV Connect-Abschlusses** **+Geschlossenen ISV Connect-Deal melden** aus.
 
 Geben Sie auf der Seite **Neues Angebot** die folgenden Informationen an.
 
@@ -57,10 +57,10 @@ Geben Sie auf der Seite **Neues Angebot** die folgenden Informationen an.
 - **Lösungswert:** Der Gesamtwert der Cloudlösung, die für den Deal verwendet wird. Stellen Sie sicher, dass Sie alle Kosten im Zusammenhang mit Software- und Wartungskosten einschließen, jedoch keine erstattungsfähigen Posten, einmalige Anpassungsgebühren oder direkt damit verbundene CSP-Lizenzgebühren, die von Microsoft bezahlt werden.
 - **Bereitgestellt auf**: Wählen Sie entweder **Azure** oder **Andere** aus.
 - **Wo wird die Lösung bereitgestellt?**: Wählen Sie entweder den **Kundenmandanten** oder den **Partnermandanten** aus.
-- **Startdatum** des Vertrags: Das Datum, an dem der Vertrag beginnt. Verwenden Sie für Nutzungsbasierte Bezahlung (Pay-As-You-Go, PAYG) das Datum der ersten Rechnung. Standardmäßig lässt Partner Center nicht zu, dass Sie ein Startdatum vor dem Vertragsabschlussdatum eingeben. Dies kann sich auf einige Deals auswirken, z. B. IP-Bereitstellungen, die vor dem Signierungsdatum beginnen. Um diese Deals erfolgreich einzugeben, verwenden Sie bei der Übermittlung das Vertragsabschlussdatum sowohl für das Signierungsdatum **als auch** für das Startdatum. (Der Vertrag sollte die Dauer des Geschäftsabschlusses explizit angeben, damit ACV ordnungsgemäß berechnet werden kann.)
+- **Vertragsstartdatum:** Das Datum, an dem der Vertrag beginnt. Verwenden Sie für PAYG-Abschlüsse das Datum der ersten Rechnung. Standardmäßig lässt Partner Center nicht zu, dass Sie ein Startdatum vor dem Vertragsabschlussdatum eingeben. Dies kann sich auf einige Deals auswirken, z. B. IP-Bereitstellungen, die vor dem Signierungsdatum beginnen. Um diese Deals erfolgreich einzugeben, verwenden Sie beim Übermitteln das Vertragsabschlussdatum sowohl für das Vorzeichen als **auch** für das Startdatum. (Der Vertrag sollte die Dauer des Geschäftsabschlusses explizit angeben, damit ACV ordnungsgemäß berechnet werden kann.)
 - **Enddatum** des Vertrags: Wenn der Vertrag an einem bestimmten Datum endet, wählen Sie **Hat ein Enddatum** aus, und geben Sie dieses Datum an. Wenn der Vertrag kein bestimmtes Enddatum hat, wählen Sie **Unbefristet** aus. Verwenden Sie für Nutzungsbasierte Bezahlung (Pay-As-You-Go, PAYG) das Datum der letzten oder letzten Rechnung.
-- **Vertragssigniertes Datum:** Das Datum, an dem der endgültige Vertrag von Ihrer Organisation und vom Kunden unterzeichnet wurde. Verwenden Sie für Nutzungsbasierte Bezahlung (Pay-As-You-Go, PAYG) das Datum der ersten Rechnung.
-- **Registrierungskontakt:** **Vorname,** **Nachname,** Telefonnummer und **E-Mail-Adresse** für eine Person in Ihrer Organisation, an die wir uns wenden können, wenn wir weitere Details zu den hier bereitgestellten Informationen benötigen. 
+- **Vertragssigniertes Datum:** Das Datum, an dem der endgültige Vertrag von Ihrer Organisation und vom Kunden unterzeichnet wurde. Verwenden Sie für PAYG-Abschlüsse das Datum der ersten Rechnung.
+- **Registrierungskontakt:** **Vorname,** **Nachname,** Telefonnummer und **E-Mail-Adresse** für eine Person in Ihrer Organisation, an die wir uns wenden können, wenn wir weitere Details zu den hier angegebenen Informationen benötigen. 
 
 Wenn Sie alle Abschnitte der Seite ausgefüllt haben, klicken Sie auf **Registrieren**. Die Angebotsregistrierung wird dann auf die Seite **In Bearbeitung** verschoben. Microsoft prüft anschließend die von Ihnen bereitgestellten Informationen.
 
@@ -72,7 +72,7 @@ Sie können neue, aktive und geschlossene Dealregistrierungen mit unterschiedlic
 
 ### <a name="action-required"></a>Erforderliche Aktion
 
-Filtern Sie auf der Seite Registrierungen deal nach Status Aktion erforderlich. Es werden neue Registrierungen angezeigt, die noch nicht registriert wurden oder ein Update benötigen. Sie können die Filter verwenden, um nur Angebotsregistrierungen mit dem Status **Unvollständig** oder **Aktualisierung erforderlich** anzuzeigen. **Unvollständige** Angebotsregistrierungen sind solche Registrierungen, die aus Empfehlungen stammen, aber noch nicht registriert wurden. **Bei update erforderlichen** Dealregistrierungen handelt es sich um Registrierungen, die erstellt und registriert wurden. Sie müssen jedoch die von Ihnen angegebenen Informationen aktualisieren.
+Filtern Sie auf der Seite Registrierungen deal nach Status Aktion erforderlich. Es werden neue Registrierungen angezeigt, die noch nicht registriert wurden oder ein Update benötigen. Sie können die Filter verwenden, um nur Angebotsregistrierungen mit dem Status **Unvollständig** oder **Aktualisierung erforderlich** anzuzeigen. **Unvollständige** Angebotsregistrierungen sind solche Registrierungen, die aus Empfehlungen stammen, aber noch nicht registriert wurden. **Update required** deal registrations sind Registrierungen, die erstellt und registriert wurden, die jedoch erfordern, dass Sie die von Ihnen angegebenen Informationen aktualisieren.
 
 ### <a name="under-review"></a>Wird überprüft
 
@@ -82,4 +82,4 @@ Wenn Informationen aktualisiert werden müssen, können wir die Dealregistrierun
 
 ### <a name="closed"></a>Geschlossen
 
-Auf der Seite Deal registrations (Dealregistrierungen) filtern Sie nach Dem Status Geschlossen. Daraufhin werden die Deals angezeigt, die von Microsoft erfolgreich registriert und überprüft wurden. Sie können die Filter verwenden, um nur Registrierungen vom Typ **Genehmigt** oder **Abgelehnt** anzuzeigen.
+Filtern Sie auf der Seite Deal registrations (Dealregistrierungen) nach Closed state (Geschlossen). Dort werden die Deals angezeigt, die von Microsoft erfolgreich registriert und überprüft wurden. Sie können die Filter verwenden, um nur Registrierungen vom Typ **Genehmigt** oder **Abgelehnt** anzuzeigen.

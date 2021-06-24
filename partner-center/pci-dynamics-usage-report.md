@@ -1,25 +1,25 @@
 ---
-title: Bericht zur Dynamics-Nutzung von Partner Center-Erkenntnissen
+title: Bericht zur Nutzung von Partner Center-Erkenntnissen zur Dynamics
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie sich an, was Ihnen gut geht und wo Sie die Nutzung von Dynamics-Abonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
+description: Erfahren Sie, was Sie gut machen und wo Sie die Nutzung von Dynamics-Abonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 76a589037817707378e39f4301313eee7284422a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277503"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565456"
 ---
-# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Dynamics-Nutzungsbericht, der über das Dashboard Partner Center Insights verfügbar ist
+# <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Dynamics-Nutzungsbericht über das Dashboard "Partner Center Insights" verfügbar
 
-**Geeignete Rollen:** Globale Administratorrechte | Administrator-Agent| Berichts-Viewer| Executive Report Viewer
+**Geeignete Rollen:** globale | | des Administrator-Agents Berichts-Viewer-| Berichtanzeige der Geschäftsleitung
 
-Der Dynamics-Nutzungsbericht enthält Nutzungsdaten für die Dynamics 365-Abonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben. Sie können die folgenden Abschnitte im Dynamics-Nutzungsbericht anzeigen.
+Der Dynamics-Nutzungsbericht enthält Nutzungsdaten für die Microsoft Dynamics 365-Abonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben. Sie können die folgenden Abschnitte im Dynamics-Nutzungsbericht anzeigen.
 
 - Zusammenfassung
 - Dynamics-Nutzung nach Geografie
@@ -28,60 +28,60 @@ Der Dynamics-Nutzungsbericht enthält Nutzungsdaten für die Dynamics 365-Abonne
 - Dynamics-Nutzungsverteilung
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzeigen zu können, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer für Führungskräfte. Weitere Informationen finden Sie im globalen Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Berechtigungen des Berichts-Viewers verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzuzeigen, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer der Geschäftsleitung. Weitere Informationen finden Sie unter Globaler Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Berechtigungen des Berichts-Viewers der Geschäftsleitung verfügen.
 
 ## <a name="summary"></a>Zusammenfassung
 
-Der Zusammenfassungsabschnitt enthält eine Momentaufnahmeansicht der Wichtigsten Indikatoren im Zusammenhang mit Dynamics-Nutzungsabonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben.  
+Der Zusammenfassungsabschnitt enthält eine Momentaufnahmeansicht der Schlüsselindikatoren im Zusammenhang mit Dynamics-Nutzungsabonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben.  
 
-- Verfügbare Lizenzen: Gesamtzahl der lizenzen, die während des ausgewählten Zeitrahmens verkauft wurden.
+- Verfügbare Arbeitsplätze: Gesamtanzahl der im ausgewählten Zeitraum verkauften Lizenzen.
 
-   Das Mikrodiagramm zeigt einen Monatlichen Trend der anzahl der verfügbaren Stellen für Den ausgewählten Datumsbereich an.
+   Das Micro-Diagramm zeigt einen Monatlich-im-Monat-Trend der anzahl verfügbarer Arbeitsplätze für Ihren ausgewählten Datumsbereich.
 
-- Zugewiesene Lizenzen: Gesamtzahl der lizenzen, die während des ausgewählten Zeitrahmens zugewiesen wurden.
+- Zugewiesene Arbeitsplätze: Gesamtanzahl der Lizenzen, die während des ausgewählten Zeitraums zugewiesen wurden.
 
-   Das Mikrodiagramm zeigt einen Monatlichen Trend der Anzahl zugewiesener Stellen während des ausgewählten Datumsbereichs an.
+   Das Mikrodiagramm zeigt einen Monatlich-im-Monat-Trend der anzahl zugewiesener Arbeitsplätze während des ausgewählten Datumsbereichs an.
 
-- Aktive Lizenzen: Gesamtanzahl der Lizenzen, die während des ausgewählten Zeitrahmens in Nutzung waren. 
+- Aktive Arbeitsplätze: Gesamtzahl der Lizenzen, die während des ausgewählten Zeitraums genutzt wurden. 
 
-   Das Mikrodiagramm zeigt einen monatlichen Trend der monatlich aktiven Stellen im ausgewählten Zeitraum an.
+   Das Microdiagramm zeigt einen monatlichen Trend monatlicher aktiver Arbeitsplätze im ausgewählten Zeitraum an.
 
-- Aktive Nutzung %: Gesamtanzahl der aktiven Stellen, ausgedrückt als Prozentsatz der verfügbaren Stellen für den ausgewählten Zeitrahmen. 
+- Aktive Nutzung %: Gesamtzahl der aktiven Arbeitsplätze, ausgedrückt als Prozentsatz der verfügbaren Arbeitsplätze für den ausgewählten Zeitraum. 
 
-   Das Mikrodiagramm zeigt einen monatlichen Trend des aktiven Nutzungsprozentwerts für den ausgewählten Zeitraum an.
+   Das Micro-Diagramm zeigt einen monatlichen Trend des aktiven Nutzungsprozentsatzes für den ausgewählten Zeitraum an.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Dynamics-Nutzungszusammenfassung.":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Zusammenfassung der Dynamics-Nutzung.":::
 
 ## <a name="dynamics-usage-by-geography"></a>Dynamics-Nutzung nach Geografie
 
-Die **Dynamics-Nutzung nach Geografie** zeigt die Verteilung der verfügbaren Und aktiven Stellen nach Land des Kunden. Hellere Farben auf der Karte stellen niedrigere Werte dar, während dunklere Farben höhere Werte darstellen. Sie können ein Land im Raster suchen und auswählen. Sie können auch vergrößern, um einen genaueren Blick darauf zu erhalten.
+Die **Dynamics-Nutzung nach Geografie** zeigt die Verteilung der verfügbaren Arbeitsplätze und aktiven Arbeitsplätze nach Kundenland. Hellere Farben auf der Karte stellen niedrigere Werte dar, während dunklere Farben höhere Werte darstellen. Sie können ein Land im Raster suchen und auswählen. Sie können auch vergrößern, um einen genaueren Blick zu erhalten.
 
-Die **Tabelle Anzahl der Länder/Regionen** enthält die Gesamtanzahl der Länder/Regionen, in denen Azure-Nutzungsereignisse generiert werden.
+Die Tabelle **Anzahl der Länder/Regionen** enthält die Gesamtanzahl der Länder/Regionen, in denen Azure-Nutzungsereignisse generiert werden.
 
-Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Wählen Sie auf **der** Karte die Option Start aus, um zur ursprünglichen Ansicht zurück zu gehen.
+Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Wählen Sie auf der Karte die Option **Start** aus, um zur ursprünglichen Ansicht zurückzukehren.
 
 :::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Dynamics-Nutzung nach Geografie.":::
 
 ## <a name="dynamics-usage-by-sku"></a>Dynamics-Nutzung nach SKU
 
-Die Dynamics-Nutzung nach SKU stellt den monatlichen Trend der verfügbaren, aktiven und zugewiesenen Stellen nach SKUs wieder.
+Die Dynamics-Nutzung nach SKU stellt den monatlichen Trend verfügbarer Arbeitsplätze, aktiver Arbeitsplätze und zugewiesener Arbeitsplätze nach SKUs dar.
 
 :::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="Dynamics-Nutzung nach SKU.":::
 
 ## <a name="subscriptions-performance"></a>Abonnementleistung
 
-Die Abonnementleistung stellt den monatlichen Trend der aktiven Nutzung pro Kundenabonnement dar. Daten für die 100 wichtigsten Kunden nach abgerechnetem Umsatz werden in der Tabelle angezeigt, und Sie können nach einem beliebigen Kunden suchen oder die Rohdaten herunterladen, um Details für alle Abonnements anzuzeigen.
+Die Leistung "Abonnements" zeigt den monatlichen Trend der aktiven Nutzung pro Kundenabonnement. Daten für die ersten 100 Kunden nach abgerechnetem Umsatz werden in der Tabelle angezeigt, und Sie können nach einem beliebigen Kunden suchen oder die Rohdaten herunterladen, um Details für alle Abonnements anzuzeigen.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Leistung des Dynamics-Abonnements.":::
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Leistung von Dynamics-Abonnements.":::
 
 ## <a name="dynamics-usage-distribution"></a>Dynamics-Nutzungsverteilung
 
-Die Dynamics-Nutzungsverteilung zeigt die Aufschlüsselung der verfügbaren, aktiven und zugewiesenen Stellen nach SKUs.
+Die Dynamics-Nutzungsverteilung zeigt die Aufschlüsselung der verfügbaren Arbeitsplätze, aktiven Arbeitsplätze und zugewiesenen Arbeitsplätze nach SKUs.
 
 :::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics-Nutzungsverteilung.":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).
+- Weitere Berichte finden Sie unter [Partner Center Insights.](partner-center-insights.md)
 
-- Sie können die Rohdaten, die diesen Bericht unterstützen, aus dem Abschnitt Berichte herunterladen des Insights-Dashboards herunterladen. [Weitere Informationen](pci-download-reports.md) 
+- Sie können die Rohdaten für diesen Bericht aus dem Abschnitt Berichte herunterladen im Insights-Dashboard herunterladen. [Weitere Informationen](pci-download-reports.md) 

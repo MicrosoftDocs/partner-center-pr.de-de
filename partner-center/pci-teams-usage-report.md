@@ -8,16 +8,16 @@ description: Erfahren Sie, was Sie gut machen und wo Sie die Nutzung von Teams-A
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4148848984a541eca4eee9e71785660aa6402bc7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277333"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565014"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams-Nutzungsbericht über das Partner Center Insights-Dashboard verfügbar
 
-**Geeignete Rollen:** globale | | des Administrator-Agents Berichts-Viewer-| Berichtsanzeige der Geschäftsleitung
+**Geeignete Rollen:** globale | | des Administrator-Agents Berichts-Viewer-| Berichtanzeige der Geschäftsleitung
 
 Der Teams-Nutzungsbericht enthält Metriken zu Ihren Teams-Workloads, die Sie für Ihre Kunden verkauft oder verwaltet haben. Sie können die folgenden Abschnitte im Teams-Nutzungsbericht anzeigen.
 
@@ -27,7 +27,7 @@ Der Teams-Nutzungsbericht enthält Metriken zu Ihren Teams-Workloads, die Sie f�
 - Top-Kunden nach Nutzung
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzuzeigen, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer der Geschäftsleitung. Weitere Informationen finden Sie unter Globaler Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer mit Executive Report Viewer-Berechtigungen verfügbar.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzuzeigen, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer der Geschäftsleitung. Weitere Informationen finden Sie unter Globaler Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Berechtigungen des Berichts-Viewers der Geschäftsleitung verfügen.
 
 ## <a name="summary"></a>Zusammenfassung
 
@@ -37,7 +37,7 @@ Der Zusammenfassungsabschnitt enthält eine Momentaufnahmeansicht der Schlüssel
 
 - Anzahl der Besprechungen: Anzahl von Teams-Besprechungen, die von Ihren Kunden durchgeführt werden.
 
-- Tägliche durchschnittliche Besprechungsanzahl pro Kunde: Tägliche durchschnittliche Besprechungsanzahl pro Kunde. 
+- Tägliche durchschnittliche Anzahl von Besprechungen pro Kunde: Tägliche durchschnittliche Anzahl von Besprechungen pro Kunde. 
 
 - Besprechungsdauer (Stunden): Gesamtbesprechungsdauer in Stunden. 
 

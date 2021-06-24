@@ -8,18 +8,18 @@ description: Sehen Sie sich an, was Ihnen gut geht und wo Sie die Nutzung Power 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 75aa86ebc768b9d6d252a29eb84aef97ab99ab0c
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276296"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565337"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI nutzungsbericht, der über das Dashboard "Partner Center Insights" verfügbar ist
 
 **Geeignete Rollen:** Globale Administratorrechte | Administrator-Agent| Berichts-Viewer| Executive Report Viewer
 
-Der Power BI-Nutzungsbericht enthält Nutzungsdaten für die Power BI Abonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben. Sie können die folgenden Abschnitte im Power BI anzeigen.
+Der Power BI-Nutzungsbericht enthält Nutzungsdaten für die Microsoft Power BI Abonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben. Sie können die folgenden Abschnitte im Power BI anzeigen.
 
 - Zusammenfassung
 - Power BI nutzung nach Geografie
@@ -28,7 +28,7 @@ Der Power BI-Nutzungsbericht enthält Nutzungsdaten für die Power BI Abonnement
 - Power BI der Nutzungsverteilung
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzeigen zu können, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer für Führungskräfte. Weitere Informationen finden Sie im globalen Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Berechtigungen des Berichts-Viewers verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzeigen zu können, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen sein, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer für Führungskräfte. Weitere Informationen finden Sie unter Globaler Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer mit Berechtigungen des Berichts-Viewers für Führungskräfte verfügbar.
 
 ## <a name="summary"></a>Zusammenfassung
 

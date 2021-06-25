@@ -1,29 +1,29 @@
 ---
-title: Erwerben von Saas-angeboten auf Microsoft AppSource
-description: Erfahren Sie, wie Sie SaaS-Apps (Software-as-a-Service) von Microsoft-Partnern auf Microsoft AppSource erwerben.
+title: Erwerben von SaaS-Apps auf Microsoft AppSource
+description: Erwerben Sie SaaS-Apps (Software-as-a-Service) von Microsoft-Partnern auf Microsoft AppSource.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412691"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896797"
 ---
-# <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Erwerben von Saas-apps auf Microsoft AppSource
+# <a name="purchase-saas-apps-on-microsoft-appsource"></a>Erwerben von SaaS-Apps auf Microsoft AppSource
 
-[Microsoft AppSource](https://appsource.microsoft.com/) enthält Tausende von Geschäftsanwendungen, einschließlich Saas-Apps (Software-as-a-Service) und Add-ons für Dynamics 365, Microsoft 365, Power BI und powerapps. Appsource umfasst kostenlose apps, Testversionen und kostenpflichtige Abonnements, und Sie können die Gebühren, Upgrades, Downgrades und Stornierungen über das [Microsoft 365 Admin Center](/microsoft-365/admin/admin-overview/about-the-admin-center)an einem zentralen Ort verwalten. In diesem Artikel wird erläutert, wie Sie kostenpflichtige Saas-Abonnements in appsource erwerben.
+[Microsoft AppSource](https://appsource.microsoft.com/) enthält Tausende von Geschäftsanwendungen, einschließlich SaaS-Apps (Software-as-a-Service) und Add-Ons für Dynamics 365, Microsoft 365, Power BI und Power Apps. AppSource umfasst kostenlose Apps, Testversionen und kostenpflichtige Abonnements, und Sie können die Gebühren, Upgrades, Downgrades und [Kündigungen](/microsoft-365/admin/admin-overview/about-the-admin-center)an einem einzigen Ort verwalten, indem Sie die Microsoft 365 Admin Center. In diesem Artikel wird erläutert, wie Sie kostenpflichtige SaaS-Abonnements in AppSource erwerben.
 
 ## <a name="requirements"></a>Requirements (Anforderungen)
 
-Um eine SaaS-APP zu erwerben, benötigen Sie Folgendes:
+Für den Erwerb einer SaaS-App ist Folgendes erforderlich:
 
 - Ein Geschäfts-, Schul- oder Unikonto. Wenn Sie nicht über ein Geschäfts-, Schul- oder Unikonto verfügen, folgen Sie während des Kaufvorgangs dem Link zum Registrieren eines kostenlosen Kontos.
 
-- Eine gültige Kreditkarte in dem Land/der Region, in dem/der Sie das Angebot erwerben. Unterstützte Kreditkarten: Visa, Master Card, American Express und Discover.
+- Eine gültige Kreditkarte in dem Land/der Region, in dem/der Sie das Angebot erwerben. Unterstützte Kreditkarten: "Master", "Master Card", "American Express" und "Discover".
 
     > [!Note]
     > Das Land/die Region der Kreditkartenabrechnung kann an den Standort Ihrer Azure Active Directory-Instanz gebunden sein.
@@ -37,9 +37,9 @@ Um eine SaaS-APP zu erwerben, benötigen Sie Folgendes:
 
     1. Legen Sie die Anzahl von Arbeitsplätzen fest.
     1. Legen Sie den Abrechnungszeitraum fest.
-    
+
 1. Geben Sie Ihre Rechnungsadresse ein.
-1. Geben Sie Ihre Zahlungsmethode ein (Kreditkarteninformationen).    
+1. Geben Sie Ihre Zahlungsmethode (Kreditkarteninformationen) ein.
 1. Wählen Sie **Bestellen** aus.
 
 ## <a name="configure-the-application"></a>Konfigurieren der Anwendung
@@ -50,7 +50,7 @@ Nach dem Eingang der Bestellung kann es bis zur Bestätigung einige Sekunden dau
 1. Schließen Sie die Bereitstellung und Einrichtung auf der Website des Softwareanbieters ab.
 
     > [!Note]
-    > Dieser Schritt ist obligatorisch, aber Sie können ihn jederzeit vervollständigen.
+    > Dieser Schritt ist obligatorisch, aber Sie können ihn jederzeit abschließen.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

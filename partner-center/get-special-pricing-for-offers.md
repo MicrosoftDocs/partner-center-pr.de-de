@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e715ec2c787ea3df623256904f8af1e7d8f4e9c8
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150793"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915574"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkauf an spezialisierte Branchen wie Bildungs-, gemeinnützige und behördliche Benutzer
 
@@ -26,9 +26,10 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B
 
 |**Sonderpreise**   |**Erforderliche Händlerqualifikationen**   |**Erforderliche Kundenqualifikationen**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |Keiner   | Sie müssen ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.   |
-|Regierung   |Um Azure zu verkaufen, registrieren Sie sich mithilfe des [Microsoft US Government Cloud Validation-Formulars.](https://azuregov.microsoft.com/csp) Wenn Sie lizenzbasierte Abonnements an Behörden verkaufen möchten, ist keine Qualifikation erforderlich.|   Keiner|
-|Gemeinnützig  |Keiner<br/> Sie benötigen einen Azure Active Directory-Mandanten für gemeinnützige Organisationen.<br/> Informieren Sie sich über [gemeinnützige Sonderangebote](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Melden Sie sich über das [Microsoft-Programm für gemeinnützige Organisationen](https://nonprofit.microsoft.com/#/register) an, um sich zu qualifizieren.   |
+|Education   |Keine   | Sie müssen ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.   |
+| US-Regierung   |Um Azure zu verkaufen, registrieren Sie sich mithilfe des [Microsoft US Government Cloud Validation-Formulars.](https://azuregov.microsoft.com/csp) Wenn Sie lizenzbasierte Abonnements an Behörden verkaufen möchten, ist keine Qualifikation erforderlich.|   Keine|
+| Alle anderen Behörden | Keine<br />Partner müssen mithilfe von "Unternehmensangeboten" bereitstellen. | Keine
+|Gemeinnützig  |Keine<br/> Sie benötigen einen Azure Active Directory-Mandanten für gemeinnützige Organisationen.<br/> Informieren Sie sich über [gemeinnützige Sonderangebote](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Melden Sie sich über das [Microsoft-Programm für gemeinnützige Organisationen](https://nonprofit.microsoft.com/#/register) an, um sich zu qualifizieren.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Überprüfen Ihrer Händlerqualifikationen
 
@@ -36,7 +37,7 @@ Die folgenden Schritte gelten nur für indirekte Anbieter und Direktabrechnungsp
 
 1. Wählen Sie Partner Center [Dashboard das](https://partner.microsoft.com/dashboard)Zahnradsymbol in der oberen rechten Ecke des Fensters aus, um die **Kontoeinstellungen zu öffnen.**
 
-2. Suchen Sie **in Ihrem Rechtlichen Profil** im Abschnitt **Programminformationen** nach **Handelspartnerqualifikationen.**
+2. Suchen Sie **in Ihrem Rechtlichen Profil** im Abschnitt **Programminformationen** nach **Reseller-Qualifikationen.**
 
 3. Wenn Sie den Abschnitt **Händlerqualifikationen** nicht sehen können, wurden Sie noch nicht zum Erwerben von Sonderangeboten autorisiert.
 
@@ -71,10 +72,9 @@ Kaufregeln für den Verkauf von Sonderangeboten an Kunden:
 | Government Community Cloud |Government Community Cloud | Non-Profit, Education oder Commercial |
 | Entität im Besitz des Bundesstaats  | Kommerziell  | Non-Profit, Education oder Government Community Cloud  |
 | If Education and State Owned Entity | Commercial, Education | Non-Profit oder Government Community Cloud |
-| If State Owned Entity and Government Community Cloud | Government Community Cloud | Non-Profit, Education oder Commercial |
+| Wenn zustandseigene Entität und Government Community Cloud | Government Community Cloud | Non-Profit, Education oder Commercial |
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Verkaufen von Minecraft: Education Edition-Abonnements an Education-Kunden](minecraft-subscriptions.md)
-
+- [Verkaufen Minecraft: Education Edition Abonnements an Education-Kunden](minecraft-subscriptions.md)
 - [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

@@ -9,18 +9,18 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0fc1176c6620300002afbc9bf218afcceb777538
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6b571ed5ff3eac0947b3c8d619c2605f0ac86f50
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146271"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915642"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partner Center für Microsoft Cloud for US Government unterstützt Partnerangebote für Regierungsbehörden.
 
 **Gilt für**: Partner Center für Microsoft Cloud for US Government
 
-**Geeignete Rollen:** globale | | des Benutzerverwaltungsadministrators | des Administrator-Agents | des Vertriebsmitarbeiters Abrechnungsadministrator
+**Geeignete Rollen:** globale | Benutzerverwaltungsadministrator | | des Administrator-Agents | des Vertriebsmitarbeiters Abrechnungsadministrator
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: Erfüllen der Datenschutzanforderungen
 
@@ -60,4 +60,4 @@ Informationen zum Verwalten von Benutzern und Lizenzen finden Sie unter [Benutze
 
 Informationen zur Registrierung bei CSP für Microsoft Government Cloud finden Sie unter [Registrieren bei CSP für Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md).
 
-Lesen Sie [Häufig gestellte Fragen zum Cloud Solution Provider-Programm (CSP) für Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)
+Lesen Sie [Häufig gestellte Fragen zum Cloud Solution Provider-Programm (CSP) für Microsoft Cloud for US Government](faq-for-us-govt-cloud.yml)

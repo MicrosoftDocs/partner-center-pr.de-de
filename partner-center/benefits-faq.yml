@@ -1,0 +1,100 @@
+### YamlMime:FAQ
+metadata:
+  title: 'Microsoft Partner Network Vorteile: Häufig gestellte Fragen'
+  ms.topic: article
+  ms.date: 12/15/2020
+  description: Antworten auf Fragen zum Ablauf, zur Verlängerung und Aktivierung von Lizenzen für Azure, Cloud, Visual Studio sowie zu technischen und Supportvorteilen
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: arpithakanuganti
+  ms.author: v-arkanu
+  ms.localizationpriority: medium
+  ms.custom: SEOJUNE20
+  ms.openlocfilehash: 72db9073e071581e1f8b7eb685da1d1d7db56294
+  ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "112916699"
+title: 'Microsoft Partner Network Vorteile: Häufig gestellte Fragen (FAQ)'
+summary: >
+  **Geeignete Rollen**: MPN-Partneradministrator
+
+
+  Viele häufig gestellte Fragen zu Microsoft Partner Network (MPN)-Vorteilen werden in diesem Artikel behandelt.
+sections:
+- name: Allgemeine Fragen
+  questions:
+  - question: >
+      Was bedeutet "Ablaufdatum des Vorteils"?
+    answer: "Das Ablaufdatum des Vorteils ist das letzte Datum für die Aktivierung Ihrer Vorteile.\n\nSie haben bis zu Ihrem Verlängerungsdatum Zeit, um die vorteile einzulösen, die während Ihres Ein-Jahres-Registrierungszeitraums verfügbar sind. Sie finden ihr Startdatum für die Verlängerung auf der Seite [Mitgliedschaftsangebote](https://partner.microsoft.com/dashboard/mpn/offers) im MPN-Dashboard.\n\nSie können Product Keys jedoch für ein Jahr ab dem Tag verwenden, an dem Sie die Schlüssel in den jeweiligen Cloudportalen einlösen.\n\nWenn Ihr Vorteil beispielsweise am 31. Januar 2021 ablaufzeit ist, müssen Sie die Schlüssel im entsprechenden Cloudportal vor dem 31. Januar 2021 einlösen. Und wenn Sie Ihren Product Key am 1. Dezember 2020 einlösen, können Sie diesen Schlüssel bis zum 1. Dezember 2021 verwenden, obwohl ihr Ablaufdatum für den Vorteil der 31. Januar ist.\n\n> [!NOTE]  \n> Wenn Sie Vorteile haben, die eine Benutzerzuweisung erfordern (z. B. Visual Studio-Abonnements), können Sie diese Vorteile für weitere 30 Tage nach dem Verlängerungsdatum der Registrierung aktivieren und nutzen.\n"
+  - question: >
+      Gewusst wie meine Vorteile verlängern
+    answer: >
+      Verwenden Sie das folgende Verfahren, um Ihre Vorteile zu verlängern:
+
+
+      1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
+
+
+      2. Wählen Sie im linken Navigations nav die Option **MPN aus.**
+
+
+      3. Wählen Sie **auf der Registerkarte MPN** die Option **Vorteile** aus.
+
+
+      4. Aktivieren Sie den vorteil, den Sie wünschen.
+
+
+      Wenn der von Ihnen wünschen Vorteil nicht verfügbar ist, müssen Sie Ihre Partner Center verlängern und den oben genannten Vorgang wiederholen.
+  - question: >
+      Ich habe eine Benachrichtigung erhalten, in der ich darüber informiert wurde, dass mein Abonnement bald ab läuft– was soll ich tun?
+    answer: >
+      Melden Sie sich beim Cloudportal an, das die Benachrichtigung generiert hat, überprüfen Sie das Ablaufdatum Ihrer vorhandenen Abonnements, und fügen Sie dem ablaufenden Abonnement Lizenzen hinzu, oder verlängern Sie das vorhandene Abonnement für das nächste Jahr der Registrierung.
+  - question: >
+      Wann kann ich meine Mitgliedschaft verlängern?
+    answer: >
+      Eine bestehende Mitgliedschaft kann jeden Tag nach dem Startdatum der Verlängerung verlängert werden.
+- name: Vorteile der Azure- und Cloudaktivierung
+  questions:
+  - question: >
+      Wie funktioniert das Hinzufügen, Erweitern/Verlängern von Lizenzen in Azure?
+    answer: "Wenn Sie Lizenzen hinzufügen, erhöhen Sie die Gesamtzahl der Lizenzen für Ihr vorhandenes Abonnement.\n\nWenn Sie Abonnements verlängern oder verlängern, bleibt die Anzahl der Lizenzen gleich, aber Sie verlängern die Zeit für diese Abonnements.\n\n> [!IMPORTANT]  \n> Wenn Sie Lizenzen für ein vorhandenes Abonnement hinzufügen, läuft das Abonnement in weniger als 12 Monaten ab, abhängig von der Anzahl der vorhandenen und hinzugefügten Lizenzen. Nachdem Sie einen Schlüssel eingelöst haben, können Sie ihn nicht mehr einlösen. Bevor Sie Ihren Schlüssel einlösen, stellen Sie sicher, dass Sie wissen, ob Sie Lizenzen hinzufügen oder das Abonnement verlängern/verlängern müssen.\n"
+  - question: >
+      Kann ich die Lizenz für das Konto meines Kunden aktivieren?
+    answer: >
+      Nein. Produktlizenzen werden zu Demonstrationszwecken ausgestellt. Ihre Vertriebs- und Marketingmitarbeiter können diese Software verwenden, um Ihren Kunden Produkte zu präsentieren. Demoprodukte können jedoch nicht auf Kundenhardware oder -infrastruktur installiert werden und müssen zusammen mit der Partnerüberwachung verwendet werden.
+  - question: >
+      Ich habe Probleme beim Zuweisen von Benutzern in Azure Bulk Credit. Was soll ich tun
+    answer: >
+      Sie können Azure-Massenguthabenangebote nicht mit anderen Angeboten kombinieren. Wenn eine Benutzerzuweisung nicht funktioniert, bedeutet dies wahrscheinlich, dass der Benutzer, den Sie zuweisen möchten, bereits andere Lizenzierungs-, Vorauszahlungs- oder Guthabenangebote wie Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack usw. verwendet. Wenn der Benutzer keine dieser Vereinbarungen oder Pläne abonniert hat und Sie diese weiterhin nicht zuweisen können, wenden Sie sich an Microsoft-Support.
+- name: Visual Studio Vorteile
+  questions:
+  - question: >
+      Wie funktioniert Visual Studio Aktivierung in Partner Center
+    answer: "Mit den folgenden Schritten können Sie abonnements jedem Benutzer in ihrer Benutzerverwaltungsliste in Partner Center oder in Ihrem Azure Active Directory-Mandanten (AAD) zuweisen:\n\n1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.\n\n2. Wählen Sie Partner Center Menü **MPN aus.**\n\n3. Wählen **Sie Vorteile** und dann Visual Studio. \n\n4. Weisen Sie die gewünschten Benutzer Ihren vorhandenen Visual Studio verfügbaren Abonnements zu.\n\nNachdem Sie das Abonnement zugewiesen haben, muss sich der Benutzer bei Visual Studio anmelden, um es zu verwalten.\n\n> [!Note]  \n> Visual Studio Abonnements können von einem Abonnenten zu einem anderen neu zugewiesen werden, wenn seit dem Zeitpunkt der ursprünglichen Zuweisung 90 Tage vergangen sind.\n"
+- name: Technische Vorteile und Support
+  questions:
+  - question: >
+      Ich kann die Software, die ich von diesem Download heruntergeladen habe, nicht Partner Center. Gewusst wie Hilfe
+    answer: >
+      Installation, Aktivierung und andere produktbezogene Hilfe werden über Microsoft-Support. Führen Sie die folgenden Schritte aus, um Unterstützung zu erhalten:
+
+
+      1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
+
+
+      2. Wählen Sie Partner Center Menü **MPN aus.**
+
+
+      3. Wählen **Sie Vorteile** und dann Technische Vorteile **aus.**
+
+
+      4. Verwenden Sie den Abschnitt Technische Vorteile, um eine Zugriffs-ID/Vertrags-ID zu aktivieren und zu erhalten.
+
+
+      5. Melden Sie sich [bei Microsoft-Support.](https://support.microsoft.com/supportforbusiness/productselection)
+
+
+      6. Wählen Sie das Produkt aus, das Sie installieren möchten, und erstellen Sie dann ein Ticket für den technischen Support.
+additionalContent: "\n## <a name=\"next-steps\"></a>Nächste Schritte\n\n- [Sammeln Sie eine erweiterte Spezialisierung, um Ihr Fachwissen zu präsentieren.](advanced-specializations.md)"

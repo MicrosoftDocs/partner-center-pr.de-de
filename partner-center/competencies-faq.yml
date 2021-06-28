@@ -1,0 +1,117 @@
+### YamlMime:FAQ
+metadata:
+  title: 'Kompetenzen : Häufig gestellte Fragen'
+  ms.topic: article
+  ms.date: 11/23/2020
+  description: Hier finden Sie Antworten zu MPN-Gold- oder Silver-Kompetenzen, ablaufen, verlängern oder aktivieren von Lizenzen für Azure, Cloud, Visual Studio, technische Und Supportvorteile.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: keramp88
+  ms.author: keramp
+  ms.localizationpriority: medium
+  ms.openlocfilehash: 18db609908e924ba2d968b0fec977163be88d9bc
+  ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 06/28/2021
+  ms.locfileid: "112989827"
+title: 'Kompetenzen : Häufig gestellte Fragen'
+summary: >
+  **Geeignete Rollen**: MPN-Partneradministrator
+
+
+  In diesem Artikel werden allgemeine Fragen zu Prüfungen, Zertifizierungen und Softwarevorteilen im Zusammenhang mit der Microsoft Partner Network beantwortet.
+sections:
+- name: Wird ignoriert.
+  questions:
+  - question: >
+      Wo finde ich die Liste der Prüfungen und Microsoft-Zertifizierungen, die in den Abordnungsprozess aufgenommen werden?
+    answer: >
+      Weitere Informationen finden Sie in den folgenden Ressourcen:
+
+
+      - [Prüfungen, die zurückgezogen werden](/learn/certifications/retired-certification-exams)
+
+      - [Zertifizierungen, die zurückgezogen werden](/learn/certifications/retired-certifications)
+  - question: >
+      Wann kann ich meine Mitgliedschaft verlängern?
+    answer: >
+      Vorhandene Mitgliedschaften können jeden Tag nach beginn des Verlängerungsfensters verlängert werden. Das Zeitfenster für die Verlängerung beginnt einen Tag nach dem Jahrestag des Kaufdatums. Wenn Sie beispielsweise das Microsoft Action Pack am 1. September 2018 gekauft haben, beginnt das Zeitfenster für die Verlängerung am 2. September 2019.
+  - question: >
+      Wie kann ich die Prüfungen und Zertifizierungen überprüfen, die von den Benutzern meiner Organisation abgelegt wurden?
+    answer: >
+      Während des Prozesses zum Erlangen einer Kompetenz kann der globale Administrator oder MPN-Partneradministrator analysieren, welche Benutzer eine Prüfung, Zertifizierung oder Bewertung abgeschlossen haben. Der Administrator kann den Fortschritt auch mit den Anforderungen einer Kompetenz überprüfen.
+
+
+      Sie können dies über Partner Center wie folgt tun:
+
+
+      1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+
+
+      1. Wählen Sie **MPN** gefolgt von **Kompetenzen aus.**
+
+
+      1. Suchen Sie oben auf der Seite Kompetenzen nach der Option Skills-Bericht herunterladen, und **wählen Sie sie** aus.
+
+
+      Andere Berichte zu den Fähigkeiten Ihrer Organisation sind auch im Bereich Partner Center [Insights](partner-center-insights.md) in Partner Center. Um diese Berichte anzeigen zu können, muss Ihnen möglicherweise eine Insights-spezifische Rolle des **Berichts-Viewers** oder des **Executive Report Viewers zugewiesen werden.** Möglicherweise müssen Sie Ihren MPN-Partneradministrator bitten, Ihnen Zugriff auf eine dieser Rollen zu geben.
+
+
+      Zeigen Sie die Insights-Berichte wie folgt an:
+
+
+      1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+
+
+      1. Wählen **Sie im** Menü "Partner Center Insights", gefolgt von **Organisationskenntnissen aus.** Ein kleineres Menü wird angezeigt.
+
+
+      1. Wählen Sie **entweder Training** **oder Microsoft Learn** Menü aus.
+
+         - Wählen **Sie Training** aus, um eine Zusammenfassung der Zertifizierungen, Bewertungen und Prüfungen Ihrer Organisation in einem bestimmten Zeitraum zu erhalten. Weitere Informationen zu diesem Bericht finden Sie unter [Training](pci-training-dashboard.md).
+
+         - Wählen **Microsoft Learn** aus, um eine Zusammenfassung der abgeschlossenen Module und Lernpfade Ihrer Organisation in einem bestimmten Zeitraum zu sehen. Weitere Informationen zu diesem Bericht finden Sie unter Microsoft Learn [Analytics-Bericht.](ms-learn-analytics.md)
+  - question: >
+      Wie lange dauert es, bis die neuesten Benutzerbewertungen im Bericht Partner Center Benutzerkenntnisse angezeigt werden?
+    answer: >
+      Das Partner University-Konto wird dem Benutzerkonto Partner Center zugeordnet. Die Bewertungen des Benutzers werden innerhalb von **72** Stunden im Partner Center Bericht zu Benutzerkenntnissen angezeigt.
+
+
+      In diesem Bericht werden nur die Qualifikationen angezeigt, die für die Kompetenzen und Programme in Partner Center relevant sind. (Einige nicht mehr behandelte Qualifikationen können auch für 12 Monate oder mehr angezeigt werden, nachdem sie in den Abrenten zurückgelangen wurden.)
+
+
+      Überprüfen Sie unbedingt die Anforderungen für bestimmte Kompetenzen. Um dies zu überprüfen, verwenden Sie entweder die **Menüoption Kompetenzen** im [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) oder die Microsoft Partner Network [Seite Kompetenzen](https://partner.microsoft.com/membership/competencies).
+
+
+      > [!NOTE]
+
+      > Sofern eine Prüfung, Bewertung oder Zertifizierung nicht ausdrücklich als Anforderung unter einer bestimmten Kompetenz erwähnt wird, wird sie nicht in Betracht gezogen, um diese Kompetenz zu erfüllen.
+  - question: >
+      Welche Softwarevorteile (z. B. Lizenznutzungsrechte) stehen mir zu, wenn ich eine Gold- oder Silver-Kompetenz errungen habe oder ein Microsoft Action Pack-Abonnement (MAPS) kaufe?
+    answer: >
+      Weitere Informationen finden Sie in den folgenden Ressourcen:
+
+
+      - [Laden Sie](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) Lizenztabellen für Kompetenzpartner herunter.
+
+
+      - [Laden Sie](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) die Lizenztabelle für Microsoft Action Pack-Abonnementpartner herunter.
+  - question: >
+      Gewusst wie sie eine Microsoft-Zertifizierungsprofil-ID (MCP-ID oder MCID) mit meinem Microsoft Partner Center-Konto verknüpfen?
+    answer: >
+      Siehe [Zuordnen Ihres Microsoft Learn-Kontos zu Ihrem Partner Center Konto.](ms-learn-associate.md)
+  - question: >
+      Warum werden die Leistungsdaten nicht im Bericht zu Den Kompetenzen-KPIs widergespiegelt?
+    answer: >
+      Überprüfen Sie die Anforderungen unter der gewünschten Kompetenz im [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) oder [auf Microsoft Partner Network Seite "Kompetenzen".](https://partner.microsoft.com/membership/competencies) Dies hilft Ihnen, die Anforderungen zu verstehen, um jede Kompetenz zu erreichen (z. B. Partner-Zuordnungstyp, Angebotstyp, TTM).
+
+
+      > [!NOTE]
+
+      > Sofern der Partnerverbundtyp nicht ausdrücklich als Anforderung für eine bestimmte Kompetenz erwähnt wird, wird er für die Erfüllung der Leistungsziele nicht erkannt.
+
+      >
+
+      > Nur Daten für die letzten 12 Monate werden für die Berechnung von Leistung, Qualifikation oder anderen Anforderungen im Zusammenhang mit einer Kompetenz berücksichtigt. Weitere Informationen zu Leistungsberechnungen für Kompetenzen wie die Cloud Business Applications-Kompetenz finden Sie unter [PartnerBeitragsindikatoren](partner-contribution-indicators.md).
+additionalContent: "\n## <a name=\"next-steps\"></a>Nächste Schritte\n   - Informationen zu [MPN-Kompetenzen](learn-about-competencies.md)\n   - Informationen zu [Partner Center Insights-Berichten](partner-center-insights.md)"

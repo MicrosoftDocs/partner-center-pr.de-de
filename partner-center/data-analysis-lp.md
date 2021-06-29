@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276857"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013317"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Verwenden von Analysen, um mehr über den Abonnementumsatz zu erfahren
 
@@ -25,7 +25,7 @@ Um Ihr CSP-Geschäft planen zu können, müssen Sie wissen, wie Kunden ihre Micr
 ## <a name="access-to-the-subscription-analytics"></a>Zugriff auf die Abonnementanalyse
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
-1. Wählen Sie im CSP im menü Partner Center die Option **Analysieren** und dann **Abonnementanalyse** aus.
+1. Wählen Sie im CSP im Menü Partner Center die Option **Analysieren** und dann **Abonnementanalyse** aus.
 
 1. Der nachgestellte CSP-Umsatz für zwölf Monate wird oben auf der Seite angezeigt.
 
@@ -33,7 +33,7 @@ Um Ihr CSP-Geschäft planen zu können, müssen Sie wissen, wie Kunden ihre Micr
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>CSP-Umsatz nachgestellter Twelve-Month (TTM)
 
-Der nachgestellte CSP-Umsatz für 12 Monate entspricht dem Umsatz der nachgestellten Cloud Solution Provider Programms in USD auf Ebene eines globalen Partnerkontos. Die Daten werden am achten jedes Monats aktualisiert, um den nachgestellten Umsatz von zwölf Monaten bis zum Vormonat anzuzeigen. Beispielsweise sollten Sie am 9. September 2020 die TTM für den festen Zeitraum von September 2019 bis August 2020 sehen können.
+Der nachgestellte CSP-Umsatz für 12 Monate entspricht dem Umsatz der nachgestellten Cloud Solution Provider Programms in USD auf Ebene eines globalen Partnerkontos. Die Daten werden am achten jedes Monats aktualisiert, um den nachgestellten Umsatz von zwölf Monaten bis zum Vormonat anzuzeigen. Beispielsweise sollten Sie am 9. September 2020 die TTM für den festen Zeitraum von September 2019 bis August 2020 sehen können. Softwareabonnements werden ausgeschlossen. Der TTM-Umsatz spiegelt nur den berechtigten Umsatz wider, für den die Rechnungen bereits bezahlt wurden. 
 
 Der auf Partner Center angezeigte Umsatz wird für ein festes Zeitintervall von 12 Monaten berechnet und kann nicht in einen kürzeren Zeitraum geändert werden.
 

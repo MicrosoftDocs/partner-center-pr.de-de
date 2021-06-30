@@ -1,85 +1,83 @@
 ---
 title: Registrieren Ihrer Angebote
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Wenn Sie ein Angebot registrieren, das Sie in Partner Center gewonnen haben, bietet Microsoft Ihnen in Zukunft mehr Möglichkeiten.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 4709236b8887bc262cac3bf36b5dd7fcf3c17c92
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: eaa9bb6f8e57033669ef584e7c52c0d050a532e0
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551145"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080661"
 ---
-# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registrieren Sie Angebote, die Sie in Partner Center gewonnen haben, damit Sie später weitere Verkaufschancen erhalten.
+# <a name="register-deals-youve-won-in-partner-center"></a>Registrieren von Abschlüssen, die Sie in Partner Center
 
 **Geeignete Rollen**: Empfehlungsadministrator
 
 Sie können die von Ihnen im Partner Center gewonnenen Angebote registrieren, indem Sie zusätzliche Informationen zum Vertrag bereitstellen. Diese Informationen helfen uns, Ihnen in Zukunft weitere Möglichkeiten zu bieten.
 
-Wenn Sie bei bestimmten geeigneten Lösungen im [Empfehlungsantwortprozess](manage-leads.md) **Gewonnen** ausgewählt haben, werden Sie aufgefordert, zusätzliche Informationen zum Registrieren Ihres Deals anzugeben. Microsoft überprüft die von Ihnen zur Verfügung gestellten Informationen und fordert während des Überprüfungsprozesses möglicherweise weitere Details an.
+Es gibt zwei Pfade, die zur Dealregistrierung führen:
 
-Sie können auch neue, von Ihnen gewonnene Angebote registrieren, die eine Ihrer Lösungen verwenden, auch wenn sie nicht durch eine [Empfehlung](referrals.md) zustande gekommen sind.
+- Sie haben im Abschnitt **Co-Selling-Verkaufschancen** einen neuen Deal erstellt, und Ihr Deal erfüllt die Kriterien für die Dealregistrierung.
+- Sie möchten einen geschlossenen ISV Connect-Deal melden, der nicht zusammen mit Microsoft verkauft wurde.
 
-## <a name="register-a-new-deal"></a>Registrieren eines neuen Angebots
+## <a name="register-a-deal-originating-from-a-co-sell-opportunity"></a>Registrieren eines Deals, der aus einer Co-Selling-Verkaufschance stammt
 
-Um einen neuen **IP-Co-Selling-Deal** zu registrieren, wechseln Sie zur jeweiligen Co-Selling-Verkaufschance, und wählen Sie im Abschnitt "Status des Geschäftsfortschritts Ihres Unternehmens" die Option **Deal registrieren** aus.
+Wenn Sie ein Angebot registrieren möchten, das von einer Co-Selling-Verkaufschance stammt, muss Ihr Deal die folgenden Berechtigungsanforderungen erfüllen:
 
-Geben Sie auf der **Dealentwurfsseite** die folgenden Informationen an.
+- Der Dealtyp ist entweder Co-Selling oder partnergeführt (Sie haben sich entschieden, Microsoft-Verkäufern das Anzeigen dieses Deals zu erlauben).
+- Es gibt mindestens eine Incentive-berechtigte Lösung im Deal. Eine Lösung ist incentivefähig, wenn sie mindestens eines der folgenden Tags enthält:
+  - Azure IP Co-Selling
+  - Business Applications Premium
+  - Business Applications Standard
+- Der Status des Deals lautet "Won".
+- Wenn der Dealtyp Co-Selling ist, muss Microsoft entweder die Einladung angenommen oder den Deal als gewonnen markiert haben. Sie können den Microsoft-Status anzeigen, indem Sie sich die Microsoft-Karte unterHalb Ihrer Dealdetails ansehen.
 
-- **Marketplace-Transaktionsstatus:** Aktivieren Sie das Kontrollkästchen, um die Registrierung für einen Deal zu erstellen, der auf dem Azure Marketplace abgewickelt wird.
-- **Marketplace-Transaktionsdatum:** Wenn das Feld für den Marketplace-Transaktionsstatus aktiviert ist, ist dieses Feld verfügbar und muss konfiguriert werden. Der Wert ist entweder ein Datum der letzten Transaktion oder ein geschätztes zukünftiges Datum der Transaktion.
-- **Gesamtvertragswert:** Der erwartete Gesamtwert für die Einbindung. Dieser sollte alle Software- und Dienstgebühren, aber keine Hardwarekosten umfassen. Achten Sie darauf, dass Sie die entsprechende Währung auswählen.
-- **Lösungswert:** Der Gesamtwert der Cloudlösung, die für den Deal verwendet wird. Achten Sie darauf, alle Kosten im Zusammenhang mit Software- und Wartungsgebühren einzuschließen, aber keine wiedererstattbaren Elemente, nicht wiederkehrende Anpassungsgebühren oder direkt zugeordnete CSP-Lizenzgebühren (Cloud Solution Provider), die von Microsoft bezahlt werden.
-- **Bereitgestellt auf**: Wählen Sie entweder **Azure** oder **Andere** aus.
-- **Wo wird die Lösung bereitgestellt?**: Wählen Sie entweder den **Kundenmandanten** oder den **Partnermandanten** aus.
-- **Vertragssigniertes Datum:** Das Datum, an dem der endgültige Vertrag von Ihrer Organisation und vom Kunden unterzeichnet wurde. Verwenden Sie für Nutzungsbasierte Bezahlung (Pay-As-You-Go, PAYG) das Datum der ersten Rechnung.
-- **Vertragsstartdatum:** Das Datum, an dem der Vertrag beginnt. Verwenden Sie für PAYG-Abschlüsse das Datum der ersten Rechnung. Standardmäßig lässt Partner Center nicht zu, dass Sie ein Startdatum vor dem Vertragsabschlussdatum eingeben. Dies kann sich auf einige Deals auswirken, z. B. IP-Bereitstellungen, die vor dem Signierungsdatum beginnen. Um diese Deals erfolgreich einzugeben, verwenden Sie bei der Übermittlung das Vertragsabschlussdatum sowohl für das Signierungsdatum **als auch** für das Startdatum. (Der Vertrag sollte die Dauer des Geschäftsabschlusses explizit angeben, damit ACV ordnungsgemäß berechnet werden kann.)
-- **Enddatum** des Vertrags: Wenn der Vertrag an einem bestimmten Datum endet, geben Sie dieses Datum an. Verwenden Sie für PAYG-Abschlüsse das Datum der letzten oder letzten Rechnung.
-- **Vertragstyp:** Gilt nicht für IP-Co-Selling-Deals.
-- **Registrierungskontakt:** **Vorname,** **Nachname,** Telefonnummer und **E-Mail-Adresse** für eine Person in Ihrer Organisation, an die wir uns wenden können, wenn wir weitere Details zu den hier angegebenen Informationen benötigen. 
+Wenn Sie die Berechtigungsanforderungen erfüllt haben, werden Sie automatisch aufgefordert, Ihren Deal mit der Schaltfläche **Jetzt registrieren** zu registrieren, die auf der Statusleiste des Abschlusses angezeigt wird:
 
-Wenn Sie alle Abschnitte der Seite ausgefüllt haben, klicken Sie auf **Registrieren**. Die Dealregistrierung wird dann in den Status **Übermittelt** verschoben. Microsoft überprüft dann die Informationen, die Sie angegeben haben, nachdem der Deal in **Den Überprüfungsstatus** verschoben wurde. Sie können die Filter verwenden, um die Deals basierend auf ihrem Status anzuzeigen.
+:::image type="content" source="images/register-deals.png" alt-text="Screenshot der Statusanzeige für den Deal":::
 
-Wählen Sie zum Registrieren eines geschlossenen **ISV Connect-Abschlusses** **+Geschlossenen ISV Connect-Deal melden** aus.
+> [!NOTE]
+> Wenn das **Registrierungselement "Deal"** nicht in der Statusanzeige für den Deal angezeigt wird, erfüllt der Deal nicht alle Anforderungen für die Dealregistrierung.
 
-Geben Sie auf der Seite **Neues Angebot** die folgenden Informationen an.
+Nachdem Sie auf **Jetzt registrieren** geklickt haben, werden Sie zur Seite Deal Registration (Dealregistrierung) weitergeleitet und aufgefordert, ein Formular auszufüllen, das vorab ausgefüllte Informationen für Ihren Kunden und Ihre Lösung enthält. Füllen Sie das Formular mithilfe der folgenden Anweisungen aus, und klicken Sie auf **Registrieren.**
+
+Bei der Registrierung werden je nach Lösung ein oder zwei Datensätze für die Dealregistrierung erstellt.
+
+- Wenn Ihre Lösung für ISV Connect geeignet ist, wird ein ISV Connect-Dealregistrierungsdatensatz erstellt. Dieser Datensatz für die Dealregistrierung wird für die Rechnungsstellung verwendet.
+- Wenn Ihre Lösung für IP-Co-Selling-Incentives berechtigt ist, wird ein Registrierungsdatensatz für den IP-Co-Selling-Deal erstellt. Dieser Datensatz für die Dealregistrierung wird vom Co-Selling-Deal-Prüfungsteam überprüft und genehmigt oder abgelehnt.
+
+## <a name="report-a-closed-isv-connect-deal"></a>Melden eines geschlossenen ISV Connect-Abschlusses
+
+Um einen geschlossenen ISV Connect-Deal zu melden, wechseln Sie zur Registerkarte **Deal registration (Dealregistrierung),** und klicken Sie auf **+ Geschlossenen ISV Connect-Deal** melden. Füllen Sie die erforderlichen Felder aus, und klicken Sie auf **Registrieren.** Dieser Datensatz für die Dealregistrierung wird für die Rechnungsstellung verwendet.
+
+## <a name="fill-out-the-deal-registration-form"></a>Ausfüllen des Formulars für die Dealregistrierung
+
+> [!NOTE]
+> Sie können Deals nach Kundenname, Status und Dealtyp filtern. Klicken Sie hierzu oben auf der Seite Deal Registration (Dealregistrierung) auf die Schaltfläche **Filter** .
+
+Unabhängig davon, ob Sie die Registrierung über eine Co-Selling-Verkaufschance abgeschlossen haben oder einen geschlossenen ISV Connect-Deal melden, der nicht mit Microsoft gemeinsam verkauft wurde, werden Sie aufgefordert, die folgenden Felder im Formular für die Dealregistrierung auszufüllen.
 
 - **Kundendetails:** Geben Sie den **Unternehmensnamen** für Ihren Kunden ein, und wählen Sie **das Land/die Region** aus. Geben Sie dann **Stadt** und **Bundesland/Kanton** ein.
 - **Lösung:** Wählen Sie die Lösung aus, die für den Deal verwendet wird. Wenn die richtige Lösung nicht angezeigt wird, wenden Sie sich an den Support.
-- **Vertragstyp:** Geben Sie an, ob es sich um einen **neuen** Vertrag oder um eine **Verlängerung** eines vorherigen Vertrags handelt.
-- **Gesamtvertragswert:** Der erwartete Gesamtwert für die Einbindung. Dieser sollte alle Software- und Dienstgebühren, aber keine Hardwarekosten umfassen. Achten Sie darauf, dass Sie die entsprechende Währung auswählen.
+- **Vertragstyp:** Geben Sie an, ob es sich bei diesem Deal um einen **neuen** Vertrag oder um eine **Verlängerung** eines vorherigen Vertrags handelt.
+- **Gesamtvertragswert:** Der erwartete Gesamtwert für die Einbindung. Dieser Wert sollte alle Software- und Dienstgebühren enthalten, jedoch keine Hardwarekosten. Achten Sie darauf, dass Sie die entsprechende Währung auswählen.
 - **Lösungswert:** Der Gesamtwert der Cloudlösung, die für den Deal verwendet wird. Stellen Sie sicher, dass Sie alle Kosten im Zusammenhang mit Software- und Wartungskosten einschließen, jedoch keine erstattungsfähigen Posten, einmalige Anpassungsgebühren oder direkt damit verbundene CSP-Lizenzgebühren, die von Microsoft bezahlt werden.
-- **Bereitgestellt auf**: Wählen Sie entweder **Azure** oder **Andere** aus.
-- **Wo wird die Lösung bereitgestellt?**: Wählen Sie entweder den **Kundenmandanten** oder den **Partnermandanten** aus.
-- **Vertragsstartdatum:** Das Datum, an dem der Vertrag beginnt. Verwenden Sie für PAYG-Abschlüsse das Datum der ersten Rechnung. Standardmäßig lässt Partner Center nicht zu, dass Sie ein Startdatum vor dem Vertragsabschlussdatum eingeben. Dies kann sich auf einige Deals auswirken, z. B. IP-Bereitstellungen, die vor dem Signierungsdatum beginnen. Um diese Deals erfolgreich einzugeben, verwenden Sie beim Übermitteln das Vertragsabschlussdatum sowohl für das Vorzeichen als **auch** für das Startdatum. (Der Vertrag sollte die Dauer des Geschäftsabschlusses explizit angeben, damit ACV ordnungsgemäß berechnet werden kann.)
+- **Wird die Lösung in Azure bereitgestellt? Falls nicht, wählen Sie Andere aus:** Wählen Sie entweder **Azure** oder **Andere** aus.
+- **Wird die Nutzung der Lösung auf dem Partnermandanten oder Kundenmandanten ausgeführt?**: Wählen Sie entweder den **Kundenmandanten** oder den **Partnermandanten** aus.
+- **Startdatum** des Vertrags: Das Datum, an dem der Vertrag beginnt. Verwenden Sie für Nutzungsbasierte Bezahlung (Pay-As-You-Go, PAYG) das Datum der ersten Rechnung. Standardmäßig lässt Partner Center nicht zu, dass Sie ein Startdatum vor dem Vertragsabschlussdatum eingeben. Dies kann sich auf einige Deals auswirken, z. B. IP-Bereitstellungen, die vor dem Signierungsdatum beginnen. Um diese Deals erfolgreich einzugeben, verwenden Sie beim Übermitteln das Vertragsabschlussdatum sowohl für das Vorzeichen als **auch** für das Startdatum. (Der Vertrag sollte die Dauer des Geschäftsabschlusses explizit angeben, damit ACV ordnungsgemäß berechnet werden kann.)
 - **Enddatum** des Vertrags: Wenn der Vertrag an einem bestimmten Datum endet, wählen Sie **Hat ein Enddatum** aus, und geben Sie dieses Datum an. Wenn der Vertrag kein bestimmtes Enddatum hat, wählen Sie **Unbefristet** aus. Verwenden Sie für Nutzungsbasierte Bezahlung (Pay-As-You-Go, PAYG) das Datum der letzten oder letzten Rechnung.
-- **Vertragssigniertes Datum:** Das Datum, an dem der endgültige Vertrag von Ihrer Organisation und vom Kunden unterzeichnet wurde. Verwenden Sie für PAYG-Abschlüsse das Datum der ersten Rechnung.
-- **Registrierungskontakt:** **Vorname,** **Nachname,** Telefonnummer und **E-Mail-Adresse** für eine Person in Ihrer Organisation, an die wir uns wenden können, wenn wir weitere Details zu den hier angegebenen Informationen benötigen. 
+- **Vertragssigniertes Datum:** Das Datum, an dem der endgültige Vertrag von Ihrer Organisation und vom Kunden unterzeichnet wurde. Verwenden Sie für Nutzungsbasierte Bezahlung (Pay-As-You-Go, PAYG) das Datum der ersten Rechnung.
+- **Registrierungskontakt:** **Vorname,** **Nachname,** Telefonnummer und **E-Mail-Adresse** für eine Person in Ihrer Organisation, an die wir uns wenden können, wenn wir weitere Details zu den hier bereitgestellten Informationen benötigen. 
 
-Wenn Sie alle Abschnitte der Seite ausgefüllt haben, klicken Sie auf **Registrieren**. Die Angebotsregistrierung wird dann auf die Seite **In Bearbeitung** verschoben. Microsoft prüft anschließend die von Ihnen bereitgestellten Informationen.
+Wenn Sie alle Abschnitte der Seite abgeschlossen haben, klicken Sie auf **Registrieren.**
 
-Sie können die Filter verwenden, um nur Angebotsregistrierungen mit dem Status **Unvollständig** oder **Aktualisierung erforderlich** anzuzeigen.
+- Wenn es sich bei dem Deal um einen ISV Connect-Deal handelt, werden Sie feststellen, dass der Status des Abschlusses "Übermittelt, Abgeschlossen" lautet. Für diesen Dealregistrierungsdatensatz ist keine weitere Aktion erforderlich. Dieser Datensatz wird für die Rechnungsstellung verwendet.
+- Wenn es sich bei dem Deal um einen IP-Co-Selling-Deal handelt, werden Sie feststellen, dass der Status des Geschäfts "Übermittelt" lautet. Das Microsoft Co-Selling Deal Review-Team überprüft die Informationen, die Sie in diesem Datensatz für die Dealregistrierung angegeben haben. Das Überprüfungsteam fordert bei Bedarf weitere Maßnahmen von Ihnen an oder genehmigt/lehnt den Deal direkt ab.
+- Wenn Sie einen Deal registrieren, der von einer Co-Selling-Verkaufschance stammt, und Sie sehen, dass zwei Datensätze für die Dealregistrierung erstellt wurden, bedeutet dies, dass die Lösung für Ihren Deal sowohl für ISV Connect als auch für DEN IP-Co-Selling geeignet ist. Der ISV Connect-Datensatz wird für die Rechnungsstellung verwendet. Der IP-Co-Selling-Datensatz wird vom Co-Selling-Dealvalidierungsteam überprüft.
 
-## <a name="viewing-active-and-closed-deal-registrations"></a>Anzeigen von aktiven und abgeschlossenen Angebotsregistrierungen
-
-Sie können neue, aktive und geschlossene Dealregistrierungen mit unterschiedlichen Zuständen unter **Empfehlungen > Deal-Registrierung** überprüfen, indem Sie den Filter Status im Filterabschnitt oben rechts auf der Seite verwenden.
-
-### <a name="action-required"></a>Erforderliche Aktion
-
-Filtern Sie auf der Seite Registrierungen deal nach Status Aktion erforderlich. Es werden neue Registrierungen angezeigt, die noch nicht registriert wurden oder ein Update benötigen. Sie können die Filter verwenden, um nur Angebotsregistrierungen mit dem Status **Unvollständig** oder **Aktualisierung erforderlich** anzuzeigen. **Unvollständige** Angebotsregistrierungen sind solche Registrierungen, die aus Empfehlungen stammen, aber noch nicht registriert wurden. **Update required** deal registrations sind Registrierungen, die erstellt und registriert wurden, die jedoch erfordern, dass Sie die von Ihnen angegebenen Informationen aktualisieren.
-
-### <a name="under-review"></a>Wird überprüft
-
-Filtern Sie auf der Seite Deal registrations (Dealregistrierungen) nach Status Unter Überprüfung. Daraufhin werden die Dealregistrierungen angezeigt, die Microsoft überprüft. Wenn wir weitere Informationen benötigen, verwenden wir die von Ihnen unter **Registrierungskontakt** angegebenen Informationen.
-
-Wenn Informationen aktualisiert werden müssen, können wir die Dealregistrierung in den Status **Aktion erforderlich** verschieben.
-
-### <a name="closed"></a>Geschlossen
-
-Filtern Sie auf der Seite Deal registrations (Dealregistrierungen) nach Closed state (Geschlossen). Dort werden die Deals angezeigt, die von Microsoft erfolgreich registriert und überprüft wurden. Sie können die Filter verwenden, um nur Registrierungen vom Typ **Genehmigt** oder **Abgelehnt** anzuzeigen.

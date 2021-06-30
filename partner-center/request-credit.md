@@ -9,20 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: f521e55869d60987fb46cd5d570bf206939e0782
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551655"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080638"
 ---
-# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Anfordern eines SLA-Guthabens (Service Level Agreement, Vereinbarung zum Servicelevel) bei Microsoft
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Anfordern eines SLA-Guthabens (Service Level Agreement, Vereinbarung zum Servicelevel) von Microsoft
 
 **Geeignete Rollen:** Administrator-Agent| Globaler Administrator
 
-Sie können **SLA-Gutschriften von** Microsoft anfordern, wenn für einen Dienst, den Sie für Ihre Kunden bereitstellen, ein Ausfall vor sich geht.
+Sie können **Sla-Gutschriften (Sla)** von Microsoft anfordern, wenn ein Dienst, den Sie für Ihre Kunden bereitstellen, aus dem Dienst aus ist.
 
-## <a name="sla-credit-calculation"></a>BERECHNUNG DER SLA-Gutschrift
+## <a name="sla-credit-calculation"></a>SLA-Gutschriftberechnung
 
 SLA-Gutschriften von Microsoft werden basierend auf den Diensten bestimmt, die davon in Mit wirkungen sind. Wenn Ihr Kunde beispielsweise über eine Office 365-Suite verfügt, aber nur ein SharePoint-Ausfall auftrat, wird das SLA-Guthaben nur für SharePoint und nicht für den gesamten Plan des Kunden genehmigt.
 
@@ -33,8 +33,8 @@ SLA-Gutschriften von Microsoft werden basierend auf den Diensten bestimmt, die d
 
 *Der CSP-Partner muss den Anspruch und alle erforderlichen Informationen bis zum Ende des Kalendermonats übermitteln, der auf den Monat folgt, in dem der Vorfall aufgetreten ist.* Wenn der Vorfall beispielsweise am 15. Februar aufgetreten ist, muss Microsoft den Anspruch und alle erforderlichen Informationen bis zum 31. März erhalten. Endkunden und indirekte Vertriebspartner können keine SLA-Gutschriftansprüche übermitteln. Entweder der indirekte Anbieter oder der Direktabrechnungspartner muss Ansprüche in ihrem Namen übermitteln.
 
->[!NOTE]
->Beratungsvorfälle ([Überprüfen der Microsoft 365 Service Health](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) sind nicht für SLA-Gutschriften berechtigt.
+> [!NOTE]
+> Beratungsvorfälle sind nicht für SLA-Gutschriften berechtigt. Ein Incident, der auf dem Service Health-Dashboard  veröffentlicht wird, gibt an, dass ein Mandant möglicherweise davon in Mitfällen besehen ist, und stellt die besten Informationen dar, die Microsoft zum Zeitpunkt der Veröffentlichung hat. Integritätsseitendaten stellen die allgemeine Verfügbarkeit eines Diensts dar. Die Auswirkungen, Entschärfung und Lösung einzelner Dienste können variieren. Weitere Informationen finden Sie in der abschließenden Incident Post- und Post Incident Review. Weitere [Informationen finden Sie Microsoft 365 Überprüfen der Integrität des](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) Diensts.
 
 ### <a name="required-information"></a>Erforderliche Informationen
 

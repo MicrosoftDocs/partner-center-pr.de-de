@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
-ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
+ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113105038"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173666"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Technischer Support für lokale oder Cloudprodukte
 
@@ -61,13 +61,13 @@ Anzeigen oder Aktivieren Ihrer technischen Vorteile in Partner Center:
 
 3. Um den Microsoft-Produktsupport oder den Signature-Produktsupport zu verwenden, müssen Sie den Vorteil aktivieren. Um den Vorteil zu aktivieren, wählen Sie die **Schaltfläche Aktivieren** aus. Für das Benutzerkonto, das für die Aktivierung verwendet wird, sind die Rollen Globaler Administrator oder MPN-Partneradministrator erforderlich.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Technische Vorteile: Aktivieren" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Wählen Sie unter Technische Vorteile die Option Aktivieren aus." :::
 
 4. Zugriffs-ID und Vertrags-ID werden nach erfolgreicher Aktivierung allen Benutzern angezeigt. Sie können Microsoft Product Support und Signature Product Support (Gold- und Silver-Mitglieder) verwenden, wenn die Zugriffs-ID und vertrags-ID angezeigt werden.
 
    Wenn die Schaltfläche Aktivieren ausgegraut ist, verfügt Ihr Konto nicht über die Sicherheitsrolle Globaler Administrator oder MPN-Partneradministrator. Verwenden  [Sie die Benutzerverwaltung,](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) und filtern Sie nach "Globaler Administrator" oder "MPN-Partneradministrator", um einen Benutzer zu finden, der Ihre Vorteile aktiviert.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Aktivierte technische Vorteile zeigen Zugriffs-ID und Vertrags-ID an" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Aktivierte technische Vorteile zeigen Zugriffs-ID und Vertrags-ID an." :::
 
    > [!NOTE]
    > Sie benötigen die Zugriffs-ID und Vertrags-ID, wenn Sie den Microsoft-Produktsupport oder den Signaturproduktsupport für jedes Konto zum ersten Mal verwenden. Nachdem die Vorteile Ihrem Konto zugeordnet wurden, müssen Sie die Zugriffs-ID und die Vertrags-ID nicht mehr verwenden.  
@@ -86,17 +86,17 @@ Im Rahmen der Microsoft Partner Network Mitgliedschaft sind Partner für den fol
 | Microsoft-Produktsupport<br>Für die aktuelle lokale Umgebung <br>Nur Produkte | 10 Incidents | 15 Incidents | 20 Incidents |
 | Signature Cloud Support<br>Nur für Cloudprodukte | | Cloud-Kompetenzen:<br>Unbegrenzt<br><br>Weitere Kompetenzen:<br>5 Incidents | Cloud-Kompetenzen:<br>Unbegrenzt<br>          <br>Weitere Kompetenzen:<br>10 Incidents   | 
 
-Zu den Cloud-Kompetenzen gehören: Sicherheits-Kompetenz, Cloud Business Applications, Cloudplattform, Cloudproduktivität, Enterprise Mobility Management, Kleine und Midmarket-Cloudlösungen.
+Zu den Cloud-Kompetenzen gehören: Security Competency, Cloud Business Applications, Cloud Platform, Cloud Productivity, Enterprise Mobility Management, Small und Midmarket Cloud Solutions.
 
 ## <a name="microsoft-product-support-on-premises"></a>Microsoft-Produktsupport (lokal)
 
 Sie können den **Microsoft-Produktsupport für** technischen Support für aktuelle lokale Produkte verwenden. Aktuelle lokale Produkte enthalten nur das aktuelle Produkt (N) und die vorherige Produktversion (N-1). Die vorherige Produktversion wird nur unterstützt, wenn sie sich innerhalb des [Mainstreamsupports befindet.](/lifecycle/policies/fixed) basierend auf der [N-1-Unterstützungsrichtlinie.](https://aka.ms/n-1) Verwenden Sie für nicht unterstützte Produkte und Versionen die entsprechende kostenpflichtige Supportoption, oder erwerben Sie einen Partnersupportplan.
 
-Sie benötigen die Zugriffs-ID und vertrags-ID, wenn Sie den Vorteil zum ersten Mal nutzen. Die Vorteile sind Ihrem Benutzerkonto zugeordnet, bis sie ablaufen oder es keine weiteren Supportvorfälle mehr gibt.
+Sie benötigen die Zugriffs-ID und vertrags-ID, wenn Sie den Vorteil zum ersten Mal nutzen. Die Vorteile werden Ihrem Benutzerkonto zugeordnet, bis sie ablaufen oder keine Supportvorfälle mehr übrig sind.
 
 Alle Benutzerkonten (AAD oder MSA) können technischen Support für lokale Produkte verwenden, wenn sie über die Zugriffs-ID und Vertrags-ID verfügen.
 
-Wählen [Sie Support for Business aus,](https://support.serviceshub.microsoft.com/supportforbusiness/create) um eine Supportanfrage für ein lokales Produkt zu erstellen.
+Wählen [Sie Support für Unternehmen aus,](https://support.serviceshub.microsoft.com/supportforbusiness/create) um eine Supportanfrage für ein lokales Produkt zu erstellen.
 
 ### <a name="how-many-partner-support-incidents-are-remaining"></a>Wie viele Partnersupport-Incidents bleiben übrig?
 
@@ -108,18 +108,18 @@ Sie müssen support for Business verwenden und den Prozess starten, um einen lok
 
 2. Wenn Ihr Supportvertrag ihrem Konto bereits zugeordnet ist, sollten Supportvorfälle angezeigt werden. Für den lokalen Support sollte der Partnersupportvertrag angezeigt werden (es sei denn, er ist nicht mehr gültig), einschließlich Startdatum, Enddatum und verbleibender Vorfälle.
 
-Wenn Sie Ihren Supportvertrag zuordnen müssen, erweitern Sie "Müssen Sie weitere  Supportpläne erwerben oder hinzufügen", und wählen Sie die Schaltfläche Vertrag hinzufügen aus, um Ihre Zugriffs-ID und Vertrags-ID ein. Erweitern Sie **die "Möchten Sie nicht verfügbare Supportpläne sehen?""** abschnitt, um Informationen zur Partnersignatur zu erhalten. Hier wird nur der Partnersupport angezeigt, wenn die Verträge abgelaufen sind, keine Incidents mehr bleiben [](https://aka.ms/n-1) oder Sie ein altes lokales Produkt ausgewählt haben (siehe aka.ms/n-1 für Supportprodukte).
+Wenn Sie Ihren Supportvertrag zuordnen müssen, erweitern Sie "Müssen Sie weitere  Supportpläne erwerben oder hinzufügen", und wählen Sie die Schaltfläche Vertrag hinzufügen aus, um Ihre Zugriffs-ID und Vertrags-ID ein. Erweitern Sie **die "Möchten Sie nicht verfügbare Supportpläne sehen?""** abschnitt, um Informationen zur Partnersignatur zu erhalten. Hier wird nur der Partnersupport angezeigt, wenn die Verträge abgelaufen sind, keine Incidents mehr übrig [](https://aka.ms/n-1) sind oder Sie ein altes lokales Produkt ausgewählt haben (siehe aka.ms/n-1 für Supportprodukte).
 
-Ausführlichere Informationen finden Sie unter [Wie viele Partnersupportvorfälle bleiben übrig?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3).
+Ausführlichere Informationen finden Sie unter [Wie viele Partnersupport-Incidents sind noch übrig?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3).
 
 ## <a name="signature-cloud-support-cloud-only"></a>Signature Cloud Support (nur Cloud)
 
 Gold- oder Silver-Kompetenzpartner können **Signature Cloud Support** technischen Support für Cloudprodukte verwenden. Action Pack Partner sind nur dann für Signature Cloud Support berechtigt, wenn sie eine Kompetenz erhalten.  
 
-Sie benötigen die Zugriffs-ID und Vertrags-ID, wenn Sie den Vorteil für Azure, Dynamics 365 und andere Cloudprodukte (Ausnahme-Microsoft 365. Die Vorteile sind Ihrem Benutzerkonto zugeordnet, bis sie ablaufen oder es keine weiteren Supportvorfälle mehr gibt.
+Sie benötigen die Zugriffs-ID und vertrags-ID, wenn Sie den Vorteil für Azure, Dynamics 365 und andere Cloudprodukte (Ausnahme-MICROSOFT 365) zum ersten Mal nutzen. Die Vorteile werden Ihrem Benutzerkonto zugeordnet, bis sie ablaufen oder keine Supportvorfälle mehr übrig sind.
 
 > [!NOTE]  
-> Bei Verwendung des -Azure-Portal. Wenn Ihr Supportvertrag bereits mit dem Konto verknüpft ist, wird die Fehlermeldung "Access ID is already associated ..." (Zugriffs-ID ist bereits zugeordnet...) angezeigt. , wenn Sie die Zugriffs-ID und die Vertrags-ID hinzufügen. siehe unten.
+> Bei Verwendung des -Azure-Portal. Wenn Ihr Supportvertrag bereits dem Konto zugeordnet ist, wird die Fehlermeldung "Die Zugriffs-ID ist bereits zugeordnet..." angezeigt. , wenn Sie die Zugriffs-ID und die Vertrags-ID hinzufügen. siehe unten.
 
 CSP-Partner, die Azure-Anforderungen erstellen, können den Supportplan "Cloud Solution Provider" verwenden, ohne einen Supportvertrag hinzufügen zu müssen.
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: a4a8d79c1a5b22eb0c053d8cfb0d5d7ec2aae44b
+ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712527"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "111575834"
 ---
 # <a name="november-2020-announcements"></a>Ankündigungen für November 2020
 
@@ -307,8 +307,8 @@ Partner Center ist darauf ausgelegt, eine große Anzahl von Anforderungen zu ver
 
 | **Vorgang** | **Dokumentation zu Partner Center** |
 |-------------------------|----------------------------------|
-|{baseURL}/v1/customers/{customer_id}/subscriptions|[Abrufen aller Abonnements eines Kunden](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Abrufen eines Abonnements nach ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[Abrufen aller Abonnements eines Kunden](/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Abrufen eines Abonnements nach ID](/partner-center/develop/get-a-subscription-by-id) | 
 |{baseURL}/v1/customers/{customer_id}/orders|[Abrufen aller Bestellungen eines Kunden](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Abrufen eines Auftrags nach ID](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Abrufen des Abonnementbereitstellungsstatus](/partner-center/develop/get-subscription-provisioning-status)|  

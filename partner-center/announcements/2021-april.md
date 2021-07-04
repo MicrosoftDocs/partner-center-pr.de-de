@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13b8ec9ddd82b38a265606809b8c39c07436e548
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702823"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150130"
 ---
 # <a name="april-2021-announcements"></a>Ankündigungen für April 2021
 
@@ -79,7 +79,7 @@ _______________
 
 ### <a name="summary"></a>Zusammenfassung
 
-Die Dokumente zu Partner Center-API-Swagger wurden von der [vorherigen Swagger-Dokumentationswebsite](https://apidocs.microsoft.com/services/partnercenter) zu einer [neuen Swagger-Dokumentationswebsite](https://docs.microsoft.com/rest/api/partner-center-rest/) migriert.
+Die Dokumente zu Partner Center-API-Swagger wurden von der [vorherigen Swagger-Dokumentationswebsite](https://apidocs.microsoft.com/services/partnercenter) zu einer [neuen Swagger-Dokumentationswebsite](/rest/api/partner-center-rest/) migriert.
 
 ### <a name="impacted-audience"></a>Zielgruppe
 
@@ -87,11 +87,11 @@ Partner mit direkter Abrechnung und indirekte Anbieter, die am CSP-Programm (Clo
 
 ### <a name="details"></a>Details
 
-Ab dem 26. April 2021 befindet sich die Dokumentation zu Partner Center-API-Swagger, einschließlich der REST-API-Inhalte, auf einer [neuen Website](https://docs.microsoft.com/rest/api/partner-center-rest/). Auf die alte Website kann nach einigen Wochen nicht mehr zugegriffen werden.
+Ab dem 26. April 2021 befindet sich die Dokumentation zu Partner Center-API-Swagger, einschließlich der REST-API-Inhalte, auf einer [neuen Website](/rest/api/partner-center-rest/). Auf die alte Website kann nach einigen Wochen nicht mehr zugegriffen werden.
 
 ### <a name="benefits"></a>Vorteile
 
-Die Dokumentation zu Partner Center-API-Swagger umfasst eine **Testen**-Funktion. Um diese Funktion zu nutzen, benötigen Sie ein Bearertoken, das Sie mithilfe der unter [Partner Center-Authentifizierung](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication) aufgeführten Schritte generieren können.
+Die Dokumentation zu Partner Center-API-Swagger umfasst eine **Testen**-Funktion. Um diese Funktion zu nutzen, benötigen Sie ein Bearertoken, das Sie mithilfe der unter [Partner Center-Authentifizierung](/partner-center/develop/partner-center-authentication#app--user-authentication) aufgeführten Schritte generieren können.
 
 ### <a name="next-steps"></a>Nächste Schritte
 
@@ -322,7 +322,7 @@ Partner, die Angebote für Bildungseinrichtungen, gemeinnützige Organisationen 
 
 ### <a name="details"></a>Details
 
-Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](https://docs.microsoft.com/partner-center/announcements/2020-december#1) in Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen wird **die vorhandene GET-Qualifizierung am 6. Mai 2021 eingestellt**. Zu diesem Zeitpunkt müssen Sie auf die Verwendung der neuen POST-APIs in Partner Center umgestellt haben. Mit den neuen POST-APIs können Sie Angebote für Bildungseinrichtungen erwerben, während Sie mit den neuen GET-APIs vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC erwerben können.
+Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](./2020-december.md#1) in Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen wird **die vorhandene GET-Qualifizierung am 6. Mai 2021 eingestellt**. Zu diesem Zeitpunkt müssen Sie auf die Verwendung der neuen POST-APIs in Partner Center umgestellt haben. Mit den neuen POST-APIs können Sie Angebote für Bildungseinrichtungen erwerben, während Sie mit den neuen GET-APIs vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC erwerben können.
 
 ### <a name="next-steps"></a>Nächste Schritte
 
@@ -390,7 +390,7 @@ Die folgenden Elemente sind nicht betroffen:
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-Lesen Sie die Informationen zu diesem Thema im [Operations Readiness-Ressourcenkatalog](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) auf der Microsoft-Partner-Website. Weitere Informationen zu Abrechnungs- und Steuerthemen, einschließlich Abrechnungsressourcen, Rechnungen, CSP-Abrechnung und Steuern, finden Sie im [Abschnitt „Abrechnung“](https://docs.microsoft.com/partner-center/billing) in Partner Center.
+Lesen Sie die Informationen zu diesem Thema im [Operations Readiness-Ressourcenkatalog](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) auf der Microsoft-Partner-Website. Weitere Informationen zu Abrechnungs- und Steuerthemen, einschließlich Abrechnungsressourcen, Rechnungen, CSP-Abrechnung und Steuern, finden Sie im [Abschnitt „Abrechnung“](../billing.md) in Partner Center.
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)

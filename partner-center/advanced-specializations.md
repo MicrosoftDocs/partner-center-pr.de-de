@@ -1,7 +1,7 @@
 ---
 title: Erfahren Sie mehr über erweiterte Spezialisierungen.
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Stärken Sie Ihr Geschäftsprofil im Microsoft-Partnerverzeichnis. Erfahren Sie mehr über die erweiterten Spezialisierungen, die Sie zusammen mit Ihren vorhandenen Gold- und Silver-Kompetenzen erwerben können.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125921"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489808"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Erhalten Sie eine erweiterte Spezialisierung, um Ihre überprüften Funktionen zu präsentieren.
 
@@ -45,7 +45,7 @@ Jede erweiterte Spezialisierung entspricht einem Lösungsbereich:
 - Analysen auf Microsoft Azure
 - Data Warehouse-Migration zu Microsoft Azure
 - Kubernetes in Microsoft Azure
-- Migration von Linux- und Open Source-Datenbanken Microsoft Azure
+- Migration von Linux- und Open Source-Datenbanken zu Microsoft Azure
 - Microsoft Windows Virtual Desktop
 - Modernisierung von Webanwendungen auf Microsoft Azure
 - SAP unter Microsoft Azure
@@ -54,8 +54,11 @@ Jede erweiterte Spezialisierung entspricht einem Lösungsbereich:
 - Hybrid Cloud-Infrastruktur mit Microsoft Azure Stack HCI
 - Hybridvorgänge und -verwaltung mit Microsoft Azure Arc
 - Microsoft Azure VMware Solution
+- DevOps mit GitHub auf Microsoft Azure
+- Netzwerkdienste in Microsoft Azure
 
-**Business Applications** erweiterten Spezialisierungen sind:
+
+**Business Applications** erweiterten Spezialisierungen umfassen Folgendes:
 
 - Entwicklung von Anwendungen mit geringem Code
 - Verwaltung kleiner und mittelgroßer Unternehmen

@@ -9,32 +9,32 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f521e55869d60987fb46cd5d570bf206939e0782
-ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
+ms.openlocfilehash: 3a0bb85143efe3d4135b56985b9a04e2dbe5e4cc
+ms.sourcegitcommit: 57442bbbef15a70bd9a042642140cbf2c8608b09
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113080638"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "113519444"
 ---
-# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Anfordern eines SLA-Guthabens (Service Level Agreement, Vereinbarung zum Servicelevel) von Microsoft
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Anfordern eines SLA-Guthabens (Service Level Agreement, Vereinbarung zum Servicelevel) bei Microsoft
 
 **Geeignete Rollen:** Administrator-Agent| Globaler Administrator
 
 Sie können **Sla-Gutschriften (Sla)** von Microsoft anfordern, wenn ein Dienst, den Sie für Ihre Kunden bereitstellen, aus dem Dienst aus ist.
 
-## <a name="sla-credit-calculation"></a>SLA-Gutschriftberechnung
+## <a name="sla-credit-calculation"></a>BERECHNUNG DER SLA-Gutschrift
 
-SLA-Gutschriften von Microsoft werden basierend auf den Diensten bestimmt, die davon in Mit wirkungen sind. Wenn Ihr Kunde beispielsweise über eine Office 365-Suite verfügt, aber nur ein SharePoint-Ausfall auftrat, wird das SLA-Guthaben nur für SharePoint und nicht für den gesamten Plan des Kunden genehmigt.
+SLA-Gutschriften von Microsoft werden basierend auf den Diensten bestimmt, die davon in Mit wirkungen sind. Wenn Ihr Kunde beispielsweise über eine Office 365 Suite verfügt, aber nur ein SharePoint-Ausfall auftrat, wird das SLA-Guthaben nur für SharePoint genehmigt und nicht für den gesamten Plan des Kunden.
 
 *Guthaben werden basierend auf dem betroffenen Dienst und der Dauer des Ausfalls anteilsgewertet.* Die Typen von Szenarien, die für SLA-Gutschriften qualifiziert sind, finden Sie im Dokument [Zur konsolidierten SLA für Onlinedienste.](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37) Diese Informationen gelten auch für Dienste, die über Cloud Solution Provider CSP-Programm (CSP) verkauft werden.
 
 
 ## <a name="request-an-sla-credit"></a>Anfordern einer SLA-Gutschrift
 
-*Der CSP-Partner muss den Anspruch und alle erforderlichen Informationen bis zum Ende des Kalendermonats übermitteln, der auf den Monat folgt, in dem der Vorfall aufgetreten ist.* Wenn der Vorfall beispielsweise am 15. Februar aufgetreten ist, muss Microsoft den Anspruch und alle erforderlichen Informationen bis zum 31. März erhalten. Endkunden und indirekte Vertriebspartner können keine SLA-Gutschriftansprüche übermitteln. Entweder der indirekte Anbieter oder der Direktabrechnungspartner muss Ansprüche in ihrem Namen übermitteln.
+*Der CSP-Partner muss den Anspruch und alle erforderlichen Informationen bis zum Ende des Kalendermonats übermitteln, der auf den Monat folgt, in dem der Vorfall aufgetreten ist.* Wenn der Vorfall beispielsweise am 15. Februar aufgetreten ist, muss Microsoft den Anspruch und alle erforderlichen Informationen bis zum 31. März erhalten. Endkunden und indirekte Vertriebspartner können keine SLA-Gutschriftansprüche übermitteln. entweder der indirekte Anbieter oder der Direktabrechnungspartner muss Ansprüche in ihrem Namen übermitteln.
 
 > [!NOTE]
-> Beratungsvorfälle sind nicht für SLA-Gutschriften berechtigt. Ein Incident, der auf dem Service Health-Dashboard  veröffentlicht wird, gibt an, dass ein Mandant möglicherweise davon in Mitfällen besehen ist, und stellt die besten Informationen dar, die Microsoft zum Zeitpunkt der Veröffentlichung hat. Integritätsseitendaten stellen die allgemeine Verfügbarkeit eines Diensts dar. Die Auswirkungen, Entschärfung und Lösung einzelner Dienste können variieren. Weitere Informationen finden Sie in der abschließenden Incident Post- und Post Incident Review. Weitere [Informationen finden Sie Microsoft 365 Überprüfen der Integrität des](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) Diensts.
+> Beratungsvorfälle sind in der Regel nicht für SLA-Gutschriften berechtigt. Ein Incident, der auf dem Service Health-Dashboard  veröffentlicht wird, gibt an, dass ein Mandant möglicherweise davon in Mitfällen besehen ist, und stellt die besten Informationen dar, die Microsoft zum Zeitpunkt der Veröffentlichung hat. Integritätsseitendaten stellen die allgemeine Verfügbarkeit eines Diensts dar. Die Auswirkungen einzelner Dienste, die Entschärfung und die Lösung können variieren. Weitere Informationen finden Sie in der abschließenden Incident Post- und Post Incident Review." Weitere [Informationen finden Sie Microsoft 365 Überprüfen der Integrität](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) des Diensts.
 
 ### <a name="required-information"></a>Erforderliche Informationen
 
@@ -44,8 +44,8 @@ Bevor Sie [eine SLA-Gutschriftanforderung](#submit-sla-credit-request) an  Micro
 
 - GuiD des Kunden mandanten
 - Der [Incidentbezeichner für den Ausfall?](#outage-incident-identifier)
-- Der Nachweis, dass der Kunde von dem Ausfall in Mitbewirkung genommen wurde und ein SLA-Guthaben angefordert hat.
-- Wurden die über CSP erworbenen Abonnements von den Auswirkungen? (*ja* oder *nein*)
+- Der Nachweis, dass der Kunde von dem Ausfall abgefragt wurde und eine SLA-Gutschrift angefordert hat.
+- Wurden die über CSP erworbenen Abonnements von den Auswirkungen? (*Ja* oder *Nein*)
 
 #### <a name="evidence-that-proves-customer-impact"></a>Beweise, die auswirkungen auf Kunden belegen
 
@@ -58,14 +58,14 @@ Bevor Sie [eine SLA-Gutschriftanforderung](#submit-sla-credit-request) an  Micro
 
 #### <a name="outage-incident-identifier"></a>Id des Incidents "Ausfall"
 
-Sie finden den Bezeichner für den Ausfallvorfall auf **Service Health** Seite im Microsoft 365 Admin Center. Die **Incident-ID** für Den Ausfall ist eine Zahl, der eine zweibuchstabende Abkürzung voran steht, die den betroffenen Dienst angibt (z. B. *EX25194* für einen Exchange Online-Ausfall). In der folgenden Tabelle werden allgemeine Dienstabkürzungen beschrieben:
+Sie finden den Bezeichner für den Ausfallvorfall auf **Service Health** Seite im Microsoft 365 Admin Center. Die **Incident-ID** für den Ausfall ist eine Zahl, der eine zweibuchstabende Abkürzung voran steht, die den betroffenen Dienst angibt (z. B. *EX25194* für einen Exchange Online Ausfall). In der folgenden Tabelle werden allgemeine Dienstabkürzungen beschrieben:
 
 | Zwei buchstabenbasierte Abkürzung | Microsoft-Dienst |
 | ----------------------- | ----------------- |
 | EX | Exchange Online |
-| FO | Exchange Online-Schutz |
+| FO | Exchange Online Protection |
 | SB | Skype for Business Online (ehemals Lync Online) |
-| Betriebssystem | Office-Abonnement |
+| OS | Office-Abonnement |
 | PB | Power BI für Office 365 |
 | SP | SharePoint Online |
 | Ya | Yammer Enterprise |

@@ -1,0 +1,229 @@
+### YamlMime:FAQ
+metadata:
+  title: Häufig gestellte Fragen zu Auszahlungen und Steuerprofilen
+  description: Hier erhalten Sie Antworten auf häufig gestellte Fragen zu Auszahlungen und Steuerdetails Partner Center. Enthält Antworten dazu, warum sich Ihre Einnahmen von Ihren erwarteten Einnahmen unterscheiden.
+  ms.service: marketplace
+  ms.subservice: partnercenter-marketplace-publisher
+  ms.topic: article
+  author: eunjkim520
+  ms.author: eunjkim
+  ms.date: 05/06/2021
+  ms.openlocfilehash: 30524899a85cff7439268d569e93810034109474
+  ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113686478"
+title: Häufig gestellte Fragen zu Auszahlungen und Steuern
+summary: >
+  **Geeignete Rollen:** Kontoadministrator-| Globale Administratorrechte | Incentives-Administrator
+
+
+  Dieser Artikel beantwortet häufig gestellte Fragen zu Auszahlungen und Steuerdetails in Partner Center. Zu den behandelten Themen gehören die Zeitliche Steuerung von Zahlungen, die Überprüfung Ihrer Einnahmenberechtigung und die Wichtigkeit der ordnungsgemäßen Einrichtung Ihrer Auszahlungs- und Steuerprofile.
+sections:
+- name: Profilverwaltung
+  questions:
+  - question: >
+      Warum muss ich meine Auszahlungs- und/oder Steuerdetails bereitstellen oder aktualisieren?
+    answer: >
+      Alle Partner, die sich für ein neues Programm registrieren, müssen gültige Auszahlungs- und Steuerdetails bereitstellen, um ihre Registrierung abschließen und Zahlungen empfangen zu können. Eine Registrierung gilt erst als abgeschlossen, nachdem Microsoft Ihr Auszahlungs- und Steuerprofil überprüft hat.
+
+
+      Möglicherweise müssen Sie Ihre Informationen auch aktualisieren, wenn sich die Regeln für Ihr Programm ändern oder wenn Aspekte Ihres Profils ablaufen oder veraltet sind. In diesem Fall wird auf der Seite Übersicht der Status Aktion erforderlich – **Bank- und/oder Steuerprofil aktualisieren angezeigt.**
+  - question: >
+      Gewusst wie Sie Auszahlungs- und Steuerdetails suchen, einrichten oder aktualisieren?
+    answer: >
+      Ausführliche Informationen zum Aktualisieren von Zahlungs- und Steuerdetails in Partner Center finden Sie unter Einrichten Ihres Auszahlungskontos [und Ihrer Steuerformulare.](set-up-your-payout-account.md)
+  - question: >
+      Warum sehe ich meine Registrierungen nicht, wenn ich mein Auszahlungs- und Steuerprofil zuweise?
+    answer: >
+      Es kann sein, dass Sie nicht über die richtigen Berechtigungen verfügen oder dass Sie mit einem Konto angemeldet sind, das nicht über diese Berechtigungen verfügt. Beispielsweise können nur Incentiveadministratoren für Ihren MPN-Standort Auszahlungs- und Steuerprofile erstellen oder verwalten. Wenden Sie sich zwecks Verwaltung der Berechtigungen für Bank und Steuern an den Administrator Ihrer Organisation.
+  - question: >
+      Ich kann mich nur mit meiner Domäne @onmicrosoft.com anmelden.   Wie sollte ich vorgehen?
+    answer: >
+      Wenden Sie sich an Ihren Kontoadministrator, um dem AAD-Konto weitere Domänen hinzuzufügen.
+  - question: >
+      Meine Organisation ist an mehreren Programmen beteiligt. Muss ich mein Zahlungs- und Steuerprofil mehrmals bereitstellen?
+    answer: >
+      Dies hängt von den Anforderungen Ihrer Organisation ab. Zahlungsprofile werden auf Organisationsebene erstellt, wodurch dasselbe Bankprofil über mehrere MPN-IDs und Programme innerhalb einer Organisation hinweg zugewiesen werden kann. In den meisten Fällen können Sie entweder ein vorhandenes Profil wiederverwenden oder ein neues erstellen.
+
+
+      Es kann jedoch Ausnahmen geben, wenn Sie Ihr Bankprofil verschiedenen Ländern oder Regionen zuordnen, da möglicherweise lokale Bank- oder Steuervorschriften gelten.
+
+
+      Steuerprofile, die für einen MPN-Standort erstellt werden, werden wiederverwendet und automatisch aufgefüllt, wenn derselbe MPN-Standort an einem anderen Programm beteiligt ist. Es kann jedoch Ausnahmen geben. Beispielsweise können die Auszahlungsregeln eines neuen Incentives-Programms zusätzliche Details zum Steuerprofil erfordern.
+  - question: >
+      Kann ich dieselben Bank- und Steuerdetails für alle Incentive-Programme bei Microsoft verwenden?
+    answer: >
+      Wenn Ihr Unternehmen für mehrere Programme eingeladen wird, können Sie dasselbe Zahlungskonto für alle Ihre Programme verwenden oder unterschiedliche Zahlungskonten für die verschiedenen Programme verwenden.
+  - question: >
+      Wie stellt Microsoft sicher, dass die Bankinformationen tatsächlich die des Unternehmens sind und kein persönliches Bankkonto für einen Mitarbeiter?
+    answer: >
+      Es liegt in der Verantwortung des Unternehmens sicherzustellen, dass die Rolle des Incentiveadministrators – der über die Berechtigungen zum Bearbeiten dieser Informationen verfügt – nur den entsprechenden Mitarbeitern zugewiesen wird.
+  - question: >
+      Mein Steuerprofil ist abgelaufen. Gewusst wie sie zu korrigieren?
+    answer: >
+      Wenn ein Steuerprofil abgelaufen ist oder abläuft, bedeutet dies, dass das Steuerformular, das Sie Microsoft bereitgestellt haben, aktualisiert werden muss. Führen Sie die folgenden Schritte aus, um Ihr Steuerprofil zu aktualisieren:
+
+
+      1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an, und wählen Sie dann das Zahnradsymbol aus, um das **Menü** Einstellungen öffnen.
+
+      2. Wählen **Sie Kontoeinstellungen** aus, erweitern Sie den Abschnitt **Auszahlung** und Steuern, und wählen Sie dann **Auszahlungs- und Steuerprofil** aus.
+
+      3. Wählen Sie **Steuerprofil** aus.
+
+      4. Überprüfen Sie die Spalte **Ablaufdatum,** und navigieren Sie zu dem Steuerprofil, das abgelaufen ist oder abläuft.
+
+      5. Wählen Sie **Bearbeiten** aus, um den Bearbeitungsprozess für das Steuerprofil zu starten.
+
+      6. Geben Sie im Abschnitt "Steuerformular" die aktualisierten Details an.
+- name: Falsche oder fehlende Einnahmen
+  questions:
+  - question: >
+      Warum fehlen meine Einnahmen?
+    answer: >
+      - Die Kundenbestellung verfügt unter Umständen noch nicht über die Berechtigung zur Auszahlung. Für nicht von Unternehmen stammende Kundenbestellungen muss Microsoft die Kundenzahlung erhalten haben, bevor dem Herausgeber die Einnahmen ausgezahlt werden können. Bei Kundenbestellungen von Unternehmen sind Ihre Einnahmen ein bis zwei Tage nach dem Datum der Bestellung verfügbar. Überprüfen Sie den Bestellstatus unter [Auftragsberichte](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order).
+
+      - Einnahmen für Transaktionen, die vor Juli 2019 durchgeführt wurden, werden im Bericht zum Transaktionsverlauf ggf. nicht angezeigt. Überprüfen Sie den Verlauf der Auszüge auf der [Downloadseite für Auszahlungen](https://partner.microsoft.com/dashboard/payouts/reports/incentiveexport).
+
+      - Überprüfen Sie den [Zeitrahmen des Auszahlungszyklus, und](payment-thresholds-methods-timeframes.md) verstehen Sie, wann Ihre Einnahmen im Auszahlungsauszug angezeigt werden sollen.
+  - question: >
+      Warum ist mein Einnahmenbetrag anders als erwartet?
+    answer: "- Wenn die Bestellung teilweise von Ihrem Kunden bezahlt wurde, basiert Ihr Einnahmenbetrag auf dem teilweise bezahlten Betrag nach dem Abzug der Gebühr und der entsprechenden Steuern.\n- Überprüfen Sie die Zuständigkeit für steuerliche Überweisungen nach Land. In Ländern, in denen die Steuern für Microsoft verantwortlich sind, wird die Steuer von Microsoft von den Einnahmen des Herausgebers ein- und abgezogen. Der Transaktionsbetrag im Auszug ist der Betrag nach Abzug der Steuer. Weitere Informationen finden Sie unter [Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber](tax-details-marketplace.md).\n- Für SaaS- und IaaS-Angebote wird eine Vergünstigungsgebühr von 10 % anstelle der standardmäßigen 20 % berechnet, was zu einer Einnahmenrate von 90 % beiträgt. Dies ist eine ANFORDERUNG Co-Sell IP-Adresse. Dieses Angebot gilt bis zum 30. Juni 2021. \n\n**Weitere Informationen:** [Kommerzieller Marketplace Publisher-](/legal/marketplace/msft-publisher-agreement) [und](payout-policy-details.md)Auszahlungsrichtlinie, Zahlungsschwellenwert, Methode und [Zeitrahmen,](payment-thresholds-methods-timeframes.md) [Zahlung,](marketplace-get-paid.md) [Steuerdetails,](tax-details-marketplace.md) [Auszahlungsauszug](payout-statement.md)\n"
+- name: Einnahmenabgleich
+  questions:
+  - question: >
+      Wie kann ich Auszahlungsauszüge mit Auftrags- oder Nutzungsberichten in Analysen abgleichen?
+    answer: >
+      Verwenden Sie AssetID, orderID und Zeilenelement-ID, die im Verlaufsbericht für Auszahlungstransaktion mit Analyseaufträgen und Nutzungsberichten angezeigt werden. Verwenden Sie diese Zuordnung:
+
+
+      - Payout Transaction History.AssetID = order.OrderID
+
+      - Payout Transaction History.OrderID & LineItem = Usage.UsageReferenceID [OrderID:LineItemID]
+  - question: >
+      Wann kann ich mit Zahlungen für meine Kundenbestellungen rechnen?
+    answer: >
+      - Überprüfen Sie zunächst mithilfe Ihrer assetID kundenspezifische Bestellungen in [Auftragsberichte.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order)
+
+      - Überprüfen Sie den Kundenkanal für Ihr Kundenabonnement im [Kundenbericht](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer).
+
+      - Bei Unternehmenskunden werden die Einnahmen des Herausgebers 1 bis 2 Tage nach dem Bestelldatum in der Anweisung angezeigt.
+
+      - Bei Nicht-Unternehmenskunden werden die Einnahmen des Herausgebers 1 bis 2 Tage nach dem Zahlungseingang des Kunden in der Rechnung angezeigt.
+
+
+      **Weitere Informationen:** [Auszahlungsauszahlungen,](payout-statement.md) [Dashboard "Bestellungen" in Analysen für den kommerziellen Marketplace](/azure/marketplace/partner-center-portal/orders-dashboard)
+- name: Zahlungen und Anpassungen
+  questions:
+  - question: >
+      Warum fehlt meine Zahlung?
+    answer: >
+      - Stellen Sie sicher, dass ihr Auszahlungsstatus und Ihr Steuerprofilstatus *auf der* Übersichtsseite als gültig [angezeigt werden.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)
+
+      - Unter Umständen haben Sie den Mindestwert für eine Zahlung nicht erreicht. Einnahmen müssen mindestens eine Höhe von 50 US-Dollar haben, damit Sie eine Zahlung erhalten können.
+  - question: >
+      Gewusst wie ich mein Konto so festlegen, dass es keine Zahlung erhält?
+    answer: >
+      Sie können Zahlungen im [Auszahlungsprofil leisten.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) Aktivieren Sie hierzu  Die Zurücksetzung, und Microsoft wird die Zahlung an Sie zurückhalten, bis Sie die Zurücksetzung wieder aktivieren.
+  - question: >
+      Warum erhalte ich die Zahlung in einer anderen Währung als der beim Kauf verwendeten Währung?
+    answer: >
+      Die Währung der Auszahlung basiert auf der Währung, die Sie im Auszahlungsprofil ausgewählt haben. Die Währung des Kaufs basiert auf der Währung, in der der Kunde die Zahlung geleistet hat.
+  - question: >
+      Wie kann ich Anpassungen abstimmen?
+    answer: >
+      Bei Zahlungsanpassungen handelt es sich um Korrekturen von Zahlungen, um beispielsweise bei Systemproblemen einen Ausgleich vornehmen zu können. Im Auszahlungsauszug gibt ReasonCode den Grund für die Anpassung an. Diese sollen nicht direkt mit einzelnen Transaktionen abgestimmt werden.
+
+
+      **Weitere Informationen:** [Kommerzieller Marketplace Publisher-](/legal/marketplace/msft-publisher-agreement) [und](payout-policy-details.md)Auszahlungsrichtlinie, [Steuerdetails,](tax-details-marketplace.md)Zahlungsschwellenwert, Methode [und Zeitrahmen](payment-thresholds-methods-timeframes.md)
+- name: Steuern
+  questions:
+  - question: >
+      Wie können wir anhand des Auszahlungsauszugs die Steuerzahlungszuständigkeit (Microsoft oder Herausgeber) ermitteln?
+    answer: >
+      Suchen Sie im heruntergeladenen Transaktionsverlauf nach der Spalte für das Steuermodell. Dort sehen Sie, ob die Verwaltung durch Microsoft oder durch den unabhängigen Softwarehersteller erfolgt. Länderspezifische Steuerregeln und Auswirkungen auf die Auszahlung finden Sie in den [Steuerdetails](tax-details-marketplace.md).
+  - question: >
+      Wie kann ich Formulare für die Steuer auf Servicegebühren herunterladen?
+    answer: >
+      Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Für Zahlungen mit Steuer auf Servicegebühren wird ein Link zum entsprechenden Steuerformular angezeigt.
+  - question: >
+      Wo finde ich die Steuerformulare für das Jahresende?
+    answer: >
+      Navigieren Sie zur [Profilseite](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage), um die Steuerformulare für das Jahresende anzuzeigen.
+  - question: >
+      Wo finde ich die Quellensteuer für eine Transaktion?
+    answer: >
+      Die Quellensteuer ist für US-amerikanische Herausgeber relevant, die ein W-9-Formular eingereicht haben. Die Quellensteuer wird für eine monatliche Zahlung berechnet.
+
+
+      **Weitere Informationen:** [Kommerzieller Marketplace Publisher Vereinbarung,](/legal/marketplace/msft-publisher-agreement) [Details zur Auszahlungsrichtlinie](payout-policy-details.md)
+- name: Zugriff auf Auszahlungsauszug
+  questions:
+  - question: >
+      Wie kann ich auf einen Auszahlungsauszug zugreifen?
+    answer: "1. Überprüfen Sie Ihre Rollen. Für den Zugriff auf den Auszahlungsauszug müssen Sie über die Rolle *Mitwirkender im Finanzbereich* oder *Kontobesitzer* verfügen.\n2. Wählen Sie im Navigationsbereich oben rechts das **Auszahlungssymbol** aus, um Ihren Auszahlungsauszug anzuzeigen. Wählen Sie zwischen **Transaktionsverlauf,** **Zahlung** und **Herunterladen** aus.\n\n**Weitere Informationen:** [Auszahlungsrollen und -berechtigungen,](payout-statement.md#roles-and-permissions) [Auszahlungsanweisungen](payout-statement.md) \n"
+- name: Auszahlungsauszugsbericht
+  questions:
+  - question: >
+      Was bedeuten die einzelnen Felder im Download des Transaktionsverlaufs?
+    answer: >
+      Eine ausführliche Liste der Attribute und deren Bedeutungen finden Sie unter [Auszahlungsanweisungen.](payout-statement.md)
+  - question: >
+      Was ist der Einnahmenstatus?
+    answer: >
+      Dadurch werden Ihre Einnahmen entweder als nicht verarbeitet, verarbeitet oder gesendet angezeigt.
+
+
+      - **Nicht verarbeitet:** Die Einnahmen befinden sich in einem Zeitraum bis zum Fälligkeitsdatum.
+
+      - **Verarbeitet:** Die Einnahmen sind ausgereift und werden zu einer monatlichen Zahlung vorbereitet. Zahlungen werden am 15. jedes Monats freigegeben.
+
+      - **Gesendet:** Die Zahlung wurde basierend auf Ihrem Auszahlungsprofil erfolgreich an Ihre Bank freigegeben.
+  - question: >
+      Wie kann ich Formulare für die Steuer auf Servicegebühren herunterladen?
+    answer: >
+      Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Für Zahlungen mit Steuer auf Servicegebühren wird ein Link zum entsprechenden Steuerformular angezeigt.
+  - question: >
+      Gewusst wie ein Formular zur Quellensteuer als PDF-Datei herunterladen?
+    answer: >
+      Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Neben einer Zahlung wird ein Link zu einem Quellensteuerformular angezeigt. Ein Formular zur Quellensteuer gilt nur für ausgewählte Incentiveprogramme, nicht für eine Auszahlung im kommerziellen Marketplace.
+  - question: >
+      Wo finde ich die Steuerformulare für das Jahresende?
+    answer: >
+      Navigieren Sie zur [Profilseite](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage), um die Steuerformulare für das Jahresende anzuzeigen.
+
+
+      **Weitere Informationen:** [Auszahlungsanweisungen,](payout-statement.md) [Download des Transaktionsverlaufs](payout-statement.md#transaction-history-download)
+- name: Historische Auszüge
+  questions:
+  - question: >
+      Gewusst wie Verlaufsinformationen anzeigen?
+    answer: >
+      Der historische Auszug zeigt die Momentaufnahme der Auszahlungsdaten von Oktober 2019. Leider werden die Auszahlungsinformationen hier nicht aktualisiert. Um die neuesten Informationen zu erhalten, übermitteln Sie ein Supportticket für die neuesten Daten.
+
+
+      **Weitere Informationen:** [Auszahlungsanweisungen,](payout-statement.md) [Download des Transaktionsverlaufs](payout-statement.md#transaction-history-download)
+- name: Auszahlungsexport-API
+  questions:
+  - question: >
+      Wie lade ich Auszahlungsdaten herunter?
+    answer: >
+      Verwenden Sie die [Partnerauszahlungs-API.](https://apidocs.microsoft.com/services/partnerpayouts)
+- name: Auszahlungsrichtlinien für den kommerziellen Marketplace
+  questions:
+  - question: >
+      Wie kann ich die aktuelle Agenturgebühr und die Auszahlungsrate ermitteln?
+    answer: >
+      - Sehen Sie in der Herausgebervereinbarung für den kommerziellen Marketplace nach. Standardmäßig hat die Agenturgebühr eine Höhe von 20 %. Für saaS-Co-Selling-berechtigte Transaktionen fällt eine rabattierte Gebühr von 10 % an. Achten Sie auf Ankündigungen zu Angeboten in Bezug auf die Agenturgebühr.
+
+      - In Ihrem Auszahlungsauszug gibt der Einnahmensatz den tatsächlichen Auszahlungssatz für eine bestimmte Transaktion an.
+  - question: >
+      Wann kann ich eine Zahlung von Microsoft erwarten, nachdem in meinem Auszug Einnahmen angezeigt werden?
+    answer: >
+      - Wenn Ihre Einnahmen den Status „Nicht verarbeitet“ aufweisen, können Sie das Datum der Auszahlungsbereitschaft für den Monat überprüfen, in dem Ihre Einnahmen für die Zahlung verarbeitet werden. Sobald Ihre Zahlung vorbereitet ist, ändert sich Ihr Einnahmenstatus in "verarbeitet".  Microsoft gibt die Zahlungen jeweils am 15. des Monats frei, in dem diese die Auszahlungsbereitschaft erreichen.
+
+      - Bei Bestellungen, die per Kreditkarte bezahlt werden, behält Microsoft Zahlungen 30 Tage lang bei, bis die Einnahmen gereift sind.
+
+       **Weitere Informationen:** [Kommerzieller Marketplace Publisher Vereinbarung,](/legal/marketplace/msft-publisher-agreement) [Auszahlungsrichtliniendetails,](payout-policy-details.md) [Steuerdetails,](tax-details-marketplace.md) [Zahlungsschwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md)
+additionalContent: "\n## <a name=\"next-steps\"></a>Nächste Schritte\n\n- [Bezahlung](marketplace-get-paid.md)\n- [Einrichten von Auszahlungskonten und Steuerformularen](set-up-your-payout-account.md)"

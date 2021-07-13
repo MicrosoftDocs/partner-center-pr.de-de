@@ -9,23 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 1bc7973c3970d7c7258ab8645c72570b09d698e1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924961"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277113"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure
 
-**Geeignete Rollen**
-
-- Administrator-Agent
-- Abrechnungsadministrator
-- Globaler Administrator
-- Helpdesk-Agent
-- Vertriebsbeauftragter
-- Benutzerverwaltungsadministrator
+**Geeignete Rollen**: Administrator-Agent| Abrechnungsadministrator| Globaler Administrator | Helpdesk-Agent | Vertriebsbeauftragter | Benutzerverwaltungsadministrator
 
 Die Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP ist im Partner Center veröffentlicht. Die Preisliste wird dynamisch in einer exakten Echtzeitdatei bereitgestellt, und die Preise werden nur in USD angezeigt. Ab dem 28. Januar 2021 erfolgt für Partner in der Region der EU/EFTA und des Vereinigten Königreichs, die neue Kunden und CSP-Bestandskunden haben, welche zum ersten Mal neue E-Commerce-Angebote erwerben und deren Mandanten vor dem 11. Mai 2020 erstellt wurden, die Abrechnung für diese Käufe in der Währung am Standort des Partners.  Für Partner außerhalb der Region der EU/EFTA und des Vereinigten Königreichs erfolgt die Abrechnung weiterhin in der Währung am Standort des Partners. Lesen Sie dazu [Azure-Plan: Abrechnung](azure-plan-billing.md).
 
@@ -42,7 +35,7 @@ Die Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP ist im 
 
 4. Wählen Sie neben **Preise für Datum** das gewünschte Datum aus, beispielsweise **Aktuell**.
 
-   :::image type="content" source="images/azure/pricingnew.png" alt-text="Landesspezifisch":::
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="Landesspezifisch.":::
 
 >[!NOTE] 
 >Sie können zwei verschiedene Preislisten exportieren: Preise für Azure-Pläne und Drittanbieter-Preise für Marketplace.
@@ -97,7 +90,7 @@ Einige Dienste für die Nutzung von Azure-Plänen unterstützen mehrstufige Prei
 |**ProductId**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
 |DDD123456ABC|01AB|0,50|100001|9223372036854780000|
-|DDD123456ABC|01AB|0,80|101|100000|
+|DDD123456ABC|01AB|0,80|101|100.000|
 |DDD123456ABC|01AB|1|1|100|
 
 Wenn in diesem Beispiel 101 Einheiten verwendet werden, würde die Gebühr 100,80 betragen. Die ersten 100 Einheiten werden jeweils als eine Einheit und die nächste Einheit mit 0,80 berechnet.

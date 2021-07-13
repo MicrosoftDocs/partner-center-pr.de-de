@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855674"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551672"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Verlängern von MPN-Angeboten für Kompetenzen und erweiterte Spezialisierungen während des Verlängerungszeitraums
 
@@ -40,7 +40,7 @@ Wenn Sie Ihr Abonnement innerhalb des Zeitfensters verlängern, liegt der neue J
 
 4. Um dieses Angebot nutzen zu können, navigieren Sie zu **Mitgliedschaftsangebote**. Sie müssen möglicherweise die Kompetenzgebühr bezahlen, um den Vorgang abzuschließen, je nach dem Status des Kaufs bzw. der Verlängerung Ihrer Kompetenz.
 
-Um die Erweiterung zu nutzen, müssen Sie Ihre Mitgliedschaft aus dem Partner Membership Center (PMC) in das Partner Center verschoben haben, um ihre Kompetenz zu verlängern und die Gebühr zu bezahlen. Wenn Sie Ihre Mitgliedschaft nicht verschoben haben, können Sie noch heute [mehr erfahren](prepare-pmc-pc-migration.md) und die [Umstellung durchführen](https://partners.microsoft.com/partnerprogram/Welcome.aspx).  
+Um die Erweiterung zu nutzen, müssen Sie Ihre Mitgliedschaft aus dem Partner Membership Center (PMC) in das Partner Center verschoben haben, um ihre Kompetenz zu verlängern und die Gebühr zu bezahlen. Wenn Sie Ihre Mitgliedschaft nicht verschoben haben, können Sie noch heute [mehr erfahren](partner-membership-center-retirement-faq.md) und die [Umstellung durchführen](https://partners.microsoft.com/partnerprogram/Welcome.aspx).  
 
 ## <a name="next-steps"></a>Nächste Schritte
 

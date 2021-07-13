@@ -9,18 +9,16 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: fc263c617a6a26872604970a42eb100708062fed
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441267"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276619"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm
 
-**Geeignete Rollen**
-
-- Globaler Administrator
+**Geeignete Rollen**: Globaler Administrator
 
 Die Microsoft Partner-Vereinbarung bietet Microsoft-Partnern eine einheitliche, digital akzeptierbare Partnervereinbarung. Die Microsoft Partner-Vereinbarung enthält eine Reihe unbefristeter Bestimmungen, mit denen Microsoft, Partner und Kunden Datenschutz, Datensicherheit und Compliance unterstützen und solide Geschäftspraktiken fördern können.
 
@@ -77,12 +75,12 @@ Denken Sie daran, den CSP-Partnerschaftsantrag mit Ihrem indirekten Anbieter zu 
 
 1. Wenn Sie die **Microsoft Partner-Vereinbarung** vor der Unterzeichnung anzeigen und herunterladen möchten, wählen Sie wie unten gezeigt den Link für die Microsoft Partner-Vereinbarung aus.
 
-:::image type="content" source="images/agreement-three.png" alt-text="Neue Position der MPA-Vereinbarung":::
+:::image type="content" source="images/agreement-three.png" alt-text="Neue Speicherort der MPA-Vereinbarung.":::
 
 >[!NOTE]
 >Wenn der Link **Microsoft Partner-Vereinbarung** nicht angezeigt wird, überprüfen Sie Ihre Rolle im Partner Center. Nur globale Administratoren im CSP-Mandanten können die MPA im Partner Center anzeigen und unterzeichnen. Zum Überprüfen Ihrer Rolle wechseln Sie zu **Benutzerverwaltung**, und stellen Sie fest, ob das angemeldete Konto als **Globaler Administrator** gekennzeichnet ist. Andernfalls kann dieses Konto nicht zum Unterzeichnen der MPA verwendet werden. Auf der Seite „Benutzerverwaltung“ können Sie nach globalen Administratoren in Ihrem Unternehmen suchen.
 
-:::image type="content" source="images/user-management-clean.png" alt-text="Suchen nach Ihrer Rolle":::
+:::image type="content" source="images/user-management-clean.png" alt-text="So finden Sie Ihre Rolle.":::
 
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Überprüfen, ob Sie die MPA unterzeichnet haben
 
@@ -91,14 +89,14 @@ So überprüfen Sie, ob Sie die MPA unterzeichnet haben:
  Wechseln Sie als globaler Administrator für Ihr Unternehmen zur [CSP-Übersicht](https://partner.microsoft.com/pcv/dashboard/overview), und überprüfen Sie, ob das grüne Banner angezeigt wird, das bestätigt, dass Sie die MPA akzeptiert haben.
 
  
-:::image type="content" source="images/banner-boxed.png" alt-text="Grünes Banner, das die Annahme der MPA bestätigt":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Grünes Banner, das die Annahme der MPA bestätigt.":::
 
 >[!NOTE]
 >Nur der globale Administrator in Ihrem Unternehmen kann die MPA anzeigen und unterzeichnen. Wenn Sie nicht der globale Administrator sind, müssen Sie Ihren globalen Administrator bitten, die MPA zu überprüfen.
 
 Sie können auch feststellen, ob Sie die Vereinbarung unterzeichnet haben, indem Sie unter **Kontoeinstellungen** die Option **Vereinbarungen** auswählen.
 
-:::image type="content" source="images/agreement-new.png" alt-text="Angabe, dass die MPA unterzeichnet wurde":::
+:::image type="content" source="images/agreement-new.png" alt-text="Anzeige, dass die MPA unterzeichnet wurde.":::
 
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Herunterladen der entsprechenden schrittweisen Anleitung für die jeweilige Phase des MPA-Unterzeichnungsvorgangs

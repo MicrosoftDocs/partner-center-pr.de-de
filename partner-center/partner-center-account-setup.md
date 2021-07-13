@@ -9,19 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740385"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277707"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofil, Bankdetails, Rollen, Berechtigungen und mehr
 
-**Geeignete Rollen** 
-
-- Globaler Administrator
-- Kontoadministrator
+**Geeignete Rollen**: Globaler Administrator | Kontoadministrator
 
 Das Konto, das Sie bei der Registrierung in Partner Center erstellen, besteht aus Ihrer geschäftlichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto erstellt haben, müssen Sie die Einrichtung des vollständigen Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Konto Ihres Unternehmens enthält auch Benutzerkonten für alle Personen in Ihrem Team, die Partner Center verwenden. Zu deren Aufgaben zählen u. a. das Hinzufügen oder Verwalten von Kunden, das Verkaufen von Abonnements, das Arbeiten mit Abrechnung und Fakturierung, das Erstellen von Geschäftsprofilen, das Verwalten von Empfehlungen, das Arbeiten mit Incentiveprogrammen, das Bereitstellen von Support usw.
 
@@ -34,7 +31,7 @@ Weitere Informationen finden Sie auch in den Artikeln [Einladen von Mitarbeitern
 
 Alle kommerziellen und Entwicklungspartner greifen auf die **Kontoverwaltung** in Partner Center zu, indem sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) anmelden und dann die Option **Einstellungen** (das Zahnradsymbol) in der oberen rechten Ecke des Bildschirms und anschließend **Kontoeinstellungen** auswählen. Sie müssen nicht mehr zwischen Partner- und Entwicklereinstellungen wählen. Alle Profile und Einstellungen sind nun kombiniert.
 
-:::image type="content" source="images/accountsettings/opening.png" alt-text="Symbol „Einstellungen“":::
+:::image type="content" source="images/accountsettings/opening.png" alt-text="Symboleinstellungen.":::
 
 Die Seite mit Kontoeinstellungen wird angezeigt.
 
@@ -48,7 +45,7 @@ Unabhängig davon, ob Sie ein Partner oder ein Entwickler sind, verwenden Sie Ih
 
 Wenn Sie das Symbol **Einstellungen** auswählen und das Menü **Kontoeinstellungen** öffnen und Ihr Unternehmen am Cloud Solution Provider-Programm teilnimmt, wird die Standardansicht **Rechtliche Hinweise** mit den beiden Registerkarten **Partner** und **Wiederverkäufer** angezeigt. Jede Registerkarte enthält Aspekte Ihres Unternehmens.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menü mit den Registerkarten für Partner und Wiederverkäufer":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menü mit den Registerkarten für Partner und Handelspartner.":::
 
 Auf der Registerkarte „Partner“ werden alle offiziellen Geschäftsinformationen, z. B. der registrierte rechtliche Name und die Adresse für Ihr Unternehmen, sowie der Hauptansprechpartner und die Geschäftsstandorte angezeigt. Die Registerkarte „Wiederverkäufer“ für Partner, die CSP-Geschäfte tätigen, umfasst das **Kundensupportprofil**.
 
@@ -58,7 +55,7 @@ Wenn Ihr Unternehmen nicht am CSP-Programm teilnimmt, wird in der Standardansich
 
 Sie können mehr als einem Konto angehören. Wenn im linken Navigationsmenü die „Kontoauswahl“ angezeigt wird, können Sie überprüfen, ob Sie mehreren Konten angehören.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Erkennen der Kontoauswahl":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Identifizieren der Kontoauswahl.":::
 
 Wenn die Kontoauswahl nicht angezeigt wird, gehören Sie nur einem Konto an. 
 
@@ -66,7 +63,7 @@ Wenn Sie auf diese Auswahl klicken, werden alle Konten, denen Sie angehören, in
 
 Im folgenden Beispiel gehört der angemeldete Benutzer den drei hervorgehobenen Konten an. Der Benutzer kann durch Klicken zwischen den einzelnen Konten wechseln.
 
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Konten, denen Sie angehören":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Konten, denen Sie angehören.":::
 
 ## <a name="organization-profile"></a>Organisationsprofil
 

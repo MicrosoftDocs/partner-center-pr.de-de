@@ -9,20 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 74595843e4aaf2fe0e92fb92d417343dd7e4b81d
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534742"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013300"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Einführung: Mit dem Azure-Plan können Partner Azure zu nutzungsbasierten Tarifen für Kunden erwerben.
 
-**Geeignete Rollen**
+**Gilt für**: Partner Center
 
-- Administrator-Agent
-- Vertriebsbeauftragter
-- Globaler Administrator
+**Geeignete Rollen:** Administrator-Agent | Vertriebsbeauftragter | Globaler Administrator
 
 Microsoft hat mit dem Azure-Plan eine neue Commerce-Oberfläche im Partner Center eingeführt.  Mit dieser neuen Commerce-Funktionalität erhalten die Partner Zugriff auf Azure-Dienste zu nutzungsbasierten Tarifen im Rahmen des Microsoft-Kundenvertrags.
 

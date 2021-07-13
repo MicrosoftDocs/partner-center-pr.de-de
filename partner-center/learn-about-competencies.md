@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
+ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178866"
+ms.lasthandoff: 06/28/2021
+ms.locfileid: "112989341"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Das Unternehmen durch den Erwerb von Microsoft-Kompetenzen differenzieren
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
+**Geeignete Rollen**: Globaler Administrator | Benutzerverwaltungsadministrator
 
 Demonstrieren Sie Ihr Fachwissen bei der Bereitstellung von Qualitätslösungen in mindestens einem speziellen Geschäftsbereich. Microsoft-Kompetenzen dienen zur Vorbereitung auf die Erfüllung der Kundenanforderungen. Mit ihnen kannst du neue Kunden gewinnen, die einen Microsoft-zertifizierten Lösungsanbieter suchen. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab.
 
@@ -74,4 +71,4 @@ Weitere Informationen zu den Anforderungen für den Erwerb von Silver- und Gold-
 
 - Sehen Sie sich einen [Bericht zu Kompetenzen](pci-competencies-report.md) in Partner Center Insights an, der den aktuellen Status Ihrer Kompetenzen angibt.
 
-- Erhalten Sie Antworten auf [häufig gestellte Fragen](competencies-faq.md) zu Kompetenzen.
+- Erhalten Sie Antworten auf [häufig gestellte Fragen](competencies-faq.yml) zu Kompetenzen.

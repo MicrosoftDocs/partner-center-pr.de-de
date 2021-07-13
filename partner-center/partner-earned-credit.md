@@ -9,22 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: dad2a3a8f60135093c632466577a3e884daea715
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086531"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152612"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Vom Partner erworbenes Guthaben – Übersicht über die Funktionsweise in der neuen E-Commerce-Oberfläche im CSP-Programm
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
-- Administrator-Agent
-- Abrechnungsadministrator
-- Vertriebsbeauftragter
+**Geeignete Rollen**: Globaler Administrator | Benutzerverwaltungsadministrator | Administrator-Agent | Abrechnungsadministrator| Vertriebsbeauftragter
 
 Das vom Partner erworbene Guthaben stellt in der neuen E-Commerce-Oberfläche von CSP ein Geschäftsmodell dar, das eine vereinfachte, einheitliche Azure-Preisgestaltung für die Go-To-Market-Mechanismen von Microsoft ermöglicht und zugleich ein Partner-Ökosystem fördert, das verwaltete Mehrwertdienste anbietet. Eine von Partnern erworbene Gutschrift hilft außerdem, Wettbewerb um die Marge zu beseitigen.
 

@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9fe1d894ec933072a64f2abdfbb795b6ef046168
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086361"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276007"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten
 
-**Geeignete Rollen**
-
-- Administrator-Agent
-- Vertriebsbeauftragter
-- Helpdesk-Agent
-- Abrechnungsadministrator
-- Globaler Administrator
+**Geeignete Rollen:** Administrator-Agent | Vertriebsbeauftragter| | Helpdesk-Agent| Abrechnungs-Agent | Globaler Administrator
 
 Dieser Artikel enthält ausführliche Beispiele und Anleitungen für das Festlegen der mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA) im Partner Center. Diese Funktion soll Partnern helfen, ihren Zugriff auf Kundenressourcen vor Kompromittierungen von Anmeldeinformationen zu schützen. Partner sind verpflichtet, MFA für alle Benutzerkonten in ihrem Partnermandanten durchzusetzen. Dazu gehören auch Gastbenutzer. Benutzer müssen die MFA-Überprüfung für die folgenden Bereiche durchführen:
 
@@ -184,11 +178,11 @@ Alle Partneranwendungen, die in diese APIs mit vom Partner delegierten Verwaltun
 
 Wenn das Partnerbenutzerkonto noch nicht für MFA registriert wurde, wird der Benutzer während der MFA-Überprüfung zunächst von Azure AD aufgefordert, die MFA-Registrierung abzuschließen:
 
-:::image type="content" source="images/MfaRegistration1.png" alt-text="MFA-Registrierung, Schritt 1":::
+:::image type="content" source="images/MfaRegistration1.png" alt-text="MFA-Registrierung, Schritt 1.":::
 
 Nachdem der Benutzer auf **Weiter** geklickt hat, wird er aufgefordert, aus einer Liste von Überprüfungsmethoden auszuwählen.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA-Registrierung, Schritt 2":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA-Registrierung, Schritt 2.":::
 
 Nach erfolgreicher Registrierung muss der Benutzer die MFA-Überprüfung basierend auf der vom Benutzer ausgewählten Überprüfungsmethode durchführen.
  

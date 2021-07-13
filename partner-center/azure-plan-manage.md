@@ -9,18 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: a885d8bbbd7541e199365a7c732aba0b67128053
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534929"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277146"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Verwalten von Abonnements und Ressourcen in einem Azure-Plan
 
-**Geeignete Rollen**
-
-- Administrator-Agent
+**Geeignete Rollen**: Administrator-Agent
 
 
 In diesem Artikel wird erläutert, wie CSP-Partner mithilfe der verschiedenen Optionen für die rollenbasierte Zugriffssteuerung (Role-Based Access Control, RBAC) die operative Kontrolle und Verwaltung der Azure-Ressourcen eines Kunden erreichen. Wenn Sie einen Kunden auf den Azure-Plan umstellen, werden Ihnen standardmäßig privilegierte Administratorrechte in Azure zugewiesen (Abonnementbesitzerrechte im Auftrag, die durch den Administrator wahrgenommen werden).
@@ -38,7 +36,7 @@ In diesem Artikel wird erläutert, wie CSP-Partner mithilfe der verschiedenen Op
 
 Microsoft empfiehlt als Sicherheitsmaßnahme, dass Benutzer nur über die Minimalberechtigungen verfügen, die sie zum Durchführen ihrer Arbeit benötigen. Weitere Informationen erhalten Sie unter [Ressourcen für das Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 
-## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Verknüpfen Sie Ihre Partner-ID (MPN ID) mit Ihren Anmeldeinformationen, um die Azure-Ressourcen von Kunden zu verwalten
+## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>Verknüpfen Sie Ihre Partner-ID (MPN ID) mit Ihren Anmeldeinformationen, um die Azure-Ressourcen von Kunden zu verwalten
 
 Die folgende Tabelle zeigt die Methoden. die verwendet werden, um Ihre Partner-ID den verschiedenen RBAC-Zugriffsoptionen zuzuordnen.
 
@@ -61,11 +59,11 @@ Sie benötigen Administratorzugriff, um die Dienste Ihres Kunden zu verwalten un
 
 1. Erstellen einer Warnmeldung.
 
-   :::image type="content" source="images/azure/azurealert1.png" alt-text="Azure-Warnmeldung":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Azure-Warnmeldung.":::
 
-2. Wählen Sie die Art der Aktion aus, die die Warnmeldung ausführen soll. Wenn Sie beispielsweise angeben, dass Sie eine E-Mail erhalten möchten, empfangen Sie eine E-Mail, die Sie benachrichtigt, falls Löschungen von Rollenzuweisungen auftreten.
+2. Wählen Sie den Typ der Aktion aus, die von der Warnung ausgeführt werden soll. Wenn Sie z. B. angeben, dass Sie eine E-Mail erhalten möchten, werden Sie per E-Mail benachrichtigt, wenn eine Rollenzuweisung gelöscht wird.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Konfigurieren der Warnmeldung":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Konfigurieren der Warnmeldung.":::
 
 ### <a name="aobo-removal"></a>AOBO-Entfernung
 

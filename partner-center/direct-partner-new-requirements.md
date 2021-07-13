@@ -9,18 +9,16 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 9fd4156c25cbdbdfa86cabf9f3bb805d95481e17
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 7ceba7e72b78b5bedb89209105c3819f90cf8153
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740317"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147155"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Anforderungen für die Registrierung als CSP-Partner mit direkter Abrechnung
 
-**Geeignete Rollen**
-
-- Globaler Administrator
+**Geeignete Rollen**: Globaler Administrator
 
 ## <a name="enroll-as-a-direct-partner"></a>Registrieren als direkter Partner
 
@@ -33,7 +31,7 @@ Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihre
 |**MPN-ID**   |Eine aktive Mitgliedschaft im Microsoft Partner Network und eine MPN-ID für den Standort, an dem Sie Produkte vertreiben möchten.   |
 |**Zustimmung**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Namen Ihres Unternehmens|
 |**Support**   |Die Fähigkeit, Ihren Kunden Cloud-Produktunterstützung der ersten Ebene zu bieten. <br/>Ein Microsoft-Supportplan, entweder Erweiterter Support für Partner (Advanced Support for Partners, ASfP) oder Premiumsupport für Partner (Premier Support for Partners, PSfP). [Supportpläne vergleichen](https://partner.microsoft.com/support/partnersupport).<br/>WICHTIG: Sie müssen vor dem Erwerb eines Supportplans eine Bonitätsprüfung bestehen. Wir benachrichtigen Sie per E-Mail, wenn Sie die Bonitätsprüfung bestanden haben. |
-|**Umsatzanforderung**|Sie müssen in den vorangegangenen zwölf Monaten als indirekter Vertriebspartner einen Jahresumsatz von mindestens 300.000 USD im Rahmen des Cloud Solution Provider-Programms aufweisen. Vergewissern Sie sich, dass Ihre Organisation die Umsatzanforderung in [Partner Center Analytics](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) erfüllt. Partner können ihren Umsatz in den letzten zwölf Monaten in Partner Center überprüfen.<br/>Die Verkäufe, aus denen sich Ihr Umsatz von 300.000 USD in den letzten zwölf Monaten ergibt, werden von Microsoft geprüft, und Sie werden möglicherweise um zusätzliche Informationen gebeten. Die Umsatzanforderung von 300.000 USD wird auf Grundlage des Cloudumsatzes berechnet und schließt unbefristete Software in CSP aus.|
+|**Umsatzanforderung**|Sie müssen in den vorangegangenen zwölf Monaten als indirekter Vertriebspartner einen Jahresumsatz von mindestens 300.000 USD im Rahmen des Cloud Solution Provider-Programms aufweisen. Überprüfen Sie in [Partner Center Analytics](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf), ob Ihr Unternehmen die Umsatzanforderungen erfüllt. Partner können ihren Umsatz in den letzten zwölf Monaten im Partner Center überprüfen.<br/>Die Verkäufe, aus denen sich Ihr Umsatz von 300.000 USD in den letzten zwölf Monaten ergibt, werden von Microsoft geprüft, und Sie werden möglicherweise um zusätzliche Informationen gebeten. Die Umsatzanforderung von 300.000 USD wird auf Grundlage des Cloudumsatzes berechnet und schließt unbefristete Software in CSP aus.|
 |**CSP-Anforderung**|Sie müssen mindestens zwölf Monate lang Transaktionen als indirekter Wiederverkäufer ausführen.| 
 |**Debitoren** |Infrastruktur zur Verwaltung der Kundenabrechnung und -bereitstellung|
 |**Empfehlung**|             |

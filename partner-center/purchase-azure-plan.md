@@ -9,14 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e0a5626c4c1efd5eb07a8e948694b84d48b66f3b
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854960"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013334"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Erwerben Sie den Azure-Plan für Kunden und greifen Sie auf die neuesten Azure-Dienste zu nutzungsbasierten Tarifen zu.
+
+**Gilt für**: Partner Center 
 
 **Geeignete Rollen**: Globaler Administrator | Benutzerverwaltungsadministrator | Vertriebsbeauftragter
 
@@ -31,9 +33,9 @@ Für die neue Commerce-Benutzeroberfläche in CSP für Azure ist aktuell Verfüg
 Der Erwerb eines Azure-Plans ähnelt dem Erwerb eines beliebigen anderen Abonnements. Der Hauptunterschied besteht darin, dass Sie vor der eigentlichen Bestellung bestätigen müssen, dass Ihr Kunde den Microsoft-Kundenvertrag unterzeichnet hat.
 
 1. Wählen Sie **Segment: gewerblich** aus, und geben Sie **Microsoft Azure** ein 
-2. Wählen Sie unter Azure-Plan **In den Warenkorb** aus
+2. Wählen Sie unter Azure-Plan **In den Warenkorb legen** aus
 
-:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Kauf":::
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Kauf.":::
 
 Der Partner muss bestätigen, dass der Kunde die Geschäftsbedingungen des Microsoft Kundenvertrags gelesen und ihnen zugestimmt hat. Weitere Informationen, wie der Partner dies sicherstellen kann, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](confirm-customer-agreement.md). Weitere Ressourcen stehen im [Ressourcenkatalog](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/) zur Verfügung.
 
@@ -78,7 +80,7 @@ Azure-Reservierungen müssen einem aktiven Azure-Abonnement zugeordnet werden. W
 >[!Note]
 >Der Umfang einer Reservierung kann im Partner Center derzeit nur auf **Freigegeben** festgelegt werden. Um den Umfang eines Einzelabonnements auszuwählen oder den Umfang von einem freigegebenen Abonnement in ein Einzelabonnement zu aktualisieren, navigieren Sie wie nachfolgend beschrieben zum **Microsoft Azure-Verwaltungsportal**. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Einstellung „Freigegeben“ für den Umfang der Reservierungen":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Gemeinsamer Anwendungsbereich „Einstellung Reservierungen“.":::
 
 So verwalten Sie die Reservierung des Kunden im Azure-Portal: 
 
@@ -90,7 +92,7 @@ So verwalten Sie die Reservierung des Kunden im Azure-Portal:
 
 Erweitern Sie auf der Seite **Abonnements** im Abschnitt für nutzungsbasierte Angaben **Azure-Plan**, um die zugeordneten Azure-Abonnements unter dem Azure-Plan anzuzeigen.
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="Anzeigen der Liste mit Azure-Abonnements"::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Anzeigen der Liste mit Azure-Abonnements."::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Hinzufügen von Abonnements und Konfigurieren von Ressourcen

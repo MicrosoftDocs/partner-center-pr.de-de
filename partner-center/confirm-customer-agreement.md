@@ -9,19 +9,16 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: ebb52a3a8223d3b1101e3a8e78728fcc167e25e3
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 9deebf3d9aab2d4dc7953da67a7eb17078b3d30c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633777"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277010"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Bestätigen, dass Ihr Kunde die Microsoft-Kundenvereinbarung für das CSP-Programm akzeptiert hat
 
-**Geeignete Rollen**
-
-- Administrator-Agent
-- Vertriebsbeauftragter
+**Geeignete Rollen:** Administrator-Agent | Vertriebsbeauftragter
 
 
 Kunden haben zwei Möglichkeiten, die Microsoft-Kundenvereinbarung zu akzeptieren.
@@ -54,7 +51,7 @@ Wenn Sie in Partner Center einen Mandanten für einen Neukunden erstellen, führ
 
 6. Wähle **Weiter** aus, um die Erstellung des Kundenmandanten fortzusetzen.
 
-   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="Neukunde":::  
+   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="Neukunde.":::  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>Bestätigen der Kundenzustimmung für einen Bestandskunden
 
@@ -70,7 +67,7 @@ Um die folgenden Schritte ausführen zu können, musst du Administrator-Agent od
 
 5. Wählen Sie **Speichern und fortfahren** aus.
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="Bestandskunde":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="Bestandskunde.":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Abrufen der Bestätigung der Kundenzustimmung für einen Bestandskunden
 
@@ -122,7 +119,7 @@ Mit den folgenden Schritten kannst du einen neuen Kunden im Partner Center erste
 >[!NOTE] 
 >Neue Kunden können erst einen Kauf tätigen, nachdem sie der Microsoft-Kundenvereinbarung zugestimmt haben.  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Erstellen eines neuen Kunden":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Erstellen eines neuen Kunden.":::
 
 5. Sobald im Workflow für neue Kunden der Bildschirm **Bestätigung** angezeigt wird, musst du die Anmeldeinformationen des Kunden speichern. Diese Anmeldeinformationen musst du später dem Kunden mitteilen.
 
@@ -150,7 +147,7 @@ Mit den folgenden Schritten kannst du einen neuen Kunden einladen, die Handelspa
 
 4. Verwende diese E-Mail-Vorlage, um den Kunden einzuladen, dem Antrag auf eine **Handelspartnerschaft** und der **Microsoft-Kundenvereinbarung** zuzustimmen. (Anmerkung: Achte darauf, dass der Partner in der E-Mail-Einladung auch die automatisch bereitgestellte URL und die kürzlich erstellten Kundenanmeldeinformationen angibt.)
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="Erstellen einer Beziehung":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="Erstellen einer Beziehung.":::
 
 5. Der Kunde empfängt die Einladung per E-Mail und klickt auf die parametrisierte URL. 
 
@@ -160,7 +157,7 @@ Mit den folgenden Schritten kannst du einen neuen Kunden einladen, die Handelspa
 
 8. Der Kunde kann unter derselben URL eine konsolidierte Liste verschiedener Partner anzeigen, mit denen er zusammenarbeitet. Er kann einen Partner auswählen, um Details anzuzeigen.
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="Zustimmen zur Vereinbarung":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="Annehmen einer Vereinbarung.":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Einladen eines bestehenden Kunden, die Vereinbarung zu überprüfen und ihr zuzustimmen
@@ -177,7 +174,7 @@ Mit den folgenden Schritten kannst du einen bestehenden Kunden einladen, die Mic
 
 5. Der Kunde kann unter derselben URL die konsolidierte Liste verschiedener Partner anzeigen, mit denen er zusammenarbeitet. Er kann einen Partner auswählen, um Details anzuzeigen.
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="Kunde":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="Kunde.":::
 
 >[!NOTE]
 >In bestimmten Szenarien können Kunden der Microsoft-Kundenvereinbarung u. U. nicht direkt zustimmen. Weitere Informationen zu diesen Situationen finden Sie unter „Zwei Szenarien, in denen Sie die Zustimmung im Namen Ihres Kunden bestätigen müssen“.

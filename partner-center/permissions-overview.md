@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: b1ac34bbb92d600805465ca5f6d1b28af54cd5e1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 582fdc98617be7d82c0bc61a0bf46ceb662954d3
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855130"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565082"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern im Unternehmen, die im Partner Center arbeiten müssen
 
@@ -27,7 +27,7 @@ Sie haben Ihr Partnerprofil mit gesetzlichem Namen und Adresse, Supportdetails, 
 Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über die Rollen und Berechtigungen, die Sie ihnen erteilen. Rollen beziehen sich auf die Programme, an denen Ihr Unternehmen beteiligt ist. Wenn Ihr Unternehmen beispielsweise im CSP-Bereich (Cloud Solution Provider) tätig ist, verfügen Sie nicht nur über die standardmäßigen Azure Active Directory-Rollen für die Mandantenverwaltung (z. B. „Globaler Administrator“), sondern benötigen auch spezifische Rollen für das CSP-Programm. Jedes Programm verfügt über Rollen, die spezifisch für das jeweilige Programm sind.
 
 >[!Note]
-> Zu den Azure Active Directory-Mandantenrollen gehören die Rollen „Globaler Administrator“, „Benutzeradministrator“ und „CSP“. Nicht-Azure Active Directory-Rollen sind Rollen, die keine Verwaltung des Mandanten umfassen. Dazu zählen MPN-Administratoren, Geschäftsprofiladministratoren, Administratoren für Empfehlungen sowie Incentives-Administratoren und -Benutzer. 
+> Zu den Azure Active Directory-Mandantenrollen gehören die Rollen „Globaler Administrator“, „Benutzeradministrator“ und „CSP“. Nicht-Azure Active Directory-Rollen sind Rollen, die keine Verwaltung des Mandanten umfassen. Dazu zählen MPN (Microsoft Partner Network) Partneradministratoren, Geschäftsprofiladministratoren, Administratoren für Empfehlungen sowie Incentives-Administratoren und -Benutzer. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Verwalten kommerzieller Transaktionen im Partner Center (Azure AD- und CSP-Rollen)
 
@@ -85,10 +85,10 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 
 |**Rolle**   |**Funktionsumfang**|**Weitere Informationen**|
 |------------------------------|:----------------------------|----|
-|Globaler Administrator| Anzeigen und Verwalten Ihres CPV-Profils|[Registrieren als Control Panel Vendor, um die Integration von CSP-Partnersystemen in Partner Center-APIs zu unterstützen](enroll-as-cpv.md)
+|Globaler Administrator| Anzeigen und Verwalten Ihrer CPV-Profile (Systemsteuerung Vendor)|[Registrieren als Control Panel Vendor, um die Integration von CSP-Partnersystemen in Partner Center-APIs zu unterstützen](enroll-as-cpv.md)
 ||Anzeigen und Verwalten der Benutzer, die Zugriff auf CPV Funktionen benötigen|
 
-### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>Gastbenutzer (muss dem Azure Active Directory-Mandanten hinzugefügt werden)
+### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Gastbenutzer (muss dem Azure Active Directory-Mandanten hinzugefügt werden)
 
 |**Gastbenutzer**   | **Rollen**|
 |---------------------------|:--------------------|

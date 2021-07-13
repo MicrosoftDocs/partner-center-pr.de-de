@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 309a3578edcd06770c818722f2164a4d10a945da
+ms.sourcegitcommit: 32ef8d43902357a85df420b48b0ec1d63ad073e4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502551"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "110754476"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vertreiben von Softwareabonnements über das CSP (Cloud Solution Provider)-Programm
 
-**Geeignete Rollen**
-
-- Administrator-Agent
-- Globaler Administrator
+**Geeignete Rollen**: Administrator-Agent | Globaler Administrator
 
 Durch Azure-Reservierungen und Serverabonnements können Partner im CSP-Programm die schnell wachsende Kundennachfrage nach kostengünstigeren Lösungen zur Unterstützung höchst vorhersehbarer, persistenter Cloudworkloads erfüllen. 
 
@@ -103,7 +100,7 @@ Nach dem Erwerb müssen Sie oder Ihre Kunden die Software herunterladen (Partner
 
 5. Wählen Sie **Link kopieren** aus, wenn Sie den Link zum Bits-Download an den Kunden senden möchten. 
 
-6. Sie können auch auf **Abbrechen** für die Softwarebestellung klicken, und erhalten eine Gutschrift über 100 % (falls dies innerhalb der Kündigungsfrist von 60 Tagen geschieht).
+6. Sie können auch auf **Abbrechen** für die Softwarebestellung klicken, und erhalten eine Gutschrift über 100 % (falls dies innerhalb der Kündigungsfrist von 30 Tagen geschieht).
 
 >[!NOTE]
 >Nur Kunden haben Zugriff auf die Anzeige der Product Keys und Downloadinformationen im Microsoft 365 Admin Center (globale Administratorrolle erforderlich). Partner müssen diese Informationen in Partner Center anzeigen.
@@ -129,10 +126,10 @@ Zu Überprüfungs- oder Konformitätszwecken müssen Sie möglicherweise eine Li
 
 ## <a name="cancel-a-purchase"></a>Stornieren eines Einkaufs
 
-Sie können einen Softwarekauf binnen 60 Tagen nach Kaufdatum stornieren. Wenn Sie innerhalb dieses ersten Zeitraums von 60 Tagen eine Stornierung ausführen, wird Ihnen keine Gebühr bei vorzeitiger Beendigung in Rechnung gestellt. Nach 60 Tagen kann ein Kauf nicht mehr storniert werden. (Weitere Informationen finden Sie im Hinweis zu wichtigen Einschränkungen für diese Stornierungsregel. Weitere Informationen dazu, was geschieht, nachdem Sie einen Softwarekauf storniert haben, finden Sie auch im wichtigen Hinweis nach diesen Schritten.) 
+Sie können einen Softwarekauf binnen 30 Tagen nach Kaufdatum stornieren. Wenn Sie innerhalb dieses ersten Zeitraums von 30 Tagen eine Stornierung ausführen, wird Ihnen keine Gebühr bei vorzeitiger Beendigung in Rechnung gestellt. Nach 30 Tagen kann ein Kauf nicht mehr storniert werden. (Weitere Informationen finden Sie im Hinweis zu wichtigen Einschränkungen für diese Stornierungsregel. Weitere Informationen dazu, was geschieht, nachdem Sie einen Softwarekauf storniert haben, finden Sie auch im wichtigen Hinweis nach diesen Schritten.) 
 
 >[!NOTE]
->Die folgenden Schritte zum Stornieren eines Kaufs gelten nur für Software, die innerhalb eines bestimmten Stornierungsfensters (z. B. innerhalb der ersten 60 Tage nach dem Kauf) für eine Stornierung in Frage kommt. Diese Schritte gelten auch nicht für einen SUSE Linux- oder RedHat-Softwareplan in Azure. Zurzeit können Sie einen SUSE- oder RedHat-Softwareplan nicht stornieren oder austauschen. [Weitere Informationen](/azure/virtual-machines/linux/prepay-suse-software-charges) zur Verwendung von SUSE Linux- oder RedHat-Plänen.
+>Die folgenden Schritte zum Stornieren eines Kaufs gelten nur für Software, die innerhalb eines bestimmten Stornierungsfensters (z. B. innerhalb der ersten 30 Tage nach dem Kauf) für eine Stornierung in Frage kommt. Diese Schritte gelten auch nicht für einen SUSE Linux- oder RedHat-Softwareplan in Azure. Zurzeit können Sie einen SUSE- oder RedHat-Softwareplan nicht stornieren oder austauschen. [Weitere Informationen](/azure/virtual-machines/linux/prepay-suse-software-charges) zur Verwendung von SUSE Linux- oder RedHat-Plänen.
 
 Gehen Sie folgendermaßen vor, um einen Kauf zu stornieren:
 
@@ -142,9 +139,7 @@ Gehen Sie folgendermaßen vor, um einen Kauf zu stornieren:
 1. Bevor Sie mit dem Stornierungsvorgang beginnen, stellen Sie sicher, dass Sie über die folgenden Informationen verfügen:
 
     - Name, Mandanten-GUID oder Domänenname des Kunden
-
     - Name des Produkts, das Sie stornieren möchten
-    
     - Bestellungs-ID
 
 2. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
@@ -176,7 +171,7 @@ Wenn Sie versuchen, eine Bestellung zu stornieren, werden von Partner Center mö
 
 Nach dem Stornieren eines Einkaufs:
 
-- Alle zugehörigen Softwaresschlüssel und Downloadlinks werden gesperrt. Dies bedeutet, dass weder Sie noch Ihr Kunde die Softwareschlüssel und Downloadlinks für diesen Kauf weiterhin verwenden können. Sie und Ihr Kunde sind dafür verantwortlich, die Verwendung der stornierten Software einzustellen. Außerdem sind Sie dafür verantwortlich, die stornierte Software zu deinstallieren und alle zugehörigen Softwaredownloads und -links zu entfernen.
+- Alle zugehörigen Softwaresschlüssel und Downloadlinks werden gesperrt. Diese Sperrung bedeutet, dass Sie und Ihr Kunde die Softwareschlüssel und Downloadlinks für diesen Kauf nicht mehr verwenden können. Sie und Ihr Kunde sind dafür verantwortlich, die Verwendung der stornierten Software einzustellen. Außerdem sind Sie dafür verantwortlich, die stornierte Software zu deinstallieren und alle zugehörigen Softwaredownloads und -links zu entfernen.
 
 - Das stornierte Element wird weiterhin auf der Seite „Softwaredetails“ des Kunden angezeigt, aber der Aktivierungsschlüssel ist nicht verfügbar.
 
@@ -192,14 +187,11 @@ Wenn Sie versucht haben, einen Softwarekauf über Partner Center zu stornieren, 
 
 3. Füllen Sie die Felder „Auswirkungen“ und „Titel“ aus.
 
-4. Geben Sie im Feld „Beschreibung“ Folgendes an:
+4. Geben Sie im Feld „Beschreibung“ folgende Informationen an:
 
     - Mandanten-GUID oder Domänenname des Kunden
-    
     - Auftrags- oder Abonnement-ID
-    
     - Grund für Rückerstattung
-
     - Angeforderter Betrag
 
 5. Geben Sie im Feld „Kontakt“ Ihren Namen, Ihre E-Mail-Adresse und Ihre Telefonnummer ein.

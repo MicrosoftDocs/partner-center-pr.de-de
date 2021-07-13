@@ -9,23 +9,18 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 770df3cff40b8cc51eab16fb95d0bd43967a5a69
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534810"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013266"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Umstellen von Kunden von vorhandenen CSP-Azure-Angeboten auf einen Azure-Plan
 
-**Geeignete Rollen**
+**Gilt für**: Partner Center 
 
-- Administrator-Agent
-- Abrechnungsadministrator
-- Globaler Administrator
-- Helpdesk-Agent
-- Vertriebsbeauftragter
-- Benutzerverwaltungsadministrator
+**Geeignete Rollen**: Administrator-Agent| Abrechnungsadministrator| Globaler Administrator | Helpdesk-Agent | Vertriebsbeauftragter | Benutzerverwaltungsadministrator
 
 In diesem Artikel wird erläutert, wie CSP-Partner das Partner Center nutzen können, um Kunden von vorhandenen CSP-Azure-Angeboten auf Azure-Dienste im Rahmen des Azure-Plans umstellen können. Indirekte Anbieter und direkte Abrechnungspartner können zur neuen Commerce-Benutzeroberfläche wechseln, die im Microsoft Cloud Service Provider (CSP)-Programm für Azure verfügbar ist. (Indirekte Wiederverkäufer müssen ihre indirekten Anbieter durchgehen.) Kunden bietet sich ein optimiertes Verfahren zum Kauf von Clouddiensten, gleich ob sie bei Partnern, bei Microsoft-Verkäufern oder direkt im Web kaufen.
 

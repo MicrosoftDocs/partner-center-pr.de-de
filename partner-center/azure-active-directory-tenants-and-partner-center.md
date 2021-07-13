@@ -8,20 +8,17 @@ author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.date: 11/25/2019
-ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.date: 6/17/2021
+ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534793"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112318060"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Erstellen eines Geschäftskontos, durch das Ihr Unternehmen mit Ihrem Partner Center-Konto verknüpft wird
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
+**Geeignete Rollen**: Globaler Administrator | Benutzerverwaltungsadministrator
 
 ## <a name="why-you-need-a-work-account"></a>Warum Sie ein Geschäftskonto benötigen
 
@@ -42,7 +39,7 @@ Wenn Sie nicht genau wissen, ob Ihr Unternehmen ein Geschäftskonto hat, können
 
 1. Melde dich beim [Azure-Portal](https://portal.azure.com) an.
 
-2. Wählen Sie im Menü „Azure Active Directory“ und dann „Domänennamen“ aus.
+2. Wählen Sie im Navigationsmenü „Azure Active Directory“ und dann **Benutzerdefinierter Domänenname** aus.
 
 3. Wenn Sie bereits ein Geschäftskonto haben, wird Ihr Domänenname aufgeführt.
 
